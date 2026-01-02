@@ -1,0 +1,5342 @@
+[
+  {
+    "id": "prosobonia_cancellata",
+    "name": {
+      "de": "Kiritimati-Südseeläufer",
+      "lat": "Prosobonia cancellata",
+      "en": "Kiritimati Sandpiper"
+    },
+    "last_seen": "1850er-Jahre",
+    "location": {
+      "lat": 1.82271,
+      "lng": -157.37735
+    },
+    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
+    "habitat": "Kiritimati"
+  },
+  {
+    "id": "gallirallus_hypoleucus",
+    "name": {
+      "de": "Tongatapu-Ralle",
+      "lat": "Gallirallus hypoleucus",
+      "en": "Tongatapu Rail"
+    },
+    "last_seen": "1777",
+    "location": {
+      "lat": -21.08295,
+      "lng": -175.19843
+    },
+    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
+    "habitat": "Tongatapu"
+  },
+  {
+    "id": "grallaria_milleri_gilesi",
+    "name": {
+      "de": "Antioquia-Brustband-Ameisenpitta",
+      "lat": "Grallaria milleri gilesi",
+      "en": "Antioquia Brown-banded Antpitta"
+    },
+    "last_seen": "1878",
+    "location": {
+      "lat": 3.99555,
+      "lng": -72.3714
+    },
+    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
+    "habitat": "Kolumbien"
+  },
+  {
+    "id": "xenicus_longipes_stokesi",
+    "name": {
+      "de": "Nordinsel-Waldschlüpfer",
+      "lat": "Xenicus longipes stokesi",
+      "en": "North Island Bush Wren"
+    },
+    "last_seen": "1955",
+    "location": {
+      "lat": -40.97327,
+      "lng": 173.97984
+    },
+    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
+    "habitat": "Neuseeland (Nordinsel)"
+  },
+  {
+    "id": "xenicus_longipes_longipes",
+    "name": {
+      "de": "Südinsel-Waldschlüpfer",
+      "lat": "Xenicus longipes longipes",
+      "en": "South Island Bush Wren"
+    },
+    "last_seen": "1968",
+    "location": {
+      "lat": -41.05236,
+      "lng": 173.95921
+    },
+    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
+    "habitat": "Neuseeland (Südinsel)"
+  },
+  {
+    "id": "xenicus_longipes_variabilis",
+    "name": {
+      "de": "Steward-Waldschlüpfer",
+      "lat": "Xenicus longipes variabilis",
+      "en": "Stead’s Bush Wren"
+    },
+    "last_seen": "1972",
+    "location": {
+      "lat": -46.9066,
+      "lng": 168.02887
+    },
+    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
+    "habitat": "Stewart Island"
+  },
+  {
+    "id": "neochmia_ruficauda_ruficauda",
+    "name": {
+      "de": "(Binsenastrild)",
+      "lat": "Neochmia ruficauda ruficauda",
+      "en": "Red-faced Star Finch"
+    },
+    "last_seen": "2000",
+    "location": {
+      "lat": -27.08132,
+      "lng": 132.98164
+    },
+    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
+    "habitat": "Australien"
+  },
+  {
+    "id": "myadestes_elisabeth_retrusus",
+    "name": {
+      "de": "(Sperlingsvogel)",
+      "lat": "Myadestes elisabeth retrusus",
+      "en": "Cuban Solitaire (retrusus)"
+    },
+    "last_seen": "1970er-Jahre",
+    "location": {
+      "lat": 21.721,
+      "lng": -82.82607
+    },
+    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
+    "habitat": "Isla de la Juventud"
+  },
+  {
+    "id": "pachyplichas_jagmi",
+    "name": {
+      "de": "Nordinsel-Stummelschwanz",
+      "lat": "Pachyplichas jagmi",
+      "en": "North Island Stoutlegged Wren"
+    },
+    "last_seen": "1400",
+    "location": {
+      "lat": -41.00266,
+      "lng": 173.98216
+    },
+    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
+    "habitat": "Neuseeland (Nordinsel)"
+  },
+  {
+    "id": "pachyplichas_yaldwini",
+    "name": {
+      "de": "Südinsel-Stummelschwanz",
+      "lat": "Pachyplichas yaldwini",
+      "en": "South Island Stoutlegged Wren"
+    },
+    "last_seen": "1400",
+    "location": {
+      "lat": -40.88628,
+      "lng": 174.07577
+    },
+    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
+    "habitat": "Neuseeland (Südinsel)"
+  },
+  {
+    "id": "dromaius_ater",
+    "name": {
+      "de": "Schwarzer Emu",
+      "lat": "Dromaius ater",
+      "en": "King Island Emu"
+    },
+    "last_seen": "1822",
+    "location": {
+      "lat": -39.83374,
+      "lng": 143.89322
+    },
+    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
+    "habitat": "King Island"
+  },
+  {
+    "id": "dromaius_novaehollandiae_baudinianius",
+    "name": {
+      "de": "Känguru-Insel-Emu",
+      "lat": "Dromaius novaehollandiae baudinianius",
+      "en": "Kangaroo Island Emu"
+    },
+    "last_seen": "1836",
+    "location": {
+      "lat": -35.80316,
+      "lng": 137.1995
+    },
+    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
+    "habitat": "Känguru-Insel"
+  },
+  {
+    "id": "dromaius_novaehollandiae_diemenensis",
+    "name": {
+      "de": "Tasmanischer Emu",
+      "lat": "Dromaius novaehollandiae diemenensis",
+      "en": "Tasmanian Emu"
+    },
+    "last_seen": "1873",
+    "location": {
+      "lat": -41.96905,
+      "lng": 146.50153
+    },
+    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
+    "habitat": "Tasmanien"
+  },
+  {
+    "id": "dinornis_novaezealandiae",
+    "name": {
+      "de": "Nordinsel-Riesenmoa",
+      "lat": "Dinornis novaezealandiae",
+      "en": "North Island Giant Moa"
+    },
+    "last_seen": "14. oder 15. Jhrdt.",
+    "location": {
+      "lat": -40.92556,
+      "lng": 174.00536
+    },
+    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
+    "habitat": "Neuseeland (Nordinsel)"
+  },
+  {
+    "id": "nesoenas_duboisi",
+    "name": {
+      "de": "Réunion-Taube",
+      "lat": "Nesoenas duboisi",
+      "en": "Réunion Pigeon"
+    },
+    "last_seen": "1689",
+    "location": {
+      "lat": -21.10477,
+      "lng": 55.57734
+    },
+    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
+    "habitat": "Réunion"
+  },
+  {
+    "id": "dinornis_robustus",
+    "name": {
+      "de": "Südinsel-Riesenmoa",
+      "lat": "Dinornis robustus",
+      "en": "South Island Giant Moa"
+    },
+    "last_seen": "14. oder 15. Jhrdt.",
+    "location": {
+      "lat": -41.00555,
+      "lng": 173.93854
+    },
+    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
+    "habitat": "Neuseeland (Südinsel)"
+  },
+  {
+    "id": "anomalopteryx_didiformis",
+    "name": {
+      "de": "Buschmoa",
+      "lat": "Anomalopteryx didiformis",
+      "en": "Little Bush Moa"
+    },
+    "last_seen": "14. oder 15. Jhrdt.",
+    "location": {
+      "lat": -41.05379,
+      "lng": 173.94478
+    },
+    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
+    "habitat": "Neuseeland"
+  },
+  {
+    "id": "pachyornis_geranoides",
+    "name": {
+      "de": "Mantells Moa",
+      "lat": "Pachyornis geranoides",
+      "en": "Stout-legged Moa"
+    },
+    "last_seen": "14. oder 15. Jhrdt.",
+    "location": {
+      "lat": -41.04247,
+      "lng": 173.98089
+    },
+    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
+    "habitat": "Neuseeland (Nordinsel)"
+  },
+  {
+    "id": "ectopistes_migratorius",
+    "name": {
+      "de": "Wandertaube",
+      "lat": "Ectopistes migratorius",
+      "en": "Passenger Pigeon"
+    },
+    "last_seen": "1914",
+    "location": {
+      "lat": 53.70135,
+      "lng": -105.57814
+    },
+    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
+    "habitat": "Nordamerika"
+  },
+  {
+    "id": "raphus_cucullatus",
+    "name": {
+      "de": "Dodo",
+      "lat": "Raphus cucullatus",
+      "en": "Dodo"
+    },
+    "last_seen": "1690",
+    "location": {
+      "lat": -20.44116,
+      "lng": 57.47323
+    },
+    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
+    "habitat": "Mauritius"
+  },
+  {
+    "id": "aquila_moorei",
+    "name": {
+      "de": "Haastadler",
+      "lat": "Aquila moorei",
+      "en": "Haast’s Eagle"
+    },
+    "last_seen": "14. oder 15. Jhrdt.",
+    "location": {
+      "lat": -41.00779,
+      "lng": 174.07238
+    },
+    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
+    "habitat": "Neuseeland"
+  },
+  {
+    "id": "upupa_antaios",
+    "name": {
+      "de": "St.-Helena-Wiedehopf",
+      "lat": "Upupa antaios",
+      "en": "Saint Helena Hoopoe"
+    },
+    "last_seen": "Anfang 16. Jhrdt.",
+    "location": {
+      "lat": -15.90924,
+      "lng": -5.73794
+    },
+    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
+    "habitat": "St. Helena"
+  },
+  {
+    "id": "cnemiornis_calcitrans",
+    "name": {
+      "de": "Südinsel-Riesengans",
+      "lat": "Cnemiornis calcitrans",
+      "en": "South Island Goose"
+    },
+    "last_seen": "1400",
+    "location": {
+      "lat": -40.97301,
+      "lng": 173.92986
+    },
+    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
+    "habitat": "Neuseeland (Südinsel)"
+  },
+  {
+    "id": "nannococcyx_psix",
+    "name": {
+      "de": "St.-Helena-Kuckuck",
+      "lat": "Nannococcyx psix",
+      "en": "Saint Helena Cuckoo"
+    },
+    "last_seen": "18. Jhrdt.",
+    "location": {
+      "lat": -15.89751,
+      "lng": -5.68104
+    },
+    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
+    "habitat": "St. Helena"
+  },
+  {
+    "id": "threskiornis_solitarius",
+    "name": {
+      "de": "Réunion-Ibis",
+      "lat": "Threskiornis solitarius",
+      "en": "Réunion Ibis"
+    },
+    "last_seen": "1710 bis 1715",
+    "location": {
+      "lat": -21.2801,
+      "lng": 55.54425
+    },
+    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
+    "habitat": "Réunion"
+  },
+  {
+    "id": "pinguinus_impennis",
+    "name": {
+      "de": "Riesenalk",
+      "lat": "Pinguinus impennis",
+      "en": "Great Auk"
+    },
+    "last_seen": "1852",
+    "location": {
+      "lat": 52.48165,
+      "lng": -31.15785
+    },
+    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
+    "habitat": "Nordatlantik"
+  },
+  {
+    "id": "ophrysia_superciliosa",
+    "name": {
+      "de": "Himalayawachtel",
+      "lat": "Ophrysia superciliosa",
+      "en": "Himalayan Quail"
+    },
+    "last_seen": "1876",
+    "location": {
+      "lat": 29.78305,
+      "lng": 80.2429
+    },
+    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
+    "habitat": "Himalaya (Nordindien)"
+  },
+  {
+    "id": "nesillas_aldabranus",
+    "name": {
+      "de": "Aldabraspötter",
+      "lat": "Nesillas aldabranus",
+      "en": "Aldabra Brush Warbler"
+    },
+    "last_seen": "1984",
+    "location": {
+      "lat": -9.42696,
+      "lng": 46.32347
+    },
+    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
+    "habitat": "Aldabra"
+  },
+  {
+    "id": "mareca_marecula",
+    "name": {
+      "de": "Amsterdamente",
+      "lat": "Mareca marecula",
+      "en": "Amsterdam Wigeon"
+    },
+    "last_seen": "18. Jhrdt.",
+    "location": {
+      "lat": -37.90537,
+      "lng": 77.55778
+    },
+    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
+    "habitat": "Amsterdam-Insel"
+  },
+  {
+    "id": "podiceps_andinus",
+    "name": {
+      "de": "Andentaucher",
+      "lat": "Podiceps andinus",
+      "en": "Colombian Grebe"
+    },
+    "last_seen": "1977",
+    "location": {
+      "lat": 4.2946,
+      "lng": -71.75628
+    },
+    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
+    "habitat": "Kolumbien"
+  },
+  {
+    "id": "ciridops_anna",
+    "name": {
+      "de": "Annakleidervogel",
+      "lat": "Ciridops anna",
+      "en": "Ula-Ai-Hawane"
+    },
+    "last_seen": "1892",
+    "location": {
+      "lat": 19.60834,
+      "lng": -155.50779
+    },
+    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
+    "habitat": "Big Island (Hawaii)"
+  },
+  {
+    "id": "athene_cunicularia_amaura",
+    "name": {
+      "de": "Antigua-Kanincheneule",
+      "lat": "Athene cunicularia amaura",
+      "en": "Antigua Burrowing Owl"
+    },
+    "last_seen": "19. Jhrdt.",
+    "location": {
+      "lat": 17.14401,
+      "lng": -61.85268
+    },
+    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
+    "habitat": "Antigua, St. Kitts, Nevis"
+  },
+  {
+    "id": "atlapetes_blancae",
+    "name": {
+      "de": "Antioquia-Buschammer",
+      "lat": "Atlapetes blancae",
+      "en": "Antioquia Brush Finch"
+    },
+    "last_seen": "2018 wiederentdeckt",
+    "location": {
+      "lat": 4.34592,
+      "lng": -72.30833
+    },
+    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
+    "habitat": "Kolumbien"
+  },
+  {
+    "id": "struthio_camelus_syriacus",
+    "name": {
+      "de": "Arabischer Strauß",
+      "lat": "Struthio camelus syriacus",
+      "en": "Arabian Ostrich"
+    },
+    "last_seen": "1966",
+    "location": {
+      "lat": 25.11117,
+      "lng": 45.0711
+    },
+    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
+    "habitat": "Arabische Halbinsel"
+  },
+  {
+    "id": "amazona_barbadensis_canifrons",
+    "name": {
+      "de": "Aruba-Amazone",
+      "lat": "Amazona barbadensis canifrons",
+      "en": "–"
+    },
+    "last_seen": "1940",
+    "location": {
+      "lat": 12.49577,
+      "lng": -69.9216
+    },
+    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
+    "habitat": "Aruba"
+  },
+  {
+    "id": "nycticorax_olsoni",
+    "name": {
+      "de": "Ascension-Nachtreiher",
+      "lat": "Nycticorax olsoni",
+      "en": "Ascension Night Heron"
+    },
+    "last_seen": "16. Jhrdt.",
+    "location": {
+      "lat": -7.80828,
+      "lng": -14.37702
+    },
+    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
+    "habitat": "Ascension"
+  },
+  {
+    "id": "mundia_elpenor",
+    "name": {
+      "de": "Ascension-Ralle",
+      "lat": "Mundia elpenor",
+      "en": "Ascension Crake"
+    },
+    "last_seen": "17. Jhrdt.",
+    "location": {
+      "lat": -7.96713,
+      "lng": -14.34069
+    },
+    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
+    "habitat": "Ascension"
+  },
+  {
+    "id": "podilymbus_gigas",
+    "name": {
+      "de": "Atitlántaucher",
+      "lat": "Podilymbus gigas",
+      "en": "Atitlán Grebe"
+    },
+    "last_seen": "1989",
+    "location": {
+      "lat": 14.66775,
+      "lng": -91.16805
+    },
+    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
+    "habitat": "Lago de Atitlán"
+  },
+  {
+    "id": "numida_meleagris_sabyi",
+    "name": {
+      "de": "Atlas-Perlhuhn",
+      "lat": "Numida meleagris sabyi",
+      "en": "Helmeted Guineafowl"
+    },
+    "last_seen": "1950",
+    "location": {
+      "lat": 32.16755,
+      "lng": -5.1481
+    },
+    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
+    "habitat": "Marokko"
+  },
+  {
+    "id": "mergus_australis",
+    "name": {
+      "de": "Aucklandsäger",
+      "lat": "Mergus australis",
+      "en": "New Zealand Merganser"
+    },
+    "last_seen": "1902",
+    "location": {
+      "lat": -50.79792,
+      "lng": 166.11158
+    },
+    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
+    "habitat": "Aucklandinseln"
+  },
+  {
+    "id": "branta_hutchinsii_asiatica",
+    "name": {
+      "de": "Bering-Zwergkanadagans",
+      "lat": "Branta hutchinsii asiatica",
+      "en": "Cackling Goose"
+    },
+    "last_seen": "1914 oder 1929",
+    "location": {
+      "lat": 55.06519,
+      "lng": 165.91055
+    },
+    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
+    "habitat": "Kommandeurinseln, Kurilen"
+  },
+  {
+    "id": "pipilo_naufragus",
+    "name": {
+      "de": "Bermuda-Grundammer",
+      "lat": "Pipilo naufragus",
+      "en": "Bermuda Towhee"
+    },
+    "last_seen": "17. Jhrdt.",
+    "location": {
+      "lat": 32.35377,
+      "lng": -64.77047
+    },
+    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
+    "habitat": "Bermuda"
+  },
+  {
+    "id": "nyctanassa_carcinocatactes",
+    "name": {
+      "de": "Bermuda-Krabbenreiher",
+      "lat": "Nyctanassa carcinocatactes",
+      "en": "Bermuda Night Heron"
+    },
+    "last_seen": "17. Jhrdt.",
+    "location": {
+      "lat": 32.18109,
+      "lng": -64.71868
+    },
+    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
+    "habitat": "Bermuda"
+  },
+  {
+    "id": "leucopeza_semperi",
+    "name": {
+      "de": "Blassfußwaldsänger",
+      "lat": "Leucopeza semperi",
+      "en": "Semper’s Warbler"
+    },
+    "last_seen": "1961",
+    "location": {
+      "lat": 13.9003,
+      "lng": -60.97254
+    },
+    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
+    "habitat": "Saint Lucia"
+  },
+  {
+    "id": "pareudiastes_silvestris",
+    "name": {
+      "de": "Blaustirn-Pfuhlhuhn",
+      "lat": "Pareudiastes silvestris",
+      "en": "Makira Woodhen"
+    },
+    "last_seen": "1950",
+    "location": {
+      "lat": -10.47502,
+      "lng": 161.8993
+    },
+    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
+    "habitat": "Makira"
+  },
+  {
+    "id": "zoothera_terrestris",
+    "name": {
+      "de": "Bonin-Erddrossel",
+      "lat": "Zoothera terrestris",
+      "en": "Bonin Thrush"
+    },
+    "last_seen": "1830",
+    "location": {
+      "lat": 27.04133,
+      "lng": 142.25006
+    },
+    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
+    "habitat": "Chichi-jima"
+  },
+  {
+    "id": "chaunoproctus_ferreorostris",
+    "name": {
+      "de": "Boningimpel",
+      "lat": "Chaunoproctus ferreorostris",
+      "en": "Bonin Grosbeak"
+    },
+    "last_seen": "1830",
+    "location": {
+      "lat": 27.02169,
+      "lng": 142.20676
+    },
+    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
+    "habitat": "Chichi-jima"
+  },
+  {
+    "id": "columba_versicolor",
+    "name": {
+      "de": "Bonin-Taube",
+      "lat": "Columba versicolor",
+      "en": "Bonin Wood Pigeon"
+    },
+    "last_seen": "1889",
+    "location": {
+      "lat": 27.03989,
+      "lng": 142.18386
+    },
+    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
+    "habitat": "Ogasawara-Inseln"
+  },
+  {
+    "id": "anas_cyanoptera_borreroi",
+    "name": {
+      "de": "Borreros Zimtente",
+      "lat": "Anas cyanoptera borreroi",
+      "en": "Cinnamon Teal"
+    },
+    "last_seen": "20. Jhrdt.",
+    "location": {
+      "lat": 3.93482,
+      "lng": -72.2708
+    },
+    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
+    "habitat": "Kolumbien"
+  },
+  {
+    "id": "chlorostilbon_bracei",
+    "name": {
+      "de": "Bracesmaragdkolibri",
+      "lat": "Chlorostilbon bracei",
+      "en": "Brace’s Emerald"
+    },
+    "last_seen": "19. Jhrdt.",
+    "location": {
+      "lat": 25.08226,
+      "lng": -77.32442
+    },
+    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
+    "habitat": "New Providence"
+  },
+  {
+    "id": "cyanoramphus_ulietanus",
+    "name": {
+      "de": "Braunkopf-Laufsittich",
+      "lat": "Cyanoramphus ulietanus",
+      "en": "Society Parakeet"
+    },
+    "last_seen": "18. Jhrdt.",
+    "location": {
+      "lat": -16.80672,
+      "lng": -151.44192
+    },
+    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
+    "habitat": "Raiatea"
+  },
+  {
+    "id": "urile_perspicillatus",
+    "name": {
+      "de": "Brillenkormoran",
+      "lat": "Urile perspicillatus",
+      "en": "Spectacled Cormorant"
+    },
+    "last_seen": "1850",
+    "location": {
+      "lat": 55.02564,
+      "lng": 166.33242
+    },
+    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
+    "habitat": "Beringinsel"
+  },
+  {
+    "id": "coracina_striata_cebuensis",
+    "name": {
+      "de": "Cebu-Bindenraupenfänger",
+      "lat": "Coracina striata cebuensis",
+      "en": "Cebu Bar-bellied Cuckooshrike"
+    },
+    "last_seen": "20. Jhrdt.",
+    "location": {
+      "lat": 10.26821,
+      "lng": 123.87769
+    },
+    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
+    "habitat": "Cebu"
+  },
+  {
+    "id": "loriculus_philippensis_chrysonotis",
+    "name": {
+      "de": "Cebu-Fledermauspapageichen",
+      "lat": "Loriculus philippensis chrysonotis",
+      "en": "Cebu Hanging Parrot"
+    },
+    "last_seen": "20. Jhrdt.",
+    "location": {
+      "lat": 10.34039,
+      "lng": 123.78448
+    },
+    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
+    "habitat": "Cebu"
+  },
+  {
+    "id": "oriolus_steerii_assimilis",
+    "name": {
+      "de": "Cebu-Gelbkehlpirol",
+      "lat": "Oriolus steerii assimilis",
+      "en": "Philippine Oriole"
+    },
+    "last_seen": "2001 ?",
+    "location": {
+      "lat": 10.30272,
+      "lng": 123.93372
+    },
+    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
+    "habitat": "Cebu"
+  },
+  {
+    "id": "coracina_coerulescens_altera",
+    "name": {
+      "de": "Cebu-Glanzraupenfänger",
+      "lat": "Coracina coerulescens altera",
+      "en": "Cebu Blackish Cuckooshrike"
+    },
+    "last_seen": "20. Jhrdt.",
+    "location": {
+      "lat": 10.31481,
+      "lng": 123.95956
+    },
+    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
+    "habitat": "Cebu"
+  },
+  {
+    "id": "dryocopus_javensis_cebuensis",
+    "name": {
+      "de": "Cebu-Weißbauchspecht",
+      "lat": "Dryocopus javensis cebuensis",
+      "en": "White-bellied Woodpecker"
+    },
+    "last_seen": "20. Jhrdt.",
+    "location": {
+      "lat": 10.37188,
+      "lng": 123.88797
+    },
+    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
+    "habitat": "Cebu"
+  },
+  {
+    "id": "anthornis_melanocephala",
+    "name": {
+      "de": "Chatham-Glockenhonigfresser",
+      "lat": "Anthornis melanocephala",
+      "en": "Chatham Bellbird"
+    },
+    "last_seen": "1906",
+    "location": {
+      "lat": -43.95713,
+      "lng": -176.62551
+    },
+    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
+    "habitat": "Chathaminseln"
+  },
+  {
+    "id": "megalurus_rufescens",
+    "name": {
+      "de": "Chathamfarnsänger",
+      "lat": "Megalurus rufescens",
+      "en": "Chatham Fernbird"
+    },
+    "last_seen": "1900",
+    "location": {
+      "lat": -43.86426,
+      "lng": -176.58209
+    },
+    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
+    "habitat": "Chathaminseln"
+  },
+  {
+    "id": "gallirallus_modestus",
+    "name": {
+      "de": "Chathamralle",
+      "lat": "Gallirallus modestus",
+      "en": "Chatham Rail"
+    },
+    "last_seen": "1900",
+    "location": {
+      "lat": -43.98182,
+      "lng": -176.53379
+    },
+    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
+    "habitat": "Chathaminseln"
+  },
+  {
+    "id": "amazona_vittata_gracilipes",
+    "name": {
+      "de": "Culebra-Amazone",
+      "lat": "Amazona vittata gracilipes",
+      "en": "–"
+    },
+    "last_seen": "19./20. Jhrdt.",
+    "location": {
+      "lat": 18.30896,
+      "lng": -65.2766
+    },
+    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
+    "habitat": "Culebra"
+  },
+  {
+    "id": "buteo_japonicus_oshiroi",
+    "name": {
+      "de": "Daito-Mäusebussard",
+      "lat": "Buteo japonicus oshiroi",
+      "en": "–"
+    },
+    "last_seen": "1970",
+    "location": {
+      "lat": 25.76115,
+      "lng": 131.20742
+    },
+    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
+    "habitat": "Daitō-Inseln"
+  },
+  {
+    "id": "tachybaptus_rufolavatus",
+    "name": {
+      "de": "Delacour-Zwergtaucher",
+      "lat": "Tachybaptus rufolavatus",
+      "en": "Alaotra Grebe"
+    },
+    "last_seen": "1980",
+    "location": {
+      "lat": -17.45415,
+      "lng": 48.54174
+    },
+    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
+    "habitat": "Alaotra-See"
+  },
+  {
+    "id": "coua_delalandei",
+    "name": {
+      "de": "Delalande-Seidenkuckuck",
+      "lat": "Coua delalandei",
+      "en": "Delalande’s Coua"
+    },
+    "last_seen": "1834 ?",
+    "location": {
+      "lat": -20.65871,
+      "lng": 46.81278
+    },
+    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
+    "habitat": "Madagaskar"
+  },
+  {
+    "id": "charmosyna_diadema",
+    "name": {
+      "de": "Diademzierlori",
+      "lat": "Charmosyna diadema",
+      "en": "New Caledonian Lorikeet"
+    },
+    "last_seen": "1950",
+    "location": {
+      "lat": -21.47313,
+      "lng": 165.49143
+    },
+    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
+    "habitat": "Neukaledonien"
+  },
+  {
+    "id": "hypotaenidia_dieffenbachii",
+    "name": {
+      "de": "Dieffenbach-Ralle",
+      "lat": "Hypotaenidia dieffenbachii",
+      "en": "Dieffenbach’s Rail"
+    },
+    "last_seen": "1840",
+    "location": {
+      "lat": -43.87046,
+      "lng": -176.54455
+    },
+    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
+    "habitat": "Chathaminseln"
+  },
+  {
+    "id": "nestor_productus",
+    "name": {
+      "de": "Dünnschnabelnestor",
+      "lat": "Nestor productus",
+      "en": "Norfolk Kaka"
+    },
+    "last_seen": "1860",
+    "location": {
+      "lat": -28.95776,
+      "lng": 167.93363
+    },
+    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
+    "habitat": "Norfolkinsel, Phillipinsel"
+  },
+  {
+    "id": "pomarea_fluxa",
+    "name": {
+      "de": "Eiao-Fleckenmonarch",
+      "lat": "Pomarea fluxa",
+      "en": "Eiao Monarch"
+    },
+    "last_seen": "1977",
+    "location": {
+      "lat": -8.02234,
+      "lng": -140.5704
+    },
+    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
+    "habitat": "Eiao"
+  },
+  {
+    "id": "hemignathus_sagittirostris",
+    "name": {
+      "de": "Einsiedler-Grünkleidervogel",
+      "lat": "Hemignathus sagittirostris",
+      "en": "Greater Amakihi"
+    },
+    "last_seen": "1901",
+    "location": {
+      "lat": 19.67416,
+      "lng": -155.5161
+    },
+    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
+    "habitat": "Big Island (Hawaii)"
+  },
+  {
+    "id": "aepyornis_maximus",
+    "name": {
+      "de": "Elefantenvogel",
+      "lat": "Aepyornis maximus",
+      "en": "Great Elephantbird"
+    },
+    "last_seen": "1650 ?",
+    "location": {
+      "lat": -19.78979,
+      "lng": 47.25904
+    },
+    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
+    "habitat": "Madagaskar"
+  },
+  {
+    "id": "campephilus_principalis_principalis",
+    "name": {
+      "de": "Elfenbeinspecht",
+      "lat": "Campephilus principalis principalis",
+      "en": "Ivory-billed Woodpecker"
+    },
+    "last_seen": "1944",
+    "location": {
+      "lat": 53.50252,
+      "lng": -104.45659
+    },
+    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
+    "habitat": "Nordamerika (Südstaaten)"
+  },
+  {
+    "id": "numenius_borealis",
+    "name": {
+      "de": "Eskimo-Brachvogel",
+      "lat": "Numenius borealis",
+      "en": "Eskimo Curlew"
+    },
+    "last_seen": "20. Jhrdt. ?",
+    "location": {
+      "lat": 54.67543,
+      "lng": -104.23882
+    },
+    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
+    "habitat": "Nordamerika, Südamerika"
+  },
+  {
+    "id": "nesoclopeus_poecilopterus",
+    "name": {
+      "de": "Fidschi-Ralle",
+      "lat": "Nesoclopeus poecilopterus",
+      "en": "Bar-winged Rail"
+    },
+    "last_seen": "1980",
+    "location": {
+      "lat": -17.82327,
+      "lng": 178.06197
+    },
+    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
+    "habitat": "Viti Levu"
+  },
+  {
+    "id": "chenonetta_finschi",
+    "name": {
+      "de": "Finschs Ente",
+      "lat": "Chenonetta finschi",
+      "en": "Finsch’s Duck"
+    },
+    "last_seen": "1870 ?",
+    "location": {
+      "lat": -41.07725,
+      "lng": 174.02824
+    },
+    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
+    "habitat": "Neuseeland"
+  },
+  {
+    "id": "psittirostra_psittacea",
+    "name": {
+      "de": "Gelbkopf-Kleidervogel",
+      "lat": "Psittirostra psittacea",
+      "en": "Ou"
+    },
+    "last_seen": "2000",
+    "location": {
+      "lat": 19.55828,
+      "lng": -155.46733
+    },
+    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
+    "habitat": "Hawaii"
+  },
+  {
+    "id": "rhodacanthis_flaviceps",
+    "name": {
+      "de": "Gelbkopf-Papageischnäbler",
+      "lat": "Rhodacanthis flaviceps",
+      "en": "Lesser Koa Finch"
+    },
+    "last_seen": "1891",
+    "location": {
+      "lat": 19.64097,
+      "lng": -155.59172
+    },
+    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
+    "habitat": "Big Island (Hawaii)"
+  },
+  {
+    "id": "vermivora_bachmanii",
+    "name": {
+      "de": "Gelbstirn-Waldsänger",
+      "lat": "Vermivora bachmanii",
+      "en": "Bachman’s Warbler"
+    },
+    "last_seen": "1980er-Jahre",
+    "location": {
+      "lat": 39.82782,
+      "lng": -98.60186
+    },
+    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
+    "habitat": "USA (Süden)"
+  },
+  {
+    "id": "prosobonia_leucoptera",
+    "name": {
+      "de": "Gesellschaftsläufer",
+      "lat": "Prosobonia leucoptera",
+      "en": "Tahiti Sandpiper"
+    },
+    "last_seen": "19. Jhrdt.",
+    "location": {
+      "lat": -17.73118,
+      "lng": -149.36404
+    },
+    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
+    "habitat": "Tahiti, Moorea"
+  },
+  {
+    "id": "calyptophilus_frugivorus_frugivorus",
+    "name": {
+      "de": "Gonâve-Ostschmätzertangare",
+      "lat": "Calyptophilus frugivorus frugivorus",
+      "en": "Northeast Chat-Tanager ?"
+    },
+    "last_seen": "1977",
+    "location": {
+      "lat": 18.85795,
+      "lng": -73.04278
+    },
+    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
+    "habitat": "Gonâve"
+  },
+  {
+    "id": "chlorostilbon_elegans",
+    "name": {
+      "de": "Gouldsmaragdkolibri",
+      "lat": "Chlorostilbon elegans",
+      "en": "Gould’s Emerald"
+    },
+    "last_seen": "1860",
+    "location": {
+      "lat": 18.25306,
+      "lng": -77.13219
+    },
+    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
+    "habitat": "Jamaika, Bahamas"
+  },
+  {
+    "id": "thryomanes_bewickii_brevicauda",
+    "name": {
+      "de": "Guadalupe-Buschzaunkönig",
+      "lat": "Thryomanes bewickii brevicauda",
+      "en": "Bewick’s Wren"
+    },
+    "last_seen": "19. Jhrdt.",
+    "location": {
+      "lat": 29.0788,
+      "lng": -118.36421
+    },
+    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
+    "habitat": "Guadalupe"
+  },
+  {
+    "id": "pipilo_maculatus_consobrinus",
+    "name": {
+      "de": "Guadalupe-Fleckengrundammer",
+      "lat": "Pipilo maculatus consobrinus",
+      "en": "Guadalupe Spotted Towhee"
+    },
+    "last_seen": "19. Jhrdt.",
+    "location": {
+      "lat": 29.03762,
+      "lng": -118.32819
+    },
+    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
+    "habitat": "Guadalupe"
+  },
+  {
+    "id": "caracara_lutosa",
+    "name": {
+      "de": "Guadalupe-Karakara",
+      "lat": "Caracara lutosa",
+      "en": "Guadalupe Caracara"
+    },
+    "last_seen": "1900",
+    "location": {
+      "lat": 29.01189,
+      "lng": -118.27819
+    },
+    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
+    "habitat": "Guadalupe"
+  },
+  {
+    "id": "colaptes_auratus_rufipileus",
+    "name": {
+      "de": "Guadalupe-Kupferspecht",
+      "lat": "Colaptes auratus rufipileus",
+      "en": "Guadalupe Flicker"
+    },
+    "last_seen": "20. Jhrdt.",
+    "location": {
+      "lat": 29.06436,
+      "lng": -118.34005
+    },
+    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
+    "habitat": "Guadalupe, Niederkalifornien"
+  },
+  {
+    "id": "oceanodroma_macrodacyla",
+    "name": {
+      "de": "Guadalupe-Wellenläufer",
+      "lat": "Oceanodroma macrodacyla",
+      "en": "Guadalupe Storm Petrel"
+    },
+    "last_seen": "1910er-Jahre ?",
+    "location": {
+      "lat": 28.99735,
+      "lng": -118.44088
+    },
+    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
+    "habitat": "Guadalupe"
+  },
+  {
+    "id": "amazona_martinicana",
+    "name": {
+      "de": "Guadeloupe-Sittich",
+      "lat": "Amazona martinicana",
+      "en": "Guadeloupe Parakeet"
+    },
+    "last_seen": "1750er-Jahre",
+    "location": {
+      "lat": 14.73398,
+      "lng": -61.23723
+    },
+    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
+    "habitat": "Martinique"
+  },
+  {
+    "id": "myiagra_freycineti",
+    "name": {
+      "de": "Guam-Monarch",
+      "lat": "Myiagra freycineti",
+      "en": "Guam Flycatcher"
+    },
+    "last_seen": "1984",
+    "location": {
+      "lat": 13.41426,
+      "lng": 144.72635
+    },
+    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
+    "habitat": "Guam"
+  },
+  {
+    "id": "zosterops_conspicillatus",
+    "name": {
+      "de": "Guambrillenvogel",
+      "lat": "Zosterops conspicillatus",
+      "en": "Bridled White-Eye"
+    },
+    "last_seen": "1984",
+    "location": {
+      "lat": 13.42421,
+      "lng": 144.77554
+    },
+    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
+    "habitat": "Guam"
+  },
+  {
+    "id": "francolinus_francolinus_ssp",
+    "name": {
+      "de": "Halsbandfrankolin",
+      "lat": "Francolinus francolinus ssp.",
+      "en": "Black Francolin"
+    },
+    "last_seen": "1869",
+    "location": {
+      "lat": 37.61579,
+      "lng": 13.93437
+    },
+    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
+    "habitat": "Sizilien"
+  },
+  {
+    "id": "hemignathus_obscurus",
+    "name": {
+      "de": "Hawaii-Akialoa",
+      "lat": "Hemignathus obscurus",
+      "en": "Lesser Akialoa"
+    },
+    "last_seen": "1940",
+    "location": {
+      "lat": 19.6027,
+      "lng": -155.53385
+    },
+    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
+    "habitat": "Big Island"
+  },
+  {
+    "id": "porzana_sandwichensis",
+    "name": {
+      "de": "Hawaiiralle",
+      "lat": "Porzana sandwichensis",
+      "en": "Hawaiian Rail"
+    },
+    "last_seen": "1890",
+    "location": {
+      "lat": 19.61356,
+      "lng": -155.58075
+    },
+    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
+    "habitat": "Big Island"
+  },
+  {
+    "id": "diaphorapteryx_hawkinsi",
+    "name": {
+      "de": "Hawkins-Ralle",
+      "lat": "Diaphorapteryx hawkinsi",
+      "en": "Hawkins’s Rail"
+    },
+    "last_seen": "19. Jhrdt.",
+    "location": {
+      "lat": -44.0053,
+      "lng": -176.62903
+    },
+    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
+    "habitat": "Chathaminseln"
+  },
+  {
+    "id": "tympanuchus_cupido_cupido",
+    "name": {
+      "de": "Heidehuhn",
+      "lat": "Tympanuchus cupido cupido",
+      "en": "Heath Hen"
+    },
+    "last_seen": "1932",
+    "location": {
+      "lat": 54.11952,
+      "lng": -105.46723
+    },
+    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
+    "habitat": "Nordamerika (Osten)"
+  },
+  {
+    "id": "pomarea_mendozae_mendozae",
+    "name": {
+      "de": "Hiva-Oa-Monarch",
+      "lat": "Pomarea mendozae mendozae",
+      "en": "Hivoa Flycatcher"
+    },
+    "last_seen": "1975",
+    "location": {
+      "lat": -9.78198,
+      "lng": -138.97791
+    },
+    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
+    "habitat": "Hiva Oa (Französisch-Polynesien)"
+  },
+  {
+    "id": "fregilupus_varius",
+    "name": {
+      "de": "Hopfstar",
+      "lat": "Fregilupus varius",
+      "en": "Hoopoe Starling"
+    },
+    "last_seen": "1850er-Jahre",
+    "location": {
+      "lat": -21.15826,
+      "lng": 55.49286
+    },
+    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
+    "habitat": "Réunion"
+  },
+  {
+    "id": "acrocephalus_musae_garretti",
+    "name": {
+      "de": "Huahine-Rohrsänger",
+      "lat": "Acrocephalus musae garretti",
+      "en": "Garrett’s Reed Warbler"
+    },
+    "last_seen": "1870er-Jahre",
+    "location": {
+      "lat": -16.79111,
+      "lng": -150.96836
+    },
+    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
+    "habitat": "Huahine (Französisch-Polynesien)"
+  },
+  {
+    "id": "heteralocha_acutirostris",
+    "name": {
+      "de": "Huia",
+      "lat": "Heteralocha acutirostris",
+      "en": "Huia"
+    },
+    "last_seen": "20. Jhrdt.",
+    "location": {
+      "lat": -40.97992,
+      "lng": 173.99167
+    },
+    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
+    "habitat": "Neuseeland (Nordinsel)"
+  },
+  {
+    "id": "circus_teauteensis",
+    "name": {
+      "de": "Eyles-Weihe",
+      "lat": "Circus teauteensis",
+      "en": "Eyles’s Harrier"
+    },
+    "last_seen": "13. Jhrdt. ?",
+    "location": {
+      "lat": -41.0151,
+      "lng": 174.01108
+    },
+    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
+    "habitat": "Neuseeland"
+  },
+  {
+    "id": "pterodroma_imberi",
+    "name": {
+      "de": "Imber-Sturmvogel",
+      "lat": "Pterodroma imberi",
+      "en": "Imber’s Petrel"
+    },
+    "last_seen": "19. Jhrdt.",
+    "location": {
+      "lat": -43.97507,
+      "lng": -176.62272
+    },
+    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
+    "habitat": "Chathaminseln"
+  },
+  {
+    "id": "pterodroma_caribbaea",
+    "name": {
+      "de": "Jamaika-Sturmvogel",
+      "lat": "Pterodroma caribbaea",
+      "en": "Jamaican Petrel"
+    },
+    "last_seen": "1890 ?",
+    "location": {
+      "lat": 18.3745,
+      "lng": -77.62316
+    },
+    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
+    "habitat": "Jamaika"
+  },
+  {
+    "id": "vanellus_macropterus",
+    "name": {
+      "de": "Java-Kiebitz",
+      "lat": "Vanellus macropterus",
+      "en": "Javan Lapwing"
+    },
+    "last_seen": "1950",
+    "location": {
+      "lat": -7.53852,
+      "lng": 109.97938
+    },
+    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
+    "habitat": "Java"
+  },
+  {
+    "id": "megascops_nudipes_newtoni",
+    "name": {
+      "de": "Jungferninseln-Kreischeule",
+      "lat": "Megascops nudipes newtoni",
+      "en": "Virgin Islands Screech-Owl"
+    },
+    "last_seen": "1980er-Jahre ?",
+    "location": {
+      "lat": 18.38849,
+      "lng": -64.93481
+    },
+    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
+    "habitat": "Amerikanische Jungferninseln"
+  },
+  {
+    "id": "campephilus_imperialis",
+    "name": {
+      "de": "Kaiserspecht",
+      "lat": "Campephilus imperialis",
+      "en": "Imperial Woodpecker"
+    },
+    "last_seen": "1956",
+    "location": {
+      "lat": 23.61564,
+      "lng": -102.54455
+    },
+    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
+    "habitat": "Mexiko"
+  },
+  {
+    "id": "haematopus_meadewaldoi",
+    "name": {
+      "de": "Kanaren-Austernfischer",
+      "lat": "Haematopus meadewaldoi",
+      "en": "Canary Islands Oystercatcher"
+    },
+    "last_seen": "1940er-Jahre",
+    "location": {
+      "lat": 28.34452,
+      "lng": -14.08267
+    },
+    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
+    "habitat": "Fuerteventura, Lanzarote"
+  },
+  {
+    "id": "conuropsis_carolinensis_carolinensis",
+    "name": {
+      "de": "Karolinasittich",
+      "lat": "Conuropsis carolinensis carolinensis",
+      "en": "Carolina Parakeet"
+    },
+    "last_seen": "1918 ?",
+    "location": {
+      "lat": 53.92552,
+      "lng": -104.13685
+    },
+    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
+    "habitat": "Nordamerika (Südosten)"
+  },
+  {
+    "id": "akialoa_stejnegeri",
+    "name": {
+      "de": "Kauai-Akialoa",
+      "lat": "Akialoa stejnegeri",
+      "en": "Kauai Akialoa"
+    },
+    "last_seen": "1969",
+    "location": {
+      "lat": 22.06161,
+      "lng": -159.48946
+    },
+    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
+    "habitat": "Kauai (Hawaii)"
+  },
+  {
+    "id": "loxioides_kikuchi",
+    "name": {
+      "de": "Kauai-Palila",
+      "lat": "Loxioides kikuchi",
+      "en": "Kauai Palila"
+    },
+    "last_seen": "19. Jhrdt.",
+    "location": {
+      "lat": 22.02452,
+      "lng": -159.46578
+    },
+    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
+    "habitat": "Kauai (Hawaii)"
+  },
+  {
+    "id": "hemignathus_hanapepe",
+    "name": {
+      "de": "Kauai-Sichelkleidervogel",
+      "lat": "Hemignathus hanapepe",
+      "en": "Kauai Nukupuu"
+    },
+    "last_seen": "1990er-Jahre",
+    "location": {
+      "lat": 22.07881,
+      "lng": -159.50021
+    },
+    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
+    "habitat": "Kauai (Hawaii)"
+  },
+  {
+    "id": "myadestes_myadestinus",
+    "name": {
+      "de": "Kauaiklarino",
+      "lat": "Myadestes myadestinus",
+      "en": "Large Kauai Thrush"
+    },
+    "last_seen": "1993 oder 1996",
+    "location": {
+      "lat": 22.08182,
+      "lng": -159.52177
+    },
+    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
+    "habitat": "Kauai (Hawaii)"
+  },
+  {
+    "id": "siphonorhis_americana",
+    "name": {
+      "de": "Kleine Jamaika-Nachtschwalbe",
+      "lat": "Siphonorhis americana",
+      "en": "Jamaican Poorwill"
+    },
+    "last_seen": "19. Jhrdt. ?",
+    "location": {
+      "lat": 18.38928,
+      "lng": -77.33507
+    },
+    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
+    "habitat": "Jamaika"
+  },
+  {
+    "id": "emeus_crassus",
+    "name": {
+      "de": "Kleiner Moa",
+      "lat": "Emeus crassus",
+      "en": "Eastern Moa"
+    },
+    "last_seen": "um 1500",
+    "location": {
+      "lat": -40.90213,
+      "lng": 174.00167
+    },
+    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
+    "habitat": "Neuseeland (Südinsel)"
+  },
+  {
+    "id": "chloridops_kona",
+    "name": {
+      "de": "Kona-Papageischnäbler",
+      "lat": "Chloridops kona",
+      "en": "Kona Grosbeak"
+    },
+    "last_seen": "1894",
+    "location": {
+      "lat": 19.6367,
+      "lng": -155.43703
+    },
+    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
+    "habitat": "Big Island (Hawaii)"
+  },
+  {
+    "id": "drepanis_pacifica",
+    "name": {
+      "de": "Königskleidervogel",
+      "lat": "Drepanis pacifica",
+      "en": "Hawaii Mamo"
+    },
+    "last_seen": "1898",
+    "location": {
+      "lat": 19.53289,
+      "lng": -155.6028
+    },
+    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
+    "habitat": "Big Island (Hawaii)"
+  },
+  {
+    "id": "aplonis_corvina",
+    "name": {
+      "de": "Kosrae-Singstar",
+      "lat": "Aplonis corvina",
+      "en": "Kosrae Starling"
+    },
+    "last_seen": "1850er-Jahre",
+    "location": {
+      "lat": 5.29187,
+      "lng": 162.9834
+    },
+    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
+    "habitat": "Kosrae"
+  },
+  {
+    "id": "porzana_monasa",
+    "name": {
+      "de": "Kosrae-Sumpfhuhn",
+      "lat": "Porzana monasa",
+      "en": "Kosrae Crake"
+    },
+    "last_seen": "1850er-Jahre",
+    "location": {
+      "lat": 5.40985,
+      "lng": 163.01334
+    },
+    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
+    "habitat": "Kosrae, Ponape"
+  },
+  {
+    "id": "moho_apicalis",
+    "name": {
+      "de": "Krausschwanzmoho",
+      "lat": "Moho apicalis",
+      "en": "Oahu ‚O’o"
+    },
+    "last_seen": "1837",
+    "location": {
+      "lat": 21.51838,
+      "lng": -157.87568
+    },
+    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
+    "habitat": "Oahu (Hawaii)"
+  },
+  {
+    "id": "ara_tricolor",
+    "name": {
+      "de": "Kuba-Ara",
+      "lat": "Ara tricolor",
+      "en": "Cuban Macaw"
+    },
+    "last_seen": "Ende 19. Jhrdt.",
+    "location": {
+      "lat": 21.58065,
+      "lng": -79.86154
+    },
+    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
+    "habitat": "Kuba"
+  },
+  {
+    "id": "siphonorhis_daiquiri",
+    "name": {
+      "de": "Kuba-Nachtschwalbe",
+      "lat": "Siphonorhis daiquiri",
+      "en": "Cuban Pauraque"
+    },
+    "last_seen": "?",
+    "location": {
+      "lat": 21.44486,
+      "lng": -80.0324
+    },
+    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
+    "habitat": "Kuba"
+  },
+  {
+    "id": "campephilus_principalis_bairdii",
+    "name": {
+      "de": "Kubanischer Elfenbeinspecht",
+      "lat": "Campephilus principalis bairdii",
+      "en": "Cuban Ivory-billed Woodpecker"
+    },
+    "last_seen": "1987",
+    "location": {
+      "lat": 21.54648,
+      "lng": -80.46221
+    },
+    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
+    "habitat": "Kuba"
+  },
+  {
+    "id": "discosura_letitiae",
+    "name": {
+      "de": "Kupferfadenelfe",
+      "lat": "Discosura letitiae",
+      "en": "Letitia’s Thorntail"
+    },
+    "last_seen": "1852",
+    "location": {
+      "lat": -17.40111,
+      "lng": -64.93891
+    },
+    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
+    "habitat": "Bolivien"
+  },
+  {
+    "id": "camptorhynchus_labradorius",
+    "name": {
+      "de": "Labradorente",
+      "lat": "Camptorhynchus labradorius",
+      "en": "Labrador Duck"
+    },
+    "last_seen": "1878",
+    "location": {
+      "lat": 54.61574,
+      "lng": -104.46436
+    },
+    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
+    "habitat": "Nordamerika"
+  },
+  {
+    "id": "hemignathus_ellisianus_lanaiensis",
+    "name": {
+      "de": "Lanai-Akialoa",
+      "lat": "Hemignathus ellisianus lanaiensis",
+      "en": "Lanai Akialoa"
+    },
+    "last_seen": "1892",
+    "location": {
+      "lat": 20.82731,
+      "lng": -156.96718
+    },
+    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
+    "habitat": "Lanai (Hawaii)"
+  },
+  {
+    "id": "dysmorodrepanis_munroi",
+    "name": {
+      "de": "Lanai-Hakenschnabel",
+      "lat": "Dysmorodrepanis munroi",
+      "en": "Lanai Hookbill"
+    },
+    "last_seen": "1918",
+    "location": {
+      "lat": 20.7775,
+      "lng": -156.98061
+    },
+    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
+    "habitat": "Lanai (Hawaii)"
+  },
+  {
+    "id": "myadestes_lanaiensis",
+    "name": {
+      "de": "Lanaiklarino",
+      "lat": "Myadestes lanaiensis",
+      "en": "Olomao"
+    },
+    "last_seen": "1980er-Jahre ?",
+    "location": {
+      "lat": 19.57834,
+      "lng": -155.49608
+    },
+    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
+    "habitat": "Hawaii"
+  },
+  {
+    "id": "dendroscansor_decurvirostris",
+    "name": {
+      "de": "Langschnabel-Neuseeland-Schlüpfer",
+      "lat": "Dendroscansor decurvirostris",
+      "en": "Long-billed Wren"
+    },
+    "last_seen": "?",
+    "location": {
+      "lat": -41.00803,
+      "lng": 174.01025
+    },
+    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
+    "habitat": "Neuseeland"
+  },
+  {
+    "id": "phylloscopus_canariensis_exsul",
+    "name": {
+      "de": "Lanzarote-Zilpzalp",
+      "lat": "Phylloscopus canariensis exsul",
+      "en": "Eastern Canary Islands Chiffchaff"
+    },
+    "last_seen": "20. Jhrdt.",
+    "location": {
+      "lat": 29.06829,
+      "lng": -13.63125
+    },
+    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
+    "habitat": "Lanzarote"
+  },
+  {
+    "id": "himatione_fraithii",
+    "name": {
+      "de": "Laysan-Apapane",
+      "lat": "Himatione fraithii",
+      "en": "Laysan Honeycreeper"
+    },
+    "last_seen": "1923",
+    "location": {
+      "lat": 25.82226,
+      "lng": -171.78186
+    },
+    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
+    "habitat": "Laysan (Hawaii)"
+  },
+  {
+    "id": "porzana_palmeri",
+    "name": {
+      "de": "Laysan-Ralle",
+      "lat": "Porzana palmeri",
+      "en": "Laysan Rail"
+    },
+    "last_seen": "1944",
+    "location": {
+      "lat": 25.65554,
+      "lng": -171.66493
+    },
+    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
+    "habitat": "Laysan (Hawaii)"
+  },
+  {
+    "id": "acrocephalus_familiaris_familiaris",
+    "name": {
+      "de": "Laysan-Rohrsänger",
+      "lat": "Acrocephalus familiaris familiaris",
+      "en": "Laysan Millerbird"
+    },
+    "last_seen": "1915",
+    "location": {
+      "lat": 25.85301,
+      "lng": -171.74564
+    },
+    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
+    "habitat": "Laysan (Hawaii)"
+  },
+  {
+    "id": "erythromachus_leguati",
+    "name": {
+      "de": "Leguats Sumpfhuhn",
+      "lat": "Erythromachus leguati",
+      "en": "Rodrigues Rail"
+    },
+    "last_seen": "1750er-Jahre",
+    "location": {
+      "lat": -19.67404,
+      "lng": 63.43459
+    },
+    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
+    "habitat": "Rodrigues"
+  },
+  {
+    "id": "sylvietta_chapini",
+    "name": {
+      "de": "Lendusylvietta",
+      "lat": "Sylvietta chapini",
+      "en": "Chapin’s Crombec"
+    },
+    "last_seen": "20. Jhrdt.",
+    "location": {
+      "lat": 0.1704,
+      "lng": 25.00819
+    },
+    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
+    "habitat": "Kongo"
+  },
+  {
+    "id": "caloenas_maculata",
+    "name": {
+      "de": "Liverpooltaube",
+      "lat": "Caloenas maculata",
+      "en": "Spotted Green Pigeon"
+    },
+    "last_seen": "1820er-Jahre ?",
+    "location": {
+      "lat": -17.62369,
+      "lng": -149.40925
+    },
+    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
+    "habitat": "Tahiti ?"
+  },
+  {
+    "id": "zosterops_strenua",
+    "name": {
+      "de": "Lord-Howe-Brillenvogel",
+      "lat": "Zosterops strenua",
+      "en": "Robust White-Eye"
+    },
+    "last_seen": "1918",
+    "location": {
+      "lat": -31.47779,
+      "lng": 159.00564
+    },
+    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
+    "habitat": "Lord-Howe-Insel"
+  },
+  {
+    "id": "gerygone_insularis",
+    "name": {
+      "de": "Lord-Howe-Gerygone",
+      "lat": "Gerygone insularis",
+      "en": "Lord Howe Gerygone"
+    },
+    "last_seen": "1930",
+    "location": {
+      "lat": -31.47742,
+      "lng": 159.11552
+    },
+    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
+    "habitat": "Lord-Howe-Insel"
+  },
+  {
+    "id": "turdus_poliocephalus_vinitinctus",
+    "name": {
+      "de": "Lord-Howe-Inseldrossel",
+      "lat": "Turdus poliocephalus vinitinctus",
+      "en": "Lord Howe Thrush"
+    },
+    "last_seen": "1920er-Jahre",
+    "location": {
+      "lat": -31.50232,
+      "lng": 159.10796
+    },
+    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
+    "habitat": "Lord-Howel-Insel"
+  },
+  {
+    "id": "ninox_novaeseelandiae_albaria",
+    "name": {
+      "de": "Lord-Howe-Kuckuckskauz",
+      "lat": "Ninox novaeseelandiae albaria",
+      "en": "Lord Howe Boobook"
+    },
+    "last_seen": "1950er-Jahre",
+    "location": {
+      "lat": -31.59533,
+      "lng": 159.01426
+    },
+    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
+    "habitat": "Lord-Howe-Insel"
+  },
+  {
+    "id": "porphyrio_albus",
+    "name": {
+      "de": "Lord-Howe-Purpurhuhn",
+      "lat": "Porphyrio albus",
+      "en": "Lord Howe Swamphen"
+    },
+    "last_seen": "1790 oder später",
+    "location": {
+      "lat": -31.57635,
+      "lng": 158.96617
+    },
+    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
+    "habitat": "Lord-Howe-Insel"
+  },
+  {
+    "id": "columba_vitiensis_godmanae",
+    "name": {
+      "de": "Lord-Howe-Weißwangentaube",
+      "lat": "Columba vitiensis godmanae",
+      "en": "Lord Howe Pigeon"
+    },
+    "last_seen": "1850er-Jahre",
+    "location": {
+      "lat": -31.50635,
+      "lng": 159.14741
+    },
+    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
+    "habitat": "Lord-Howe-Insel"
+  },
+  {
+    "id": "cyanoramphus_subflavescens",
+    "name": {
+      "de": "Lord-Howe-Ziegensittich",
+      "lat": "Cyanoramphus subflavescens",
+      "en": "Lord Howe Parakeet"
+    },
+    "last_seen": "1860er-Jahre",
+    "location": {
+      "lat": -31.5676,
+      "lng": 159.15238
+    },
+    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
+    "habitat": "Lord-Howe-Insel"
+  },
+  {
+    "id": "cyanoramphus_erythrotis",
+    "name": {
+      "de": "Macquarie-Ziegensittich",
+      "lat": "Cyanoramphus erythrotis",
+      "en": "Macquarie Parakeet"
+    },
+    "last_seen": "1890er-Jahre",
+    "location": {
+      "lat": -54.64383,
+      "lng": 158.81366
+    },
+    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
+    "habitat": "Macquarieinsel"
+  },
+  {
+    "id": "columba_palumbus_maderensis",
+    "name": {
+      "de": "Madeira-Ringeltaube",
+      "lat": "Columba palumbus maderensis",
+      "en": "Madeiran Wood Pigeon"
+    },
+    "last_seen": "1904",
+    "location": {
+      "lat": 32.80453,
+      "lng": -16.92674
+    },
+    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
+    "habitat": "Madeira"
+  },
+  {
+    "id": "crypturellus_erythropus_saltuarius",
+    "name": {
+      "de": "Magdalenentinamu",
+      "lat": "Crypturellus erythropus saltuarius",
+      "en": "Magdalena Tinamou"
+    },
+    "last_seen": "20. Jhrdt.",
+    "location": {
+      "lat": 4.1617,
+      "lng": -71.92803
+    },
+    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
+    "habitat": "Kolumbien"
+  },
+  {
+    "id": "todiramphus_gambieri_gambieri",
+    "name": {
+      "de": "Mangareva-Liest",
+      "lat": "Todiramphus gambieri gambieri",
+      "en": "Mangareva Kingfisher"
+    },
+    "last_seen": "19. Jhrdt. ?",
+    "location": {
+      "lat": -23.03771,
+      "lng": -134.9508
+    },
+    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
+    "habitat": "Gambier-Inseln"
+  },
+  {
+    "id": "clytorhynchus_vitiensis_powelli",
+    "name": {
+      "de": "Manuʻa-Würgermonarch",
+      "lat": "Clytorhynchus vitiensis powelli",
+      "en": "Manu’a Shrikebill"
+    },
+    "last_seen": "1991",
+    "location": {
+      "lat": -14.24031,
+      "lng": -169.51875
+    },
+    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
+    "habitat": "Manua, Ofu-Olosega"
+  },
+  {
+    "id": "turdus_poliocephalus_mareensis",
+    "name": {
+      "de": "Maré-Inseldrossel",
+      "lat": "Turdus poliocephalus mareensis",
+      "en": "Maré Island Thrush"
+    },
+    "last_seen": "20. Jhrdt.",
+    "location": {
+      "lat": -21.51602,
+      "lng": 167.99349
+    },
+    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
+    "habitat": "Maré"
+  },
+  {
+    "id": "zosterops_semiflavus",
+    "name": {
+      "de": "Mariannebrillenvogel",
+      "lat": "Zosterops semiflavus",
+      "en": "Marianne White-Eye"
+    },
+    "last_seen": "1900",
+    "location": {
+      "lat": 15.22905,
+      "lng": 145.67507
+    },
+    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
+    "habitat": "Marianne Island"
+  },
+  {
+    "id": "athene_cunicularia_guadeloupensis",
+    "name": {
+      "de": "Marie-Galante-Kanincheneule",
+      "lat": "Athene cunicularia guadeloupensis",
+      "en": "Marie Galante Burrowing Owl"
+    },
+    "last_seen": "19. Jhrdt.",
+    "location": {
+      "lat": 15.91759,
+      "lng": -61.3315
+    },
+    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
+    "habitat": "Marie-Galante"
+  },
+  {
+    "id": "coracina_coerulescens_deschauenseei",
+    "name": {
+      "de": "Marinduque-Glanzraupenfänger",
+      "lat": "Coracina coerulescens deschauenseei",
+      "en": "Marinduque Blackish Cuckooshrike"
+    },
+    "last_seen": "1970er-Jahre ?",
+    "location": {
+      "lat": 13.44071,
+      "lng": 121.98269
+    },
+    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
+    "habitat": "Marinduque"
+  },
+  {
+    "id": "ardeotis_arabs_lynesi",
+    "name": {
+      "de": "Marokko-Trappe",
+      "lat": "Ardeotis arabs lynesi",
+      "en": "Moroccan Bustard"
+    },
+    "last_seen": "1993",
+    "location": {
+      "lat": 32.08148,
+      "lng": -4.89284
+    },
+    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
+    "habitat": "Marokko"
+  },
+  {
+    "id": "troglodytes_aedon_martinicensis",
+    "name": {
+      "de": "Martinique-Hauszaunkönig",
+      "lat": "Troglodytes aedon martinicensis",
+      "en": "Martinique Wren"
+    },
+    "last_seen": "19. Jhrdt.",
+    "location": {
+      "lat": 14.74443,
+      "lng": -60.95137
+    },
+    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
+    "habitat": "Martinique"
+  },
+  {
+    "id": "fulica_newtoni",
+    "name": {
+      "de": "Maskarenen-Blässhuhn",
+      "lat": "Fulica newtoni",
+      "en": "Mascarene Coot"
+    },
+    "last_seen": "1700",
+    "location": {
+      "lat": -20.66387,
+      "lng": 57.73636
+    },
+    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
+    "habitat": "Mauritius, Réunion"
+  },
+  {
+    "id": "porphyrio_caerulescens",
+    "name": {
+      "de": "Réunion-Purpurhuhn",
+      "lat": "Porphyrio caerulescens",
+      "en": "Réunion Swamphen"
+    },
+    "last_seen": "1730",
+    "location": {
+      "lat": -21.13334,
+      "lng": 55.52036
+    },
+    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
+    "habitat": "Réunion"
+  },
+  {
+    "id": "loxops_ochraceus",
+    "name": {
+      "de": "Maui-Akepakleidervogel",
+      "lat": "Loxops ochraceus",
+      "en": "Maui Akepa"
+    },
+    "last_seen": "1988 ?",
+    "location": {
+      "lat": 20.76604,
+      "lng": -156.36234
+    },
+    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
+    "habitat": "Maui (Hawaii)"
+  },
+  {
+    "id": "hemignathus_affinis",
+    "name": {
+      "de": "Maui-Sichelkleidervogel",
+      "lat": "Hemignathus affinis",
+      "en": "Maui Nukupuu"
+    },
+    "last_seen": "1990er-Jahre",
+    "location": {
+      "lat": 20.90976,
+      "lng": -156.26126
+    },
+    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
+    "habitat": "Maui (Hawaii)"
+  },
+  {
+    "id": "pomarea_pomarea",
+    "name": {
+      "de": "Maupiti-Monarch",
+      "lat": "Pomarea pomarea",
+      "en": "Maupiti Monarch"
+    },
+    "last_seen": "1850er-Jahre",
+    "location": {
+      "lat": -16.47935,
+      "lng": -152.22898
+    },
+    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
+    "habitat": "Maupiti"
+  },
+  {
+    "id": "mascarenotus_sauzieri",
+    "name": {
+      "de": "Mauritius-Eule",
+      "lat": "Mascarenotus sauzieri",
+      "en": "Mauritius Owl"
+    },
+    "last_seen": "1837",
+    "location": {
+      "lat": -20.33931,
+      "lng": 57.03354
+    },
+    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
+    "habitat": "Mauritius"
+  },
+  {
+    "id": "alectroenas_nitidissima",
+    "name": {
+      "de": "Mauritius-Fruchttaube",
+      "lat": "Alectroenas nitidissima",
+      "en": "Mauritius Blue Pigeon"
+    },
+    "last_seen": "1830er-Jahre",
+    "location": {
+      "lat": -20.31077,
+      "lng": 57.37576
+    },
+    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
+    "habitat": "Mauritius"
+  },
+  {
+    "id": "alopochen_mauritianus",
+    "name": {
+      "de": "Mauritius-Gans",
+      "lat": "Alopochen mauritianus",
+      "en": "Mauritius Sheldgoose"
+    },
+    "last_seen": "1690er-Jahre",
+    "location": {
+      "lat": -20.69148,
+      "lng": 57.57768
+    },
+    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
+    "habitat": "Mauritius"
+  },
+  {
+    "id": "psittacula_bensoni",
+    "name": {
+      "de": "Mauritius-Grausittich",
+      "lat": "Psittacula bensoni",
+      "en": "Mascarene Grey Parakeet"
+    },
+    "last_seen": "1730er-Jahre",
+    "location": {
+      "lat": -20.20583,
+      "lng": 57.52734
+    },
+    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
+    "habitat": "Mauritius, Réunion"
+  },
+  {
+    "id": "nycticorax_mauritianus",
+    "name": {
+      "de": "Mauritius-Nachtreiher",
+      "lat": "Nycticorax mauritianus",
+      "en": "Mauritius Night Heron"
+    },
+    "last_seen": "1700",
+    "location": {
+      "lat": -20.07532,
+      "lng": 57.65862
+    },
+    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
+    "habitat": "Mauritius"
+  },
+  {
+    "id": "lophopsittacus_mauritianus",
+    "name": {
+      "de": "Mauritius-Papagei",
+      "lat": "Lophopsittacus mauritianus",
+      "en": "Broad-billed Parrot"
+    },
+    "last_seen": "1680 ?",
+    "location": {
+      "lat": -20.34403,
+      "lng": 57.73865
+    },
+    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
+    "habitat": "Mauritius"
+  },
+  {
+    "id": "aphanapteryx_bonasia",
+    "name": {
+      "de": "Mauritius-Ralle",
+      "lat": "Aphanapteryx bonasia",
+      "en": "Red Rail"
+    },
+    "last_seen": "1700",
+    "location": {
+      "lat": -20.06819,
+      "lng": 57.1936
+    },
+    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
+    "habitat": "Mauritius"
+  },
+  {
+    "id": "anas_theodori",
+    "name": {
+      "de": "Mauritiusente",
+      "lat": "Anas theodori",
+      "en": "Mascarene Teal"
+    },
+    "last_seen": "1690er-Jahre",
+    "location": {
+      "lat": -20.56877,
+      "lng": 57.39993
+    },
+    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
+    "habitat": "Mauritius, Réunion"
+  },
+  {
+    "id": "porzana_nigra",
+    "name": {
+      "de": "Miller-Sumpfhuhn",
+      "lat": "Porzana nigra",
+      "en": "Tahiti Crake"
+    },
+    "last_seen": "1800",
+    "location": {
+      "lat": -17.61505,
+      "lng": -149.42408
+    },
+    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
+    "habitat": "Tahiti"
+  },
+  {
+    "id": "paroreomyza_flammea",
+    "name": {
+      "de": "Molokai-Kletterkleidervogel",
+      "lat": "Paroreomyza flammea",
+      "en": "Molokai Creeper"
+    },
+    "last_seen": "1963",
+    "location": {
+      "lat": 21.1073,
+      "lng": -157.02389
+    },
+    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
+    "habitat": "Molokai (Hawaii)"
+  },
+  {
+    "id": "acrocephalus_longirostris",
+    "name": {
+      "de": "Moorea-Rohrsänger",
+      "lat": "Acrocephalus longirostris",
+      "en": "Moorea Reed Warbler"
+    },
+    "last_seen": "1981",
+    "location": {
+      "lat": -17.50232,
+      "lng": -149.78316
+    },
+    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
+    "habitat": "Moorea"
+  },
+  {
+    "id": "cinclosoma_punctatum_anachoreta",
+    "name": {
+      "de": "Mount-Lofty-Fleckenflöter",
+      "lat": "Cinclosoma punctatum anachoreta",
+      "en": "Mount Lofty Spotted Quail-Thrush"
+    },
+    "last_seen": "1980er-Jahre",
+    "location": {
+      "lat": -27.01936,
+      "lng": 132.65126
+    },
+    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
+    "habitat": "Australien"
+  },
+  {
+    "id": "ptilinopus_arcanus",
+    "name": {
+      "de": "Negros-Fruchttaube",
+      "lat": "Ptilinopus arcanus",
+      "en": "Negros Fruit Dove"
+    },
+    "last_seen": "20. Jhrdt.",
+    "location": {
+      "lat": 9.88271,
+      "lng": 122.90716
+    },
+    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
+    "habitat": "Negros"
+  },
+  {
+    "id": "turnix_novaecaledoniae",
+    "name": {
+      "de": "Neukaledonien-Laufhühnchen",
+      "lat": "Turnix novaecaledoniae",
+      "en": "New Caledonian Buttonquail"
+    },
+    "last_seen": "1911",
+    "location": {
+      "lat": -21.47678,
+      "lng": 165.52437
+    },
+    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
+    "habitat": "Neukaledonien"
+  },
+  {
+    "id": "eurostopodus_exul",
+    "name": {
+      "de": "Neukaledonien-Nachtschwalbe",
+      "lat": "Eurostopodus exul",
+      "en": "New Caledonian Nightjar"
+    },
+    "last_seen": "1930er-Jahre ?",
+    "location": {
+      "lat": -21.48524,
+      "lng": 165.51537
+    },
+    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
+    "habitat": "Neukaledonien"
+  },
+  {
+    "id": "tympanuchus_phasianellus_hueyi",
+    "name": {
+      "de": "Neumexiko-Schweifhuhn",
+      "lat": "Tympanuchus phasianellus hueyi",
+      "en": "Sharp-tailed Grouse"
+    },
+    "last_seen": "1954",
+    "location": {
+      "lat": 34.53855,
+      "lng": -105.93343
+    },
+    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
+    "habitat": "Neumexiko"
+  },
+  {
+    "id": "coturnix_novaezelandiae",
+    "name": {
+      "de": "Neuseeländische Schwarzbrustwachtel",
+      "lat": "Coturnix novaezelandiae",
+      "en": "New Zealand Quail"
+    },
+    "last_seen": "1875",
+    "location": {
+      "lat": -41.00862,
+      "lng": 174.03146
+    },
+    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
+    "habitat": "Neuseeland"
+  },
+  {
+    "id": "gallinula_hodgenorum",
+    "name": {
+      "de": "Neuseeländisches Pfuhlhuhn",
+      "lat": "Gallinula hodgenorum",
+      "en": "Hodgens‘ Waterhen"
+    },
+    "last_seen": "18. Jhrdt.",
+    "location": {
+      "lat": -41.00429,
+      "lng": 174.10743
+    },
+    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
+    "habitat": "Neuseeland"
+  },
+  {
+    "id": "turnagra_tanagra",
+    "name": {
+      "de": "Nordinsel-Priol",
+      "lat": "Turnagra tanagra",
+      "en": "North Island Piopio"
+    },
+    "last_seen": "1955 ?",
+    "location": {
+      "lat": -41.00981,
+      "lng": 173.98777
+    },
+    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
+    "habitat": "Neuseeland (Nordinsel)"
+  },
+  {
+    "id": "cnemiornis_gracilis",
+    "name": {
+      "de": "Nordinsel-Riesengans",
+      "lat": "Cnemiornis gracilis",
+      "en": "North Island Goose"
+    },
+    "last_seen": "1400 ?",
+    "location": {
+      "lat": -41.01241,
+      "lng": 173.9342
+    },
+    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
+    "habitat": "Neuseeland (Nordinsel)"
+  },
+  {
+    "id": "coenocorypha_barrierensis",
+    "name": {
+      "de": "Nordinsel-Schnepfe",
+      "lat": "Coenocorypha barrierensis",
+      "en": "North Island Snipe"
+    },
+    "last_seen": "1870er-Jahre",
+    "location": {
+      "lat": -40.93819,
+      "lng": 174.07231
+    },
+    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
+    "habitat": "Neuseeland (Nordinsel)"
+  },
+  {
+    "id": "porphyrio_mantelli",
+    "name": {
+      "de": "Nordinsel-Takahe",
+      "lat": "Porphyrio mantelli",
+      "en": "North Island Takahe"
+    },
+    "last_seen": "1894",
+    "location": {
+      "lat": -40.97641,
+      "lng": 174.05206
+    },
+    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
+    "habitat": "Neuseeland (Nordinsel)"
+  },
+  {
+    "id": "ptilinopus_mercierii_mercierii",
+    "name": {
+      "de": "Nördliche Rotbart-Fruchttaube",
+      "lat": "Ptilinopus mercierii mercierii",
+      "en": "–"
+    },
+    "last_seen": "1850er-Jahre",
+    "location": {
+      "lat": -8.80446,
+      "lng": -140.02523
+    },
+    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
+    "habitat": "Nuku Hiva (Französisch-Polynesien)"
+  },
+  {
+    "id": "anas_georgica_niceforoi",
+    "name": {
+      "de": "Nördliche Spitzschwanzente",
+      "lat": "Anas georgica niceforoi",
+      "en": "Niceforo’s Pintail"
+    },
+    "last_seen": "1952",
+    "location": {
+      "lat": 3.68219,
+      "lng": -71.71932
+    },
+    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
+    "habitat": "Kolumbien"
+  },
+  {
+    "id": "pampusana_norfolkensis",
+    "name": {
+      "de": "Norfolk-Erdtaube",
+      "lat": "Pampusana norfolkensis",
+      "en": "Norfolk Ground Dove"
+    },
+    "last_seen": "1800",
+    "location": {
+      "lat": -29.05211,
+      "lng": 167.98098
+    },
+    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
+    "habitat": "Norfolkinsel"
+  },
+  {
+    "id": "turdus_poliocephalus_poliocephalus",
+    "name": {
+      "de": "Norfolk-Inseldrossel",
+      "lat": "Turdus poliocephalus poliocephalus",
+      "en": "Norfolk Thrush"
+    },
+    "last_seen": "1970er-Jahre",
+    "location": {
+      "lat": -29.05011,
+      "lng": 168.01017
+    },
+    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
+    "habitat": "Norfolkinsel"
+  },
+  {
+    "id": "lalage_leucopyga_leucopyga",
+    "name": {
+      "de": "Norfolk-Langschwanzlalage",
+      "lat": "Lalage leucopyga leucopyga",
+      "en": "Norfolk Island Long-tailed Triller"
+    },
+    "last_seen": "1940er-Jahre ?",
+    "location": {
+      "lat": -28.97662,
+      "lng": 167.98239
+    },
+    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
+    "habitat": "Norfolkinsel"
+  },
+  {
+    "id": "ninox_novaezelandeae_undulata",
+    "name": {
+      "de": "Norfolkinsel-Kuckuckskauz",
+      "lat": "Ninox novaezelandeae undulata",
+      "en": "Norfolk Boobook"
+    },
+    "last_seen": "1996",
+    "location": {
+      "lat": -29.01571,
+      "lng": 168.00318
+    },
+    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
+    "habitat": "Norfolkinsel"
+  },
+  {
+    "id": "pomarea_nukuhivae",
+    "name": {
+      "de": "Nuku-Hiva-Monarch",
+      "lat": "Pomarea nukuhivae",
+      "en": "Nuku Hiva Monarch"
+    },
+    "last_seen": "1930er-Jahre",
+    "location": {
+      "lat": -8.79072,
+      "lng": -140.12799
+    },
+    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
+    "habitat": "Nuku Hiva"
+  },
+  {
+    "id": "hemignathus_ellisianus_ellisianus",
+    "name": {
+      "de": "Oahu-Akialoa",
+      "lat": "Hemignathus ellisianus ellisianus",
+      "en": "Greater Akialoa"
+    },
+    "last_seen": "1940",
+    "location": {
+      "lat": 21.4799,
+      "lng": -157.97495
+    },
+    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
+    "habitat": "Oahu (Hawaii)"
+  },
+  {
+    "id": "paroreomyza_maculata",
+    "name": {
+      "de": "Oahu-Astläufer",
+      "lat": "Paroreomyza maculata",
+      "en": "Oahu Creeper"
+    },
+    "last_seen": "1990er-Jahre",
+    "location": {
+      "lat": 21.35965,
+      "lng": -158.02
+    },
+    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
+    "habitat": "Oahu (Hawaii)"
+  },
+  {
+    "id": "hemignathus_lucidus",
+    "name": {
+      "de": "Oahu-Sichelkleidervogel",
+      "lat": "Hemignathus lucidus",
+      "en": "Oahu Nukupuu"
+    },
+    "last_seen": "19. Jhrdt.",
+    "location": {
+      "lat": 19.60849,
+      "lng": -155.43342
+    },
+    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
+    "habitat": "Hawaii"
+  },
+  {
+    "id": "myadestes_woahensis",
+    "name": {
+      "de": "Oahuklarino",
+      "lat": "Myadestes woahensis",
+      "en": "Oahu Thrush"
+    },
+    "last_seen": "1850er-Jahre",
+    "location": {
+      "lat": 21.45101,
+      "lng": -157.98851
+    },
+    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
+    "habitat": "Oahu (Hawaii)"
+  },
+  {
+    "id": "moho_bishopi",
+    "name": {
+      "de": "Ohrbüschelmoho",
+      "lat": "Moho bishopi",
+      "en": "Bishop’s ‚O’o"
+    },
+    "last_seen": "1904 ?",
+    "location": {
+      "lat": 21.15292,
+      "lng": -156.96692
+    },
+    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
+    "habitat": "Molokai (Hawaii)"
+  },
+  {
+    "id": "acrocephalus_yamashinae",
+    "name": {
+      "de": "Pagan-Rohrsänger",
+      "lat": "Acrocephalus yamashinae",
+      "en": "Pagan Reed Warbler"
+    },
+    "last_seen": "1979 bis 1981",
+    "location": {
+      "lat": 18.14549,
+      "lng": 145.90102
+    },
+    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
+    "habitat": "Pagan"
+  },
+  {
+    "id": "rhodacanthis_palmeri",
+    "name": {
+      "de": "Palmers Papageischnäbler",
+      "lat": "Rhodacanthis palmeri",
+      "en": "Greater Koa Finch"
+    },
+    "last_seen": "1896",
+    "location": {
+      "lat": 19.56739,
+      "lng": -155.42703
+    },
+    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
+    "habitat": "Big Island"
+  },
+  {
+    "id": "psephotus_pulcherrimus",
+    "name": {
+      "de": "Paradiessittich",
+      "lat": "Psephotus pulcherrimus",
+      "en": "Paradise Parrot"
+    },
+    "last_seen": "1920er-Jahre",
+    "location": {
+      "lat": -27.04505,
+      "lng": 132.95721
+    },
+    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
+    "habitat": "Australien"
+  },
+  {
+    "id": "aplonis_pelzelni",
+    "name": {
+      "de": "Pelzelnstar",
+      "lat": "Aplonis pelzelni",
+      "en": "Pohnpei Starling"
+    },
+    "last_seen": "2000",
+    "location": {
+      "lat": 6.8796,
+      "lng": 158.10785
+    },
+    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
+    "habitat": "Pohnpei"
+  },
+  {
+    "id": "gallirallus_lafresnayanus",
+    "name": {
+      "de": "Pelzralle",
+      "lat": "Gallirallus lafresnayanus",
+      "en": "New Caledonian Rail"
+    },
+    "last_seen": "1890",
+    "location": {
+      "lat": -21.53067,
+      "lng": 165.47069
+    },
+    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
+    "habitat": "Neukaledonien"
+  },
+  {
+    "id": "eclectus_infectus",
+    "name": {
+      "de": "Polynesischer Edelpapagei",
+      "lat": "Eclectus infectus",
+      "en": "Oceanic Eclectus Parrot"
+    },
+    "last_seen": "18. Jhrdt. ?",
+    "location": {
+      "lat": -21.16454,
+      "lng": -175.13906
+    },
+    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
+    "habitat": "Tonga, Vanuatu"
+  },
+  {
+    "id": "moho_nobilis",
+    "name": {
+      "de": "Prachtmoho",
+      "lat": "Moho nobilis",
+      "en": "Hawaii ‚O’o"
+    },
+    "last_seen": "1934",
+    "location": {
+      "lat": 19.67004,
+      "lng": -155.53106
+    },
+    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
+    "habitat": "Big Island (Hawaii)"
+  },
+  {
+    "id": "psittacara_maugei",
+    "name": {
+      "de": "Puerto-Rico-Sittich",
+      "lat": "Psittacara maugei",
+      "en": "Puerto Rican Parakeet"
+    },
+    "last_seen": "1892",
+    "location": {
+      "lat": 18.48993,
+      "lng": -66.62187
+    },
+    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
+    "habitat": "Puerto Rico"
+  },
+  {
+    "id": "acrocephalus_musae",
+    "name": {
+      "de": "Raiatea-Rohrsänger",
+      "lat": "Acrocephalus musae",
+      "en": "Forster’s Reed Warbler"
+    },
+    "last_seen": "1870er-Jahre",
+    "location": {
+      "lat": -16.66436,
+      "lng": -151.53667
+    },
+    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
+    "habitat": "Raiatea"
+  },
+  {
+    "id": "aplonis_ulietensis",
+    "name": {
+      "de": "Raiateastar",
+      "lat": "Aplonis ulietensis",
+      "en": "Raiatea Starling"
+    },
+    "last_seen": "1774 bis 1850",
+    "location": {
+      "lat": -16.70262,
+      "lng": -151.49095
+    },
+    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
+    "habitat": "Raiatea"
+  },
+  {
+    "id": "megapodius_sp",
+    "name": {
+      "de": "Raoulinsel-Großfußhuhn",
+      "lat": "Megapodius sp.",
+      "en": "Raoul Island Scrubfowl"
+    },
+    "last_seen": "1876",
+    "location": {
+      "lat": -29.23642,
+      "lng": -177.89773
+    },
+    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
+    "habitat": "Raoul Island"
+  },
+  {
+    "id": "anas_gibberifrons_remissa",
+    "name": {
+      "de": "Rennell-Weißkehlente",
+      "lat": "Anas gibberifrons remissa",
+      "en": "Grey Teal"
+    },
+    "last_seen": "1959",
+    "location": {
+      "lat": -11.63874,
+      "lng": 160.28002
+    },
+    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
+    "habitat": "Rennell (Salomonen)"
+  },
+  {
+    "id": "mascarenotus_grucheti",
+    "name": {
+      "de": "Réunion-Eule",
+      "lat": "Mascarenotus grucheti",
+      "en": "Réunion Owl"
+    },
+    "last_seen": "18. Jhrdt. ?",
+    "location": {
+      "lat": -21.14174,
+      "lng": 55.52589
+    },
+    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
+    "habitat": "Réunion"
+  },
+  {
+    "id": "micrathene_whitneyi_graysoni",
+    "name": {
+      "de": "Socorro-Elfenkauz",
+      "lat": "Micrathene whitneyi graysoni",
+      "en": "Socorro Elf Owl"
+    },
+    "last_seen": "1970er-Jahre ?",
+    "location": {
+      "lat": 18.82301,
+      "lng": -111.02309
+    },
+    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
+    "habitat": "Socorro"
+  },
+  {
+    "id": "aphanocrex_podarces",
+    "name": {
+      "de": "St.-Helena-Ralle",
+      "lat": "Aphanocrex podarces",
+      "en": "Saint Helena Rail"
+    },
+    "last_seen": "Anfang 16. Jhrdt.",
+    "location": {
+      "lat": -15.86234,
+      "lng": -5.72388
+    },
+    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
+    "habitat": "St. Helena"
+  },
+  {
+    "id": "pseudobulweria_rupinarum",
+    "name": {
+      "de": "St.-Helena-Riesensturmvogel",
+      "lat": "Pseudobulweria rupinarum",
+      "en": "Saint Helena Petrel"
+    },
+    "last_seen": "Anfang 16. Jhrdt.",
+    "location": {
+      "lat": -15.92373,
+      "lng": -5.76387
+    },
+    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
+    "habitat": "St. Helena"
+  },
+  {
+    "id": "bulweria_bifax",
+    "name": {
+      "de": "St.-Helena-Sturmvogel",
+      "lat": "Bulweria bifax",
+      "en": "Olson’s Petrel"
+    },
+    "last_seen": "Anfang 16. Jhrdt.",
+    "location": {
+      "lat": -16.04624,
+      "lng": -5.68194
+    },
+    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
+    "habitat": "St. Helena"
+  },
+  {
+    "id": "zapornia_astrictocarpus",
+    "name": {
+      "de": "St.-Helena-Sumpfhuhn",
+      "lat": "Zapornia astrictocarpus",
+      "en": "Saint Helena Crake"
+    },
+    "last_seen": "Anfang 16. Jhrdt.",
+    "location": {
+      "lat": -16.07488,
+      "lng": -5.74727
+    },
+    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
+    "habitat": "St. Helena"
+  },
+  {
+    "id": "traversia_lyalli",
+    "name": {
+      "de": "Stephenschlüpfer",
+      "lat": "Traversia lyalli",
+      "en": "Lyall’s Wren"
+    },
+    "last_seen": "1895",
+    "location": {
+      "lat": -40.57152,
+      "lng": 174.065
+    },
+    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
+    "habitat": "Stephens Island"
+  },
+  {
+    "id": "callaeas_cinerea",
+    "name": {
+      "de": "Südinsel-Kokako",
+      "lat": "Callaeas cinerea",
+      "en": "South Island Kōkako"
+    },
+    "last_seen": "2007 ?",
+    "location": {
+      "lat": -40.9247,
+      "lng": 173.92862
+    },
+    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
+    "habitat": "Neuseeland (Südinsel)"
+  },
+  {
+    "id": "turnagra_capensis",
+    "name": {
+      "de": "Südinsel-Priol",
+      "lat": "Turnagra capensis",
+      "en": "South Island Piopio"
+    },
+    "last_seen": "1960er-Jahre ?",
+    "location": {
+      "lat": -41.06183,
+      "lng": 174.04474
+    },
+    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
+    "habitat": "Neuseeland (Südinsel)"
+  },
+  {
+    "id": "coenocorypha_iredalei",
+    "name": {
+      "de": "Südinsel-Schnepfe",
+      "lat": "Coenocorypha iredalei",
+      "en": "South Island Snipe"
+    },
+    "last_seen": "1964",
+    "location": {
+      "lat": -44.12804,
+      "lng": 169.93715
+    },
+    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
+    "habitat": "Neuseeland (Südinsel), Stewart Island"
+  },
+  {
+    "id": "ptilinopus_mercierii_tristrami",
+    "name": {
+      "de": "Südliche Rotbart-Fruchttaube",
+      "lat": "Ptilinopus mercierii tristrami",
+      "en": "–"
+    },
+    "last_seen": "1922",
+    "location": {
+      "lat": -9.77418,
+      "lng": -139.0303
+    },
+    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
+    "habitat": "Hiva Oa (Französisch-Polynesien)"
+  },
+  {
+    "id": "cyornis_ruckii",
+    "name": {
+      "de": "Sumatra-Blauschnäpper",
+      "lat": "Cyornis ruckii",
+      "en": "Rück’s Blue Flycatcher"
+    },
+    "last_seen": "20. Jhrdt.",
+    "location": {
+      "lat": 2.37945,
+      "lng": 112.46466
+    },
+    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
+    "habitat": "Malaysia oder Indochina"
+  },
+  {
+    "id": "cyanoramphus_zealandicus",
+    "name": {
+      "de": "Tahiti-Laufsittich",
+      "lat": "Cyanoramphus zealandicus",
+      "en": "Black-fronted Parakeet"
+    },
+    "last_seen": "1850",
+    "location": {
+      "lat": -17.68956,
+      "lng": -149.413
+    },
+    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
+    "habitat": "Tahiti"
+  },
+  {
+    "id": "cisticola_restrictus",
+    "name": {
+      "de": "Tana-Cistensänger",
+      "lat": "Cisticola restrictus",
+      "en": "Tana River Cisticola"
+    },
+    "last_seen": "1970er-Jahre ?",
+    "location": {
+      "lat": 0.85697,
+      "lng": 38.01993
+    },
+    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
+    "habitat": "Kenia"
+  },
+  {
+    "id": "gallicolumba_ferruginea",
+    "name": {
+      "de": "Tanna-Erdtaube",
+      "lat": "Gallicolumba ferruginea",
+      "en": "Tanna Ground Dove"
+    },
+    "last_seen": "18. Jhrdt.",
+    "location": {
+      "lat": -19.55063,
+      "lng": 169.28016
+    },
+    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
+    "habitat": "Tanna"
+  },
+  {
+    "id": "turnix_sylvatica_suluensis",
+    "name": {
+      "de": "Tawi-Tawi-Laufhühnchen",
+      "lat": "Turnix sylvatica suluensis",
+      "en": "Small Buttonquail"
+    },
+    "last_seen": "1950er-Jahre",
+    "location": {
+      "lat": 5.16927,
+      "lng": 119.97483
+    },
+    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
+    "habitat": "Tawitawi"
+  },
+  {
+    "id": "gallicolumba_menagei",
+    "name": {
+      "de": "Tawitawitaube",
+      "lat": "Gallicolumba menagei",
+      "en": "Sulu Bleeding-Heart"
+    },
+    "last_seen": "20. Jhrdt. ?",
+    "location": {
+      "lat": 5.18533,
+      "lng": 120.01283
+    },
+    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
+    "habitat": "Tawi-Tawi"
+  },
+  {
+    "id": "aimophila_ruficeps_sanctorum",
+    "name": {
+      "de": "Todos-Santos-Rostscheitelammer",
+      "lat": "Aimophila ruficeps sanctorum",
+      "en": "Todos Santos Rufous-crowned Sparrow"
+    },
+    "last_seen": "1970er-Jahre",
+    "location": {
+      "lat": 31.77104,
+      "lng": -116.78539
+    },
+    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
+    "habitat": "Todos-Santos-Inseln"
+  },
+  {
+    "id": "gallinula_nesiotis",
+    "name": {
+      "de": "Tristan-Inselralle",
+      "lat": "Gallinula nesiotis",
+      "en": "Tristan Moorhen"
+    },
+    "last_seen": "19. Jhrdt.",
+    "location": {
+      "lat": -37.07519,
+      "lng": -12.25892
+    },
+    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
+    "habitat": "Tristan da Cunha"
+  },
+  {
+    "id": "anodorhynchus_glaucus",
+    "name": {
+      "de": "Türkisara",
+      "lat": "Anodorhynchus glaucus",
+      "en": "Glaucous Macaw"
+    },
+    "last_seen": "20. Jhrdt.",
+    "location": {
+      "lat": -34.05011,
+      "lng": -64.24715
+    },
+    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
+    "habitat": "Argentinien (Norden)"
+  },
+  {
+    "id": "eriocnemis_godini",
+    "name": {
+      "de": "Türkiskehl-Höschenkolibri",
+      "lat": "Eriocnemis godini",
+      "en": "Turquoise-throated Puffleg"
+    },
+    "last_seen": "1850",
+    "location": {
+      "lat": 3.79819,
+      "lng": -71.63719
+    },
+    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
+    "habitat": "Ecuador, (Kolumbien)"
+  },
+  {
+    "id": "pomarea_mira",
+    "name": {
+      "de": "Ua-Pou-Monarch",
+      "lat": "Pomarea mira",
+      "en": "Ua Pou Monarch"
+    },
+    "last_seen": "1985",
+    "location": {
+      "lat": -9.36935,
+      "lng": -140.0682
+    },
+    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
+    "habitat": "Ua Pou (Französisch-Polynesien)"
+  },
+  {
+    "id": "caprimulgus_centralasicus",
+    "name": {
+      "de": "Vaurie-Nachtschwalbe",
+      "lat": "Caprimulgus centralasicus",
+      "en": "Vaurie’s Nightjar"
+    },
+    "last_seen": "1929 ?",
+    "location": {
+      "lat": 35.02311,
+      "lng": 105.10573
+    },
+    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
+    "habitat": "China"
+  },
+  {
+    "id": "amazona_violacea",
+    "name": {
+      "de": "Veilchen-Amazone",
+      "lat": "Amazona violacea",
+      "en": "Guadeloupe Amazon"
+    },
+    "last_seen": "1750er-Jahre",
+    "location": {
+      "lat": 16.14476,
+      "lng": -61.82983
+    },
+    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
+    "habitat": "Guadeloupe"
+  },
+  {
+    "id": "megapodius_amissus",
+    "name": {
+      "de": "Viti-Levu-Großfußhuhn",
+      "lat": "Megapodius amissus",
+      "en": "Viti Levu Scrubfowl"
+    },
+    "last_seen": "19. Jhrdt.",
+    "location": {
+      "lat": -17.8051,
+      "lng": 178.06152
+    },
+    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
+    "habitat": "Viti Levu"
+  },
+  {
+    "id": "megadyptes_waitaha",
+    "name": {
+      "de": "Waitaha-Pinguin",
+      "lat": "Megadyptes waitaha",
+      "en": "Waitaha Penguin"
+    },
+    "last_seen": "1500 bis 1550",
+    "location": {
+      "lat": -40.9166,
+      "lng": 173.97899
+    },
+    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
+    "habitat": "Neuseeland (Südinsel)"
+  },
+  {
+    "id": "gallirallus_wakensis",
+    "name": {
+      "de": "Wake-Ralle",
+      "lat": "Gallirallus wakensis",
+      "en": "Wake Island Rail"
+    },
+    "last_seen": "1945",
+    "location": {
+      "lat": 19.16332,
+      "lng": 166.70354
+    },
+    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
+    "habitat": "Wake-Insel"
+  },
+  {
+    "id": "megalapteryx_didinus",
+    "name": {
+      "de": "Waldmoa",
+      "lat": "Megalapteryx didinus",
+      "en": "Upland Moa"
+    },
+    "last_seen": "1500",
+    "location": {
+      "lat": -40.99466,
+      "lng": 174.03846
+    },
+    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
+    "habitat": "Neuseeland (Südinsel)"
+  },
+  {
+    "id": "xenicus_longipes",
+    "name": {
+      "de": "Waldschlüpfer",
+      "lat": "Xenicus longipes",
+      "en": "Bush Wren"
+    },
+    "last_seen": "1972",
+    "location": {
+      "lat": -40.99644,
+      "lng": 174.01525
+    },
+    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
+    "habitat": "Neuseeland"
+  },
+  {
+    "id": "zosterops_albogularis",
+    "name": {
+      "de": "Weißbrust-Brillenvogel",
+      "lat": "Zosterops albogularis",
+      "en": "White-chested White-Eye"
+    },
+    "last_seen": "2006",
+    "location": {
+      "lat": -29.01666,
+      "lng": 168.00339
+    },
+    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
+    "habitat": "Norfolkinsel"
+  },
+  {
+    "id": "melamprosops_phaeosoma",
+    "name": {
+      "de": "Weißwangen-Kleidervogel",
+      "lat": "Melamprosops phaeosoma",
+      "en": "Black-faced Honeycreeper"
+    },
+    "last_seen": "2004 ?",
+    "location": {
+      "lat": 20.80469,
+      "lng": -156.37786
+    },
+    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
+    "habitat": "Maui (Hawaii)"
+  },
+  {
+    "id": "sceloglaux_albifacies",
+    "name": {
+      "de": "Weißwangenkauz",
+      "lat": "Sceloglaux albifacies",
+      "en": "Laughing Owl"
+    },
+    "last_seen": "1914 ?",
+    "location": {
+      "lat": -43.96764,
+      "lng": 170.0678
+    },
+    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
+    "habitat": "Stewart Island, Neuseeland (Südinsel)"
+  },
+  {
+    "id": "acrocephalus_astrolabii",
+    "name": {
+      "de": "Yaprohrsänger",
+      "lat": "Acrocephalus astrolabii",
+      "en": "Mangareva Reed Warbler"
+    },
+    "last_seen": "1850er-Jahre ?",
+    "location": {
+      "lat": -23.08071,
+      "lng": -134.91974
+    },
+    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
+    "habitat": "Gambier-Inseln"
+  },
+  {
+    "id": "pachyanas_chathamica",
+    "name": {
+      "de": "Chatham-Ente",
+      "lat": "Pachyanas chathamica",
+      "en": "Chatham Duck"
+    },
+    "last_seen": "1350 bis 1791",
+    "location": {
+      "lat": -43.90004,
+      "lng": -176.51483
+    },
+    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
+    "habitat": "Chathaminseln"
+  },
+  {
+    "id": "coenocorypha_chathamica",
+    "name": {
+      "de": "Chatham-Schnepfe",
+      "lat": "Coenocorypha chathamica",
+      "en": "Forbes’s Snipe"
+    },
+    "last_seen": "19. Jhrdt. ?",
+    "location": {
+      "lat": -43.92471,
+      "lng": -176.47452
+    },
+    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
+    "habitat": "Chathaminseln"
+  },
+  {
+    "id": "nestor_chathamensis",
+    "name": {
+      "de": "Chatham-Kaka",
+      "lat": "Nestor chathamensis",
+      "en": "Chatham Kaka"
+    },
+    "last_seen": "1550",
+    "location": {
+      "lat": -44.01553,
+      "lng": -176.57106
+    },
+    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
+    "habitat": "Chathaminseln"
+  },
+  {
+    "id": "acrocephalus_luscinius",
+    "name": {
+      "de": "Sprosserrohrsänger",
+      "lat": "Acrocephalus luscinius",
+      "en": "Nightingale Reed Warbler"
+    },
+    "last_seen": "1960er-Jahre",
+    "location": {
+      "lat": 13.5449,
+      "lng": 144.85403
+    },
+    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
+    "habitat": "Guam"
+  },
+  {
+    "id": "acrocephalus_nijoi",
+    "name": {
+      "de": "Aguijanrohrsänger",
+      "lat": "Acrocephalus nijoi",
+      "en": "Aguiguan Reed Warbler"
+    },
+    "last_seen": "1995",
+    "location": {
+      "lat": 14.84519,
+      "lng": 145.62373
+    },
+    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
+    "habitat": "Aguijan"
+  },
+  {
+    "id": "aegolius_gradyi",
+    "name": {
+      "de": "(Eule)",
+      "lat": "Aegolius gradyi",
+      "en": "Bermuda Saw-Whet Owl"
+    },
+    "last_seen": "17. Jhrdt.",
+    "location": {
+      "lat": 32.34819,
+      "lng": -64.78799
+    },
+    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
+    "habitat": "Bermuda"
+  },
+  {
+    "id": "alectroenas_payandeei",
+    "name": {
+      "de": "(Blaue Fruchttaube)",
+      "lat": "Alectroenas payandeei",
+      "en": "Rodrigues Blue Pigeon"
+    },
+    "last_seen": "17. Jhrdt.",
+    "location": {
+      "lat": -19.67539,
+      "lng": 63.36773
+    },
+    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
+    "habitat": "Rodrigues"
+  },
+  {
+    "id": "aplonis_fusca",
+    "name": {
+      "de": "Norfolk-Star",
+      "lat": "Aplonis fusca",
+      "en": "Tasman Starling"
+    },
+    "last_seen": "1923",
+    "location": {
+      "lat": -31.59662,
+      "lng": 158.98533
+    },
+    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
+    "habitat": "Norfolk-, Lord-Howe-Insel"
+  },
+  {
+    "id": "bermuteo_avivorus",
+    "name": {
+      "de": "(Habichtartiger)",
+      "lat": "Bermuteo avivorus",
+      "en": "Bermuda Hawk"
+    },
+    "last_seen": "17. Jhrdt. ?",
+    "location": {
+      "lat": 32.29776,
+      "lng": -64.7543
+    },
+    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
+    "habitat": "Bermuda"
+  },
+  {
+    "id": "colaptes_oceanicus",
+    "name": {
+      "de": "(Specht)",
+      "lat": "Colaptes oceanicus",
+      "en": "Bermuda Flicker"
+    },
+    "last_seen": "17. Jhrdt. ?",
+    "location": {
+      "lat": 32.29431,
+      "lng": -64.77154
+    },
+    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
+    "habitat": "Bermuda"
+  },
+  {
+    "id": "columba_thiriouxi",
+    "name": {
+      "de": "(Taube)",
+      "lat": "Columba thiriouxi",
+      "en": "Mauritius Woodpigeon"
+    },
+    "last_seen": "1730er-Jahre",
+    "location": {
+      "lat": -19.78213,
+      "lng": 57.89409
+    },
+    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
+    "habitat": "Mauritius"
+  },
+  {
+    "id": "stephanoaetus_mahery",
+    "name": {
+      "de": "Madagaskar-Kronenadler",
+      "lat": "Stephanoaetus mahery",
+      "en": "Malagasy Crowned Eagle"
+    },
+    "last_seen": "16. Jhrdt.",
+    "location": {
+      "lat": -19.98485,
+      "lng": 47.09614
+    },
+    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
+    "habitat": "Madagaskar"
+  },
+  {
+    "id": "porphyrio_kukwiedei",
+    "name": {
+      "de": "Neukaledonisches Purpurhuhn",
+      "lat": "Porphyrio kukwiedei",
+      "en": "New Caledonian Gallinule"
+    },
+    "last_seen": "19. Jhrdt. ?",
+    "location": {
+      "lat": -21.57383,
+      "lng": 165.55827
+    },
+    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
+    "habitat": "Neukaledonien"
+  },
+  {
+    "id": "porphyrio_paepae",
+    "name": {
+      "de": "Koau",
+      "lat": "Porphyrio paepae",
+      "en": "Marquesas Swamphen"
+    },
+    "last_seen": "1937",
+    "location": {
+      "lat": -10.04292,
+      "lng": -138.98859
+    },
+    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
+    "habitat": "Tahuata, Hiva Oa"
+  },
+  {
+    "id": "prosobonia_ellisi",
+    "name": {
+      "de": "Moorea-Südseeläufer",
+      "lat": "Prosobonia ellisi",
+      "en": "Moorea Sandpiper"
+    },
+    "last_seen": "1777",
+    "location": {
+      "lat": -17.5139,
+      "lng": -149.82512
+    },
+    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
+    "habitat": "Moorea"
+  },
+  {
+    "id": "lewinia_pectoralis_clelandi",
+    "name": {
+      "de": "Westliche Lewnin Ralle",
+      "lat": "Lewinia pectoralis clelandi",
+      "en": "Western Lewin’s Rail"
+    },
+    "last_seen": "1932",
+    "location": {
+      "lat": -27.02424,
+      "lng": 132.78749
+    },
+    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
+    "habitat": "Australien"
+  },
+  {
+    "id": "philydor_novaesi",
+    "name": {
+      "de": "Alagoasblattspäher",
+      "lat": "Philydor novaesi",
+      "en": "Alagoas Foliage-Gleaner"
+    },
+    "last_seen": "2011",
+    "location": {
+      "lat": -10.0005,
+      "lng": -54.87309
+    },
+    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
+    "habitat": "Brasilien"
+  },
+  {
+    "id": "dryolimnas_cuvieri_abbotti",
+    "name": {
+      "de": "Assumption-Weißkehlralle",
+      "lat": "Dryolimnas cuvieri abbotti",
+      "en": "Assumption White-throated Rail"
+    },
+    "last_seen": "zw. 1907 und 1937",
+    "location": {
+      "lat": -4.20681,
+      "lng": 55.98114
+    },
+    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
+    "habitat": "Assumption (Seychellen)"
+  },
+  {
+    "id": "falco_duboisi",
+    "name": {
+      "de": "Réunion-Falke",
+      "lat": "Falco duboisi",
+      "en": "Réunion Kestrel"
+    },
+    "last_seen": "1700",
+    "location": {
+      "lat": -21.1874,
+      "lng": 55.43298
+    },
+    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
+    "habitat": "Réunion"
+  },
+  {
+    "id": "alopochen_kervazoi",
+    "name": {
+      "de": "Réunion-Gans",
+      "lat": "Alopochen kervazoi",
+      "en": "Réunion Sheldgoose"
+    },
+    "last_seen": "1690er-Jahre",
+    "location": {
+      "lat": -21.07193,
+      "lng": 55.62839
+    },
+    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
+    "habitat": "Réunion"
+  },
+  {
+    "id": "psittacula_eques_eques",
+    "name": {
+      "de": "Réunion-Halsbandsittich",
+      "lat": "Psittacula eques eques",
+      "en": "Echo Parakeet"
+    },
+    "last_seen": "1732",
+    "location": {
+      "lat": -21.18803,
+      "lng": 55.47763
+    },
+    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
+    "habitat": "Réunion"
+  },
+  {
+    "id": "nycticorax_duboisi",
+    "name": {
+      "de": "Réunion-Nachtreiher",
+      "lat": "Nycticorax duboisi",
+      "en": "Réunion Night Heron"
+    },
+    "last_seen": "17. Jhrdt.",
+    "location": {
+      "lat": -21.13571,
+      "lng": 55.46283
+    },
+    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
+    "habitat": "Réunion"
+  },
+  {
+    "id": "dryolimnas_augusti",
+    "name": {
+      "de": "Réunion-Ralle",
+      "lat": "Dryolimnas augusti",
+      "en": "Réunion Rail"
+    },
+    "last_seen": "17. Jhrdt.",
+    "location": {
+      "lat": -21.18463,
+      "lng": 55.4709
+    },
+    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
+    "habitat": "Réunion"
+  },
+  {
+    "id": "mascarinus_mascarinus",
+    "name": {
+      "de": "Réunion-Sittich",
+      "lat": "Mascarinus mascarinus",
+      "en": "Mascarene Parrot"
+    },
+    "last_seen": "1834 ?",
+    "location": {
+      "lat": -21.13365,
+      "lng": 55.53136
+    },
+    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
+    "habitat": "Réunion"
+  },
+  {
+    "id": "foudia_delloni",
+    "name": {
+      "de": "Réunion-Weber",
+      "lat": "Foudia delloni",
+      "en": "Réunion Fody"
+    },
+    "last_seen": "17. Jhrdt.",
+    "location": {
+      "lat": -21.19994,
+      "lng": 55.62107
+    },
+    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
+    "habitat": "Réunion"
+  },
+  {
+    "id": "hypsipetes_cowlesi",
+    "name": {
+      "de": "Rodrigues-Bülbül",
+      "lat": "Hypsipetes cowlesi",
+      "en": "Rodrigues Bulbul"
+    },
+    "last_seen": "17. oder 18. Jhrdt.",
+    "location": {
+      "lat": -19.75059,
+      "lng": 63.37716
+    },
+    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
+    "habitat": "Rodrigues"
+  },
+  {
+    "id": "mascarenotus_murivorus",
+    "name": {
+      "de": "Rodrigues-Eule",
+      "lat": "Mascarenotus murivorus",
+      "en": "Rodrigues Owl"
+    },
+    "last_seen": "1750er-Jahre",
+    "location": {
+      "lat": -19.705,
+      "lng": 63.39566
+    },
+    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
+    "habitat": "Rodrigues"
+  },
+  {
+    "id": "alectroenas_rodericana",
+    "name": {
+      "de": "Rodrigues-Fruchttaube",
+      "lat": "Alectroenas rodericana",
+      "en": "Rodrigues Pigeon"
+    },
+    "last_seen": "18. Jhrdt.",
+    "location": {
+      "lat": -19.69183,
+      "lng": 63.42972
+    },
+    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
+    "habitat": "Rodrigues"
+  },
+  {
+    "id": "nycticorax_megacephalus",
+    "name": {
+      "de": "Rodrigues-Nachtreiher",
+      "lat": "Nycticorax megacephalus",
+      "en": "Rodrigues Night-Heron"
+    },
+    "last_seen": "1750er-Jahre",
+    "location": {
+      "lat": -19.71243,
+      "lng": 63.47406
+    },
+    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
+    "habitat": "Rodrigues"
+  },
+  {
+    "id": "necropsittacus_rodericanus",
+    "name": {
+      "de": "Rodrigues-Papagei",
+      "lat": "Necropsittacus rodericanus",
+      "en": "Rodrigues Parrot"
+    },
+    "last_seen": "18. Jhrdt.",
+    "location": {
+      "lat": -19.65486,
+      "lng": 63.40847
+    },
+    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
+    "habitat": "Rodrigues"
+  },
+  {
+    "id": "psittacula_exsul",
+    "name": {
+      "de": "Rodrigues-Sittich",
+      "lat": "Psittacula exsul",
+      "en": "Newton’s Parakeet"
+    },
+    "last_seen": "1875",
+    "location": {
+      "lat": -19.73886,
+      "lng": 63.36259
+    },
+    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
+    "habitat": "Rodrigues"
+  },
+  {
+    "id": "pezophaps_solitaria",
+    "name": {
+      "de": "Rodrigues-Solitär",
+      "lat": "Pezophaps solitaria",
+      "en": "Rodrigues Solitaire"
+    },
+    "last_seen": "1730",
+    "location": {
+      "lat": -19.71862,
+      "lng": 63.36451
+    },
+    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
+    "habitat": "Rodrigues"
+  },
+  {
+    "id": "necropsar_rodericanus",
+    "name": {
+      "de": "Rodrigues-Star",
+      "lat": "Necropsar rodericanus",
+      "en": "Rodrigues Starling"
+    },
+    "last_seen": "18. Jhrdt.",
+    "location": {
+      "lat": -19.71807,
+      "lng": 63.36411
+    },
+    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
+    "habitat": "Rodrigues"
+  },
+  {
+    "id": "rhodonessa_caryophyllacea",
+    "name": {
+      "de": "Rosenkopfente",
+      "lat": "Rhodonessa caryophyllacea",
+      "en": "Pink-headed Duck"
+    },
+    "last_seen": "1949 ?",
+    "location": {
+      "lat": 20.17866,
+      "lng": 77.19904
+    },
+    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
+    "habitat": "Indien, Bangladesch, Myanmar"
+  },
+  {
+    "id": "turdus_ravidus",
+    "name": {
+      "de": "Rotaugendrossel",
+      "lat": "Turdus ravidus",
+      "en": "Grand Cayman Thrush"
+    },
+    "last_seen": "1940er-Jahre",
+    "location": {
+      "lat": 19.1706,
+      "lng": -81.13168
+    },
+    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
+    "habitat": "Grand Cayman"
+  },
+  {
+    "id": "petrochelidon_perdita",
+    "name": {
+      "de": "Rotmeerschwalbe",
+      "lat": "Petrochelidon perdita",
+      "en": "Red Sea Cliff Swallow"
+    },
+    "last_seen": "20. Jhrdt.",
+    "location": {
+      "lat": 20.55746,
+      "lng": 39.01125
+    },
+    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
+    "habitat": "Rotes Meer"
+  },
+  {
+    "id": "anodorhynchus_purpurascens",
+    "name": {
+      "de": "Rotschillernder Blauara",
+      "lat": "Anodorhynchus purpurascens",
+      "en": "Guadeloupe Amazon"
+    },
+    "last_seen": "19. Jhrdt. ?",
+    "location": {
+      "lat": 16.41142,
+      "lng": -61.40901
+    },
+    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
+    "habitat": "Guadeloupe"
+  },
+  {
+    "id": "gallirallus_pacificus",
+    "name": {
+      "de": "Rotschnabelralle",
+      "lat": "Gallirallus pacificus",
+      "en": "Tahiti Rail"
+    },
+    "last_seen": "19. Jhrdt.",
+    "location": {
+      "lat": -17.67073,
+      "lng": -149.48614
+    },
+    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
+    "habitat": "Tahiti"
+  },
+  {
+    "id": "sceloglaux_albifacies_rufifacies",
+    "name": {
+      "de": "Rotwangenkauz",
+      "lat": "Sceloglaux albifacies rufifacies",
+      "en": "Rufous-faced Owl"
+    },
+    "last_seen": "1870er-Jahre ?",
+    "location": {
+      "lat": -40.97182,
+      "lng": 173.96695
+    },
+    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
+    "habitat": "Neuseeland (Nordinsel)"
+  },
+  {
+    "id": "drepanis_funerea",
+    "name": {
+      "de": "Schwarzer Mamo",
+      "lat": "Drepanis funerea",
+      "en": "Black Mamo"
+    },
+    "last_seen": "1907",
+    "location": {
+      "lat": 21.02081,
+      "lng": -157.10065
+    },
+    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
+    "habitat": "Molokai (Hawaii)"
+  },
+  {
+    "id": "todiramphus_cinnamominus_miyakoensis",
+    "name": {
+      "de": "Ryūkyū-Liest",
+      "lat": "Todiramphus cinnamominus miyakoensis",
+      "en": "Ryukyu Kingfisher"
+    },
+    "last_seen": "spätes 19. Jhrdt.",
+    "location": {
+      "lat": 26.21657,
+      "lng": 127.77046
+    },
+    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
+    "habitat": "Miyako-jima, Ryūkyū-Inseln (Japan)"
+  },
+  {
+    "id": "loxigilla_portoricensis_grandis",
+    "name": {
+      "de": "Saint-Christopher-Rotkopfgimpelfink",
+      "lat": "Loxigilla portoricensis grandis",
+      "en": "St. Kitts Bullfinch"
+    },
+    "last_seen": "1929",
+    "location": {
+      "lat": 17.31794,
+      "lng": -62.80132
+    },
+    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
+    "habitat": "Saint Kitts"
+  },
+  {
+    "id": "corythornis_madagascariensis_dilutus",
+    "name": {
+      "de": "Sakaraha-Zwergfischer",
+      "lat": "Corythornis madagascariensis dilutus",
+      "en": "Madagascan Pygmy Kingfisher"
+    },
+    "last_seen": "1970er-Jahre ?",
+    "location": {
+      "lat": -20.02192,
+      "lng": 46.76689
+    },
+    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
+    "habitat": "Madagaskar"
+  },
+  {
+    "id": "microgoura_meeki",
+    "name": {
+      "de": "Salomonentaube",
+      "lat": "Microgoura meeki",
+      "en": "Choiseul Pigeon"
+    },
+    "last_seen": "1904",
+    "location": {
+      "lat": -6.70611,
+      "lng": 156.50761
+    },
+    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
+    "habitat": "Choiseul"
+  },
+  {
+    "id": "calyptophilus_frugivorus",
+    "name": {
+      "de": "Samaná-Ostschmätzertangare",
+      "lat": "Calyptophilus frugivorus",
+      "en": "Eastern Chat-Tanager"
+    },
+    "last_seen": "1982",
+    "location": {
+      "lat": 19.24375,
+      "lng": -69.28052
+    },
+    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
+    "habitat": "Samaná-Halbinsel"
+  },
+  {
+    "id": "pareudiastes_pacificus",
+    "name": {
+      "de": "Samoapfuhlhuhn",
+      "lat": "Pareudiastes pacificus",
+      "en": "Samoan Woodhen"
+    },
+    "last_seen": "1907 ?",
+    "location": {
+      "lat": -13.59693,
+      "lng": -172.37155
+    },
+    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
+    "habitat": "Savaii"
+  },
+  {
+    "id": "salpinctes_obsoletus_exsul",
+    "name": {
+      "de": "San-Benedicto-Felsenzaunkönig",
+      "lat": "Salpinctes obsoletus exsul",
+      "en": "San Benedicto Rock Wren"
+    },
+    "last_seen": "1952",
+    "location": {
+      "lat": 19.28333,
+      "lng": -110.83683
+    },
+    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
+    "habitat": "San Benedicto"
+  },
+  {
+    "id": "thryomanes_bewickii_leucophrys",
+    "name": {
+      "de": "San-Clemente-Buschzaunkönig",
+      "lat": "Thryomanes bewickii leucophrys",
+      "en": "San Clemente Wren"
+    },
+    "last_seen": "1960er-Jahre",
+    "location": {
+      "lat": 32.93382,
+      "lng": -118.49127
+    },
+    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
+    "habitat": "San Clemente Island"
+  },
+  {
+    "id": "gallicolumba_salamonis",
+    "name": {
+      "de": "San-Cristobal-Taube",
+      "lat": "Gallicolumba salamonis",
+      "en": "Thick-billed Ground Dove"
+    },
+    "last_seen": "1950er-Jahre",
+    "location": {
+      "lat": -10.36433,
+      "lng": 161.99005
+    },
+    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
+    "habitat": "Makira, Ramos"
+  },
+  {
+    "id": "ceyx_fallax_sangirensis",
+    "name": {
+      "de": "Sangihe-Rostfischer",
+      "lat": "Ceyx fallax sangirensis",
+      "en": "Sulawesi Dwarf Kingfisher"
+    },
+    "last_seen": "20. Jhrdt.",
+    "location": {
+      "lat": 3.57126,
+      "lng": 125.5007
+    },
+    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
+    "habitat": "Sangihe-Inseln"
+  },
+  {
+    "id": "melospiza_melodia_graminea",
+    "name": {
+      "de": "Santa-Barbara-Singammer",
+      "lat": "Melospiza melodia graminea",
+      "en": "Channel Island Song Sparrow"
+    },
+    "last_seen": "1960er-Jahre",
+    "location": {
+      "lat": 33.46783,
+      "lng": -119.0052
+    },
+    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
+    "habitat": "Santa Barbara Island"
+  },
+  {
+    "id": "geospiza_magnirostris_magnirostris",
+    "name": {
+      "de": "Santa-Maria-Kernbeißergrundfink",
+      "lat": "Geospiza magnirostris magnirostris",
+      "en": "Darwin’s Large Ground Finch"
+    },
+    "last_seen": "1950er-Jahre",
+    "location": {
+      "lat": -1.28985,
+      "lng": -90.41108
+    },
+    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
+    "habitat": "Floreana, San Cristóbal"
+  },
+  {
+    "id": "quiscalus_palustris",
+    "name": {
+      "de": "Schlankschnabelgrackel",
+      "lat": "Quiscalus palustris",
+      "en": "Slender-billed Grackle"
+    },
+    "last_seen": "1910",
+    "location": {
+      "lat": 23.50805,
+      "lng": -102.4657
+    },
+    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
+    "habitat": "Mexiko"
+  },
+  {
+    "id": "aplonis_mavornata",
+    "name": {
+      "de": "Schlichtstar",
+      "lat": "Aplonis mavornata",
+      "en": "Mauke Starling"
+    },
+    "last_seen": "1850er-Jahre",
+    "location": {
+      "lat": -20.10258,
+      "lng": -157.35671
+    },
+    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
+    "habitat": "Mauke (Cookinseln)"
+  },
+  {
+    "id": "chaetoptila_angustipluma",
+    "name": {
+      "de": "Schmalfedermoho",
+      "lat": "Chaetoptila angustipluma",
+      "en": "Kioea"
+    },
+    "last_seen": "1860er-Jahre",
+    "location": {
+      "lat": 19.51914,
+      "lng": -155.57679
+    },
+    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
+    "habitat": "Big Island (Hawaii)"
+  },
+  {
+    "id": "tadorna_cristata",
+    "name": {
+      "de": "Schopfkasarka",
+      "lat": "Tadorna cristata",
+      "en": "Crested Shelduck"
+    },
+    "last_seen": "20. Jhrdt.",
+    "location": {
+      "lat": 50.0669,
+      "lng": 129.98732
+    },
+    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
+    "habitat": "Asien (Nordosten)"
+  },
+  {
+    "id": "pachyornis_australis",
+    "name": {
+      "de": "Schopfmoa",
+      "lat": "Pachyornis australis",
+      "en": "Crested Moa"
+    },
+    "last_seen": "1396 bis 1442",
+    "location": {
+      "lat": -40.92498,
+      "lng": 173.92064
+    },
+    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
+    "habitat": "Neuseeland"
+  },
+  {
+    "id": "moho_braccatus",
+    "name": {
+      "de": "Schuppenkehlmoho",
+      "lat": "Moho braccatus",
+      "en": "Kauai ‚O’o"
+    },
+    "last_seen": "1987",
+    "location": {
+      "lat": 22.06183,
+      "lng": -159.42865
+    },
+    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
+    "habitat": "Kauai (Hawaii)"
+  },
+  {
+    "id": "malacocincla_perspicillata",
+    "name": {
+      "de": "Schwarzbrauen-Mausdrossling",
+      "lat": "Malacocincla perspicillata",
+      "en": "Black-browed Babbler"
+    },
+    "last_seen": "2020 wiederentdeckt",
+    "location": {
+      "lat": 0.56212,
+      "lng": 114.45173
+    },
+    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
+    "habitat": "Borneo"
+  },
+  {
+    "id": "ammodramus_maritimus_nigrescens",
+    "name": {
+      "de": "Schwarze Strandammer",
+      "lat": "Ammodramus maritimus nigrescens",
+      "en": "Dusky Seaside Sparrow"
+    },
+    "last_seen": "1987",
+    "location": {
+      "lat": 27.87049,
+      "lng": -81.72284
+    },
+    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
+    "habitat": "Florida"
+  },
+  {
+    "id": "ixobrychus_novaezelandiae",
+    "name": {
+      "de": "Schwarzrücken-Zwergdommel",
+      "lat": "Ixobrychus novaezelandiae",
+      "en": "New Zealand Bittern"
+    },
+    "last_seen": "19. Jhrdt.",
+    "location": {
+      "lat": -40.92535,
+      "lng": 174.10011
+    },
+    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
+    "habitat": "Neuseeland, Chathaminseln"
+  },
+  {
+    "id": "estrilda_nigriloris",
+    "name": {
+      "de": "Schwarzzügelastrild",
+      "lat": "Estrilda nigriloris",
+      "en": "Black-lored Waxbill"
+    },
+    "last_seen": "2023 wiederentdeckt",
+    "location": {
+      "lat": -0.28694,
+      "lng": 24.71868
+    },
+    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
+    "habitat": "Kongo"
+  },
+  {
+    "id": "psittacula_wardi",
+    "name": {
+      "de": "Seychellensittich",
+      "lat": "Psittacula wardi",
+      "en": "Seychelles Parakeet"
+    },
+    "last_seen": "1883",
+    "location": {
+      "lat": -4.63075,
+      "lng": 56.06906
+    },
+    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
+    "habitat": "Seychellen"
+  },
+  {
+    "id": "columba_jouyi",
+    "name": {
+      "de": "Silberbandtaube",
+      "lat": "Columba jouyi",
+      "en": "Ryukyu Wood Pigeon"
+    },
+    "last_seen": "1930er Jahre",
+    "location": {
+      "lat": 26.55826,
+      "lng": 127.86153
+    },
+    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
+    "habitat": "Okinawa, Daitō-Inseln"
+  },
+  {
+    "id": "loriculus_philippensis_siquijorensis",
+    "name": {
+      "de": "Siquijor-Fledermauspapageichen",
+      "lat": "Loriculus philippensis siquijorensis",
+      "en": "Siquijor Hanging Parrot"
+    },
+    "last_seen": "1906",
+    "location": {
+      "lat": 9.24115,
+      "lng": 123.48716
+    },
+    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
+    "habitat": "Siquijor"
+  },
+  {
+    "id": "pseudochelidon_sirintarae",
+    "name": {
+      "de": "Sirintaraschwalbe",
+      "lat": "Pseudochelidon sirintarae",
+      "en": "White-eyed River Martin"
+    },
+    "last_seen": "1980er-Jahre",
+    "location": {
+      "lat": 15.07262,
+      "lng": 99.92723
+    },
+    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
+    "habitat": "Thailand"
+  },
+  {
+    "id": "cichlocolaptes_mazarbarnetti",
+    "name": {
+      "de": "Dunkelkopf-Blattspäher",
+      "lat": "Cichlocolaptes mazarbarnetti",
+      "en": "Cryptic Treehunter"
+    },
+    "last_seen": "2007",
+    "location": {
+      "lat": -10.15057,
+      "lng": -55.23133
+    },
+    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
+    "habitat": "Brasilien"
+  },
+  {
+    "id": "pampusana_erythroptera_albicollis",
+    "name": {
+      "de": "Polynesische Erdtaube (albicollis)",
+      "lat": "Pampusana erythroptera albicollis",
+      "en": "Polynesian Ground-Dove (albicollis)"
+    },
+    "last_seen": "?",
+    "location": {
+      "lat": -15.01837,
+      "lng": -146.00753
+    },
+    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
+    "habitat": "Tuamotu-Archipel"
+  },
+  {
+    "id": "mergus_milleneri",
+    "name": {
+      "de": "Chatman Gänsesäger",
+      "lat": "Mergus milleneri",
+      "en": "Chatham Island Merganser"
+    },
+    "last_seen": "zw. 1400 und 1500 ?",
+    "location": {
+      "lat": -43.8925,
+      "lng": -176.61086
+    },
+    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
+    "habitat": "Chathaminseln"
+  },
+  {
+    "id": "hemiphaga_novaeseelandiae_spadicea",
+    "name": {
+      "de": "Maorifruchttaube (spadicea)",
+      "lat": "Hemiphaga novaeseelandiae spadicea",
+      "en": "Norfolk Island Pigeon"
+    },
+    "last_seen": "1901",
+    "location": {
+      "lat": -29.03666,
+      "lng": 167.92802
+    },
+    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
+    "habitat": "Norfolkinsel"
+  },
+  {
+    "id": "pyrocephalus_dubius",
+    "name": {
+      "de": "San-Cristóbal-Rubintyrann",
+      "lat": "Pyrocephalus dubius",
+      "en": "San Cristóbal Flycatcher"
+    },
+    "last_seen": "1987",
+    "location": {
+      "lat": -0.966,
+      "lng": -89.67666
+    },
+    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
+    "habitat": "San Cristóbal"
+  },
+  {
+    "id": "ara_autocthones",
+    "name": {
+      "de": "St.-Croix-Ara",
+      "lat": "Ara autocthones",
+      "en": "St. Croix Macaw"
+    },
+    "last_seen": "?",
+    "location": {
+      "lat": 17.71836,
+      "lng": -64.84222
+    },
+    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
+    "habitat": "Saint Croix (Karibik)"
+  },
+  {
+    "id": "nycticorax_caledonicus_crassirostris",
+    "name": {
+      "de": "Bonin-Rotrückenreiher",
+      "lat": "Nycticorax caledonicus crassirostris",
+      "en": "Bonin Nankeen Night Heron"
+    },
+    "last_seen": "1889",
+    "location": {
+      "lat": 27.12479,
+      "lng": 142.18193
+    },
+    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
+    "habitat": "Ogasawara-Inseln"
+  },
+  {
+    "id": "porzana_cinerea_brevipes",
+    "name": {
+      "de": "Iwo-Jima-Blatthühnchenralle",
+      "lat": "Porzana cinerea brevipes",
+      "en": "Iwo Jima Rail"
+    },
+    "last_seen": "1911",
+    "location": {
+      "lat": 27.23786,
+      "lng": 142.3275
+    },
+    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
+    "habitat": "Ogasawara-Inseln"
+  },
+  {
+    "id": "falco_peregrinus_furuitii",
+    "name": {
+      "de": "Bonin-Wanderfalke",
+      "lat": "Falco peregrinus furuitii",
+      "en": "Bonin Peregrine Falcon"
+    },
+    "last_seen": "1937",
+    "location": {
+      "lat": 27.10314,
+      "lng": 142.21907
+    },
+    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
+    "habitat": "Ogasawara-Inseln, Vulkaninselkette"
+  },
+  {
+    "id": "sittiparus_varius_orii",
+    "name": {
+      "de": "Borodino-Buntmeise",
+      "lat": "Sittiparus varius orii",
+      "en": "Daito varied tit"
+    },
+    "last_seen": "1938",
+    "location": {
+      "lat": 25.73902,
+      "lng": 131.27713
+    },
+    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
+    "habitat": "Daitō-Inseln"
+  },
+  {
+    "id": "apalopteron_familiare_familiare",
+    "name": {
+      "de": "Boninbrillenvogel (familiare)",
+      "lat": "Apalopteron familiare familiare",
+      "en": "Mukojima white-eye"
+    },
+    "last_seen": "1930",
+    "location": {
+      "lat": 27.16836,
+      "lng": 142.26105
+    },
+    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
+    "habitat": "Ogasawara-Inseln"
+  },
+  {
+    "id": "troglodytes_troglodytes_orii",
+    "name": {
+      "de": "Borodino-Zaunkönig",
+      "lat": "Troglodytes troglodytes orii",
+      "en": "Daito wren"
+    },
+    "last_seen": "1938 ?",
+    "location": {
+      "lat": 25.82788,
+      "lng": 131.24033
+    },
+    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
+    "habitat": "Daitō-Inseln"
+  },
+  {
+    "id": "luscinia_komadori_subrufus",
+    "name": {
+      "de": "Samtkehlnachtigall (subrufus)",
+      "lat": "Luscinia komadori subrufus",
+      "en": "Ryukyu robin (subrufus)"
+    },
+    "last_seen": "?",
+    "location": {
+      "lat": 26.28503,
+      "lng": 127.70338
+    },
+    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
+    "habitat": "Ryūkyū-Inseln"
+  },
+  {
+    "id": "loxops_wolstenholmei",
+    "name": {
+      "de": "Oahu-Akepakleidervogel",
+      "lat": "Loxops wolstenholmei",
+      "en": "Oahu akepa"
+    },
+    "last_seen": "20. Jhrdt. ?",
+    "location": {
+      "lat": 21.60317,
+      "lng": -157.96391
+    },
+    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
+    "habitat": "Oahu (Hawaii)"
+  },
+  {
+    "id": "conuropsis_carolinensis_ludoviciana",
+    "name": {
+      "de": "Louisianasittich",
+      "lat": "Conuropsis carolinensis ludoviciana",
+      "en": "Louisiana parakeet"
+    },
+    "last_seen": "1912",
+    "location": {
+      "lat": 53.76029,
+      "lng": -105.82699
+    },
+    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
+    "habitat": "Nordamerika"
+  },
+  {
+    "id": "gallirallus_astolfoi",
+    "name": {
+      "de": "Astolfo-Ralle",
+      "lat": "Gallirallus astolfoi",
+      "en": "Astolfo's rail"
+    },
+    "last_seen": "1300",
+    "location": {
+      "lat": -27.60379,
+      "lng": -144.31091
+    },
+    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
+    "habitat": "Rapa Iti (Französisch-Polynesien)"
+  },
+  {
+    "id": "otidiphaps_nobilis_insularis",
+    "name": {
+      "de": "Fergusson-Fasanentaube",
+      "lat": "Otidiphaps nobilis insularis",
+      "en": "Black-naped pheasant-pigeon"
+    },
+    "last_seen": "2022 wiederentdeckt",
+    "location": {
+      "lat": -8.95453,
+      "lng": 150.83804
+    },
+    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
+    "habitat": "Fergusson-Insel"
+  },
+  {
+    "id": "ammospiza_maritima_nigrescens",
+    "name": {
+      "de": "Schwarze Strandammer",
+      "lat": "Ammospiza maritima nigrescens",
+      "en": "Dusky seaside sparrow"
+    },
+    "last_seen": "1990",
+    "location": {
+      "lat": 27.84386,
+      "lng": -81.7188
+    },
+    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
+    "habitat": "Florida (USA)"
+  },
+  {
+    "id": "coracina_striata_cebuensis",
+    "name": {
+      "de": "(Raupenfänger)",
+      "lat": "Coracina striata cebuensis",
+      "en": "Cebu Bar-bellied Cuckoo-shrike"
+    },
+    "last_seen": "1906",
+    "location": {
+      "lat": 10.25139,
+      "lng": 123.87065
+    },
+    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
+    "habitat": "Cebu (Philippinen)"
+  },
+  {
+    "id": "dryolimnas_chekei",
+    "name": {
+      "de": "Chekes Waldralle",
+      "lat": "Dryolimnas chekei",
+      "en": "Cheke’s Wood Rail"
+    },
+    "last_seen": "Mitte 17. Jhrdt.",
+    "location": {
+      "lat": -19.6664,
+      "lng": 57.33224
+    },
+    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
+    "habitat": "Mauritius"
+  },
+  {
+    "id": "rhipidura_rufifrons_uraniae",
+    "name": {
+      "de": "Guam-Fuchsfächerschwanz",
+      "lat": "Rhipidura rufifrons uraniae",
+      "en": "Guam rufous-fronted fantail"
+    },
+    "last_seen": "1980er-Jahre ?",
+    "location": {
+      "lat": 13.4105,
+      "lng": 144.83454
+    },
+    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
+    "habitat": "Guam"
+  },
+  {
+    "id": "turnagra_capensis_minor",
+    "name": {
+      "de": "Stephens-Island-Pirol",
+      "lat": "Turnagra capensis minor",
+      "en": "Stephens Island piopio"
+    },
+    "last_seen": "1897",
+    "location": {
+      "lat": -40.98736,
+      "lng": 174.01155
+    },
+    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
+    "habitat": "Neuseeland, Stephens Island"
+  },
+  {
+    "id": "pachyornis_elephantopus",
+    "name": {
+      "de": "Elefantenfuß-Moa",
+      "lat": "Pachyornis elephantopus",
+      "en": "Heavy-footed moa"
+    },
+    "last_seen": "14. oder 15. Jhrdt. ?",
+    "location": {
+      "lat": -40.9489,
+      "lng": 173.99655
+    },
+    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
+    "habitat": "Neuseeland (Südinsel)"
+  },
+  {
+    "id": "euryapteryx_curtus",
+    "name": {
+      "de": "Küstenmoa",
+      "lat": "Euryapteryx curtus",
+      "en": "Broad-billed moa"
+    },
+    "last_seen": "15. Jhrdt.",
+    "location": {
+      "lat": -40.95898,
+      "lng": 173.99605
+    },
+    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
+    "habitat": "Neuseeland"
+  },
+  {
+    "id": "numenius_tenuirostris",
+    "name": {
+      "de": "Dünnschnabel-Brachvogel",
+      "lat": "Numenius tenuirostris",
+      "en": "Slender-billed curlew"
+    },
+    "last_seen": "1995",
+    "location": {
+      "lat": 59.95521,
+      "lng": 79.9691
+    },
+    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
+    "habitat": "Westsibirien, Mittelmeerraum"
+  },
+  {
+    "id": "cincloramphus_llaneae",
+    "name": {
+      "de": "Bougainville-Buschsänger",
+      "lat": "Cincloramphus llaneae",
+      "en": "Bougainville thicketbird"
+    },
+    "last_seen": "2024 wiederentdeckt",
+    "location": {
+      "lat": -6.26535,
+      "lng": 155.45254
+    },
+    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
+    "habitat": "Bougainville (Papua-Neuguinea)"
+  },
+  {
+    "id": "actenoides_bougainvillei_bougainvillei",
+    "name": {
+      "de": "Bartliest",
+      "lat": "Actenoides bougainvillei bougainvillei",
+      "en": "Moustached kingfisher"
+    },
+    "last_seen": "2024 wiederentdeckt",
+    "location": {
+      "lat": -6.27641,
+      "lng": 155.51551
+    },
+    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
+    "habitat": "Bougainville (Papua-Neuguinea)"
+  },
+  {
+    "id": "tadorna_rekohu",
+    "name": {
+      "de": "Rēkohu-Gans",
+      "lat": "Tadorna rekohu",
+      "en": "Rēkohu shelduck"
+    },
+    "last_seen": "1550 ?",
+    "location": {
+      "lat": -43.91606,
+      "lng": -176.51017
+    },
+    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
+    "habitat": "Chathaminseln"
+  },
+  {
+    "id": "cygnus_sumnerensis_chathamicus",
+    "name": {
+      "de": "Chatham-Schwan",
+      "lat": "Cygnus sumnerensis chathamicus",
+      "en": "Chatham Islands swan"
+    },
+    "last_seen": "1590",
+    "location": {
+      "lat": -44.0027,
+      "lng": -176.51456
+    },
+    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
+    "habitat": "Chathaminseln"
+  },
+  {
+    "id": "pachycephala_arctitorquis_tianduana",
+    "name": {
+      "de": "Weißhals-Dickkopf tianduana",
+      "lat": "Pachycephala arctitorquis tianduana",
+      "en": "Wallacean Whistler tianduana"
+    },
+    "last_seen": "2025 wiederentdeckt",
+    "location": {
+      "lat": -4.64181,
+      "lng": 119.81357
+    },
+    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
+    "habitat": "Indonesien"
+  },
+  {
+    "id": "chloris_trias",
+    "name": {
+      "de": "Trias-Grünfink",
+      "lat": "Chloris trias",
+      "en": "Trias Greenfinch"
+    },
+    "last_seen": "15. Jhrdt.",
+    "location": {
+      "lat": 28.13029,
+      "lng": -16.44284
+    },
+    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
+    "habitat": "La Palma (Kanaren)"
+  },
+  {
+    "id": "coturnix_alabrevis",
+    "name": {
+      "de": "Porto-Santo-Wachtel",
+      "lat": "Coturnix alabrevis",
+      "en": "Porto Santo Quail"
+    },
+    "last_seen": "15. Jhrdt. ?",
+    "location": {
+      "lat": 33.1243,
+      "lng": -16.26506
+    },
+    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
+    "habitat": "Porto Santo Island (Madeira)"
+  },
+  {
+    "id": "coturnix_centensis",
+    "name": {
+      "de": "Kap-Verde-Wachtel",
+      "lat": "Coturnix centensis",
+      "en": "Cape Verde Quail"
+    },
+    "last_seen": "1015",
+    "location": {
+      "lat": 16.79559,
+      "lng": -24.96433
+    },
+    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
+    "habitat": "São Vicente (Kap Verde)"
+  },
+  {
+    "id": "coturnix_gomerae",
+    "name": {
+      "de": "Kanaren-Wachtel",
+      "lat": "Coturnix gomerae",
+      "en": "Canary Islands Quail"
+    },
+    "last_seen": "15. Jhrdt.",
+    "location": {
+      "lat": 28.45299,
+      "lng": -16.62322
+    },
+    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
+    "habitat": "La Gomera (Kanaren)"
+  },
+  {
+    "id": "otus_mauli",
+    "name": {
+      "de": "Madeira-Zwergohreule",
+      "lat": "Otus mauli",
+      "en": "Madeiran Scops Owl"
+    },
+    "last_seen": "15. Jhrdt. ?",
+    "location": {
+      "lat": 32.65573,
+      "lng": -16.98741
+    },
+    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
+    "habitat": "Madeira (Portugal)"
+  },
+  {
+    "id": "pterodroma_zinorum",
+    "name": {
+      "de": "Azoren-Hakensturmtaucher",
+      "lat": "Pterodroma zinorum",
+      "en": "Azores Gadfly petrel"
+    },
+    "last_seen": "17. Jhrdt.",
+    "location": {
+      "lat": 38.50747,
+      "lng": -27.8666
+    },
+    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
+    "habitat": "Azoren"
+  },
+  {
+    "id": "pyrrhula_crassa",
+    "name": {
+      "de": "Großer Azoren-Gimpel",
+      "lat": "Pyrrhula crassa",
+      "en": "Greater Azores Bullfinch"
+    },
+    "last_seen": "15. Jhrdt.",
+    "location": {
+      "lat": 38.5658,
+      "lng": -28.03549
+    },
+    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
+    "habitat": "Azoren"
+  },
+  {
+    "id": "puffinus_olsoni",
+    "name": {
+      "de": "Olson-Sturmtaucher",
+      "lat": "Puffinus olsoni",
+      "en": "Lava Shearwater"
+    },
+    "last_seen": "1270",
+    "location": {
+      "lat": 28.49326,
+      "lng": -16.69063
+    },
+    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
+    "habitat": "Fuerteventura, Lanzarote (Kanaren)"
+  },
+  {
+    "id": "rallus_adolfocaesaris",
+    "name": {
+      "de": "Porto-Santo-Ralle",
+      "lat": "Rallus adolfocaesaris",
+      "en": "Porto Santo Rail"
+    },
+    "last_seen": "15. Jhrdt.",
+    "location": {
+      "lat": 33.07954,
+      "lng": -16.24147
+    },
+    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
+    "habitat": "Porto Santo Island (Madeira)"
+  },
+  {
+    "id": "rallus_carvaoensis",
+    "name": {
+      "de": "São-Miguel-Ralle",
+      "lat": "Rallus carvaoensis",
+      "en": "São Miguel Rail"
+    },
+    "last_seen": "15. Jhrdt.",
+    "location": {
+      "lat": 38.59959,
+      "lng": -27.78375
+    },
+    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
+    "habitat": "São Miguel (Azoren)"
+  },
+  {
+    "id": "rallus_lowei",
+    "name": {
+      "de": "Madeira-Ralle",
+      "lat": "Rallus lowei",
+      "en": "Madeira Rail"
+    },
+    "last_seen": "15. Jhrdt.",
+    "location": {
+      "lat": 32.71951,
+      "lng": -16.9968
+    },
+    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
+    "habitat": "Madeira (Portugal)"
+  },
+  {
+    "id": "rallus_montivagorum",
+    "name": {
+      "de": "Pico-Ralle",
+      "lat": "Rallus montivagorum",
+      "en": "Pico Rail"
+    },
+    "last_seen": "1450",
+    "location": {
+      "lat": 38.18617,
+      "lng": -28.0161
+    },
+    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
+    "habitat": "Pico (Azoren)"
+  },
+  {
+    "id": "rallus_nanus",
+    "name": {
+      "de": "São-Jorge-Ralle",
+      "lat": "Rallus nanus",
+      "en": "São Jorge Rail"
+    },
+    "last_seen": "15. Jhrdt.",
+    "location": {
+      "lat": 38.791,
+      "lng": -28.14949
+    },
+    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
+    "habitat": "São Jorge (Azoren)"
+  },
+  {
+    "id": "rallus_sp",
+    "name": {
+      "de": "Graciosa-Ralle",
+      "lat": "Rallus sp.",
+      "en": "Graciosa Rail"
+    },
+    "last_seen": "15. Jhrdt.",
+    "location": {
+      "lat": 37.9716,
+      "lng": -27.90534
+    },
+    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
+    "habitat": "Graciosa (Azoren)"
+  },
+  {
+    "id": "rallus_sp",
+    "name": {
+      "de": "Terceira-Ralle",
+      "lat": "Rallus sp.",
+      "en": "Terceira Rail"
+    },
+    "last_seen": "1690–1770",
+    "location": {
+      "lat": 37.73514,
+      "lng": -27.67043
+    },
+    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
+    "habitat": "Terceira (Azoren)"
+  },
+  {
+    "id": "rallus_sp",
+    "name": {
+      "de": "Santa Maria-Ralle",
+      "lat": "Rallus sp.",
+      "en": "Santa Maria Rail"
+    },
+    "last_seen": "15. Jhrdt.",
+    "location": {
+      "lat": 38.55618,
+      "lng": -28.23732
+    },
+    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
+    "habitat": "Santa Maria (Azoren)"
+  },
+  {
+    "id": "cortunix_sp",
+    "name": {
+      "de": "Bugio Wachtel",
+      "lat": "Cortunix sp.",
+      "en": "Bugio Quail"
+    },
+    "last_seen": "?",
+    "location": {
+      "lat": 32.52015,
+      "lng": -16.446
+    },
+    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
+    "habitat": "Bugio (Madeira)"
+  },
+  {
+    "id": "cortunix_sp",
+    "name": {
+      "de": "Santa Maria Wachtel",
+      "lat": "Cortunix sp.",
+      "en": "Santa Maria Quail"
+    },
+    "last_seen": "?",
+    "location": {
+      "lat": 38.68155,
+      "lng": -27.9018
+    },
+    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
+    "habitat": "Santa Maria (Azoren)"
+  },
+  {
+    "id": "cortunix_sp",
+    "name": {
+      "de": "Graciosa Wachtel",
+      "lat": "Cortunix sp.",
+      "en": "Graciosa Quail"
+    },
+    "last_seen": "?",
+    "location": {
+      "lat": 38.4304,
+      "lng": -27.57994
+    },
+    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
+    "habitat": "Graciosa (Azoren)"
+  },
+  {
+    "id": "otus_frutuosoi",
+    "name": {
+      "de": "Azoren-Zwergohreule",
+      "lat": "Otus frutuosoi",
+      "en": "São Miguel Scops Owl"
+    },
+    "last_seen": "15. Jhrdt.",
+    "location": {
+      "lat": 38.652,
+      "lng": -28.48602
+    },
+    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
+    "habitat": "São Miguel (Azoren)"
+  },
+  {
+    "id": "emberiza_alcoveri",
+    "name": {
+      "de": "Langbeinammer",
+      "lat": "Emberiza alcoveri",
+      "en": "Long-legged Bunting"
+    },
+    "last_seen": "15. Jhrdt.",
+    "location": {
+      "lat": 28.42203,
+      "lng": -16.94153
+    },
+    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
+    "habitat": "Teneriffa (Kanaren)"
+  },
+  {
+    "id": "chloris_aurelioi",
+    "name": {
+      "de": "Schlankschnabel-Grünfink",
+      "lat": "Chloris aurelioi",
+      "en": "Slender-billed Greenfinch"
+    },
+    "last_seen": "1400",
+    "location": {
+      "lat": 28.37244,
+      "lng": -16.84384
+    },
+    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
+    "habitat": "Teneriffa (Kanaren)"
+  },
+  {
+    "id": "coturnix_lignorum",
+    "name": {
+      "de": "Madeira-Wachtel",
+      "lat": "Coturnix lignorum",
+      "en": "Madeiran Quail"
+    },
+    "last_seen": "15. Jhrdt. ?",
+    "location": {
+      "lat": 32.77322,
+      "lng": -16.92486
+    },
+    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
+    "habitat": "Madeira (Portugal)"
+  },
+  {
+    "id": "ninox_novaeseelandiae_undulata",
+    "name": {
+      "de": "Norfolkinsel-Kuckuckskauz",
+      "lat": "Ninox novaeseelandiae undulata",
+      "en": "Norfolk Boobook"
+    },
+    "last_seen": "1996",
+    "location": {
+      "lat": -29.06685,
+      "lng": 167.92376
+    },
+    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
+    "habitat": "Norfolkinsel"
+  },
+  {
+    "id": "janthothorax_bensbachi",
+    "name": {
+      "de": "Bensbachs Paradiesvogel",
+      "lat": "Janthothorax bensbachi",
+      "en": "Bensbach’s Bird of Paradise"
+    },
+    "last_seen": "1894",
+    "location": {
+      "lat": -5.98676,
+      "lng": 146.9862
+    },
+    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
+    "habitat": "Neuguinea"
+  },
+  {
+    "id": "sitta_insularis",
+    "name": {
+      "de": "Bahamakleiber",
+      "lat": "Sitta insularis",
+      "en": "Bahama Nuthatch"
+    },
+    "last_seen": "2019",
+    "location": {
+      "lat": 23.87528,
+      "lng": -75.58249
+    },
+    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
+    "habitat": "Bahamas"
+  }
+]
