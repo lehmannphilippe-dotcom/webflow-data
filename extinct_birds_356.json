@@ -11,8 +11,21 @@
       "lat": 1.82271,
       "lng": -157.37735
     },
-    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
-    "habitat": "Kiritimati"
+    "habitat": "Kiritimati",
+    "images": {
+      "tooltip": "",
+      "panel": ""
+    },
+    "panel": {
+      "description": "",
+      "habitat_text": "",
+      "extinction_text": ""
+    },
+    "range_geojson": null,
+    "taxonomy": {
+      "family": "",
+      "genus": ""
+    }
   },
   {
     "id": "gallirallus_hypoleucus",
@@ -26,8 +39,21 @@
       "lat": -21.08295,
       "lng": -175.19843
     },
-    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
-    "habitat": "Tongatapu"
+    "habitat": "Tongatapu",
+    "images": {
+      "tooltip": "",
+      "panel": ""
+    },
+    "panel": {
+      "description": "",
+      "habitat_text": "",
+      "extinction_text": ""
+    },
+    "range_geojson": null,
+    "taxonomy": {
+      "family": "",
+      "genus": ""
+    }
   },
   {
     "id": "grallaria_milleri_gilesi",
@@ -41,8 +67,21 @@
       "lat": 6.233,
       "lng": -75.43
     },
-    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
-    "habitat": "Kolumbien"
+    "habitat": "Kolumbien",
+    "images": {
+      "tooltip": "",
+      "panel": ""
+    },
+    "panel": {
+      "description": "",
+      "habitat_text": "",
+      "extinction_text": ""
+    },
+    "range_geojson": null,
+    "taxonomy": {
+      "family": "",
+      "genus": ""
+    }
   },
   {
     "id": "xenicus_longipes_stokesi",
@@ -56,8 +95,21 @@
       "lat": -40.97327,
       "lng": 173.97984
     },
-    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
-    "habitat": "Neuseeland (Nordinsel)"
+    "habitat": "Neuseeland (Nordinsel)",
+    "images": {
+      "tooltip": "",
+      "panel": ""
+    },
+    "panel": {
+      "description": "",
+      "habitat_text": "",
+      "extinction_text": ""
+    },
+    "range_geojson": null,
+    "taxonomy": {
+      "family": "",
+      "genus": ""
+    }
   },
   {
     "id": "xenicus_longipes_longipes",
@@ -71,8 +123,21 @@
       "lat": -41.05236,
       "lng": 173.95921
     },
-    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
-    "habitat": "Neuseeland (Südinsel)"
+    "habitat": "Neuseeland (Südinsel)",
+    "images": {
+      "tooltip": "",
+      "panel": ""
+    },
+    "panel": {
+      "description": "",
+      "habitat_text": "",
+      "extinction_text": ""
+    },
+    "range_geojson": null,
+    "taxonomy": {
+      "family": "",
+      "genus": ""
+    }
   },
   {
     "id": "xenicus_longipes_variabilis",
@@ -86,8 +151,21 @@
       "lat": -46.9066,
       "lng": 168.02887
     },
-    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
-    "habitat": "Stewart Island"
+    "habitat": "Stewart Island",
+    "images": {
+      "tooltip": "",
+      "panel": ""
+    },
+    "panel": {
+      "description": "",
+      "habitat_text": "",
+      "extinction_text": ""
+    },
+    "range_geojson": null,
+    "taxonomy": {
+      "family": "",
+      "genus": ""
+    }
   },
   {
     "id": "neochmia_ruficauda_ruficauda",
@@ -101,8 +179,21 @@
       "lat": -27.08132,
       "lng": 132.98164
     },
-    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
-    "habitat": "Australien"
+    "habitat": "Australien",
+    "images": {
+      "tooltip": "",
+      "panel": ""
+    },
+    "panel": {
+      "description": "",
+      "habitat_text": "",
+      "extinction_text": ""
+    },
+    "range_geojson": null,
+    "taxonomy": {
+      "family": "",
+      "genus": ""
+    }
   },
   {
     "id": "myadestes_elisabeth_retrusus",
@@ -116,8 +207,21 @@
       "lat": 21.721,
       "lng": -82.82607
     },
-    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
-    "habitat": "Isla de la Juventud"
+    "habitat": "Isla de la Juventud",
+    "images": {
+      "tooltip": "",
+      "panel": ""
+    },
+    "panel": {
+      "description": "",
+      "habitat_text": "",
+      "extinction_text": ""
+    },
+    "range_geojson": null,
+    "taxonomy": {
+      "family": "",
+      "genus": ""
+    }
   },
   {
     "id": "pachyplichas_jagmi",
@@ -131,8 +235,21 @@
       "lat": -41.00266,
       "lng": 173.98216
     },
-    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
-    "habitat": "Neuseeland (Nordinsel)"
+    "habitat": "Neuseeland (Nordinsel)",
+    "images": {
+      "tooltip": "",
+      "panel": ""
+    },
+    "panel": {
+      "description": "",
+      "habitat_text": "",
+      "extinction_text": ""
+    },
+    "range_geojson": null,
+    "taxonomy": {
+      "family": "",
+      "genus": ""
+    }
   },
   {
     "id": "pachyplichas_yaldwini",
@@ -146,8 +263,21 @@
       "lat": -40.88628,
       "lng": 174.07577
     },
-    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
-    "habitat": "Neuseeland (Südinsel)"
+    "habitat": "Neuseeland (Südinsel)",
+    "images": {
+      "tooltip": "",
+      "panel": ""
+    },
+    "panel": {
+      "description": "",
+      "habitat_text": "",
+      "extinction_text": ""
+    },
+    "range_geojson": null,
+    "taxonomy": {
+      "family": "",
+      "genus": ""
+    }
   },
   {
     "id": "dromaius_ater",
@@ -161,8 +291,21 @@
       "lat": -39.83374,
       "lng": 143.89322
     },
-    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
-    "habitat": "King Island"
+    "habitat": "King Island",
+    "images": {
+      "tooltip": "",
+      "panel": ""
+    },
+    "panel": {
+      "description": "",
+      "habitat_text": "",
+      "extinction_text": ""
+    },
+    "range_geojson": null,
+    "taxonomy": {
+      "family": "",
+      "genus": ""
+    }
   },
   {
     "id": "dromaius_novaehollandiae_baudinianius",
@@ -176,8 +319,21 @@
       "lat": -35.80316,
       "lng": 137.1995
     },
-    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
-    "habitat": "Känguru-Insel"
+    "habitat": "Känguru-Insel",
+    "images": {
+      "tooltip": "",
+      "panel": ""
+    },
+    "panel": {
+      "description": "",
+      "habitat_text": "",
+      "extinction_text": ""
+    },
+    "range_geojson": null,
+    "taxonomy": {
+      "family": "",
+      "genus": ""
+    }
   },
   {
     "id": "dromaius_novaehollandiae_diemenensis",
@@ -191,8 +347,21 @@
       "lat": -41.96905,
       "lng": 146.50153
     },
-    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
-    "habitat": "Tasmanien"
+    "habitat": "Tasmanien",
+    "images": {
+      "tooltip": "",
+      "panel": ""
+    },
+    "panel": {
+      "description": "",
+      "habitat_text": "",
+      "extinction_text": ""
+    },
+    "range_geojson": null,
+    "taxonomy": {
+      "family": "",
+      "genus": ""
+    }
   },
   {
     "id": "dinornis_novaezealandiae",
@@ -206,8 +375,21 @@
       "lat": -40.92556,
       "lng": 174.00536
     },
-    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
-    "habitat": "Neuseeland (Nordinsel)"
+    "habitat": "Neuseeland (Nordinsel)",
+    "images": {
+      "tooltip": "",
+      "panel": ""
+    },
+    "panel": {
+      "description": "",
+      "habitat_text": "",
+      "extinction_text": ""
+    },
+    "range_geojson": null,
+    "taxonomy": {
+      "family": "",
+      "genus": ""
+    }
   },
   {
     "id": "nesoenas_duboisi",
@@ -221,8 +403,21 @@
       "lat": -21.10477,
       "lng": 55.57734
     },
-    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
-    "habitat": "Réunion"
+    "habitat": "Réunion",
+    "images": {
+      "tooltip": "",
+      "panel": ""
+    },
+    "panel": {
+      "description": "",
+      "habitat_text": "",
+      "extinction_text": ""
+    },
+    "range_geojson": null,
+    "taxonomy": {
+      "family": "",
+      "genus": ""
+    }
   },
   {
     "id": "dinornis_robustus",
@@ -236,8 +431,21 @@
       "lat": -41.00555,
       "lng": 173.93854
     },
-    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
-    "habitat": "Neuseeland (Südinsel)"
+    "habitat": "Neuseeland (Südinsel)",
+    "images": {
+      "tooltip": "",
+      "panel": ""
+    },
+    "panel": {
+      "description": "",
+      "habitat_text": "",
+      "extinction_text": ""
+    },
+    "range_geojson": null,
+    "taxonomy": {
+      "family": "",
+      "genus": ""
+    }
   },
   {
     "id": "anomalopteryx_didiformis",
@@ -251,8 +459,21 @@
       "lat": -41.05379,
       "lng": 173.94478
     },
-    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
-    "habitat": "Neuseeland"
+    "habitat": "Neuseeland",
+    "images": {
+      "tooltip": "",
+      "panel": ""
+    },
+    "panel": {
+      "description": "",
+      "habitat_text": "",
+      "extinction_text": ""
+    },
+    "range_geojson": null,
+    "taxonomy": {
+      "family": "",
+      "genus": ""
+    }
   },
   {
     "id": "pachyornis_geranoides",
@@ -266,8 +487,21 @@
       "lat": -41.04247,
       "lng": 173.98089
     },
-    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
-    "habitat": "Neuseeland (Nordinsel)"
+    "habitat": "Neuseeland (Nordinsel)",
+    "images": {
+      "tooltip": "",
+      "panel": ""
+    },
+    "panel": {
+      "description": "",
+      "habitat_text": "",
+      "extinction_text": ""
+    },
+    "range_geojson": null,
+    "taxonomy": {
+      "family": "",
+      "genus": ""
+    }
   },
   {
     "id": "ectopistes_migratorius",
@@ -281,8 +515,21 @@
       "lat": 40.4173,
       "lng": -82.9071
     },
-    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
-    "habitat": "Nordamerika"
+    "habitat": "Nordamerika",
+    "images": {
+      "tooltip": "",
+      "panel": ""
+    },
+    "panel": {
+      "description": "",
+      "habitat_text": "",
+      "extinction_text": ""
+    },
+    "range_geojson": null,
+    "taxonomy": {
+      "family": "",
+      "genus": ""
+    }
   },
   {
     "id": "raphus_cucullatus",
@@ -296,8 +543,21 @@
       "lat": -20.44116,
       "lng": 57.47323
     },
-    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
-    "habitat": "Mauritius"
+    "habitat": "Mauritius",
+    "images": {
+      "tooltip": "",
+      "panel": ""
+    },
+    "panel": {
+      "description": "",
+      "habitat_text": "",
+      "extinction_text": ""
+    },
+    "range_geojson": null,
+    "taxonomy": {
+      "family": "",
+      "genus": ""
+    }
   },
   {
     "id": "aquila_moorei",
@@ -311,8 +571,21 @@
       "lat": -41.00779,
       "lng": 174.07238
     },
-    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
-    "habitat": "Neuseeland"
+    "habitat": "Neuseeland",
+    "images": {
+      "tooltip": "",
+      "panel": ""
+    },
+    "panel": {
+      "description": "",
+      "habitat_text": "",
+      "extinction_text": ""
+    },
+    "range_geojson": null,
+    "taxonomy": {
+      "family": "",
+      "genus": ""
+    }
   },
   {
     "id": "upupa_antaios",
@@ -326,8 +599,21 @@
       "lat": -15.90924,
       "lng": -5.73794
     },
-    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
-    "habitat": "St. Helena"
+    "habitat": "St. Helena",
+    "images": {
+      "tooltip": "",
+      "panel": ""
+    },
+    "panel": {
+      "description": "",
+      "habitat_text": "",
+      "extinction_text": ""
+    },
+    "range_geojson": null,
+    "taxonomy": {
+      "family": "",
+      "genus": ""
+    }
   },
   {
     "id": "cnemiornis_calcitrans",
@@ -341,8 +627,21 @@
       "lat": -40.97301,
       "lng": 173.92986
     },
-    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
-    "habitat": "Neuseeland (Südinsel)"
+    "habitat": "Neuseeland (Südinsel)",
+    "images": {
+      "tooltip": "",
+      "panel": ""
+    },
+    "panel": {
+      "description": "",
+      "habitat_text": "",
+      "extinction_text": ""
+    },
+    "range_geojson": null,
+    "taxonomy": {
+      "family": "",
+      "genus": ""
+    }
   },
   {
     "id": "nannococcyx_psix",
@@ -356,8 +655,21 @@
       "lat": -15.89751,
       "lng": -5.68104
     },
-    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
-    "habitat": "St. Helena"
+    "habitat": "St. Helena",
+    "images": {
+      "tooltip": "",
+      "panel": ""
+    },
+    "panel": {
+      "description": "",
+      "habitat_text": "",
+      "extinction_text": ""
+    },
+    "range_geojson": null,
+    "taxonomy": {
+      "family": "",
+      "genus": ""
+    }
   },
   {
     "id": "threskiornis_solitarius",
@@ -371,8 +683,21 @@
       "lat": -21.2801,
       "lng": 55.54425
     },
-    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
-    "habitat": "Réunion"
+    "habitat": "Réunion",
+    "images": {
+      "tooltip": "",
+      "panel": ""
+    },
+    "panel": {
+      "description": "",
+      "habitat_text": "",
+      "extinction_text": ""
+    },
+    "range_geojson": null,
+    "taxonomy": {
+      "family": "",
+      "genus": ""
+    }
   },
   {
     "id": "pinguinus_impennis",
@@ -386,8 +711,21 @@
       "lat": 52.48165,
       "lng": -31.15785
     },
-    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
-    "habitat": "Nordatlantik"
+    "habitat": "Nordatlantik",
+    "images": {
+      "tooltip": "",
+      "panel": ""
+    },
+    "panel": {
+      "description": "",
+      "habitat_text": "",
+      "extinction_text": ""
+    },
+    "range_geojson": null,
+    "taxonomy": {
+      "family": "",
+      "genus": ""
+    }
   },
   {
     "id": "ophrysia_superciliosa",
@@ -401,8 +739,21 @@
       "lat": 29.78305,
       "lng": 80.2429
     },
-    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
-    "habitat": "Himalaya (Nordindien)"
+    "habitat": "Himalaya (Nordindien)",
+    "images": {
+      "tooltip": "",
+      "panel": ""
+    },
+    "panel": {
+      "description": "",
+      "habitat_text": "",
+      "extinction_text": ""
+    },
+    "range_geojson": null,
+    "taxonomy": {
+      "family": "",
+      "genus": ""
+    }
   },
   {
     "id": "nesillas_aldabranus",
@@ -416,8 +767,21 @@
       "lat": -9.42696,
       "lng": 46.32347
     },
-    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
-    "habitat": "Aldabra"
+    "habitat": "Aldabra",
+    "images": {
+      "tooltip": "",
+      "panel": ""
+    },
+    "panel": {
+      "description": "",
+      "habitat_text": "",
+      "extinction_text": ""
+    },
+    "range_geojson": null,
+    "taxonomy": {
+      "family": "",
+      "genus": ""
+    }
   },
   {
     "id": "mareca_marecula",
@@ -431,8 +795,21 @@
       "lat": -37.90537,
       "lng": 77.55778
     },
-    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
-    "habitat": "Amsterdam-Insel"
+    "habitat": "Amsterdam-Insel",
+    "images": {
+      "tooltip": "",
+      "panel": ""
+    },
+    "panel": {
+      "description": "",
+      "habitat_text": "",
+      "extinction_text": ""
+    },
+    "range_geojson": null,
+    "taxonomy": {
+      "family": "",
+      "genus": ""
+    }
   },
   {
     "id": "podiceps_andinus",
@@ -446,8 +823,21 @@
       "lat": 5.45,
       "lng": -73.35
     },
-    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
-    "habitat": "Kolumbien"
+    "habitat": "Kolumbien",
+    "images": {
+      "tooltip": "",
+      "panel": ""
+    },
+    "panel": {
+      "description": "",
+      "habitat_text": "",
+      "extinction_text": ""
+    },
+    "range_geojson": null,
+    "taxonomy": {
+      "family": "",
+      "genus": ""
+    }
   },
   {
     "id": "ciridops_anna",
@@ -461,8 +851,21 @@
       "lat": 19.60834,
       "lng": -155.50779
     },
-    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
-    "habitat": "Big Island (Hawaii)"
+    "habitat": "Big Island (Hawaii)",
+    "images": {
+      "tooltip": "",
+      "panel": ""
+    },
+    "panel": {
+      "description": "",
+      "habitat_text": "",
+      "extinction_text": ""
+    },
+    "range_geojson": null,
+    "taxonomy": {
+      "family": "",
+      "genus": ""
+    }
   },
   {
     "id": "athene_cunicularia_amaura",
@@ -476,8 +879,21 @@
       "lat": 17.14401,
       "lng": -61.85268
     },
-    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
-    "habitat": "Antigua, St. Kitts, Nevis"
+    "habitat": "Antigua, St. Kitts, Nevis",
+    "images": {
+      "tooltip": "",
+      "panel": ""
+    },
+    "panel": {
+      "description": "",
+      "habitat_text": "",
+      "extinction_text": ""
+    },
+    "range_geojson": null,
+    "taxonomy": {
+      "family": "",
+      "genus": ""
+    }
   },
   {
     "id": "atlapetes_blancae",
@@ -491,8 +907,21 @@
       "lat": 6.459,
       "lng": -75.556
     },
-    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
-    "habitat": "Kolumbien"
+    "habitat": "Kolumbien",
+    "images": {
+      "tooltip": "",
+      "panel": ""
+    },
+    "panel": {
+      "description": "",
+      "habitat_text": "",
+      "extinction_text": ""
+    },
+    "range_geojson": null,
+    "taxonomy": {
+      "family": "",
+      "genus": ""
+    }
   },
   {
     "id": "struthio_camelus_syriacus",
@@ -506,8 +935,21 @@
       "lat": 25.11117,
       "lng": 45.0711
     },
-    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
-    "habitat": "Arabische Halbinsel"
+    "habitat": "Arabische Halbinsel",
+    "images": {
+      "tooltip": "",
+      "panel": ""
+    },
+    "panel": {
+      "description": "",
+      "habitat_text": "",
+      "extinction_text": ""
+    },
+    "range_geojson": null,
+    "taxonomy": {
+      "family": "",
+      "genus": ""
+    }
   },
   {
     "id": "amazona_barbadensis_canifrons",
@@ -521,8 +963,21 @@
       "lat": 12.49577,
       "lng": -69.9216
     },
-    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
-    "habitat": "Aruba"
+    "habitat": "Aruba",
+    "images": {
+      "tooltip": "",
+      "panel": ""
+    },
+    "panel": {
+      "description": "",
+      "habitat_text": "",
+      "extinction_text": ""
+    },
+    "range_geojson": null,
+    "taxonomy": {
+      "family": "",
+      "genus": ""
+    }
   },
   {
     "id": "nycticorax_olsoni",
@@ -536,8 +991,21 @@
       "lat": -7.80828,
       "lng": -14.37702
     },
-    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
-    "habitat": "Ascension"
+    "habitat": "Ascension",
+    "images": {
+      "tooltip": "",
+      "panel": ""
+    },
+    "panel": {
+      "description": "",
+      "habitat_text": "",
+      "extinction_text": ""
+    },
+    "range_geojson": null,
+    "taxonomy": {
+      "family": "",
+      "genus": ""
+    }
   },
   {
     "id": "mundia_elpenor",
@@ -551,8 +1019,21 @@
       "lat": -7.96713,
       "lng": -14.34069
     },
-    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
-    "habitat": "Ascension"
+    "habitat": "Ascension",
+    "images": {
+      "tooltip": "",
+      "panel": ""
+    },
+    "panel": {
+      "description": "",
+      "habitat_text": "",
+      "extinction_text": ""
+    },
+    "range_geojson": null,
+    "taxonomy": {
+      "family": "",
+      "genus": ""
+    }
   },
   {
     "id": "podilymbus_gigas",
@@ -566,8 +1047,21 @@
       "lat": 14.66775,
       "lng": -91.16805
     },
-    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
-    "habitat": "Lago de Atitlán"
+    "habitat": "Lago de Atitlán",
+    "images": {
+      "tooltip": "",
+      "panel": ""
+    },
+    "panel": {
+      "description": "",
+      "habitat_text": "",
+      "extinction_text": ""
+    },
+    "range_geojson": null,
+    "taxonomy": {
+      "family": "",
+      "genus": ""
+    }
   },
   {
     "id": "numida_meleagris_sabyi",
@@ -581,8 +1075,21 @@
       "lat": 32.16755,
       "lng": -5.1481
     },
-    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
-    "habitat": "Marokko"
+    "habitat": "Marokko",
+    "images": {
+      "tooltip": "",
+      "panel": ""
+    },
+    "panel": {
+      "description": "",
+      "habitat_text": "",
+      "extinction_text": ""
+    },
+    "range_geojson": null,
+    "taxonomy": {
+      "family": "",
+      "genus": ""
+    }
   },
   {
     "id": "mergus_australis",
@@ -596,8 +1103,21 @@
       "lat": -50.79792,
       "lng": 166.11158
     },
-    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
-    "habitat": "Aucklandinseln"
+    "habitat": "Aucklandinseln",
+    "images": {
+      "tooltip": "",
+      "panel": ""
+    },
+    "panel": {
+      "description": "",
+      "habitat_text": "",
+      "extinction_text": ""
+    },
+    "range_geojson": null,
+    "taxonomy": {
+      "family": "",
+      "genus": ""
+    }
   },
   {
     "id": "branta_hutchinsii_asiatica",
@@ -611,8 +1131,21 @@
       "lat": 55.06519,
       "lng": 165.91055
     },
-    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
-    "habitat": "Kommandeurinseln, Kurilen"
+    "habitat": "Kommandeurinseln, Kurilen",
+    "images": {
+      "tooltip": "",
+      "panel": ""
+    },
+    "panel": {
+      "description": "",
+      "habitat_text": "",
+      "extinction_text": ""
+    },
+    "range_geojson": null,
+    "taxonomy": {
+      "family": "",
+      "genus": ""
+    }
   },
   {
     "id": "pipilo_naufragus",
@@ -626,8 +1159,21 @@
       "lat": 32.35377,
       "lng": -64.77047
     },
-    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
-    "habitat": "Bermuda"
+    "habitat": "Bermuda",
+    "images": {
+      "tooltip": "",
+      "panel": ""
+    },
+    "panel": {
+      "description": "",
+      "habitat_text": "",
+      "extinction_text": ""
+    },
+    "range_geojson": null,
+    "taxonomy": {
+      "family": "",
+      "genus": ""
+    }
   },
   {
     "id": "nyctanassa_carcinocatactes",
@@ -641,8 +1187,21 @@
       "lat": 32.18109,
       "lng": -64.71868
     },
-    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
-    "habitat": "Bermuda"
+    "habitat": "Bermuda",
+    "images": {
+      "tooltip": "",
+      "panel": ""
+    },
+    "panel": {
+      "description": "",
+      "habitat_text": "",
+      "extinction_text": ""
+    },
+    "range_geojson": null,
+    "taxonomy": {
+      "family": "",
+      "genus": ""
+    }
   },
   {
     "id": "leucopeza_semperi",
@@ -656,8 +1215,21 @@
       "lat": 13.9003,
       "lng": -60.97254
     },
-    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
-    "habitat": "Saint Lucia"
+    "habitat": "Saint Lucia",
+    "images": {
+      "tooltip": "",
+      "panel": ""
+    },
+    "panel": {
+      "description": "",
+      "habitat_text": "",
+      "extinction_text": ""
+    },
+    "range_geojson": null,
+    "taxonomy": {
+      "family": "",
+      "genus": ""
+    }
   },
   {
     "id": "pareudiastes_silvestris",
@@ -671,8 +1243,21 @@
       "lat": -10.47502,
       "lng": 161.8993
     },
-    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
-    "habitat": "Makira"
+    "habitat": "Makira",
+    "images": {
+      "tooltip": "",
+      "panel": ""
+    },
+    "panel": {
+      "description": "",
+      "habitat_text": "",
+      "extinction_text": ""
+    },
+    "range_geojson": null,
+    "taxonomy": {
+      "family": "",
+      "genus": ""
+    }
   },
   {
     "id": "zoothera_terrestris",
@@ -686,8 +1271,21 @@
       "lat": 27.04133,
       "lng": 142.25006
     },
-    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
-    "habitat": "Chichi-jima"
+    "habitat": "Chichi-jima",
+    "images": {
+      "tooltip": "",
+      "panel": ""
+    },
+    "panel": {
+      "description": "",
+      "habitat_text": "",
+      "extinction_text": ""
+    },
+    "range_geojson": null,
+    "taxonomy": {
+      "family": "",
+      "genus": ""
+    }
   },
   {
     "id": "chaunoproctus_ferreorostris",
@@ -701,8 +1299,21 @@
       "lat": 27.02169,
       "lng": 142.20676
     },
-    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
-    "habitat": "Chichi-jima"
+    "habitat": "Chichi-jima",
+    "images": {
+      "tooltip": "",
+      "panel": ""
+    },
+    "panel": {
+      "description": "",
+      "habitat_text": "",
+      "extinction_text": ""
+    },
+    "range_geojson": null,
+    "taxonomy": {
+      "family": "",
+      "genus": ""
+    }
   },
   {
     "id": "columba_versicolor",
@@ -716,8 +1327,21 @@
       "lat": 27.03989,
       "lng": 142.18386
     },
-    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
-    "habitat": "Ogasawara-Inseln"
+    "habitat": "Ogasawara-Inseln",
+    "images": {
+      "tooltip": "",
+      "panel": ""
+    },
+    "panel": {
+      "description": "",
+      "habitat_text": "",
+      "extinction_text": ""
+    },
+    "range_geojson": null,
+    "taxonomy": {
+      "family": "",
+      "genus": ""
+    }
   },
   {
     "id": "anas_cyanoptera_borreroi",
@@ -731,8 +1355,21 @@
       "lat": -15.8,
       "lng": -69.35
     },
-    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
-    "habitat": "Kolumbien"
+    "habitat": "Kolumbien",
+    "images": {
+      "tooltip": "",
+      "panel": ""
+    },
+    "panel": {
+      "description": "",
+      "habitat_text": "",
+      "extinction_text": ""
+    },
+    "range_geojson": null,
+    "taxonomy": {
+      "family": "",
+      "genus": ""
+    }
   },
   {
     "id": "chlorostilbon_bracei",
@@ -746,8 +1383,21 @@
       "lat": 25.08226,
       "lng": -77.32442
     },
-    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
-    "habitat": "New Providence"
+    "habitat": "New Providence",
+    "images": {
+      "tooltip": "",
+      "panel": ""
+    },
+    "panel": {
+      "description": "",
+      "habitat_text": "",
+      "extinction_text": ""
+    },
+    "range_geojson": null,
+    "taxonomy": {
+      "family": "",
+      "genus": ""
+    }
   },
   {
     "id": "cyanoramphus_ulietanus",
@@ -761,8 +1411,21 @@
       "lat": -16.80672,
       "lng": -151.44192
     },
-    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
-    "habitat": "Raiatea"
+    "habitat": "Raiatea",
+    "images": {
+      "tooltip": "",
+      "panel": ""
+    },
+    "panel": {
+      "description": "",
+      "habitat_text": "",
+      "extinction_text": ""
+    },
+    "range_geojson": null,
+    "taxonomy": {
+      "family": "",
+      "genus": ""
+    }
   },
   {
     "id": "urile_perspicillatus",
@@ -776,8 +1439,21 @@
       "lat": 55.02564,
       "lng": 166.33242
     },
-    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
-    "habitat": "Beringinsel"
+    "habitat": "Beringinsel",
+    "images": {
+      "tooltip": "",
+      "panel": ""
+    },
+    "panel": {
+      "description": "",
+      "habitat_text": "",
+      "extinction_text": ""
+    },
+    "range_geojson": null,
+    "taxonomy": {
+      "family": "",
+      "genus": ""
+    }
   },
   {
     "id": "coracina_striata_cebuensis",
@@ -791,8 +1467,21 @@
       "lat": 10.26821,
       "lng": 123.87769
     },
-    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
-    "habitat": "Cebu"
+    "habitat": "Cebu",
+    "images": {
+      "tooltip": "",
+      "panel": ""
+    },
+    "panel": {
+      "description": "",
+      "habitat_text": "",
+      "extinction_text": ""
+    },
+    "range_geojson": null,
+    "taxonomy": {
+      "family": "",
+      "genus": ""
+    }
   },
   {
     "id": "loriculus_philippensis_chrysonotis",
@@ -806,8 +1495,21 @@
       "lat": 10.34039,
       "lng": 123.78448
     },
-    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
-    "habitat": "Cebu"
+    "habitat": "Cebu",
+    "images": {
+      "tooltip": "",
+      "panel": ""
+    },
+    "panel": {
+      "description": "",
+      "habitat_text": "",
+      "extinction_text": ""
+    },
+    "range_geojson": null,
+    "taxonomy": {
+      "family": "",
+      "genus": ""
+    }
   },
   {
     "id": "oriolus_steerii_assimilis",
@@ -821,8 +1523,21 @@
       "lat": 10.30272,
       "lng": 123.93372
     },
-    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
-    "habitat": "Cebu"
+    "habitat": "Cebu",
+    "images": {
+      "tooltip": "",
+      "panel": ""
+    },
+    "panel": {
+      "description": "",
+      "habitat_text": "",
+      "extinction_text": ""
+    },
+    "range_geojson": null,
+    "taxonomy": {
+      "family": "",
+      "genus": ""
+    }
   },
   {
     "id": "coracina_coerulescens_altera",
@@ -836,8 +1551,21 @@
       "lat": 10.31481,
       "lng": 123.95956
     },
-    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
-    "habitat": "Cebu"
+    "habitat": "Cebu",
+    "images": {
+      "tooltip": "",
+      "panel": ""
+    },
+    "panel": {
+      "description": "",
+      "habitat_text": "",
+      "extinction_text": ""
+    },
+    "range_geojson": null,
+    "taxonomy": {
+      "family": "",
+      "genus": ""
+    }
   },
   {
     "id": "dryocopus_javensis_cebuensis",
@@ -851,8 +1579,21 @@
       "lat": 10.37188,
       "lng": 123.88797
     },
-    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
-    "habitat": "Cebu"
+    "habitat": "Cebu",
+    "images": {
+      "tooltip": "",
+      "panel": ""
+    },
+    "panel": {
+      "description": "",
+      "habitat_text": "",
+      "extinction_text": ""
+    },
+    "range_geojson": null,
+    "taxonomy": {
+      "family": "",
+      "genus": ""
+    }
   },
   {
     "id": "anthornis_melanocephala",
@@ -866,8 +1607,21 @@
       "lat": -43.95713,
       "lng": -176.62551
     },
-    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
-    "habitat": "Chathaminseln"
+    "habitat": "Chathaminseln",
+    "images": {
+      "tooltip": "",
+      "panel": ""
+    },
+    "panel": {
+      "description": "",
+      "habitat_text": "",
+      "extinction_text": ""
+    },
+    "range_geojson": null,
+    "taxonomy": {
+      "family": "",
+      "genus": ""
+    }
   },
   {
     "id": "megalurus_rufescens",
@@ -881,8 +1635,21 @@
       "lat": -43.86426,
       "lng": -176.58209
     },
-    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
-    "habitat": "Chathaminseln"
+    "habitat": "Chathaminseln",
+    "images": {
+      "tooltip": "",
+      "panel": ""
+    },
+    "panel": {
+      "description": "",
+      "habitat_text": "",
+      "extinction_text": ""
+    },
+    "range_geojson": null,
+    "taxonomy": {
+      "family": "",
+      "genus": ""
+    }
   },
   {
     "id": "gallirallus_modestus",
@@ -896,8 +1663,21 @@
       "lat": -43.98182,
       "lng": -176.53379
     },
-    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
-    "habitat": "Chathaminseln"
+    "habitat": "Chathaminseln",
+    "images": {
+      "tooltip": "",
+      "panel": ""
+    },
+    "panel": {
+      "description": "",
+      "habitat_text": "",
+      "extinction_text": ""
+    },
+    "range_geojson": null,
+    "taxonomy": {
+      "family": "",
+      "genus": ""
+    }
   },
   {
     "id": "amazona_vittata_gracilipes",
@@ -911,8 +1691,21 @@
       "lat": 18.30896,
       "lng": -65.2766
     },
-    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
-    "habitat": "Culebra"
+    "habitat": "Culebra",
+    "images": {
+      "tooltip": "",
+      "panel": ""
+    },
+    "panel": {
+      "description": "",
+      "habitat_text": "",
+      "extinction_text": ""
+    },
+    "range_geojson": null,
+    "taxonomy": {
+      "family": "",
+      "genus": ""
+    }
   },
   {
     "id": "buteo_japonicus_oshiroi",
@@ -926,8 +1719,21 @@
       "lat": 25.76115,
       "lng": 131.20742
     },
-    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
-    "habitat": "Daitō-Inseln"
+    "habitat": "Daitō-Inseln",
+    "images": {
+      "tooltip": "",
+      "panel": ""
+    },
+    "panel": {
+      "description": "",
+      "habitat_text": "",
+      "extinction_text": ""
+    },
+    "range_geojson": null,
+    "taxonomy": {
+      "family": "",
+      "genus": ""
+    }
   },
   {
     "id": "tachybaptus_rufolavatus",
@@ -941,8 +1747,21 @@
       "lat": -17.45415,
       "lng": 48.54174
     },
-    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
-    "habitat": "Alaotra-See"
+    "habitat": "Alaotra-See",
+    "images": {
+      "tooltip": "",
+      "panel": ""
+    },
+    "panel": {
+      "description": "",
+      "habitat_text": "",
+      "extinction_text": ""
+    },
+    "range_geojson": null,
+    "taxonomy": {
+      "family": "",
+      "genus": ""
+    }
   },
   {
     "id": "coua_delalandei",
@@ -956,8 +1775,21 @@
       "lat": -20.65871,
       "lng": 46.81278
     },
-    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
-    "habitat": "Madagaskar"
+    "habitat": "Madagaskar",
+    "images": {
+      "tooltip": "",
+      "panel": ""
+    },
+    "panel": {
+      "description": "",
+      "habitat_text": "",
+      "extinction_text": ""
+    },
+    "range_geojson": null,
+    "taxonomy": {
+      "family": "",
+      "genus": ""
+    }
   },
   {
     "id": "charmosyna_diadema",
@@ -971,8 +1803,21 @@
       "lat": -21.47313,
       "lng": 165.49143
     },
-    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
-    "habitat": "Neukaledonien"
+    "habitat": "Neukaledonien",
+    "images": {
+      "tooltip": "",
+      "panel": ""
+    },
+    "panel": {
+      "description": "",
+      "habitat_text": "",
+      "extinction_text": ""
+    },
+    "range_geojson": null,
+    "taxonomy": {
+      "family": "",
+      "genus": ""
+    }
   },
   {
     "id": "hypotaenidia_dieffenbachii",
@@ -986,8 +1831,21 @@
       "lat": -43.87046,
       "lng": -176.54455
     },
-    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
-    "habitat": "Chathaminseln"
+    "habitat": "Chathaminseln",
+    "images": {
+      "tooltip": "",
+      "panel": ""
+    },
+    "panel": {
+      "description": "",
+      "habitat_text": "",
+      "extinction_text": ""
+    },
+    "range_geojson": null,
+    "taxonomy": {
+      "family": "",
+      "genus": ""
+    }
   },
   {
     "id": "nestor_productus",
@@ -1001,8 +1859,21 @@
       "lat": -28.95776,
       "lng": 167.93363
     },
-    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
-    "habitat": "Norfolkinsel, Phillipinsel"
+    "habitat": "Norfolkinsel, Phillipinsel",
+    "images": {
+      "tooltip": "",
+      "panel": ""
+    },
+    "panel": {
+      "description": "",
+      "habitat_text": "",
+      "extinction_text": ""
+    },
+    "range_geojson": null,
+    "taxonomy": {
+      "family": "",
+      "genus": ""
+    }
   },
   {
     "id": "pomarea_fluxa",
@@ -1016,8 +1887,21 @@
       "lat": -8.02234,
       "lng": -140.5704
     },
-    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
-    "habitat": "Eiao"
+    "habitat": "Eiao",
+    "images": {
+      "tooltip": "",
+      "panel": ""
+    },
+    "panel": {
+      "description": "",
+      "habitat_text": "",
+      "extinction_text": ""
+    },
+    "range_geojson": null,
+    "taxonomy": {
+      "family": "",
+      "genus": ""
+    }
   },
   {
     "id": "hemignathus_sagittirostris",
@@ -1031,8 +1915,21 @@
       "lat": 19.67416,
       "lng": -155.5161
     },
-    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
-    "habitat": "Big Island (Hawaii)"
+    "habitat": "Big Island (Hawaii)",
+    "images": {
+      "tooltip": "",
+      "panel": ""
+    },
+    "panel": {
+      "description": "",
+      "habitat_text": "",
+      "extinction_text": ""
+    },
+    "range_geojson": null,
+    "taxonomy": {
+      "family": "",
+      "genus": ""
+    }
   },
   {
     "id": "aepyornis_maximus",
@@ -1046,8 +1943,21 @@
       "lat": -19.78979,
       "lng": 47.25904
     },
-    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
-    "habitat": "Madagaskar"
+    "habitat": "Madagaskar",
+    "images": {
+      "tooltip": "",
+      "panel": ""
+    },
+    "panel": {
+      "description": "",
+      "habitat_text": "",
+      "extinction_text": ""
+    },
+    "range_geojson": null,
+    "taxonomy": {
+      "family": "",
+      "genus": ""
+    }
   },
   {
     "id": "campephilus_principalis_principalis",
@@ -1061,8 +1971,21 @@
       "lat": 19.5,
       "lng": -99.0
     },
-    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
-    "habitat": "Nordamerika (Südstaaten)"
+    "habitat": "Nordamerika (Südstaaten)",
+    "images": {
+      "tooltip": "",
+      "panel": ""
+    },
+    "panel": {
+      "description": "",
+      "habitat_text": "",
+      "extinction_text": ""
+    },
+    "range_geojson": null,
+    "taxonomy": {
+      "family": "",
+      "genus": ""
+    }
   },
   {
     "id": "numenius_borealis",
@@ -1076,8 +1999,21 @@
       "lat": 31.4757,
       "lng": -99.3312
     },
-    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
-    "habitat": "Nordamerika, Südamerika"
+    "habitat": "Nordamerika, Südamerika",
+    "images": {
+      "tooltip": "",
+      "panel": ""
+    },
+    "panel": {
+      "description": "",
+      "habitat_text": "",
+      "extinction_text": ""
+    },
+    "range_geojson": null,
+    "taxonomy": {
+      "family": "",
+      "genus": ""
+    }
   },
   {
     "id": "nesoclopeus_poecilopterus",
@@ -1091,8 +2027,21 @@
       "lat": -17.82327,
       "lng": 178.06197
     },
-    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
-    "habitat": "Viti Levu"
+    "habitat": "Viti Levu",
+    "images": {
+      "tooltip": "",
+      "panel": ""
+    },
+    "panel": {
+      "description": "",
+      "habitat_text": "",
+      "extinction_text": ""
+    },
+    "range_geojson": null,
+    "taxonomy": {
+      "family": "",
+      "genus": ""
+    }
   },
   {
     "id": "chenonetta_finschi",
@@ -1106,8 +2055,21 @@
       "lat": -41.07725,
       "lng": 174.02824
     },
-    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
-    "habitat": "Neuseeland"
+    "habitat": "Neuseeland",
+    "images": {
+      "tooltip": "",
+      "panel": ""
+    },
+    "panel": {
+      "description": "",
+      "habitat_text": "",
+      "extinction_text": ""
+    },
+    "range_geojson": null,
+    "taxonomy": {
+      "family": "",
+      "genus": ""
+    }
   },
   {
     "id": "psittirostra_psittacea",
@@ -1121,8 +2083,21 @@
       "lat": 19.55828,
       "lng": -155.46733
     },
-    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
-    "habitat": "Hawaii"
+    "habitat": "Hawaii",
+    "images": {
+      "tooltip": "",
+      "panel": ""
+    },
+    "panel": {
+      "description": "",
+      "habitat_text": "",
+      "extinction_text": ""
+    },
+    "range_geojson": null,
+    "taxonomy": {
+      "family": "",
+      "genus": ""
+    }
   },
   {
     "id": "rhodacanthis_flaviceps",
@@ -1136,8 +2111,21 @@
       "lat": 19.64097,
       "lng": -155.59172
     },
-    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
-    "habitat": "Big Island (Hawaii)"
+    "habitat": "Big Island (Hawaii)",
+    "images": {
+      "tooltip": "",
+      "panel": ""
+    },
+    "panel": {
+      "description": "",
+      "habitat_text": "",
+      "extinction_text": ""
+    },
+    "range_geojson": null,
+    "taxonomy": {
+      "family": "",
+      "genus": ""
+    }
   },
   {
     "id": "vermivora_bachmanii",
@@ -1151,8 +2139,21 @@
       "lat": 39.82782,
       "lng": -98.60186
     },
-    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
-    "habitat": "USA (Süden)"
+    "habitat": "USA (Süden)",
+    "images": {
+      "tooltip": "",
+      "panel": ""
+    },
+    "panel": {
+      "description": "",
+      "habitat_text": "",
+      "extinction_text": ""
+    },
+    "range_geojson": null,
+    "taxonomy": {
+      "family": "",
+      "genus": ""
+    }
   },
   {
     "id": "prosobonia_leucoptera",
@@ -1166,8 +2167,21 @@
       "lat": -17.73118,
       "lng": -149.36404
     },
-    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
-    "habitat": "Tahiti, Moorea"
+    "habitat": "Tahiti, Moorea",
+    "images": {
+      "tooltip": "",
+      "panel": ""
+    },
+    "panel": {
+      "description": "",
+      "habitat_text": "",
+      "extinction_text": ""
+    },
+    "range_geojson": null,
+    "taxonomy": {
+      "family": "",
+      "genus": ""
+    }
   },
   {
     "id": "calyptophilus_frugivorus_frugivorus",
@@ -1181,8 +2195,21 @@
       "lat": 18.85795,
       "lng": -73.04278
     },
-    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
-    "habitat": "Gonâve"
+    "habitat": "Gonâve",
+    "images": {
+      "tooltip": "",
+      "panel": ""
+    },
+    "panel": {
+      "description": "",
+      "habitat_text": "",
+      "extinction_text": ""
+    },
+    "range_geojson": null,
+    "taxonomy": {
+      "family": "",
+      "genus": ""
+    }
   },
   {
     "id": "chlorostilbon_elegans",
@@ -1196,8 +2223,21 @@
       "lat": 18.25306,
       "lng": -77.13219
     },
-    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
-    "habitat": "Jamaika, Bahamas"
+    "habitat": "Jamaika, Bahamas",
+    "images": {
+      "tooltip": "",
+      "panel": ""
+    },
+    "panel": {
+      "description": "",
+      "habitat_text": "",
+      "extinction_text": ""
+    },
+    "range_geojson": null,
+    "taxonomy": {
+      "family": "",
+      "genus": ""
+    }
   },
   {
     "id": "thryomanes_bewickii_brevicauda",
@@ -1211,8 +2251,21 @@
       "lat": 29.0788,
       "lng": -118.36421
     },
-    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
-    "habitat": "Guadalupe"
+    "habitat": "Guadalupe",
+    "images": {
+      "tooltip": "",
+      "panel": ""
+    },
+    "panel": {
+      "description": "",
+      "habitat_text": "",
+      "extinction_text": ""
+    },
+    "range_geojson": null,
+    "taxonomy": {
+      "family": "",
+      "genus": ""
+    }
   },
   {
     "id": "pipilo_maculatus_consobrinus",
@@ -1226,8 +2279,21 @@
       "lat": 29.03762,
       "lng": -118.32819
     },
-    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
-    "habitat": "Guadalupe"
+    "habitat": "Guadalupe",
+    "images": {
+      "tooltip": "",
+      "panel": ""
+    },
+    "panel": {
+      "description": "",
+      "habitat_text": "",
+      "extinction_text": ""
+    },
+    "range_geojson": null,
+    "taxonomy": {
+      "family": "",
+      "genus": ""
+    }
   },
   {
     "id": "caracara_lutosa",
@@ -1241,8 +2307,21 @@
       "lat": 29.01189,
       "lng": -118.27819
     },
-    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
-    "habitat": "Guadalupe"
+    "habitat": "Guadalupe",
+    "images": {
+      "tooltip": "",
+      "panel": ""
+    },
+    "panel": {
+      "description": "",
+      "habitat_text": "",
+      "extinction_text": ""
+    },
+    "range_geojson": null,
+    "taxonomy": {
+      "family": "",
+      "genus": ""
+    }
   },
   {
     "id": "colaptes_auratus_rufipileus",
@@ -1256,8 +2335,21 @@
       "lat": 29.06436,
       "lng": -118.34005
     },
-    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
-    "habitat": "Guadalupe, Niederkalifornien"
+    "habitat": "Guadalupe, Niederkalifornien",
+    "images": {
+      "tooltip": "",
+      "panel": ""
+    },
+    "panel": {
+      "description": "",
+      "habitat_text": "",
+      "extinction_text": ""
+    },
+    "range_geojson": null,
+    "taxonomy": {
+      "family": "",
+      "genus": ""
+    }
   },
   {
     "id": "oceanodroma_macrodacyla",
@@ -1271,8 +2363,21 @@
       "lat": 28.99735,
       "lng": -118.44088
     },
-    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
-    "habitat": "Guadalupe"
+    "habitat": "Guadalupe",
+    "images": {
+      "tooltip": "",
+      "panel": ""
+    },
+    "panel": {
+      "description": "",
+      "habitat_text": "",
+      "extinction_text": ""
+    },
+    "range_geojson": null,
+    "taxonomy": {
+      "family": "",
+      "genus": ""
+    }
   },
   {
     "id": "amazona_martinicana",
@@ -1286,8 +2391,21 @@
       "lat": 14.73398,
       "lng": -61.23723
     },
-    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
-    "habitat": "Martinique"
+    "habitat": "Martinique",
+    "images": {
+      "tooltip": "",
+      "panel": ""
+    },
+    "panel": {
+      "description": "",
+      "habitat_text": "",
+      "extinction_text": ""
+    },
+    "range_geojson": null,
+    "taxonomy": {
+      "family": "",
+      "genus": ""
+    }
   },
   {
     "id": "myiagra_freycineti",
@@ -1301,8 +2419,21 @@
       "lat": 13.41426,
       "lng": 144.72635
     },
-    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
-    "habitat": "Guam"
+    "habitat": "Guam",
+    "images": {
+      "tooltip": "",
+      "panel": ""
+    },
+    "panel": {
+      "description": "",
+      "habitat_text": "",
+      "extinction_text": ""
+    },
+    "range_geojson": null,
+    "taxonomy": {
+      "family": "",
+      "genus": ""
+    }
   },
   {
     "id": "zosterops_conspicillatus",
@@ -1316,8 +2447,21 @@
       "lat": 13.42421,
       "lng": 144.77554
     },
-    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
-    "habitat": "Guam"
+    "habitat": "Guam",
+    "images": {
+      "tooltip": "",
+      "panel": ""
+    },
+    "panel": {
+      "description": "",
+      "habitat_text": "",
+      "extinction_text": ""
+    },
+    "range_geojson": null,
+    "taxonomy": {
+      "family": "",
+      "genus": ""
+    }
   },
   {
     "id": "francolinus_francolinus_ssp",
@@ -1331,8 +2475,21 @@
       "lat": 37.61579,
       "lng": 13.93437
     },
-    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
-    "habitat": "Sizilien"
+    "habitat": "Sizilien",
+    "images": {
+      "tooltip": "",
+      "panel": ""
+    },
+    "panel": {
+      "description": "",
+      "habitat_text": "",
+      "extinction_text": ""
+    },
+    "range_geojson": null,
+    "taxonomy": {
+      "family": "",
+      "genus": ""
+    }
   },
   {
     "id": "hemignathus_obscurus",
@@ -1346,8 +2503,21 @@
       "lat": 19.6027,
       "lng": -155.53385
     },
-    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
-    "habitat": "Big Island"
+    "habitat": "Big Island",
+    "images": {
+      "tooltip": "",
+      "panel": ""
+    },
+    "panel": {
+      "description": "",
+      "habitat_text": "",
+      "extinction_text": ""
+    },
+    "range_geojson": null,
+    "taxonomy": {
+      "family": "",
+      "genus": ""
+    }
   },
   {
     "id": "porzana_sandwichensis",
@@ -1361,8 +2531,21 @@
       "lat": 19.61356,
       "lng": -155.58075
     },
-    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
-    "habitat": "Big Island"
+    "habitat": "Big Island",
+    "images": {
+      "tooltip": "",
+      "panel": ""
+    },
+    "panel": {
+      "description": "",
+      "habitat_text": "",
+      "extinction_text": ""
+    },
+    "range_geojson": null,
+    "taxonomy": {
+      "family": "",
+      "genus": ""
+    }
   },
   {
     "id": "diaphorapteryx_hawkinsi",
@@ -1376,8 +2559,21 @@
       "lat": -44.0053,
       "lng": -176.62903
     },
-    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
-    "habitat": "Chathaminseln"
+    "habitat": "Chathaminseln",
+    "images": {
+      "tooltip": "",
+      "panel": ""
+    },
+    "panel": {
+      "description": "",
+      "habitat_text": "",
+      "extinction_text": ""
+    },
+    "range_geojson": null,
+    "taxonomy": {
+      "family": "",
+      "genus": ""
+    }
   },
   {
     "id": "tympanuchus_cupido_cupido",
@@ -1391,8 +2587,21 @@
       "lat": 43.6805,
       "lng": -71.5811
     },
-    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
-    "habitat": "Nordamerika (Osten)"
+    "habitat": "Nordamerika (Osten)",
+    "images": {
+      "tooltip": "",
+      "panel": ""
+    },
+    "panel": {
+      "description": "",
+      "habitat_text": "",
+      "extinction_text": ""
+    },
+    "range_geojson": null,
+    "taxonomy": {
+      "family": "",
+      "genus": ""
+    }
   },
   {
     "id": "pomarea_mendozae_mendozae",
@@ -1406,8 +2615,21 @@
       "lat": -9.78198,
       "lng": -138.97791
     },
-    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
-    "habitat": "Hiva Oa (Französisch-Polynesien)"
+    "habitat": "Hiva Oa (Französisch-Polynesien)",
+    "images": {
+      "tooltip": "",
+      "panel": ""
+    },
+    "panel": {
+      "description": "",
+      "habitat_text": "",
+      "extinction_text": ""
+    },
+    "range_geojson": null,
+    "taxonomy": {
+      "family": "",
+      "genus": ""
+    }
   },
   {
     "id": "fregilupus_varius",
@@ -1421,8 +2643,21 @@
       "lat": -21.15826,
       "lng": 55.49286
     },
-    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
-    "habitat": "Réunion"
+    "habitat": "Réunion",
+    "images": {
+      "tooltip": "",
+      "panel": ""
+    },
+    "panel": {
+      "description": "",
+      "habitat_text": "",
+      "extinction_text": ""
+    },
+    "range_geojson": null,
+    "taxonomy": {
+      "family": "",
+      "genus": ""
+    }
   },
   {
     "id": "acrocephalus_musae_garretti",
@@ -1436,8 +2671,21 @@
       "lat": -16.79111,
       "lng": -150.96836
     },
-    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
-    "habitat": "Huahine (Französisch-Polynesien)"
+    "habitat": "Huahine (Französisch-Polynesien)",
+    "images": {
+      "tooltip": "",
+      "panel": ""
+    },
+    "panel": {
+      "description": "",
+      "habitat_text": "",
+      "extinction_text": ""
+    },
+    "range_geojson": null,
+    "taxonomy": {
+      "family": "",
+      "genus": ""
+    }
   },
   {
     "id": "heteralocha_acutirostris",
@@ -1451,8 +2699,21 @@
       "lat": -40.97992,
       "lng": 173.99167
     },
-    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
-    "habitat": "Neuseeland (Nordinsel)"
+    "habitat": "Neuseeland (Nordinsel)",
+    "images": {
+      "tooltip": "",
+      "panel": ""
+    },
+    "panel": {
+      "description": "",
+      "habitat_text": "",
+      "extinction_text": ""
+    },
+    "range_geojson": null,
+    "taxonomy": {
+      "family": "",
+      "genus": ""
+    }
   },
   {
     "id": "circus_teauteensis",
@@ -1466,8 +2727,21 @@
       "lat": -41.0151,
       "lng": 174.01108
     },
-    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
-    "habitat": "Neuseeland"
+    "habitat": "Neuseeland",
+    "images": {
+      "tooltip": "",
+      "panel": ""
+    },
+    "panel": {
+      "description": "",
+      "habitat_text": "",
+      "extinction_text": ""
+    },
+    "range_geojson": null,
+    "taxonomy": {
+      "family": "",
+      "genus": ""
+    }
   },
   {
     "id": "pterodroma_imberi",
@@ -1481,8 +2755,21 @@
       "lat": -43.97507,
       "lng": -176.62272
     },
-    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
-    "habitat": "Chathaminseln"
+    "habitat": "Chathaminseln",
+    "images": {
+      "tooltip": "",
+      "panel": ""
+    },
+    "panel": {
+      "description": "",
+      "habitat_text": "",
+      "extinction_text": ""
+    },
+    "range_geojson": null,
+    "taxonomy": {
+      "family": "",
+      "genus": ""
+    }
   },
   {
     "id": "pterodroma_caribbaea",
@@ -1496,8 +2783,21 @@
       "lat": 18.3745,
       "lng": -77.62316
     },
-    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
-    "habitat": "Jamaika"
+    "habitat": "Jamaika",
+    "images": {
+      "tooltip": "",
+      "panel": ""
+    },
+    "panel": {
+      "description": "",
+      "habitat_text": "",
+      "extinction_text": ""
+    },
+    "range_geojson": null,
+    "taxonomy": {
+      "family": "",
+      "genus": ""
+    }
   },
   {
     "id": "vanellus_macropterus",
@@ -1511,8 +2811,21 @@
       "lat": -7.53852,
       "lng": 109.97938
     },
-    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
-    "habitat": "Java"
+    "habitat": "Java",
+    "images": {
+      "tooltip": "",
+      "panel": ""
+    },
+    "panel": {
+      "description": "",
+      "habitat_text": "",
+      "extinction_text": ""
+    },
+    "range_geojson": null,
+    "taxonomy": {
+      "family": "",
+      "genus": ""
+    }
   },
   {
     "id": "megascops_nudipes_newtoni",
@@ -1526,8 +2839,21 @@
       "lat": 18.38849,
       "lng": -64.93481
     },
-    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
-    "habitat": "Amerikanische Jungferninseln"
+    "habitat": "Amerikanische Jungferninseln",
+    "images": {
+      "tooltip": "",
+      "panel": ""
+    },
+    "panel": {
+      "description": "",
+      "habitat_text": "",
+      "extinction_text": ""
+    },
+    "range_geojson": null,
+    "taxonomy": {
+      "family": "",
+      "genus": ""
+    }
   },
   {
     "id": "campephilus_imperialis",
@@ -1541,8 +2867,21 @@
       "lat": 23.61564,
       "lng": -102.54455
     },
-    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
-    "habitat": "Mexiko"
+    "habitat": "Mexiko",
+    "images": {
+      "tooltip": "",
+      "panel": ""
+    },
+    "panel": {
+      "description": "",
+      "habitat_text": "",
+      "extinction_text": ""
+    },
+    "range_geojson": null,
+    "taxonomy": {
+      "family": "",
+      "genus": ""
+    }
   },
   {
     "id": "haematopus_meadewaldoi",
@@ -1556,8 +2895,21 @@
       "lat": 28.34452,
       "lng": -14.08267
     },
-    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
-    "habitat": "Fuerteventura, Lanzarote"
+    "habitat": "Fuerteventura, Lanzarote",
+    "images": {
+      "tooltip": "",
+      "panel": ""
+    },
+    "panel": {
+      "description": "",
+      "habitat_text": "",
+      "extinction_text": ""
+    },
+    "range_geojson": null,
+    "taxonomy": {
+      "family": "",
+      "genus": ""
+    }
   },
   {
     "id": "conuropsis_carolinensis_carolinensis",
@@ -1571,8 +2923,21 @@
       "lat": 32.7364,
       "lng": -89.6678
     },
-    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
-    "habitat": "Nordamerika (Südosten)"
+    "habitat": "Nordamerika (Südosten)",
+    "images": {
+      "tooltip": "",
+      "panel": ""
+    },
+    "panel": {
+      "description": "",
+      "habitat_text": "",
+      "extinction_text": ""
+    },
+    "range_geojson": null,
+    "taxonomy": {
+      "family": "",
+      "genus": ""
+    }
   },
   {
     "id": "akialoa_stejnegeri",
@@ -1586,8 +2951,21 @@
       "lat": 22.06161,
       "lng": -159.48946
     },
-    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
-    "habitat": "Kauai (Hawaii)"
+    "habitat": "Kauai (Hawaii)",
+    "images": {
+      "tooltip": "",
+      "panel": ""
+    },
+    "panel": {
+      "description": "",
+      "habitat_text": "",
+      "extinction_text": ""
+    },
+    "range_geojson": null,
+    "taxonomy": {
+      "family": "",
+      "genus": ""
+    }
   },
   {
     "id": "loxioides_kikuchi",
@@ -1601,8 +2979,21 @@
       "lat": 22.02452,
       "lng": -159.46578
     },
-    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
-    "habitat": "Kauai (Hawaii)"
+    "habitat": "Kauai (Hawaii)",
+    "images": {
+      "tooltip": "",
+      "panel": ""
+    },
+    "panel": {
+      "description": "",
+      "habitat_text": "",
+      "extinction_text": ""
+    },
+    "range_geojson": null,
+    "taxonomy": {
+      "family": "",
+      "genus": ""
+    }
   },
   {
     "id": "hemignathus_hanapepe",
@@ -1616,8 +3007,21 @@
       "lat": 22.07881,
       "lng": -159.50021
     },
-    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
-    "habitat": "Kauai (Hawaii)"
+    "habitat": "Kauai (Hawaii)",
+    "images": {
+      "tooltip": "",
+      "panel": ""
+    },
+    "panel": {
+      "description": "",
+      "habitat_text": "",
+      "extinction_text": ""
+    },
+    "range_geojson": null,
+    "taxonomy": {
+      "family": "",
+      "genus": ""
+    }
   },
   {
     "id": "myadestes_myadestinus",
@@ -1631,8 +3035,21 @@
       "lat": 22.08182,
       "lng": -159.52177
     },
-    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
-    "habitat": "Kauai (Hawaii)"
+    "habitat": "Kauai (Hawaii)",
+    "images": {
+      "tooltip": "",
+      "panel": ""
+    },
+    "panel": {
+      "description": "",
+      "habitat_text": "",
+      "extinction_text": ""
+    },
+    "range_geojson": null,
+    "taxonomy": {
+      "family": "",
+      "genus": ""
+    }
   },
   {
     "id": "siphonorhis_americana",
@@ -1646,8 +3063,21 @@
       "lat": 18.38928,
       "lng": -77.33507
     },
-    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
-    "habitat": "Jamaika"
+    "habitat": "Jamaika",
+    "images": {
+      "tooltip": "",
+      "panel": ""
+    },
+    "panel": {
+      "description": "",
+      "habitat_text": "",
+      "extinction_text": ""
+    },
+    "range_geojson": null,
+    "taxonomy": {
+      "family": "",
+      "genus": ""
+    }
   },
   {
     "id": "emeus_crassus",
@@ -1661,8 +3091,21 @@
       "lat": -40.90213,
       "lng": 174.00167
     },
-    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
-    "habitat": "Neuseeland (Südinsel)"
+    "habitat": "Neuseeland (Südinsel)",
+    "images": {
+      "tooltip": "",
+      "panel": ""
+    },
+    "panel": {
+      "description": "",
+      "habitat_text": "",
+      "extinction_text": ""
+    },
+    "range_geojson": null,
+    "taxonomy": {
+      "family": "",
+      "genus": ""
+    }
   },
   {
     "id": "chloridops_kona",
@@ -1676,8 +3119,21 @@
       "lat": 19.6367,
       "lng": -155.43703
     },
-    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
-    "habitat": "Big Island (Hawaii)"
+    "habitat": "Big Island (Hawaii)",
+    "images": {
+      "tooltip": "",
+      "panel": ""
+    },
+    "panel": {
+      "description": "",
+      "habitat_text": "",
+      "extinction_text": ""
+    },
+    "range_geojson": null,
+    "taxonomy": {
+      "family": "",
+      "genus": ""
+    }
   },
   {
     "id": "drepanis_pacifica",
@@ -1691,8 +3147,21 @@
       "lat": 19.53289,
       "lng": -155.6028
     },
-    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
-    "habitat": "Big Island (Hawaii)"
+    "habitat": "Big Island (Hawaii)",
+    "images": {
+      "tooltip": "",
+      "panel": ""
+    },
+    "panel": {
+      "description": "",
+      "habitat_text": "",
+      "extinction_text": ""
+    },
+    "range_geojson": null,
+    "taxonomy": {
+      "family": "",
+      "genus": ""
+    }
   },
   {
     "id": "aplonis_corvina",
@@ -1706,8 +3175,21 @@
       "lat": 5.29187,
       "lng": 162.9834
     },
-    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
-    "habitat": "Kosrae"
+    "habitat": "Kosrae",
+    "images": {
+      "tooltip": "",
+      "panel": ""
+    },
+    "panel": {
+      "description": "",
+      "habitat_text": "",
+      "extinction_text": ""
+    },
+    "range_geojson": null,
+    "taxonomy": {
+      "family": "",
+      "genus": ""
+    }
   },
   {
     "id": "porzana_monasa",
@@ -1721,8 +3203,21 @@
       "lat": 5.40985,
       "lng": 163.01334
     },
-    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
-    "habitat": "Kosrae, Ponape"
+    "habitat": "Kosrae, Ponape",
+    "images": {
+      "tooltip": "",
+      "panel": ""
+    },
+    "panel": {
+      "description": "",
+      "habitat_text": "",
+      "extinction_text": ""
+    },
+    "range_geojson": null,
+    "taxonomy": {
+      "family": "",
+      "genus": ""
+    }
   },
   {
     "id": "moho_apicalis",
@@ -1736,8 +3231,21 @@
       "lat": 21.51838,
       "lng": -157.87568
     },
-    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
-    "habitat": "Oahu (Hawaii)"
+    "habitat": "Oahu (Hawaii)",
+    "images": {
+      "tooltip": "",
+      "panel": ""
+    },
+    "panel": {
+      "description": "",
+      "habitat_text": "",
+      "extinction_text": ""
+    },
+    "range_geojson": null,
+    "taxonomy": {
+      "family": "",
+      "genus": ""
+    }
   },
   {
     "id": "ara_tricolor",
@@ -1751,8 +3259,21 @@
       "lat": 21.58065,
       "lng": -79.86154
     },
-    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
-    "habitat": "Kuba"
+    "habitat": "Kuba",
+    "images": {
+      "tooltip": "",
+      "panel": ""
+    },
+    "panel": {
+      "description": "",
+      "habitat_text": "",
+      "extinction_text": ""
+    },
+    "range_geojson": null,
+    "taxonomy": {
+      "family": "",
+      "genus": ""
+    }
   },
   {
     "id": "siphonorhis_daiquiri",
@@ -1766,8 +3287,21 @@
       "lat": 21.44486,
       "lng": -80.0324
     },
-    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
-    "habitat": "Kuba"
+    "habitat": "Kuba",
+    "images": {
+      "tooltip": "",
+      "panel": ""
+    },
+    "panel": {
+      "description": "",
+      "habitat_text": "",
+      "extinction_text": ""
+    },
+    "range_geojson": null,
+    "taxonomy": {
+      "family": "",
+      "genus": ""
+    }
   },
   {
     "id": "campephilus_principalis_bairdii",
@@ -1781,8 +3315,21 @@
       "lat": 21.54648,
       "lng": -80.46221
     },
-    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
-    "habitat": "Kuba"
+    "habitat": "Kuba",
+    "images": {
+      "tooltip": "",
+      "panel": ""
+    },
+    "panel": {
+      "description": "",
+      "habitat_text": "",
+      "extinction_text": ""
+    },
+    "range_geojson": null,
+    "taxonomy": {
+      "family": "",
+      "genus": ""
+    }
   },
   {
     "id": "discosura_letitiae",
@@ -1796,8 +3343,21 @@
       "lat": -17.40111,
       "lng": -64.93891
     },
-    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
-    "habitat": "Bolivien"
+    "habitat": "Bolivien",
+    "images": {
+      "tooltip": "",
+      "panel": ""
+    },
+    "panel": {
+      "description": "",
+      "habitat_text": "",
+      "extinction_text": ""
+    },
+    "range_geojson": null,
+    "taxonomy": {
+      "family": "",
+      "genus": ""
+    }
   },
   {
     "id": "camptorhynchus_labradorius",
@@ -1809,10 +3369,23 @@
     "last_seen": "1878",
     "location": {
       "lat": 40.7128,
-      "lng": -74.0060
+      "lng": -74.006
     },
-    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
-    "habitat": "Nordamerika"
+    "habitat": "Nordamerika",
+    "images": {
+      "tooltip": "",
+      "panel": ""
+    },
+    "panel": {
+      "description": "",
+      "habitat_text": "",
+      "extinction_text": ""
+    },
+    "range_geojson": null,
+    "taxonomy": {
+      "family": "",
+      "genus": ""
+    }
   },
   {
     "id": "hemignathus_ellisianus_lanaiensis",
@@ -1826,8 +3399,21 @@
       "lat": 20.82731,
       "lng": -156.96718
     },
-    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
-    "habitat": "Lanai (Hawaii)"
+    "habitat": "Lanai (Hawaii)",
+    "images": {
+      "tooltip": "",
+      "panel": ""
+    },
+    "panel": {
+      "description": "",
+      "habitat_text": "",
+      "extinction_text": ""
+    },
+    "range_geojson": null,
+    "taxonomy": {
+      "family": "",
+      "genus": ""
+    }
   },
   {
     "id": "dysmorodrepanis_munroi",
@@ -1841,8 +3427,21 @@
       "lat": 20.7775,
       "lng": -156.98061
     },
-    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
-    "habitat": "Lanai (Hawaii)"
+    "habitat": "Lanai (Hawaii)",
+    "images": {
+      "tooltip": "",
+      "panel": ""
+    },
+    "panel": {
+      "description": "",
+      "habitat_text": "",
+      "extinction_text": ""
+    },
+    "range_geojson": null,
+    "taxonomy": {
+      "family": "",
+      "genus": ""
+    }
   },
   {
     "id": "myadestes_lanaiensis",
@@ -1856,8 +3455,21 @@
       "lat": 19.57834,
       "lng": -155.49608
     },
-    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
-    "habitat": "Hawaii"
+    "habitat": "Hawaii",
+    "images": {
+      "tooltip": "",
+      "panel": ""
+    },
+    "panel": {
+      "description": "",
+      "habitat_text": "",
+      "extinction_text": ""
+    },
+    "range_geojson": null,
+    "taxonomy": {
+      "family": "",
+      "genus": ""
+    }
   },
   {
     "id": "dendroscansor_decurvirostris",
@@ -1871,8 +3483,21 @@
       "lat": -41.00803,
       "lng": 174.01025
     },
-    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
-    "habitat": "Neuseeland"
+    "habitat": "Neuseeland",
+    "images": {
+      "tooltip": "",
+      "panel": ""
+    },
+    "panel": {
+      "description": "",
+      "habitat_text": "",
+      "extinction_text": ""
+    },
+    "range_geojson": null,
+    "taxonomy": {
+      "family": "",
+      "genus": ""
+    }
   },
   {
     "id": "phylloscopus_canariensis_exsul",
@@ -1886,8 +3511,21 @@
       "lat": 29.06829,
       "lng": -13.63125
     },
-    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
-    "habitat": "Lanzarote"
+    "habitat": "Lanzarote",
+    "images": {
+      "tooltip": "",
+      "panel": ""
+    },
+    "panel": {
+      "description": "",
+      "habitat_text": "",
+      "extinction_text": ""
+    },
+    "range_geojson": null,
+    "taxonomy": {
+      "family": "",
+      "genus": ""
+    }
   },
   {
     "id": "himatione_fraithii",
@@ -1901,8 +3539,21 @@
       "lat": 25.82226,
       "lng": -171.78186
     },
-    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
-    "habitat": "Laysan (Hawaii)"
+    "habitat": "Laysan (Hawaii)",
+    "images": {
+      "tooltip": "",
+      "panel": ""
+    },
+    "panel": {
+      "description": "",
+      "habitat_text": "",
+      "extinction_text": ""
+    },
+    "range_geojson": null,
+    "taxonomy": {
+      "family": "",
+      "genus": ""
+    }
   },
   {
     "id": "porzana_palmeri",
@@ -1916,8 +3567,21 @@
       "lat": 25.65554,
       "lng": -171.66493
     },
-    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
-    "habitat": "Laysan (Hawaii)"
+    "habitat": "Laysan (Hawaii)",
+    "images": {
+      "tooltip": "",
+      "panel": ""
+    },
+    "panel": {
+      "description": "",
+      "habitat_text": "",
+      "extinction_text": ""
+    },
+    "range_geojson": null,
+    "taxonomy": {
+      "family": "",
+      "genus": ""
+    }
   },
   {
     "id": "acrocephalus_familiaris_familiaris",
@@ -1931,8 +3595,21 @@
       "lat": 25.85301,
       "lng": -171.74564
     },
-    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
-    "habitat": "Laysan (Hawaii)"
+    "habitat": "Laysan (Hawaii)",
+    "images": {
+      "tooltip": "",
+      "panel": ""
+    },
+    "panel": {
+      "description": "",
+      "habitat_text": "",
+      "extinction_text": ""
+    },
+    "range_geojson": null,
+    "taxonomy": {
+      "family": "",
+      "genus": ""
+    }
   },
   {
     "id": "erythromachus_leguati",
@@ -1946,8 +3623,21 @@
       "lat": -19.67404,
       "lng": 63.43459
     },
-    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
-    "habitat": "Rodrigues"
+    "habitat": "Rodrigues",
+    "images": {
+      "tooltip": "",
+      "panel": ""
+    },
+    "panel": {
+      "description": "",
+      "habitat_text": "",
+      "extinction_text": ""
+    },
+    "range_geojson": null,
+    "taxonomy": {
+      "family": "",
+      "genus": ""
+    }
   },
   {
     "id": "sylvietta_chapini",
@@ -1961,8 +3651,21 @@
       "lat": 0.1704,
       "lng": 25.00819
     },
-    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
-    "habitat": "Kongo"
+    "habitat": "Kongo",
+    "images": {
+      "tooltip": "",
+      "panel": ""
+    },
+    "panel": {
+      "description": "",
+      "habitat_text": "",
+      "extinction_text": ""
+    },
+    "range_geojson": null,
+    "taxonomy": {
+      "family": "",
+      "genus": ""
+    }
   },
   {
     "id": "caloenas_maculata",
@@ -1976,8 +3679,21 @@
       "lat": -17.62369,
       "lng": -149.40925
     },
-    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
-    "habitat": "Tahiti ?"
+    "habitat": "Tahiti ?",
+    "images": {
+      "tooltip": "",
+      "panel": ""
+    },
+    "panel": {
+      "description": "",
+      "habitat_text": "",
+      "extinction_text": ""
+    },
+    "range_geojson": null,
+    "taxonomy": {
+      "family": "",
+      "genus": ""
+    }
   },
   {
     "id": "zosterops_strenua",
@@ -1991,8 +3707,21 @@
       "lat": -31.47779,
       "lng": 159.00564
     },
-    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
-    "habitat": "Lord-Howe-Insel"
+    "habitat": "Lord-Howe-Insel",
+    "images": {
+      "tooltip": "",
+      "panel": ""
+    },
+    "panel": {
+      "description": "",
+      "habitat_text": "",
+      "extinction_text": ""
+    },
+    "range_geojson": null,
+    "taxonomy": {
+      "family": "",
+      "genus": ""
+    }
   },
   {
     "id": "gerygone_insularis",
@@ -2006,8 +3735,21 @@
       "lat": -31.47742,
       "lng": 159.11552
     },
-    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
-    "habitat": "Lord-Howe-Insel"
+    "habitat": "Lord-Howe-Insel",
+    "images": {
+      "tooltip": "",
+      "panel": ""
+    },
+    "panel": {
+      "description": "",
+      "habitat_text": "",
+      "extinction_text": ""
+    },
+    "range_geojson": null,
+    "taxonomy": {
+      "family": "",
+      "genus": ""
+    }
   },
   {
     "id": "turdus_poliocephalus_vinitinctus",
@@ -2021,8 +3763,21 @@
       "lat": -31.50232,
       "lng": 159.10796
     },
-    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
-    "habitat": "Lord-Howel-Insel"
+    "habitat": "Lord-Howel-Insel",
+    "images": {
+      "tooltip": "",
+      "panel": ""
+    },
+    "panel": {
+      "description": "",
+      "habitat_text": "",
+      "extinction_text": ""
+    },
+    "range_geojson": null,
+    "taxonomy": {
+      "family": "",
+      "genus": ""
+    }
   },
   {
     "id": "ninox_novaeseelandiae_albaria",
@@ -2036,8 +3791,21 @@
       "lat": -31.59533,
       "lng": 159.01426
     },
-    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
-    "habitat": "Lord-Howe-Insel"
+    "habitat": "Lord-Howe-Insel",
+    "images": {
+      "tooltip": "",
+      "panel": ""
+    },
+    "panel": {
+      "description": "",
+      "habitat_text": "",
+      "extinction_text": ""
+    },
+    "range_geojson": null,
+    "taxonomy": {
+      "family": "",
+      "genus": ""
+    }
   },
   {
     "id": "porphyrio_albus",
@@ -2051,8 +3819,21 @@
       "lat": -31.57635,
       "lng": 158.96617
     },
-    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
-    "habitat": "Lord-Howe-Insel"
+    "habitat": "Lord-Howe-Insel",
+    "images": {
+      "tooltip": "",
+      "panel": ""
+    },
+    "panel": {
+      "description": "",
+      "habitat_text": "",
+      "extinction_text": ""
+    },
+    "range_geojson": null,
+    "taxonomy": {
+      "family": "",
+      "genus": ""
+    }
   },
   {
     "id": "columba_vitiensis_godmanae",
@@ -2066,8 +3847,21 @@
       "lat": -31.50635,
       "lng": 159.14741
     },
-    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
-    "habitat": "Lord-Howe-Insel"
+    "habitat": "Lord-Howe-Insel",
+    "images": {
+      "tooltip": "",
+      "panel": ""
+    },
+    "panel": {
+      "description": "",
+      "habitat_text": "",
+      "extinction_text": ""
+    },
+    "range_geojson": null,
+    "taxonomy": {
+      "family": "",
+      "genus": ""
+    }
   },
   {
     "id": "cyanoramphus_subflavescens",
@@ -2081,8 +3875,21 @@
       "lat": -31.5676,
       "lng": 159.15238
     },
-    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
-    "habitat": "Lord-Howe-Insel"
+    "habitat": "Lord-Howe-Insel",
+    "images": {
+      "tooltip": "",
+      "panel": ""
+    },
+    "panel": {
+      "description": "",
+      "habitat_text": "",
+      "extinction_text": ""
+    },
+    "range_geojson": null,
+    "taxonomy": {
+      "family": "",
+      "genus": ""
+    }
   },
   {
     "id": "cyanoramphus_erythrotis",
@@ -2096,8 +3903,21 @@
       "lat": -54.64383,
       "lng": 158.81366
     },
-    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
-    "habitat": "Macquarieinsel"
+    "habitat": "Macquarieinsel",
+    "images": {
+      "tooltip": "",
+      "panel": ""
+    },
+    "panel": {
+      "description": "",
+      "habitat_text": "",
+      "extinction_text": ""
+    },
+    "range_geojson": null,
+    "taxonomy": {
+      "family": "",
+      "genus": ""
+    }
   },
   {
     "id": "columba_palumbus_maderensis",
@@ -2111,8 +3931,21 @@
       "lat": 32.80453,
       "lng": -16.92674
     },
-    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
-    "habitat": "Madeira"
+    "habitat": "Madeira",
+    "images": {
+      "tooltip": "",
+      "panel": ""
+    },
+    "panel": {
+      "description": "",
+      "habitat_text": "",
+      "extinction_text": ""
+    },
+    "range_geojson": null,
+    "taxonomy": {
+      "family": "",
+      "genus": ""
+    }
   },
   {
     "id": "crypturellus_erythropus_saltuarius",
@@ -2126,8 +3959,21 @@
       "lat": 4.1617,
       "lng": -71.92803
     },
-    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
-    "habitat": "Kolumbien"
+    "habitat": "Kolumbien",
+    "images": {
+      "tooltip": "",
+      "panel": ""
+    },
+    "panel": {
+      "description": "",
+      "habitat_text": "",
+      "extinction_text": ""
+    },
+    "range_geojson": null,
+    "taxonomy": {
+      "family": "",
+      "genus": ""
+    }
   },
   {
     "id": "todiramphus_gambieri_gambieri",
@@ -2141,8 +3987,21 @@
       "lat": -23.03771,
       "lng": -134.9508
     },
-    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
-    "habitat": "Gambier-Inseln"
+    "habitat": "Gambier-Inseln",
+    "images": {
+      "tooltip": "",
+      "panel": ""
+    },
+    "panel": {
+      "description": "",
+      "habitat_text": "",
+      "extinction_text": ""
+    },
+    "range_geojson": null,
+    "taxonomy": {
+      "family": "",
+      "genus": ""
+    }
   },
   {
     "id": "clytorhynchus_vitiensis_powelli",
@@ -2156,8 +4015,21 @@
       "lat": -14.24031,
       "lng": -169.51875
     },
-    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
-    "habitat": "Manua, Ofu-Olosega"
+    "habitat": "Manua, Ofu-Olosega",
+    "images": {
+      "tooltip": "",
+      "panel": ""
+    },
+    "panel": {
+      "description": "",
+      "habitat_text": "",
+      "extinction_text": ""
+    },
+    "range_geojson": null,
+    "taxonomy": {
+      "family": "",
+      "genus": ""
+    }
   },
   {
     "id": "turdus_poliocephalus_mareensis",
@@ -2171,8 +4043,21 @@
       "lat": -21.51602,
       "lng": 167.99349
     },
-    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
-    "habitat": "Maré"
+    "habitat": "Maré",
+    "images": {
+      "tooltip": "",
+      "panel": ""
+    },
+    "panel": {
+      "description": "",
+      "habitat_text": "",
+      "extinction_text": ""
+    },
+    "range_geojson": null,
+    "taxonomy": {
+      "family": "",
+      "genus": ""
+    }
   },
   {
     "id": "zosterops_semiflavus",
@@ -2186,8 +4071,21 @@
       "lat": 15.22905,
       "lng": 145.67507
     },
-    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
-    "habitat": "Marianne Island"
+    "habitat": "Marianne Island",
+    "images": {
+      "tooltip": "",
+      "panel": ""
+    },
+    "panel": {
+      "description": "",
+      "habitat_text": "",
+      "extinction_text": ""
+    },
+    "range_geojson": null,
+    "taxonomy": {
+      "family": "",
+      "genus": ""
+    }
   },
   {
     "id": "athene_cunicularia_guadeloupensis",
@@ -2201,8 +4099,21 @@
       "lat": 15.91759,
       "lng": -61.3315
     },
-    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
-    "habitat": "Marie-Galante"
+    "habitat": "Marie-Galante",
+    "images": {
+      "tooltip": "",
+      "panel": ""
+    },
+    "panel": {
+      "description": "",
+      "habitat_text": "",
+      "extinction_text": ""
+    },
+    "range_geojson": null,
+    "taxonomy": {
+      "family": "",
+      "genus": ""
+    }
   },
   {
     "id": "coracina_coerulescens_deschauenseei",
@@ -2216,8 +4127,21 @@
       "lat": 13.44071,
       "lng": 121.98269
     },
-    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
-    "habitat": "Marinduque"
+    "habitat": "Marinduque",
+    "images": {
+      "tooltip": "",
+      "panel": ""
+    },
+    "panel": {
+      "description": "",
+      "habitat_text": "",
+      "extinction_text": ""
+    },
+    "range_geojson": null,
+    "taxonomy": {
+      "family": "",
+      "genus": ""
+    }
   },
   {
     "id": "ardeotis_arabs_lynesi",
@@ -2231,8 +4155,21 @@
       "lat": 32.08148,
       "lng": -4.89284
     },
-    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
-    "habitat": "Marokko"
+    "habitat": "Marokko",
+    "images": {
+      "tooltip": "",
+      "panel": ""
+    },
+    "panel": {
+      "description": "",
+      "habitat_text": "",
+      "extinction_text": ""
+    },
+    "range_geojson": null,
+    "taxonomy": {
+      "family": "",
+      "genus": ""
+    }
   },
   {
     "id": "troglodytes_aedon_martinicensis",
@@ -2246,8 +4183,21 @@
       "lat": 14.74443,
       "lng": -60.95137
     },
-    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
-    "habitat": "Martinique"
+    "habitat": "Martinique",
+    "images": {
+      "tooltip": "",
+      "panel": ""
+    },
+    "panel": {
+      "description": "",
+      "habitat_text": "",
+      "extinction_text": ""
+    },
+    "range_geojson": null,
+    "taxonomy": {
+      "family": "",
+      "genus": ""
+    }
   },
   {
     "id": "fulica_newtoni",
@@ -2261,8 +4211,21 @@
       "lat": -20.66387,
       "lng": 57.73636
     },
-    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
-    "habitat": "Mauritius, Réunion"
+    "habitat": "Mauritius, Réunion",
+    "images": {
+      "tooltip": "",
+      "panel": ""
+    },
+    "panel": {
+      "description": "",
+      "habitat_text": "",
+      "extinction_text": ""
+    },
+    "range_geojson": null,
+    "taxonomy": {
+      "family": "",
+      "genus": ""
+    }
   },
   {
     "id": "porphyrio_caerulescens",
@@ -2276,8 +4239,21 @@
       "lat": -21.13334,
       "lng": 55.52036
     },
-    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
-    "habitat": "Réunion"
+    "habitat": "Réunion",
+    "images": {
+      "tooltip": "",
+      "panel": ""
+    },
+    "panel": {
+      "description": "",
+      "habitat_text": "",
+      "extinction_text": ""
+    },
+    "range_geojson": null,
+    "taxonomy": {
+      "family": "",
+      "genus": ""
+    }
   },
   {
     "id": "loxops_ochraceus",
@@ -2291,8 +4267,21 @@
       "lat": 20.76604,
       "lng": -156.36234
     },
-    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
-    "habitat": "Maui (Hawaii)"
+    "habitat": "Maui (Hawaii)",
+    "images": {
+      "tooltip": "",
+      "panel": ""
+    },
+    "panel": {
+      "description": "",
+      "habitat_text": "",
+      "extinction_text": ""
+    },
+    "range_geojson": null,
+    "taxonomy": {
+      "family": "",
+      "genus": ""
+    }
   },
   {
     "id": "hemignathus_affinis",
@@ -2306,8 +4295,21 @@
       "lat": 20.90976,
       "lng": -156.26126
     },
-    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
-    "habitat": "Maui (Hawaii)"
+    "habitat": "Maui (Hawaii)",
+    "images": {
+      "tooltip": "",
+      "panel": ""
+    },
+    "panel": {
+      "description": "",
+      "habitat_text": "",
+      "extinction_text": ""
+    },
+    "range_geojson": null,
+    "taxonomy": {
+      "family": "",
+      "genus": ""
+    }
   },
   {
     "id": "pomarea_pomarea",
@@ -2321,8 +4323,21 @@
       "lat": -16.47935,
       "lng": -152.22898
     },
-    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
-    "habitat": "Maupiti"
+    "habitat": "Maupiti",
+    "images": {
+      "tooltip": "",
+      "panel": ""
+    },
+    "panel": {
+      "description": "",
+      "habitat_text": "",
+      "extinction_text": ""
+    },
+    "range_geojson": null,
+    "taxonomy": {
+      "family": "",
+      "genus": ""
+    }
   },
   {
     "id": "mascarenotus_sauzieri",
@@ -2336,8 +4351,21 @@
       "lat": -20.33931,
       "lng": 57.03354
     },
-    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
-    "habitat": "Mauritius"
+    "habitat": "Mauritius",
+    "images": {
+      "tooltip": "",
+      "panel": ""
+    },
+    "panel": {
+      "description": "",
+      "habitat_text": "",
+      "extinction_text": ""
+    },
+    "range_geojson": null,
+    "taxonomy": {
+      "family": "",
+      "genus": ""
+    }
   },
   {
     "id": "alectroenas_nitidissima",
@@ -2351,8 +4379,21 @@
       "lat": -20.31077,
       "lng": 57.37576
     },
-    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
-    "habitat": "Mauritius"
+    "habitat": "Mauritius",
+    "images": {
+      "tooltip": "",
+      "panel": ""
+    },
+    "panel": {
+      "description": "",
+      "habitat_text": "",
+      "extinction_text": ""
+    },
+    "range_geojson": null,
+    "taxonomy": {
+      "family": "",
+      "genus": ""
+    }
   },
   {
     "id": "alopochen_mauritianus",
@@ -2366,8 +4407,21 @@
       "lat": -20.69148,
       "lng": 57.57768
     },
-    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
-    "habitat": "Mauritius"
+    "habitat": "Mauritius",
+    "images": {
+      "tooltip": "",
+      "panel": ""
+    },
+    "panel": {
+      "description": "",
+      "habitat_text": "",
+      "extinction_text": ""
+    },
+    "range_geojson": null,
+    "taxonomy": {
+      "family": "",
+      "genus": ""
+    }
   },
   {
     "id": "psittacula_bensoni",
@@ -2381,8 +4435,21 @@
       "lat": -20.20583,
       "lng": 57.52734
     },
-    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
-    "habitat": "Mauritius, Réunion"
+    "habitat": "Mauritius, Réunion",
+    "images": {
+      "tooltip": "",
+      "panel": ""
+    },
+    "panel": {
+      "description": "",
+      "habitat_text": "",
+      "extinction_text": ""
+    },
+    "range_geojson": null,
+    "taxonomy": {
+      "family": "",
+      "genus": ""
+    }
   },
   {
     "id": "nycticorax_mauritianus",
@@ -2396,8 +4463,21 @@
       "lat": -20.07532,
       "lng": 57.65862
     },
-    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
-    "habitat": "Mauritius"
+    "habitat": "Mauritius",
+    "images": {
+      "tooltip": "",
+      "panel": ""
+    },
+    "panel": {
+      "description": "",
+      "habitat_text": "",
+      "extinction_text": ""
+    },
+    "range_geojson": null,
+    "taxonomy": {
+      "family": "",
+      "genus": ""
+    }
   },
   {
     "id": "lophopsittacus_mauritianus",
@@ -2411,8 +4491,21 @@
       "lat": -20.34403,
       "lng": 57.73865
     },
-    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
-    "habitat": "Mauritius"
+    "habitat": "Mauritius",
+    "images": {
+      "tooltip": "",
+      "panel": ""
+    },
+    "panel": {
+      "description": "",
+      "habitat_text": "",
+      "extinction_text": ""
+    },
+    "range_geojson": null,
+    "taxonomy": {
+      "family": "",
+      "genus": ""
+    }
   },
   {
     "id": "aphanapteryx_bonasia",
@@ -2426,8 +4519,21 @@
       "lat": -20.06819,
       "lng": 57.1936
     },
-    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
-    "habitat": "Mauritius"
+    "habitat": "Mauritius",
+    "images": {
+      "tooltip": "",
+      "panel": ""
+    },
+    "panel": {
+      "description": "",
+      "habitat_text": "",
+      "extinction_text": ""
+    },
+    "range_geojson": null,
+    "taxonomy": {
+      "family": "",
+      "genus": ""
+    }
   },
   {
     "id": "anas_theodori",
@@ -2441,8 +4547,21 @@
       "lat": -20.56877,
       "lng": 57.39993
     },
-    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
-    "habitat": "Mauritius, Réunion"
+    "habitat": "Mauritius, Réunion",
+    "images": {
+      "tooltip": "",
+      "panel": ""
+    },
+    "panel": {
+      "description": "",
+      "habitat_text": "",
+      "extinction_text": ""
+    },
+    "range_geojson": null,
+    "taxonomy": {
+      "family": "",
+      "genus": ""
+    }
   },
   {
     "id": "porzana_nigra",
@@ -2456,8 +4575,21 @@
       "lat": -17.61505,
       "lng": -149.42408
     },
-    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
-    "habitat": "Tahiti"
+    "habitat": "Tahiti",
+    "images": {
+      "tooltip": "",
+      "panel": ""
+    },
+    "panel": {
+      "description": "",
+      "habitat_text": "",
+      "extinction_text": ""
+    },
+    "range_geojson": null,
+    "taxonomy": {
+      "family": "",
+      "genus": ""
+    }
   },
   {
     "id": "paroreomyza_flammea",
@@ -2471,8 +4603,21 @@
       "lat": 21.1073,
       "lng": -157.02389
     },
-    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
-    "habitat": "Molokai (Hawaii)"
+    "habitat": "Molokai (Hawaii)",
+    "images": {
+      "tooltip": "",
+      "panel": ""
+    },
+    "panel": {
+      "description": "",
+      "habitat_text": "",
+      "extinction_text": ""
+    },
+    "range_geojson": null,
+    "taxonomy": {
+      "family": "",
+      "genus": ""
+    }
   },
   {
     "id": "acrocephalus_longirostris",
@@ -2486,8 +4631,21 @@
       "lat": -17.50232,
       "lng": -149.78316
     },
-    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
-    "habitat": "Moorea"
+    "habitat": "Moorea",
+    "images": {
+      "tooltip": "",
+      "panel": ""
+    },
+    "panel": {
+      "description": "",
+      "habitat_text": "",
+      "extinction_text": ""
+    },
+    "range_geojson": null,
+    "taxonomy": {
+      "family": "",
+      "genus": ""
+    }
   },
   {
     "id": "cinclosoma_punctatum_anachoreta",
@@ -2501,8 +4659,21 @@
       "lat": -27.01936,
       "lng": 132.65126
     },
-    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
-    "habitat": "Australien"
+    "habitat": "Australien",
+    "images": {
+      "tooltip": "",
+      "panel": ""
+    },
+    "panel": {
+      "description": "",
+      "habitat_text": "",
+      "extinction_text": ""
+    },
+    "range_geojson": null,
+    "taxonomy": {
+      "family": "",
+      "genus": ""
+    }
   },
   {
     "id": "ptilinopus_arcanus",
@@ -2516,8 +4687,21 @@
       "lat": 9.88271,
       "lng": 122.90716
     },
-    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
-    "habitat": "Negros"
+    "habitat": "Negros",
+    "images": {
+      "tooltip": "",
+      "panel": ""
+    },
+    "panel": {
+      "description": "",
+      "habitat_text": "",
+      "extinction_text": ""
+    },
+    "range_geojson": null,
+    "taxonomy": {
+      "family": "",
+      "genus": ""
+    }
   },
   {
     "id": "turnix_novaecaledoniae",
@@ -2531,8 +4715,21 @@
       "lat": -21.47678,
       "lng": 165.52437
     },
-    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
-    "habitat": "Neukaledonien"
+    "habitat": "Neukaledonien",
+    "images": {
+      "tooltip": "",
+      "panel": ""
+    },
+    "panel": {
+      "description": "",
+      "habitat_text": "",
+      "extinction_text": ""
+    },
+    "range_geojson": null,
+    "taxonomy": {
+      "family": "",
+      "genus": ""
+    }
   },
   {
     "id": "eurostopodus_exul",
@@ -2546,8 +4743,21 @@
       "lat": -21.48524,
       "lng": 165.51537
     },
-    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
-    "habitat": "Neukaledonien"
+    "habitat": "Neukaledonien",
+    "images": {
+      "tooltip": "",
+      "panel": ""
+    },
+    "panel": {
+      "description": "",
+      "habitat_text": "",
+      "extinction_text": ""
+    },
+    "range_geojson": null,
+    "taxonomy": {
+      "family": "",
+      "genus": ""
+    }
   },
   {
     "id": "tympanuchus_phasianellus_hueyi",
@@ -2561,8 +4771,21 @@
       "lat": 34.53855,
       "lng": -105.93343
     },
-    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
-    "habitat": "Neumexiko"
+    "habitat": "Neumexiko",
+    "images": {
+      "tooltip": "",
+      "panel": ""
+    },
+    "panel": {
+      "description": "",
+      "habitat_text": "",
+      "extinction_text": ""
+    },
+    "range_geojson": null,
+    "taxonomy": {
+      "family": "",
+      "genus": ""
+    }
   },
   {
     "id": "coturnix_novaezelandiae",
@@ -2576,8 +4799,21 @@
       "lat": -41.00862,
       "lng": 174.03146
     },
-    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
-    "habitat": "Neuseeland"
+    "habitat": "Neuseeland",
+    "images": {
+      "tooltip": "",
+      "panel": ""
+    },
+    "panel": {
+      "description": "",
+      "habitat_text": "",
+      "extinction_text": ""
+    },
+    "range_geojson": null,
+    "taxonomy": {
+      "family": "",
+      "genus": ""
+    }
   },
   {
     "id": "gallinula_hodgenorum",
@@ -2591,8 +4827,21 @@
       "lat": -41.00429,
       "lng": 174.10743
     },
-    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
-    "habitat": "Neuseeland"
+    "habitat": "Neuseeland",
+    "images": {
+      "tooltip": "",
+      "panel": ""
+    },
+    "panel": {
+      "description": "",
+      "habitat_text": "",
+      "extinction_text": ""
+    },
+    "range_geojson": null,
+    "taxonomy": {
+      "family": "",
+      "genus": ""
+    }
   },
   {
     "id": "turnagra_tanagra",
@@ -2606,8 +4855,21 @@
       "lat": -41.00981,
       "lng": 173.98777
     },
-    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
-    "habitat": "Neuseeland (Nordinsel)"
+    "habitat": "Neuseeland (Nordinsel)",
+    "images": {
+      "tooltip": "",
+      "panel": ""
+    },
+    "panel": {
+      "description": "",
+      "habitat_text": "",
+      "extinction_text": ""
+    },
+    "range_geojson": null,
+    "taxonomy": {
+      "family": "",
+      "genus": ""
+    }
   },
   {
     "id": "cnemiornis_gracilis",
@@ -2621,8 +4883,21 @@
       "lat": -41.01241,
       "lng": 173.9342
     },
-    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
-    "habitat": "Neuseeland (Nordinsel)"
+    "habitat": "Neuseeland (Nordinsel)",
+    "images": {
+      "tooltip": "",
+      "panel": ""
+    },
+    "panel": {
+      "description": "",
+      "habitat_text": "",
+      "extinction_text": ""
+    },
+    "range_geojson": null,
+    "taxonomy": {
+      "family": "",
+      "genus": ""
+    }
   },
   {
     "id": "coenocorypha_barrierensis",
@@ -2636,8 +4911,21 @@
       "lat": -40.93819,
       "lng": 174.07231
     },
-    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
-    "habitat": "Neuseeland (Nordinsel)"
+    "habitat": "Neuseeland (Nordinsel)",
+    "images": {
+      "tooltip": "",
+      "panel": ""
+    },
+    "panel": {
+      "description": "",
+      "habitat_text": "",
+      "extinction_text": ""
+    },
+    "range_geojson": null,
+    "taxonomy": {
+      "family": "",
+      "genus": ""
+    }
   },
   {
     "id": "porphyrio_mantelli",
@@ -2651,8 +4939,21 @@
       "lat": -40.97641,
       "lng": 174.05206
     },
-    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
-    "habitat": "Neuseeland (Nordinsel)"
+    "habitat": "Neuseeland (Nordinsel)",
+    "images": {
+      "tooltip": "",
+      "panel": ""
+    },
+    "panel": {
+      "description": "",
+      "habitat_text": "",
+      "extinction_text": ""
+    },
+    "range_geojson": null,
+    "taxonomy": {
+      "family": "",
+      "genus": ""
+    }
   },
   {
     "id": "ptilinopus_mercierii_mercierii",
@@ -2666,8 +4967,21 @@
       "lat": -8.80446,
       "lng": -140.02523
     },
-    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
-    "habitat": "Nuku Hiva (Französisch-Polynesien)"
+    "habitat": "Nuku Hiva (Französisch-Polynesien)",
+    "images": {
+      "tooltip": "",
+      "panel": ""
+    },
+    "panel": {
+      "description": "",
+      "habitat_text": "",
+      "extinction_text": ""
+    },
+    "range_geojson": null,
+    "taxonomy": {
+      "family": "",
+      "genus": ""
+    }
   },
   {
     "id": "anas_georgica_niceforoi",
@@ -2681,8 +4995,21 @@
       "lat": 3.75,
       "lng": -76.5
     },
-    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
-    "habitat": "Kolumbien"
+    "habitat": "Kolumbien",
+    "images": {
+      "tooltip": "",
+      "panel": ""
+    },
+    "panel": {
+      "description": "",
+      "habitat_text": "",
+      "extinction_text": ""
+    },
+    "range_geojson": null,
+    "taxonomy": {
+      "family": "",
+      "genus": ""
+    }
   },
   {
     "id": "pampusana_norfolkensis",
@@ -2696,8 +5023,21 @@
       "lat": -29.05211,
       "lng": 167.98098
     },
-    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
-    "habitat": "Norfolkinsel"
+    "habitat": "Norfolkinsel",
+    "images": {
+      "tooltip": "",
+      "panel": ""
+    },
+    "panel": {
+      "description": "",
+      "habitat_text": "",
+      "extinction_text": ""
+    },
+    "range_geojson": null,
+    "taxonomy": {
+      "family": "",
+      "genus": ""
+    }
   },
   {
     "id": "turdus_poliocephalus_poliocephalus",
@@ -2711,8 +5051,21 @@
       "lat": -29.05011,
       "lng": 168.01017
     },
-    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
-    "habitat": "Norfolkinsel"
+    "habitat": "Norfolkinsel",
+    "images": {
+      "tooltip": "",
+      "panel": ""
+    },
+    "panel": {
+      "description": "",
+      "habitat_text": "",
+      "extinction_text": ""
+    },
+    "range_geojson": null,
+    "taxonomy": {
+      "family": "",
+      "genus": ""
+    }
   },
   {
     "id": "lalage_leucopyga_leucopyga",
@@ -2726,8 +5079,21 @@
       "lat": -28.97662,
       "lng": 167.98239
     },
-    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
-    "habitat": "Norfolkinsel"
+    "habitat": "Norfolkinsel",
+    "images": {
+      "tooltip": "",
+      "panel": ""
+    },
+    "panel": {
+      "description": "",
+      "habitat_text": "",
+      "extinction_text": ""
+    },
+    "range_geojson": null,
+    "taxonomy": {
+      "family": "",
+      "genus": ""
+    }
   },
   {
     "id": "ninox_novaezelandeae_undulata",
@@ -2741,8 +5107,21 @@
       "lat": -29.01571,
       "lng": 168.00318
     },
-    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
-    "habitat": "Norfolkinsel"
+    "habitat": "Norfolkinsel",
+    "images": {
+      "tooltip": "",
+      "panel": ""
+    },
+    "panel": {
+      "description": "",
+      "habitat_text": "",
+      "extinction_text": ""
+    },
+    "range_geojson": null,
+    "taxonomy": {
+      "family": "",
+      "genus": ""
+    }
   },
   {
     "id": "pomarea_nukuhivae",
@@ -2756,8 +5135,21 @@
       "lat": -8.79072,
       "lng": -140.12799
     },
-    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
-    "habitat": "Nuku Hiva"
+    "habitat": "Nuku Hiva",
+    "images": {
+      "tooltip": "",
+      "panel": ""
+    },
+    "panel": {
+      "description": "",
+      "habitat_text": "",
+      "extinction_text": ""
+    },
+    "range_geojson": null,
+    "taxonomy": {
+      "family": "",
+      "genus": ""
+    }
   },
   {
     "id": "hemignathus_ellisianus_ellisianus",
@@ -2771,8 +5163,21 @@
       "lat": 21.4799,
       "lng": -157.97495
     },
-    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
-    "habitat": "Oahu (Hawaii)"
+    "habitat": "Oahu (Hawaii)",
+    "images": {
+      "tooltip": "",
+      "panel": ""
+    },
+    "panel": {
+      "description": "",
+      "habitat_text": "",
+      "extinction_text": ""
+    },
+    "range_geojson": null,
+    "taxonomy": {
+      "family": "",
+      "genus": ""
+    }
   },
   {
     "id": "paroreomyza_maculata",
@@ -2786,8 +5191,21 @@
       "lat": 21.35965,
       "lng": -158.02
     },
-    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
-    "habitat": "Oahu (Hawaii)"
+    "habitat": "Oahu (Hawaii)",
+    "images": {
+      "tooltip": "",
+      "panel": ""
+    },
+    "panel": {
+      "description": "",
+      "habitat_text": "",
+      "extinction_text": ""
+    },
+    "range_geojson": null,
+    "taxonomy": {
+      "family": "",
+      "genus": ""
+    }
   },
   {
     "id": "hemignathus_lucidus",
@@ -2801,8 +5219,21 @@
       "lat": 19.60849,
       "lng": -155.43342
     },
-    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
-    "habitat": "Hawaii"
+    "habitat": "Hawaii",
+    "images": {
+      "tooltip": "",
+      "panel": ""
+    },
+    "panel": {
+      "description": "",
+      "habitat_text": "",
+      "extinction_text": ""
+    },
+    "range_geojson": null,
+    "taxonomy": {
+      "family": "",
+      "genus": ""
+    }
   },
   {
     "id": "myadestes_woahensis",
@@ -2816,8 +5247,21 @@
       "lat": 21.45101,
       "lng": -157.98851
     },
-    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
-    "habitat": "Oahu (Hawaii)"
+    "habitat": "Oahu (Hawaii)",
+    "images": {
+      "tooltip": "",
+      "panel": ""
+    },
+    "panel": {
+      "description": "",
+      "habitat_text": "",
+      "extinction_text": ""
+    },
+    "range_geojson": null,
+    "taxonomy": {
+      "family": "",
+      "genus": ""
+    }
   },
   {
     "id": "moho_bishopi",
@@ -2831,8 +5275,21 @@
       "lat": 21.15292,
       "lng": -156.96692
     },
-    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
-    "habitat": "Molokai (Hawaii)"
+    "habitat": "Molokai (Hawaii)",
+    "images": {
+      "tooltip": "",
+      "panel": ""
+    },
+    "panel": {
+      "description": "",
+      "habitat_text": "",
+      "extinction_text": ""
+    },
+    "range_geojson": null,
+    "taxonomy": {
+      "family": "",
+      "genus": ""
+    }
   },
   {
     "id": "acrocephalus_yamashinae",
@@ -2846,8 +5303,21 @@
       "lat": 18.14549,
       "lng": 145.90102
     },
-    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
-    "habitat": "Pagan"
+    "habitat": "Pagan",
+    "images": {
+      "tooltip": "",
+      "panel": ""
+    },
+    "panel": {
+      "description": "",
+      "habitat_text": "",
+      "extinction_text": ""
+    },
+    "range_geojson": null,
+    "taxonomy": {
+      "family": "",
+      "genus": ""
+    }
   },
   {
     "id": "rhodacanthis_palmeri",
@@ -2861,8 +5331,21 @@
       "lat": 19.56739,
       "lng": -155.42703
     },
-    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
-    "habitat": "Big Island"
+    "habitat": "Big Island",
+    "images": {
+      "tooltip": "",
+      "panel": ""
+    },
+    "panel": {
+      "description": "",
+      "habitat_text": "",
+      "extinction_text": ""
+    },
+    "range_geojson": null,
+    "taxonomy": {
+      "family": "",
+      "genus": ""
+    }
   },
   {
     "id": "psephotus_pulcherrimus",
@@ -2876,8 +5359,21 @@
       "lat": -27.04505,
       "lng": 132.95721
     },
-    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
-    "habitat": "Australien"
+    "habitat": "Australien",
+    "images": {
+      "tooltip": "",
+      "panel": ""
+    },
+    "panel": {
+      "description": "",
+      "habitat_text": "",
+      "extinction_text": ""
+    },
+    "range_geojson": null,
+    "taxonomy": {
+      "family": "",
+      "genus": ""
+    }
   },
   {
     "id": "aplonis_pelzelni",
@@ -2891,8 +5387,21 @@
       "lat": 6.8796,
       "lng": 158.10785
     },
-    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
-    "habitat": "Pohnpei"
+    "habitat": "Pohnpei",
+    "images": {
+      "tooltip": "",
+      "panel": ""
+    },
+    "panel": {
+      "description": "",
+      "habitat_text": "",
+      "extinction_text": ""
+    },
+    "range_geojson": null,
+    "taxonomy": {
+      "family": "",
+      "genus": ""
+    }
   },
   {
     "id": "gallirallus_lafresnayanus",
@@ -2906,8 +5415,21 @@
       "lat": -21.53067,
       "lng": 165.47069
     },
-    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
-    "habitat": "Neukaledonien"
+    "habitat": "Neukaledonien",
+    "images": {
+      "tooltip": "",
+      "panel": ""
+    },
+    "panel": {
+      "description": "",
+      "habitat_text": "",
+      "extinction_text": ""
+    },
+    "range_geojson": null,
+    "taxonomy": {
+      "family": "",
+      "genus": ""
+    }
   },
   {
     "id": "eclectus_infectus",
@@ -2921,8 +5443,21 @@
       "lat": -21.16454,
       "lng": -175.13906
     },
-    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
-    "habitat": "Tonga, Vanuatu"
+    "habitat": "Tonga, Vanuatu",
+    "images": {
+      "tooltip": "",
+      "panel": ""
+    },
+    "panel": {
+      "description": "",
+      "habitat_text": "",
+      "extinction_text": ""
+    },
+    "range_geojson": null,
+    "taxonomy": {
+      "family": "",
+      "genus": ""
+    }
   },
   {
     "id": "moho_nobilis",
@@ -2936,8 +5471,21 @@
       "lat": 19.67004,
       "lng": -155.53106
     },
-    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
-    "habitat": "Big Island (Hawaii)"
+    "habitat": "Big Island (Hawaii)",
+    "images": {
+      "tooltip": "",
+      "panel": ""
+    },
+    "panel": {
+      "description": "",
+      "habitat_text": "",
+      "extinction_text": ""
+    },
+    "range_geojson": null,
+    "taxonomy": {
+      "family": "",
+      "genus": ""
+    }
   },
   {
     "id": "psittacara_maugei",
@@ -2951,8 +5499,21 @@
       "lat": 18.48993,
       "lng": -66.62187
     },
-    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
-    "habitat": "Puerto Rico"
+    "habitat": "Puerto Rico",
+    "images": {
+      "tooltip": "",
+      "panel": ""
+    },
+    "panel": {
+      "description": "",
+      "habitat_text": "",
+      "extinction_text": ""
+    },
+    "range_geojson": null,
+    "taxonomy": {
+      "family": "",
+      "genus": ""
+    }
   },
   {
     "id": "acrocephalus_musae",
@@ -2966,8 +5527,21 @@
       "lat": -16.66436,
       "lng": -151.53667
     },
-    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
-    "habitat": "Raiatea"
+    "habitat": "Raiatea",
+    "images": {
+      "tooltip": "",
+      "panel": ""
+    },
+    "panel": {
+      "description": "",
+      "habitat_text": "",
+      "extinction_text": ""
+    },
+    "range_geojson": null,
+    "taxonomy": {
+      "family": "",
+      "genus": ""
+    }
   },
   {
     "id": "aplonis_ulietensis",
@@ -2981,8 +5555,21 @@
       "lat": -16.70262,
       "lng": -151.49095
     },
-    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
-    "habitat": "Raiatea"
+    "habitat": "Raiatea",
+    "images": {
+      "tooltip": "",
+      "panel": ""
+    },
+    "panel": {
+      "description": "",
+      "habitat_text": "",
+      "extinction_text": ""
+    },
+    "range_geojson": null,
+    "taxonomy": {
+      "family": "",
+      "genus": ""
+    }
   },
   {
     "id": "megapodius_sp",
@@ -2996,8 +5583,21 @@
       "lat": -29.23642,
       "lng": -177.89773
     },
-    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
-    "habitat": "Raoul Island"
+    "habitat": "Raoul Island",
+    "images": {
+      "tooltip": "",
+      "panel": ""
+    },
+    "panel": {
+      "description": "",
+      "habitat_text": "",
+      "extinction_text": ""
+    },
+    "range_geojson": null,
+    "taxonomy": {
+      "family": "",
+      "genus": ""
+    }
   },
   {
     "id": "anas_gibberifrons_remissa",
@@ -3011,8 +5611,21 @@
       "lat": -11.63874,
       "lng": 160.28002
     },
-    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
-    "habitat": "Rennell (Salomonen)"
+    "habitat": "Rennell (Salomonen)",
+    "images": {
+      "tooltip": "",
+      "panel": ""
+    },
+    "panel": {
+      "description": "",
+      "habitat_text": "",
+      "extinction_text": ""
+    },
+    "range_geojson": null,
+    "taxonomy": {
+      "family": "",
+      "genus": ""
+    }
   },
   {
     "id": "mascarenotus_grucheti",
@@ -3026,8 +5639,21 @@
       "lat": -21.14174,
       "lng": 55.52589
     },
-    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
-    "habitat": "Réunion"
+    "habitat": "Réunion",
+    "images": {
+      "tooltip": "",
+      "panel": ""
+    },
+    "panel": {
+      "description": "",
+      "habitat_text": "",
+      "extinction_text": ""
+    },
+    "range_geojson": null,
+    "taxonomy": {
+      "family": "",
+      "genus": ""
+    }
   },
   {
     "id": "micrathene_whitneyi_graysoni",
@@ -3041,8 +5667,21 @@
       "lat": 18.82301,
       "lng": -111.02309
     },
-    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
-    "habitat": "Socorro"
+    "habitat": "Socorro",
+    "images": {
+      "tooltip": "",
+      "panel": ""
+    },
+    "panel": {
+      "description": "",
+      "habitat_text": "",
+      "extinction_text": ""
+    },
+    "range_geojson": null,
+    "taxonomy": {
+      "family": "",
+      "genus": ""
+    }
   },
   {
     "id": "aphanocrex_podarces",
@@ -3056,8 +5695,21 @@
       "lat": -15.86234,
       "lng": -5.72388
     },
-    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
-    "habitat": "St. Helena"
+    "habitat": "St. Helena",
+    "images": {
+      "tooltip": "",
+      "panel": ""
+    },
+    "panel": {
+      "description": "",
+      "habitat_text": "",
+      "extinction_text": ""
+    },
+    "range_geojson": null,
+    "taxonomy": {
+      "family": "",
+      "genus": ""
+    }
   },
   {
     "id": "pseudobulweria_rupinarum",
@@ -3071,8 +5723,21 @@
       "lat": -15.92373,
       "lng": -5.76387
     },
-    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
-    "habitat": "St. Helena"
+    "habitat": "St. Helena",
+    "images": {
+      "tooltip": "",
+      "panel": ""
+    },
+    "panel": {
+      "description": "",
+      "habitat_text": "",
+      "extinction_text": ""
+    },
+    "range_geojson": null,
+    "taxonomy": {
+      "family": "",
+      "genus": ""
+    }
   },
   {
     "id": "bulweria_bifax",
@@ -3086,8 +5751,21 @@
       "lat": -16.04624,
       "lng": -5.68194
     },
-    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
-    "habitat": "St. Helena"
+    "habitat": "St. Helena",
+    "images": {
+      "tooltip": "",
+      "panel": ""
+    },
+    "panel": {
+      "description": "",
+      "habitat_text": "",
+      "extinction_text": ""
+    },
+    "range_geojson": null,
+    "taxonomy": {
+      "family": "",
+      "genus": ""
+    }
   },
   {
     "id": "zapornia_astrictocarpus",
@@ -3101,8 +5779,21 @@
       "lat": -16.07488,
       "lng": -5.74727
     },
-    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
-    "habitat": "St. Helena"
+    "habitat": "St. Helena",
+    "images": {
+      "tooltip": "",
+      "panel": ""
+    },
+    "panel": {
+      "description": "",
+      "habitat_text": "",
+      "extinction_text": ""
+    },
+    "range_geojson": null,
+    "taxonomy": {
+      "family": "",
+      "genus": ""
+    }
   },
   {
     "id": "traversia_lyalli",
@@ -3116,8 +5807,21 @@
       "lat": -40.57152,
       "lng": 174.065
     },
-    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
-    "habitat": "Stephens Island"
+    "habitat": "Stephens Island",
+    "images": {
+      "tooltip": "",
+      "panel": ""
+    },
+    "panel": {
+      "description": "",
+      "habitat_text": "",
+      "extinction_text": ""
+    },
+    "range_geojson": null,
+    "taxonomy": {
+      "family": "",
+      "genus": ""
+    }
   },
   {
     "id": "callaeas_cinerea",
@@ -3131,8 +5835,21 @@
       "lat": -40.9247,
       "lng": 173.92862
     },
-    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
-    "habitat": "Neuseeland (Südinsel)"
+    "habitat": "Neuseeland (Südinsel)",
+    "images": {
+      "tooltip": "",
+      "panel": ""
+    },
+    "panel": {
+      "description": "",
+      "habitat_text": "",
+      "extinction_text": ""
+    },
+    "range_geojson": null,
+    "taxonomy": {
+      "family": "",
+      "genus": ""
+    }
   },
   {
     "id": "turnagra_capensis",
@@ -3146,8 +5863,21 @@
       "lat": -41.06183,
       "lng": 174.04474
     },
-    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
-    "habitat": "Neuseeland (Südinsel)"
+    "habitat": "Neuseeland (Südinsel)",
+    "images": {
+      "tooltip": "",
+      "panel": ""
+    },
+    "panel": {
+      "description": "",
+      "habitat_text": "",
+      "extinction_text": ""
+    },
+    "range_geojson": null,
+    "taxonomy": {
+      "family": "",
+      "genus": ""
+    }
   },
   {
     "id": "coenocorypha_iredalei",
@@ -3161,8 +5891,21 @@
       "lat": -44.12804,
       "lng": 169.93715
     },
-    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
-    "habitat": "Neuseeland (Südinsel), Stewart Island"
+    "habitat": "Neuseeland (Südinsel), Stewart Island",
+    "images": {
+      "tooltip": "",
+      "panel": ""
+    },
+    "panel": {
+      "description": "",
+      "habitat_text": "",
+      "extinction_text": ""
+    },
+    "range_geojson": null,
+    "taxonomy": {
+      "family": "",
+      "genus": ""
+    }
   },
   {
     "id": "ptilinopus_mercierii_tristrami",
@@ -3176,8 +5919,21 @@
       "lat": -9.77418,
       "lng": -139.0303
     },
-    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
-    "habitat": "Hiva Oa (Französisch-Polynesien)"
+    "habitat": "Hiva Oa (Französisch-Polynesien)",
+    "images": {
+      "tooltip": "",
+      "panel": ""
+    },
+    "panel": {
+      "description": "",
+      "habitat_text": "",
+      "extinction_text": ""
+    },
+    "range_geojson": null,
+    "taxonomy": {
+      "family": "",
+      "genus": ""
+    }
   },
   {
     "id": "cyornis_ruckii",
@@ -3191,8 +5947,21 @@
       "lat": 2.37945,
       "lng": 112.46466
     },
-    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
-    "habitat": "Malaysia oder Indochina"
+    "habitat": "Malaysia oder Indochina",
+    "images": {
+      "tooltip": "",
+      "panel": ""
+    },
+    "panel": {
+      "description": "",
+      "habitat_text": "",
+      "extinction_text": ""
+    },
+    "range_geojson": null,
+    "taxonomy": {
+      "family": "",
+      "genus": ""
+    }
   },
   {
     "id": "cyanoramphus_zealandicus",
@@ -3206,8 +5975,21 @@
       "lat": -17.68956,
       "lng": -149.413
     },
-    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
-    "habitat": "Tahiti"
+    "habitat": "Tahiti",
+    "images": {
+      "tooltip": "",
+      "panel": ""
+    },
+    "panel": {
+      "description": "",
+      "habitat_text": "",
+      "extinction_text": ""
+    },
+    "range_geojson": null,
+    "taxonomy": {
+      "family": "",
+      "genus": ""
+    }
   },
   {
     "id": "cisticola_restrictus",
@@ -3221,8 +6003,21 @@
       "lat": 0.85697,
       "lng": 38.01993
     },
-    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
-    "habitat": "Kenia"
+    "habitat": "Kenia",
+    "images": {
+      "tooltip": "",
+      "panel": ""
+    },
+    "panel": {
+      "description": "",
+      "habitat_text": "",
+      "extinction_text": ""
+    },
+    "range_geojson": null,
+    "taxonomy": {
+      "family": "",
+      "genus": ""
+    }
   },
   {
     "id": "gallicolumba_ferruginea",
@@ -3236,8 +6031,21 @@
       "lat": -19.55063,
       "lng": 169.28016
     },
-    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
-    "habitat": "Tanna"
+    "habitat": "Tanna",
+    "images": {
+      "tooltip": "",
+      "panel": ""
+    },
+    "panel": {
+      "description": "",
+      "habitat_text": "",
+      "extinction_text": ""
+    },
+    "range_geojson": null,
+    "taxonomy": {
+      "family": "",
+      "genus": ""
+    }
   },
   {
     "id": "turnix_sylvatica_suluensis",
@@ -3251,8 +6059,21 @@
       "lat": 5.16927,
       "lng": 119.97483
     },
-    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
-    "habitat": "Tawitawi"
+    "habitat": "Tawitawi",
+    "images": {
+      "tooltip": "",
+      "panel": ""
+    },
+    "panel": {
+      "description": "",
+      "habitat_text": "",
+      "extinction_text": ""
+    },
+    "range_geojson": null,
+    "taxonomy": {
+      "family": "",
+      "genus": ""
+    }
   },
   {
     "id": "gallicolumba_menagei",
@@ -3266,8 +6087,21 @@
       "lat": 5.18533,
       "lng": 120.01283
     },
-    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
-    "habitat": "Tawi-Tawi"
+    "habitat": "Tawi-Tawi",
+    "images": {
+      "tooltip": "",
+      "panel": ""
+    },
+    "panel": {
+      "description": "",
+      "habitat_text": "",
+      "extinction_text": ""
+    },
+    "range_geojson": null,
+    "taxonomy": {
+      "family": "",
+      "genus": ""
+    }
   },
   {
     "id": "aimophila_ruficeps_sanctorum",
@@ -3281,8 +6115,21 @@
       "lat": 31.77104,
       "lng": -116.78539
     },
-    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
-    "habitat": "Todos-Santos-Inseln"
+    "habitat": "Todos-Santos-Inseln",
+    "images": {
+      "tooltip": "",
+      "panel": ""
+    },
+    "panel": {
+      "description": "",
+      "habitat_text": "",
+      "extinction_text": ""
+    },
+    "range_geojson": null,
+    "taxonomy": {
+      "family": "",
+      "genus": ""
+    }
   },
   {
     "id": "gallinula_nesiotis",
@@ -3296,8 +6143,21 @@
       "lat": -37.07519,
       "lng": -12.25892
     },
-    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
-    "habitat": "Tristan da Cunha"
+    "habitat": "Tristan da Cunha",
+    "images": {
+      "tooltip": "",
+      "panel": ""
+    },
+    "panel": {
+      "description": "",
+      "habitat_text": "",
+      "extinction_text": ""
+    },
+    "range_geojson": null,
+    "taxonomy": {
+      "family": "",
+      "genus": ""
+    }
   },
   {
     "id": "anodorhynchus_glaucus",
@@ -3311,8 +6171,21 @@
       "lat": -34.05011,
       "lng": -64.24715
     },
-    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
-    "habitat": "Argentinien (Norden)"
+    "habitat": "Argentinien (Norden)",
+    "images": {
+      "tooltip": "",
+      "panel": ""
+    },
+    "panel": {
+      "description": "",
+      "habitat_text": "",
+      "extinction_text": ""
+    },
+    "range_geojson": null,
+    "taxonomy": {
+      "family": "",
+      "genus": ""
+    }
   },
   {
     "id": "eriocnemis_godini",
@@ -3326,8 +6199,21 @@
       "lat": -0.15,
       "lng": -78.5
     },
-    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
-    "habitat": "Ecuador, (Kolumbien)"
+    "habitat": "Ecuador, (Kolumbien)",
+    "images": {
+      "tooltip": "",
+      "panel": ""
+    },
+    "panel": {
+      "description": "",
+      "habitat_text": "",
+      "extinction_text": ""
+    },
+    "range_geojson": null,
+    "taxonomy": {
+      "family": "",
+      "genus": ""
+    }
   },
   {
     "id": "pomarea_mira",
@@ -3341,8 +6227,21 @@
       "lat": -9.36935,
       "lng": -140.0682
     },
-    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
-    "habitat": "Ua Pou (Französisch-Polynesien)"
+    "habitat": "Ua Pou (Französisch-Polynesien)",
+    "images": {
+      "tooltip": "",
+      "panel": ""
+    },
+    "panel": {
+      "description": "",
+      "habitat_text": "",
+      "extinction_text": ""
+    },
+    "range_geojson": null,
+    "taxonomy": {
+      "family": "",
+      "genus": ""
+    }
   },
   {
     "id": "caprimulgus_centralasicus",
@@ -3356,8 +6255,21 @@
       "lat": 35.02311,
       "lng": 105.10573
     },
-    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
-    "habitat": "China"
+    "habitat": "China",
+    "images": {
+      "tooltip": "",
+      "panel": ""
+    },
+    "panel": {
+      "description": "",
+      "habitat_text": "",
+      "extinction_text": ""
+    },
+    "range_geojson": null,
+    "taxonomy": {
+      "family": "",
+      "genus": ""
+    }
   },
   {
     "id": "amazona_violacea",
@@ -3371,8 +6283,21 @@
       "lat": 16.14476,
       "lng": -61.82983
     },
-    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
-    "habitat": "Guadeloupe"
+    "habitat": "Guadeloupe",
+    "images": {
+      "tooltip": "",
+      "panel": ""
+    },
+    "panel": {
+      "description": "",
+      "habitat_text": "",
+      "extinction_text": ""
+    },
+    "range_geojson": null,
+    "taxonomy": {
+      "family": "",
+      "genus": ""
+    }
   },
   {
     "id": "megapodius_amissus",
@@ -3386,8 +6311,21 @@
       "lat": -17.8051,
       "lng": 178.06152
     },
-    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
-    "habitat": "Viti Levu"
+    "habitat": "Viti Levu",
+    "images": {
+      "tooltip": "",
+      "panel": ""
+    },
+    "panel": {
+      "description": "",
+      "habitat_text": "",
+      "extinction_text": ""
+    },
+    "range_geojson": null,
+    "taxonomy": {
+      "family": "",
+      "genus": ""
+    }
   },
   {
     "id": "megadyptes_waitaha",
@@ -3401,8 +6339,21 @@
       "lat": -40.9166,
       "lng": 173.97899
     },
-    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
-    "habitat": "Neuseeland (Südinsel)"
+    "habitat": "Neuseeland (Südinsel)",
+    "images": {
+      "tooltip": "",
+      "panel": ""
+    },
+    "panel": {
+      "description": "",
+      "habitat_text": "",
+      "extinction_text": ""
+    },
+    "range_geojson": null,
+    "taxonomy": {
+      "family": "",
+      "genus": ""
+    }
   },
   {
     "id": "gallirallus_wakensis",
@@ -3416,8 +6367,21 @@
       "lat": 19.16332,
       "lng": 166.70354
     },
-    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
-    "habitat": "Wake-Insel"
+    "habitat": "Wake-Insel",
+    "images": {
+      "tooltip": "",
+      "panel": ""
+    },
+    "panel": {
+      "description": "",
+      "habitat_text": "",
+      "extinction_text": ""
+    },
+    "range_geojson": null,
+    "taxonomy": {
+      "family": "",
+      "genus": ""
+    }
   },
   {
     "id": "megalapteryx_didinus",
@@ -3431,8 +6395,21 @@
       "lat": -40.99466,
       "lng": 174.03846
     },
-    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
-    "habitat": "Neuseeland (Südinsel)"
+    "habitat": "Neuseeland (Südinsel)",
+    "images": {
+      "tooltip": "",
+      "panel": ""
+    },
+    "panel": {
+      "description": "",
+      "habitat_text": "",
+      "extinction_text": ""
+    },
+    "range_geojson": null,
+    "taxonomy": {
+      "family": "",
+      "genus": ""
+    }
   },
   {
     "id": "xenicus_longipes",
@@ -3446,8 +6423,21 @@
       "lat": -40.99644,
       "lng": 174.01525
     },
-    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
-    "habitat": "Neuseeland"
+    "habitat": "Neuseeland",
+    "images": {
+      "tooltip": "",
+      "panel": ""
+    },
+    "panel": {
+      "description": "",
+      "habitat_text": "",
+      "extinction_text": ""
+    },
+    "range_geojson": null,
+    "taxonomy": {
+      "family": "",
+      "genus": ""
+    }
   },
   {
     "id": "zosterops_albogularis",
@@ -3461,8 +6451,21 @@
       "lat": -29.01666,
       "lng": 168.00339
     },
-    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
-    "habitat": "Norfolkinsel"
+    "habitat": "Norfolkinsel",
+    "images": {
+      "tooltip": "",
+      "panel": ""
+    },
+    "panel": {
+      "description": "",
+      "habitat_text": "",
+      "extinction_text": ""
+    },
+    "range_geojson": null,
+    "taxonomy": {
+      "family": "",
+      "genus": ""
+    }
   },
   {
     "id": "melamprosops_phaeosoma",
@@ -3476,8 +6479,21 @@
       "lat": 20.80469,
       "lng": -156.37786
     },
-    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
-    "habitat": "Maui (Hawaii)"
+    "habitat": "Maui (Hawaii)",
+    "images": {
+      "tooltip": "",
+      "panel": ""
+    },
+    "panel": {
+      "description": "",
+      "habitat_text": "",
+      "extinction_text": ""
+    },
+    "range_geojson": null,
+    "taxonomy": {
+      "family": "",
+      "genus": ""
+    }
   },
   {
     "id": "sceloglaux_albifacies",
@@ -3491,8 +6507,21 @@
       "lat": -43.96764,
       "lng": 170.0678
     },
-    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
-    "habitat": "Stewart Island, Neuseeland (Südinsel)"
+    "habitat": "Stewart Island, Neuseeland (Südinsel)",
+    "images": {
+      "tooltip": "",
+      "panel": ""
+    },
+    "panel": {
+      "description": "",
+      "habitat_text": "",
+      "extinction_text": ""
+    },
+    "range_geojson": null,
+    "taxonomy": {
+      "family": "",
+      "genus": ""
+    }
   },
   {
     "id": "acrocephalus_astrolabii",
@@ -3506,8 +6535,21 @@
       "lat": -23.08071,
       "lng": -134.91974
     },
-    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
-    "habitat": "Gambier-Inseln"
+    "habitat": "Gambier-Inseln",
+    "images": {
+      "tooltip": "",
+      "panel": ""
+    },
+    "panel": {
+      "description": "",
+      "habitat_text": "",
+      "extinction_text": ""
+    },
+    "range_geojson": null,
+    "taxonomy": {
+      "family": "",
+      "genus": ""
+    }
   },
   {
     "id": "pachyanas_chathamica",
@@ -3521,8 +6563,21 @@
       "lat": -43.90004,
       "lng": -176.51483
     },
-    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
-    "habitat": "Chathaminseln"
+    "habitat": "Chathaminseln",
+    "images": {
+      "tooltip": "",
+      "panel": ""
+    },
+    "panel": {
+      "description": "",
+      "habitat_text": "",
+      "extinction_text": ""
+    },
+    "range_geojson": null,
+    "taxonomy": {
+      "family": "",
+      "genus": ""
+    }
   },
   {
     "id": "coenocorypha_chathamica",
@@ -3536,8 +6591,21 @@
       "lat": -43.92471,
       "lng": -176.47452
     },
-    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
-    "habitat": "Chathaminseln"
+    "habitat": "Chathaminseln",
+    "images": {
+      "tooltip": "",
+      "panel": ""
+    },
+    "panel": {
+      "description": "",
+      "habitat_text": "",
+      "extinction_text": ""
+    },
+    "range_geojson": null,
+    "taxonomy": {
+      "family": "",
+      "genus": ""
+    }
   },
   {
     "id": "nestor_chathamensis",
@@ -3551,8 +6619,21 @@
       "lat": -44.01553,
       "lng": -176.57106
     },
-    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
-    "habitat": "Chathaminseln"
+    "habitat": "Chathaminseln",
+    "images": {
+      "tooltip": "",
+      "panel": ""
+    },
+    "panel": {
+      "description": "",
+      "habitat_text": "",
+      "extinction_text": ""
+    },
+    "range_geojson": null,
+    "taxonomy": {
+      "family": "",
+      "genus": ""
+    }
   },
   {
     "id": "acrocephalus_luscinius",
@@ -3566,8 +6647,21 @@
       "lat": 13.5449,
       "lng": 144.85403
     },
-    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
-    "habitat": "Guam"
+    "habitat": "Guam",
+    "images": {
+      "tooltip": "",
+      "panel": ""
+    },
+    "panel": {
+      "description": "",
+      "habitat_text": "",
+      "extinction_text": ""
+    },
+    "range_geojson": null,
+    "taxonomy": {
+      "family": "",
+      "genus": ""
+    }
   },
   {
     "id": "acrocephalus_nijoi",
@@ -3581,8 +6675,21 @@
       "lat": 14.84519,
       "lng": 145.62373
     },
-    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
-    "habitat": "Aguijan"
+    "habitat": "Aguijan",
+    "images": {
+      "tooltip": "",
+      "panel": ""
+    },
+    "panel": {
+      "description": "",
+      "habitat_text": "",
+      "extinction_text": ""
+    },
+    "range_geojson": null,
+    "taxonomy": {
+      "family": "",
+      "genus": ""
+    }
   },
   {
     "id": "aegolius_gradyi",
@@ -3596,8 +6703,21 @@
       "lat": 32.34819,
       "lng": -64.78799
     },
-    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
-    "habitat": "Bermuda"
+    "habitat": "Bermuda",
+    "images": {
+      "tooltip": "",
+      "panel": ""
+    },
+    "panel": {
+      "description": "",
+      "habitat_text": "",
+      "extinction_text": ""
+    },
+    "range_geojson": null,
+    "taxonomy": {
+      "family": "",
+      "genus": ""
+    }
   },
   {
     "id": "alectroenas_payandeei",
@@ -3611,8 +6731,21 @@
       "lat": -19.67539,
       "lng": 63.36773
     },
-    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
-    "habitat": "Rodrigues"
+    "habitat": "Rodrigues",
+    "images": {
+      "tooltip": "",
+      "panel": ""
+    },
+    "panel": {
+      "description": "",
+      "habitat_text": "",
+      "extinction_text": ""
+    },
+    "range_geojson": null,
+    "taxonomy": {
+      "family": "",
+      "genus": ""
+    }
   },
   {
     "id": "aplonis_fusca",
@@ -3626,8 +6759,21 @@
       "lat": -31.59662,
       "lng": 158.98533
     },
-    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
-    "habitat": "Norfolk-, Lord-Howe-Insel"
+    "habitat": "Norfolk-, Lord-Howe-Insel",
+    "images": {
+      "tooltip": "",
+      "panel": ""
+    },
+    "panel": {
+      "description": "",
+      "habitat_text": "",
+      "extinction_text": ""
+    },
+    "range_geojson": null,
+    "taxonomy": {
+      "family": "",
+      "genus": ""
+    }
   },
   {
     "id": "bermuteo_avivorus",
@@ -3641,8 +6787,21 @@
       "lat": 32.29776,
       "lng": -64.7543
     },
-    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
-    "habitat": "Bermuda"
+    "habitat": "Bermuda",
+    "images": {
+      "tooltip": "",
+      "panel": ""
+    },
+    "panel": {
+      "description": "",
+      "habitat_text": "",
+      "extinction_text": ""
+    },
+    "range_geojson": null,
+    "taxonomy": {
+      "family": "",
+      "genus": ""
+    }
   },
   {
     "id": "colaptes_oceanicus",
@@ -3656,8 +6815,21 @@
       "lat": 32.29431,
       "lng": -64.77154
     },
-    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
-    "habitat": "Bermuda"
+    "habitat": "Bermuda",
+    "images": {
+      "tooltip": "",
+      "panel": ""
+    },
+    "panel": {
+      "description": "",
+      "habitat_text": "",
+      "extinction_text": ""
+    },
+    "range_geojson": null,
+    "taxonomy": {
+      "family": "",
+      "genus": ""
+    }
   },
   {
     "id": "columba_thiriouxi",
@@ -3671,8 +6843,21 @@
       "lat": -19.78213,
       "lng": 57.89409
     },
-    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
-    "habitat": "Mauritius"
+    "habitat": "Mauritius",
+    "images": {
+      "tooltip": "",
+      "panel": ""
+    },
+    "panel": {
+      "description": "",
+      "habitat_text": "",
+      "extinction_text": ""
+    },
+    "range_geojson": null,
+    "taxonomy": {
+      "family": "",
+      "genus": ""
+    }
   },
   {
     "id": "stephanoaetus_mahery",
@@ -3686,8 +6871,21 @@
       "lat": -19.98485,
       "lng": 47.09614
     },
-    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
-    "habitat": "Madagaskar"
+    "habitat": "Madagaskar",
+    "images": {
+      "tooltip": "",
+      "panel": ""
+    },
+    "panel": {
+      "description": "",
+      "habitat_text": "",
+      "extinction_text": ""
+    },
+    "range_geojson": null,
+    "taxonomy": {
+      "family": "",
+      "genus": ""
+    }
   },
   {
     "id": "porphyrio_kukwiedei",
@@ -3701,8 +6899,21 @@
       "lat": -21.57383,
       "lng": 165.55827
     },
-    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
-    "habitat": "Neukaledonien"
+    "habitat": "Neukaledonien",
+    "images": {
+      "tooltip": "",
+      "panel": ""
+    },
+    "panel": {
+      "description": "",
+      "habitat_text": "",
+      "extinction_text": ""
+    },
+    "range_geojson": null,
+    "taxonomy": {
+      "family": "",
+      "genus": ""
+    }
   },
   {
     "id": "porphyrio_paepae",
@@ -3716,8 +6927,21 @@
       "lat": -10.04292,
       "lng": -138.98859
     },
-    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
-    "habitat": "Tahuata, Hiva Oa"
+    "habitat": "Tahuata, Hiva Oa",
+    "images": {
+      "tooltip": "",
+      "panel": ""
+    },
+    "panel": {
+      "description": "",
+      "habitat_text": "",
+      "extinction_text": ""
+    },
+    "range_geojson": null,
+    "taxonomy": {
+      "family": "",
+      "genus": ""
+    }
   },
   {
     "id": "prosobonia_ellisi",
@@ -3731,8 +6955,21 @@
       "lat": -17.5139,
       "lng": -149.82512
     },
-    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
-    "habitat": "Moorea"
+    "habitat": "Moorea",
+    "images": {
+      "tooltip": "",
+      "panel": ""
+    },
+    "panel": {
+      "description": "",
+      "habitat_text": "",
+      "extinction_text": ""
+    },
+    "range_geojson": null,
+    "taxonomy": {
+      "family": "",
+      "genus": ""
+    }
   },
   {
     "id": "lewinia_pectoralis_clelandi",
@@ -3746,8 +6983,21 @@
       "lat": -27.02424,
       "lng": 132.78749
     },
-    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
-    "habitat": "Australien"
+    "habitat": "Australien",
+    "images": {
+      "tooltip": "",
+      "panel": ""
+    },
+    "panel": {
+      "description": "",
+      "habitat_text": "",
+      "extinction_text": ""
+    },
+    "range_geojson": null,
+    "taxonomy": {
+      "family": "",
+      "genus": ""
+    }
   },
   {
     "id": "philydor_novaesi",
@@ -3761,8 +7011,21 @@
       "lat": -9.6498,
       "lng": -35.7089
     },
-    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
-    "habitat": "Brasilien"
+    "habitat": "Brasilien",
+    "images": {
+      "tooltip": "",
+      "panel": ""
+    },
+    "panel": {
+      "description": "",
+      "habitat_text": "",
+      "extinction_text": ""
+    },
+    "range_geojson": null,
+    "taxonomy": {
+      "family": "",
+      "genus": ""
+    }
   },
   {
     "id": "dryolimnas_cuvieri_abbotti",
@@ -3776,8 +7039,21 @@
       "lat": -4.20681,
       "lng": 55.98114
     },
-    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
-    "habitat": "Assumption (Seychellen)"
+    "habitat": "Assumption (Seychellen)",
+    "images": {
+      "tooltip": "",
+      "panel": ""
+    },
+    "panel": {
+      "description": "",
+      "habitat_text": "",
+      "extinction_text": ""
+    },
+    "range_geojson": null,
+    "taxonomy": {
+      "family": "",
+      "genus": ""
+    }
   },
   {
     "id": "falco_duboisi",
@@ -3791,8 +7067,21 @@
       "lat": -21.1874,
       "lng": 55.43298
     },
-    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
-    "habitat": "Réunion"
+    "habitat": "Réunion",
+    "images": {
+      "tooltip": "",
+      "panel": ""
+    },
+    "panel": {
+      "description": "",
+      "habitat_text": "",
+      "extinction_text": ""
+    },
+    "range_geojson": null,
+    "taxonomy": {
+      "family": "",
+      "genus": ""
+    }
   },
   {
     "id": "alopochen_kervazoi",
@@ -3806,8 +7095,21 @@
       "lat": -21.07193,
       "lng": 55.62839
     },
-    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
-    "habitat": "Réunion"
+    "habitat": "Réunion",
+    "images": {
+      "tooltip": "",
+      "panel": ""
+    },
+    "panel": {
+      "description": "",
+      "habitat_text": "",
+      "extinction_text": ""
+    },
+    "range_geojson": null,
+    "taxonomy": {
+      "family": "",
+      "genus": ""
+    }
   },
   {
     "id": "psittacula_eques_eques",
@@ -3821,8 +7123,21 @@
       "lat": -21.18803,
       "lng": 55.47763
     },
-    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
-    "habitat": "Réunion"
+    "habitat": "Réunion",
+    "images": {
+      "tooltip": "",
+      "panel": ""
+    },
+    "panel": {
+      "description": "",
+      "habitat_text": "",
+      "extinction_text": ""
+    },
+    "range_geojson": null,
+    "taxonomy": {
+      "family": "",
+      "genus": ""
+    }
   },
   {
     "id": "nycticorax_duboisi",
@@ -3836,8 +7151,21 @@
       "lat": -21.13571,
       "lng": 55.46283
     },
-    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
-    "habitat": "Réunion"
+    "habitat": "Réunion",
+    "images": {
+      "tooltip": "",
+      "panel": ""
+    },
+    "panel": {
+      "description": "",
+      "habitat_text": "",
+      "extinction_text": ""
+    },
+    "range_geojson": null,
+    "taxonomy": {
+      "family": "",
+      "genus": ""
+    }
   },
   {
     "id": "dryolimnas_augusti",
@@ -3851,8 +7179,21 @@
       "lat": -21.18463,
       "lng": 55.4709
     },
-    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
-    "habitat": "Réunion"
+    "habitat": "Réunion",
+    "images": {
+      "tooltip": "",
+      "panel": ""
+    },
+    "panel": {
+      "description": "",
+      "habitat_text": "",
+      "extinction_text": ""
+    },
+    "range_geojson": null,
+    "taxonomy": {
+      "family": "",
+      "genus": ""
+    }
   },
   {
     "id": "mascarinus_mascarinus",
@@ -3866,8 +7207,21 @@
       "lat": -21.13365,
       "lng": 55.53136
     },
-    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
-    "habitat": "Réunion"
+    "habitat": "Réunion",
+    "images": {
+      "tooltip": "",
+      "panel": ""
+    },
+    "panel": {
+      "description": "",
+      "habitat_text": "",
+      "extinction_text": ""
+    },
+    "range_geojson": null,
+    "taxonomy": {
+      "family": "",
+      "genus": ""
+    }
   },
   {
     "id": "foudia_delloni",
@@ -3881,8 +7235,21 @@
       "lat": -21.19994,
       "lng": 55.62107
     },
-    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
-    "habitat": "Réunion"
+    "habitat": "Réunion",
+    "images": {
+      "tooltip": "",
+      "panel": ""
+    },
+    "panel": {
+      "description": "",
+      "habitat_text": "",
+      "extinction_text": ""
+    },
+    "range_geojson": null,
+    "taxonomy": {
+      "family": "",
+      "genus": ""
+    }
   },
   {
     "id": "hypsipetes_cowlesi",
@@ -3896,8 +7263,21 @@
       "lat": -19.75059,
       "lng": 63.37716
     },
-    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
-    "habitat": "Rodrigues"
+    "habitat": "Rodrigues",
+    "images": {
+      "tooltip": "",
+      "panel": ""
+    },
+    "panel": {
+      "description": "",
+      "habitat_text": "",
+      "extinction_text": ""
+    },
+    "range_geojson": null,
+    "taxonomy": {
+      "family": "",
+      "genus": ""
+    }
   },
   {
     "id": "mascarenotus_murivorus",
@@ -3911,8 +7291,21 @@
       "lat": -19.705,
       "lng": 63.39566
     },
-    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
-    "habitat": "Rodrigues"
+    "habitat": "Rodrigues",
+    "images": {
+      "tooltip": "",
+      "panel": ""
+    },
+    "panel": {
+      "description": "",
+      "habitat_text": "",
+      "extinction_text": ""
+    },
+    "range_geojson": null,
+    "taxonomy": {
+      "family": "",
+      "genus": ""
+    }
   },
   {
     "id": "alectroenas_rodericana",
@@ -3926,8 +7319,21 @@
       "lat": -19.69183,
       "lng": 63.42972
     },
-    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
-    "habitat": "Rodrigues"
+    "habitat": "Rodrigues",
+    "images": {
+      "tooltip": "",
+      "panel": ""
+    },
+    "panel": {
+      "description": "",
+      "habitat_text": "",
+      "extinction_text": ""
+    },
+    "range_geojson": null,
+    "taxonomy": {
+      "family": "",
+      "genus": ""
+    }
   },
   {
     "id": "nycticorax_megacephalus",
@@ -3941,8 +7347,21 @@
       "lat": -19.71243,
       "lng": 63.47406
     },
-    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
-    "habitat": "Rodrigues"
+    "habitat": "Rodrigues",
+    "images": {
+      "tooltip": "",
+      "panel": ""
+    },
+    "panel": {
+      "description": "",
+      "habitat_text": "",
+      "extinction_text": ""
+    },
+    "range_geojson": null,
+    "taxonomy": {
+      "family": "",
+      "genus": ""
+    }
   },
   {
     "id": "necropsittacus_rodericanus",
@@ -3956,8 +7375,21 @@
       "lat": -19.65486,
       "lng": 63.40847
     },
-    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
-    "habitat": "Rodrigues"
+    "habitat": "Rodrigues",
+    "images": {
+      "tooltip": "",
+      "panel": ""
+    },
+    "panel": {
+      "description": "",
+      "habitat_text": "",
+      "extinction_text": ""
+    },
+    "range_geojson": null,
+    "taxonomy": {
+      "family": "",
+      "genus": ""
+    }
   },
   {
     "id": "psittacula_exsul",
@@ -3971,8 +7403,21 @@
       "lat": -19.73886,
       "lng": 63.36259
     },
-    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
-    "habitat": "Rodrigues"
+    "habitat": "Rodrigues",
+    "images": {
+      "tooltip": "",
+      "panel": ""
+    },
+    "panel": {
+      "description": "",
+      "habitat_text": "",
+      "extinction_text": ""
+    },
+    "range_geojson": null,
+    "taxonomy": {
+      "family": "",
+      "genus": ""
+    }
   },
   {
     "id": "pezophaps_solitaria",
@@ -3986,8 +7431,21 @@
       "lat": -19.71862,
       "lng": 63.36451
     },
-    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
-    "habitat": "Rodrigues"
+    "habitat": "Rodrigues",
+    "images": {
+      "tooltip": "",
+      "panel": ""
+    },
+    "panel": {
+      "description": "",
+      "habitat_text": "",
+      "extinction_text": ""
+    },
+    "range_geojson": null,
+    "taxonomy": {
+      "family": "",
+      "genus": ""
+    }
   },
   {
     "id": "necropsar_rodericanus",
@@ -4001,8 +7459,21 @@
       "lat": -19.71807,
       "lng": 63.36411
     },
-    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
-    "habitat": "Rodrigues"
+    "habitat": "Rodrigues",
+    "images": {
+      "tooltip": "",
+      "panel": ""
+    },
+    "panel": {
+      "description": "",
+      "habitat_text": "",
+      "extinction_text": ""
+    },
+    "range_geojson": null,
+    "taxonomy": {
+      "family": "",
+      "genus": ""
+    }
   },
   {
     "id": "rhodonessa_caryophyllacea",
@@ -4016,8 +7487,21 @@
       "lat": 20.17866,
       "lng": 77.19904
     },
-    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
-    "habitat": "Indien, Bangladesch, Myanmar"
+    "habitat": "Indien, Bangladesch, Myanmar",
+    "images": {
+      "tooltip": "",
+      "panel": ""
+    },
+    "panel": {
+      "description": "",
+      "habitat_text": "",
+      "extinction_text": ""
+    },
+    "range_geojson": null,
+    "taxonomy": {
+      "family": "",
+      "genus": ""
+    }
   },
   {
     "id": "turdus_ravidus",
@@ -4031,8 +7515,21 @@
       "lat": 19.1706,
       "lng": -81.13168
     },
-    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
-    "habitat": "Grand Cayman"
+    "habitat": "Grand Cayman",
+    "images": {
+      "tooltip": "",
+      "panel": ""
+    },
+    "panel": {
+      "description": "",
+      "habitat_text": "",
+      "extinction_text": ""
+    },
+    "range_geojson": null,
+    "taxonomy": {
+      "family": "",
+      "genus": ""
+    }
   },
   {
     "id": "petrochelidon_perdita",
@@ -4046,8 +7543,21 @@
       "lat": 20.55746,
       "lng": 39.01125
     },
-    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
-    "habitat": "Rotes Meer"
+    "habitat": "Rotes Meer",
+    "images": {
+      "tooltip": "",
+      "panel": ""
+    },
+    "panel": {
+      "description": "",
+      "habitat_text": "",
+      "extinction_text": ""
+    },
+    "range_geojson": null,
+    "taxonomy": {
+      "family": "",
+      "genus": ""
+    }
   },
   {
     "id": "anodorhynchus_purpurascens",
@@ -4061,8 +7571,21 @@
       "lat": 16.41142,
       "lng": -61.40901
     },
-    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
-    "habitat": "Guadeloupe"
+    "habitat": "Guadeloupe",
+    "images": {
+      "tooltip": "",
+      "panel": ""
+    },
+    "panel": {
+      "description": "",
+      "habitat_text": "",
+      "extinction_text": ""
+    },
+    "range_geojson": null,
+    "taxonomy": {
+      "family": "",
+      "genus": ""
+    }
   },
   {
     "id": "gallirallus_pacificus",
@@ -4076,8 +7599,21 @@
       "lat": -17.67073,
       "lng": -149.48614
     },
-    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
-    "habitat": "Tahiti"
+    "habitat": "Tahiti",
+    "images": {
+      "tooltip": "",
+      "panel": ""
+    },
+    "panel": {
+      "description": "",
+      "habitat_text": "",
+      "extinction_text": ""
+    },
+    "range_geojson": null,
+    "taxonomy": {
+      "family": "",
+      "genus": ""
+    }
   },
   {
     "id": "sceloglaux_albifacies_rufifacies",
@@ -4091,8 +7627,21 @@
       "lat": -40.97182,
       "lng": 173.96695
     },
-    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
-    "habitat": "Neuseeland (Nordinsel)"
+    "habitat": "Neuseeland (Nordinsel)",
+    "images": {
+      "tooltip": "",
+      "panel": ""
+    },
+    "panel": {
+      "description": "",
+      "habitat_text": "",
+      "extinction_text": ""
+    },
+    "range_geojson": null,
+    "taxonomy": {
+      "family": "",
+      "genus": ""
+    }
   },
   {
     "id": "drepanis_funerea",
@@ -4106,8 +7655,21 @@
       "lat": 21.02081,
       "lng": -157.10065
     },
-    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
-    "habitat": "Molokai (Hawaii)"
+    "habitat": "Molokai (Hawaii)",
+    "images": {
+      "tooltip": "",
+      "panel": ""
+    },
+    "panel": {
+      "description": "",
+      "habitat_text": "",
+      "extinction_text": ""
+    },
+    "range_geojson": null,
+    "taxonomy": {
+      "family": "",
+      "genus": ""
+    }
   },
   {
     "id": "todiramphus_cinnamominus_miyakoensis",
@@ -4121,8 +7683,21 @@
       "lat": 26.21657,
       "lng": 127.77046
     },
-    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
-    "habitat": "Miyako-jima, Ryūkyū-Inseln (Japan)"
+    "habitat": "Miyako-jima, Ryūkyū-Inseln (Japan)",
+    "images": {
+      "tooltip": "",
+      "panel": ""
+    },
+    "panel": {
+      "description": "",
+      "habitat_text": "",
+      "extinction_text": ""
+    },
+    "range_geojson": null,
+    "taxonomy": {
+      "family": "",
+      "genus": ""
+    }
   },
   {
     "id": "loxigilla_portoricensis_grandis",
@@ -4136,8 +7711,21 @@
       "lat": 17.31794,
       "lng": -62.80132
     },
-    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
-    "habitat": "Saint Kitts"
+    "habitat": "Saint Kitts",
+    "images": {
+      "tooltip": "",
+      "panel": ""
+    },
+    "panel": {
+      "description": "",
+      "habitat_text": "",
+      "extinction_text": ""
+    },
+    "range_geojson": null,
+    "taxonomy": {
+      "family": "",
+      "genus": ""
+    }
   },
   {
     "id": "corythornis_madagascariensis_dilutus",
@@ -4151,8 +7739,21 @@
       "lat": -20.02192,
       "lng": 46.76689
     },
-    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
-    "habitat": "Madagaskar"
+    "habitat": "Madagaskar",
+    "images": {
+      "tooltip": "",
+      "panel": ""
+    },
+    "panel": {
+      "description": "",
+      "habitat_text": "",
+      "extinction_text": ""
+    },
+    "range_geojson": null,
+    "taxonomy": {
+      "family": "",
+      "genus": ""
+    }
   },
   {
     "id": "microgoura_meeki",
@@ -4166,8 +7767,21 @@
       "lat": -6.70611,
       "lng": 156.50761
     },
-    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
-    "habitat": "Choiseul"
+    "habitat": "Choiseul",
+    "images": {
+      "tooltip": "",
+      "panel": ""
+    },
+    "panel": {
+      "description": "",
+      "habitat_text": "",
+      "extinction_text": ""
+    },
+    "range_geojson": null,
+    "taxonomy": {
+      "family": "",
+      "genus": ""
+    }
   },
   {
     "id": "calyptophilus_frugivorus",
@@ -4181,8 +7795,21 @@
       "lat": 19.24375,
       "lng": -69.28052
     },
-    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
-    "habitat": "Samaná-Halbinsel"
+    "habitat": "Samaná-Halbinsel",
+    "images": {
+      "tooltip": "",
+      "panel": ""
+    },
+    "panel": {
+      "description": "",
+      "habitat_text": "",
+      "extinction_text": ""
+    },
+    "range_geojson": null,
+    "taxonomy": {
+      "family": "",
+      "genus": ""
+    }
   },
   {
     "id": "pareudiastes_pacificus",
@@ -4196,8 +7823,21 @@
       "lat": -13.59693,
       "lng": -172.37155
     },
-    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
-    "habitat": "Savaii"
+    "habitat": "Savaii",
+    "images": {
+      "tooltip": "",
+      "panel": ""
+    },
+    "panel": {
+      "description": "",
+      "habitat_text": "",
+      "extinction_text": ""
+    },
+    "range_geojson": null,
+    "taxonomy": {
+      "family": "",
+      "genus": ""
+    }
   },
   {
     "id": "salpinctes_obsoletus_exsul",
@@ -4211,8 +7851,21 @@
       "lat": 19.28333,
       "lng": -110.83683
     },
-    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
-    "habitat": "San Benedicto"
+    "habitat": "San Benedicto",
+    "images": {
+      "tooltip": "",
+      "panel": ""
+    },
+    "panel": {
+      "description": "",
+      "habitat_text": "",
+      "extinction_text": ""
+    },
+    "range_geojson": null,
+    "taxonomy": {
+      "family": "",
+      "genus": ""
+    }
   },
   {
     "id": "thryomanes_bewickii_leucophrys",
@@ -4226,8 +7879,21 @@
       "lat": 32.93382,
       "lng": -118.49127
     },
-    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
-    "habitat": "San Clemente Island"
+    "habitat": "San Clemente Island",
+    "images": {
+      "tooltip": "",
+      "panel": ""
+    },
+    "panel": {
+      "description": "",
+      "habitat_text": "",
+      "extinction_text": ""
+    },
+    "range_geojson": null,
+    "taxonomy": {
+      "family": "",
+      "genus": ""
+    }
   },
   {
     "id": "gallicolumba_salamonis",
@@ -4241,8 +7907,21 @@
       "lat": -10.36433,
       "lng": 161.99005
     },
-    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
-    "habitat": "Makira, Ramos"
+    "habitat": "Makira, Ramos",
+    "images": {
+      "tooltip": "",
+      "panel": ""
+    },
+    "panel": {
+      "description": "",
+      "habitat_text": "",
+      "extinction_text": ""
+    },
+    "range_geojson": null,
+    "taxonomy": {
+      "family": "",
+      "genus": ""
+    }
   },
   {
     "id": "ceyx_fallax_sangirensis",
@@ -4256,8 +7935,21 @@
       "lat": 3.57126,
       "lng": 125.5007
     },
-    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
-    "habitat": "Sangihe-Inseln"
+    "habitat": "Sangihe-Inseln",
+    "images": {
+      "tooltip": "",
+      "panel": ""
+    },
+    "panel": {
+      "description": "",
+      "habitat_text": "",
+      "extinction_text": ""
+    },
+    "range_geojson": null,
+    "taxonomy": {
+      "family": "",
+      "genus": ""
+    }
   },
   {
     "id": "melospiza_melodia_graminea",
@@ -4271,8 +7963,21 @@
       "lat": 33.46783,
       "lng": -119.0052
     },
-    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
-    "habitat": "Santa Barbara Island"
+    "habitat": "Santa Barbara Island",
+    "images": {
+      "tooltip": "",
+      "panel": ""
+    },
+    "panel": {
+      "description": "",
+      "habitat_text": "",
+      "extinction_text": ""
+    },
+    "range_geojson": null,
+    "taxonomy": {
+      "family": "",
+      "genus": ""
+    }
   },
   {
     "id": "geospiza_magnirostris_magnirostris",
@@ -4286,8 +7991,21 @@
       "lat": -1.28985,
       "lng": -90.41108
     },
-    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
-    "habitat": "Floreana, San Cristóbal"
+    "habitat": "Floreana, San Cristóbal",
+    "images": {
+      "tooltip": "",
+      "panel": ""
+    },
+    "panel": {
+      "description": "",
+      "habitat_text": "",
+      "extinction_text": ""
+    },
+    "range_geojson": null,
+    "taxonomy": {
+      "family": "",
+      "genus": ""
+    }
   },
   {
     "id": "quiscalus_palustris",
@@ -4301,8 +8019,21 @@
       "lat": 23.50805,
       "lng": -102.4657
     },
-    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
-    "habitat": "Mexiko"
+    "habitat": "Mexiko",
+    "images": {
+      "tooltip": "",
+      "panel": ""
+    },
+    "panel": {
+      "description": "",
+      "habitat_text": "",
+      "extinction_text": ""
+    },
+    "range_geojson": null,
+    "taxonomy": {
+      "family": "",
+      "genus": ""
+    }
   },
   {
     "id": "aplonis_mavornata",
@@ -4316,8 +8047,21 @@
       "lat": -20.10258,
       "lng": -157.35671
     },
-    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
-    "habitat": "Mauke (Cookinseln)"
+    "habitat": "Mauke (Cookinseln)",
+    "images": {
+      "tooltip": "",
+      "panel": ""
+    },
+    "panel": {
+      "description": "",
+      "habitat_text": "",
+      "extinction_text": ""
+    },
+    "range_geojson": null,
+    "taxonomy": {
+      "family": "",
+      "genus": ""
+    }
   },
   {
     "id": "chaetoptila_angustipluma",
@@ -4331,8 +8075,21 @@
       "lat": 19.51914,
       "lng": -155.57679
     },
-    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
-    "habitat": "Big Island (Hawaii)"
+    "habitat": "Big Island (Hawaii)",
+    "images": {
+      "tooltip": "",
+      "panel": ""
+    },
+    "panel": {
+      "description": "",
+      "habitat_text": "",
+      "extinction_text": ""
+    },
+    "range_geojson": null,
+    "taxonomy": {
+      "family": "",
+      "genus": ""
+    }
   },
   {
     "id": "tadorna_cristata",
@@ -4346,8 +8103,21 @@
       "lat": 50.0669,
       "lng": 129.98732
     },
-    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
-    "habitat": "Asien (Nordosten)"
+    "habitat": "Asien (Nordosten)",
+    "images": {
+      "tooltip": "",
+      "panel": ""
+    },
+    "panel": {
+      "description": "",
+      "habitat_text": "",
+      "extinction_text": ""
+    },
+    "range_geojson": null,
+    "taxonomy": {
+      "family": "",
+      "genus": ""
+    }
   },
   {
     "id": "pachyornis_australis",
@@ -4361,8 +8131,21 @@
       "lat": -40.92498,
       "lng": 173.92064
     },
-    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
-    "habitat": "Neuseeland"
+    "habitat": "Neuseeland",
+    "images": {
+      "tooltip": "",
+      "panel": ""
+    },
+    "panel": {
+      "description": "",
+      "habitat_text": "",
+      "extinction_text": ""
+    },
+    "range_geojson": null,
+    "taxonomy": {
+      "family": "",
+      "genus": ""
+    }
   },
   {
     "id": "moho_braccatus",
@@ -4376,8 +8159,21 @@
       "lat": 22.06183,
       "lng": -159.42865
     },
-    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
-    "habitat": "Kauai (Hawaii)"
+    "habitat": "Kauai (Hawaii)",
+    "images": {
+      "tooltip": "",
+      "panel": ""
+    },
+    "panel": {
+      "description": "",
+      "habitat_text": "",
+      "extinction_text": ""
+    },
+    "range_geojson": null,
+    "taxonomy": {
+      "family": "",
+      "genus": ""
+    }
   },
   {
     "id": "malacocincla_perspicillata",
@@ -4391,8 +8187,21 @@
       "lat": 0.56212,
       "lng": 114.45173
     },
-    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
-    "habitat": "Borneo"
+    "habitat": "Borneo",
+    "images": {
+      "tooltip": "",
+      "panel": ""
+    },
+    "panel": {
+      "description": "",
+      "habitat_text": "",
+      "extinction_text": ""
+    },
+    "range_geojson": null,
+    "taxonomy": {
+      "family": "",
+      "genus": ""
+    }
   },
   {
     "id": "ammodramus_maritimus_nigrescens",
@@ -4406,8 +8215,21 @@
       "lat": 27.87049,
       "lng": -81.72284
     },
-    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
-    "habitat": "Florida"
+    "habitat": "Florida",
+    "images": {
+      "tooltip": "",
+      "panel": ""
+    },
+    "panel": {
+      "description": "",
+      "habitat_text": "",
+      "extinction_text": ""
+    },
+    "range_geojson": null,
+    "taxonomy": {
+      "family": "",
+      "genus": ""
+    }
   },
   {
     "id": "ixobrychus_novaezelandiae",
@@ -4421,8 +8243,21 @@
       "lat": -40.92535,
       "lng": 174.10011
     },
-    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
-    "habitat": "Neuseeland, Chathaminseln"
+    "habitat": "Neuseeland, Chathaminseln",
+    "images": {
+      "tooltip": "",
+      "panel": ""
+    },
+    "panel": {
+      "description": "",
+      "habitat_text": "",
+      "extinction_text": ""
+    },
+    "range_geojson": null,
+    "taxonomy": {
+      "family": "",
+      "genus": ""
+    }
   },
   {
     "id": "estrilda_nigriloris",
@@ -4436,8 +8271,21 @@
       "lat": -0.28694,
       "lng": 24.71868
     },
-    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
-    "habitat": "Kongo"
+    "habitat": "Kongo",
+    "images": {
+      "tooltip": "",
+      "panel": ""
+    },
+    "panel": {
+      "description": "",
+      "habitat_text": "",
+      "extinction_text": ""
+    },
+    "range_geojson": null,
+    "taxonomy": {
+      "family": "",
+      "genus": ""
+    }
   },
   {
     "id": "psittacula_wardi",
@@ -4451,8 +8299,21 @@
       "lat": -4.63075,
       "lng": 56.06906
     },
-    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
-    "habitat": "Seychellen"
+    "habitat": "Seychellen",
+    "images": {
+      "tooltip": "",
+      "panel": ""
+    },
+    "panel": {
+      "description": "",
+      "habitat_text": "",
+      "extinction_text": ""
+    },
+    "range_geojson": null,
+    "taxonomy": {
+      "family": "",
+      "genus": ""
+    }
   },
   {
     "id": "columba_jouyi",
@@ -4466,8 +8327,21 @@
       "lat": 26.55826,
       "lng": 127.86153
     },
-    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
-    "habitat": "Okinawa, Daitō-Inseln"
+    "habitat": "Okinawa, Daitō-Inseln",
+    "images": {
+      "tooltip": "",
+      "panel": ""
+    },
+    "panel": {
+      "description": "",
+      "habitat_text": "",
+      "extinction_text": ""
+    },
+    "range_geojson": null,
+    "taxonomy": {
+      "family": "",
+      "genus": ""
+    }
   },
   {
     "id": "loriculus_philippensis_siquijorensis",
@@ -4481,8 +8355,21 @@
       "lat": 9.24115,
       "lng": 123.48716
     },
-    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
-    "habitat": "Siquijor"
+    "habitat": "Siquijor",
+    "images": {
+      "tooltip": "",
+      "panel": ""
+    },
+    "panel": {
+      "description": "",
+      "habitat_text": "",
+      "extinction_text": ""
+    },
+    "range_geojson": null,
+    "taxonomy": {
+      "family": "",
+      "genus": ""
+    }
   },
   {
     "id": "pseudochelidon_sirintarae",
@@ -4496,8 +8383,21 @@
       "lat": 15.07262,
       "lng": 99.92723
     },
-    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
-    "habitat": "Thailand"
+    "habitat": "Thailand",
+    "images": {
+      "tooltip": "",
+      "panel": ""
+    },
+    "panel": {
+      "description": "",
+      "habitat_text": "",
+      "extinction_text": ""
+    },
+    "range_geojson": null,
+    "taxonomy": {
+      "family": "",
+      "genus": ""
+    }
   },
   {
     "id": "cichlocolaptes_mazarbarnetti",
@@ -4511,8 +8411,21 @@
       "lat": -9.57,
       "lng": -36.78
     },
-    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
-    "habitat": "Brasilien"
+    "habitat": "Brasilien",
+    "images": {
+      "tooltip": "",
+      "panel": ""
+    },
+    "panel": {
+      "description": "",
+      "habitat_text": "",
+      "extinction_text": ""
+    },
+    "range_geojson": null,
+    "taxonomy": {
+      "family": "",
+      "genus": ""
+    }
   },
   {
     "id": "pampusana_erythroptera_albicollis",
@@ -4526,8 +8439,21 @@
       "lat": -15.01837,
       "lng": -146.00753
     },
-    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
-    "habitat": "Tuamotu-Archipel"
+    "habitat": "Tuamotu-Archipel",
+    "images": {
+      "tooltip": "",
+      "panel": ""
+    },
+    "panel": {
+      "description": "",
+      "habitat_text": "",
+      "extinction_text": ""
+    },
+    "range_geojson": null,
+    "taxonomy": {
+      "family": "",
+      "genus": ""
+    }
   },
   {
     "id": "mergus_milleneri",
@@ -4541,8 +8467,21 @@
       "lat": -43.8925,
       "lng": -176.61086
     },
-    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
-    "habitat": "Chathaminseln"
+    "habitat": "Chathaminseln",
+    "images": {
+      "tooltip": "",
+      "panel": ""
+    },
+    "panel": {
+      "description": "",
+      "habitat_text": "",
+      "extinction_text": ""
+    },
+    "range_geojson": null,
+    "taxonomy": {
+      "family": "",
+      "genus": ""
+    }
   },
   {
     "id": "hemiphaga_novaeseelandiae_spadicea",
@@ -4556,8 +8495,21 @@
       "lat": -29.03666,
       "lng": 167.92802
     },
-    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
-    "habitat": "Norfolkinsel"
+    "habitat": "Norfolkinsel",
+    "images": {
+      "tooltip": "",
+      "panel": ""
+    },
+    "panel": {
+      "description": "",
+      "habitat_text": "",
+      "extinction_text": ""
+    },
+    "range_geojson": null,
+    "taxonomy": {
+      "family": "",
+      "genus": ""
+    }
   },
   {
     "id": "pyrocephalus_dubius",
@@ -4571,8 +8523,21 @@
       "lat": -0.966,
       "lng": -89.67666
     },
-    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
-    "habitat": "San Cristóbal"
+    "habitat": "San Cristóbal",
+    "images": {
+      "tooltip": "",
+      "panel": ""
+    },
+    "panel": {
+      "description": "",
+      "habitat_text": "",
+      "extinction_text": ""
+    },
+    "range_geojson": null,
+    "taxonomy": {
+      "family": "",
+      "genus": ""
+    }
   },
   {
     "id": "ara_autocthones",
@@ -4586,8 +8551,21 @@
       "lat": 17.71836,
       "lng": -64.84222
     },
-    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
-    "habitat": "Saint Croix (Karibik)"
+    "habitat": "Saint Croix (Karibik)",
+    "images": {
+      "tooltip": "",
+      "panel": ""
+    },
+    "panel": {
+      "description": "",
+      "habitat_text": "",
+      "extinction_text": ""
+    },
+    "range_geojson": null,
+    "taxonomy": {
+      "family": "",
+      "genus": ""
+    }
   },
   {
     "id": "nycticorax_caledonicus_crassirostris",
@@ -4601,8 +8579,21 @@
       "lat": 27.12479,
       "lng": 142.18193
     },
-    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
-    "habitat": "Ogasawara-Inseln"
+    "habitat": "Ogasawara-Inseln",
+    "images": {
+      "tooltip": "",
+      "panel": ""
+    },
+    "panel": {
+      "description": "",
+      "habitat_text": "",
+      "extinction_text": ""
+    },
+    "range_geojson": null,
+    "taxonomy": {
+      "family": "",
+      "genus": ""
+    }
   },
   {
     "id": "porzana_cinerea_brevipes",
@@ -4616,8 +8607,21 @@
       "lat": 27.23786,
       "lng": 142.3275
     },
-    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
-    "habitat": "Ogasawara-Inseln"
+    "habitat": "Ogasawara-Inseln",
+    "images": {
+      "tooltip": "",
+      "panel": ""
+    },
+    "panel": {
+      "description": "",
+      "habitat_text": "",
+      "extinction_text": ""
+    },
+    "range_geojson": null,
+    "taxonomy": {
+      "family": "",
+      "genus": ""
+    }
   },
   {
     "id": "falco_peregrinus_furuitii",
@@ -4631,8 +8635,21 @@
       "lat": 27.10314,
       "lng": 142.21907
     },
-    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
-    "habitat": "Ogasawara-Inseln, Vulkaninselkette"
+    "habitat": "Ogasawara-Inseln, Vulkaninselkette",
+    "images": {
+      "tooltip": "",
+      "panel": ""
+    },
+    "panel": {
+      "description": "",
+      "habitat_text": "",
+      "extinction_text": ""
+    },
+    "range_geojson": null,
+    "taxonomy": {
+      "family": "",
+      "genus": ""
+    }
   },
   {
     "id": "sittiparus_varius_orii",
@@ -4646,8 +8663,21 @@
       "lat": 25.73902,
       "lng": 131.27713
     },
-    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
-    "habitat": "Daitō-Inseln"
+    "habitat": "Daitō-Inseln",
+    "images": {
+      "tooltip": "",
+      "panel": ""
+    },
+    "panel": {
+      "description": "",
+      "habitat_text": "",
+      "extinction_text": ""
+    },
+    "range_geojson": null,
+    "taxonomy": {
+      "family": "",
+      "genus": ""
+    }
   },
   {
     "id": "apalopteron_familiare_familiare",
@@ -4661,8 +8691,21 @@
       "lat": 27.16836,
       "lng": 142.26105
     },
-    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
-    "habitat": "Ogasawara-Inseln"
+    "habitat": "Ogasawara-Inseln",
+    "images": {
+      "tooltip": "",
+      "panel": ""
+    },
+    "panel": {
+      "description": "",
+      "habitat_text": "",
+      "extinction_text": ""
+    },
+    "range_geojson": null,
+    "taxonomy": {
+      "family": "",
+      "genus": ""
+    }
   },
   {
     "id": "troglodytes_troglodytes_orii",
@@ -4676,8 +8719,21 @@
       "lat": 25.82788,
       "lng": 131.24033
     },
-    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
-    "habitat": "Daitō-Inseln"
+    "habitat": "Daitō-Inseln",
+    "images": {
+      "tooltip": "",
+      "panel": ""
+    },
+    "panel": {
+      "description": "",
+      "habitat_text": "",
+      "extinction_text": ""
+    },
+    "range_geojson": null,
+    "taxonomy": {
+      "family": "",
+      "genus": ""
+    }
   },
   {
     "id": "luscinia_komadori_subrufus",
@@ -4691,8 +8747,21 @@
       "lat": 26.28503,
       "lng": 127.70338
     },
-    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
-    "habitat": "Ryūkyū-Inseln"
+    "habitat": "Ryūkyū-Inseln",
+    "images": {
+      "tooltip": "",
+      "panel": ""
+    },
+    "panel": {
+      "description": "",
+      "habitat_text": "",
+      "extinction_text": ""
+    },
+    "range_geojson": null,
+    "taxonomy": {
+      "family": "",
+      "genus": ""
+    }
   },
   {
     "id": "loxops_wolstenholmei",
@@ -4706,8 +8775,21 @@
       "lat": 21.60317,
       "lng": -157.96391
     },
-    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
-    "habitat": "Oahu (Hawaii)"
+    "habitat": "Oahu (Hawaii)",
+    "images": {
+      "tooltip": "",
+      "panel": ""
+    },
+    "panel": {
+      "description": "",
+      "habitat_text": "",
+      "extinction_text": ""
+    },
+    "range_geojson": null,
+    "taxonomy": {
+      "family": "",
+      "genus": ""
+    }
   },
   {
     "id": "conuropsis_carolinensis_ludoviciana",
@@ -4721,8 +8803,21 @@
       "lat": 30.9843,
       "lng": -91.9623
     },
-    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
-    "habitat": "Nordamerika"
+    "habitat": "Nordamerika",
+    "images": {
+      "tooltip": "",
+      "panel": ""
+    },
+    "panel": {
+      "description": "",
+      "habitat_text": "",
+      "extinction_text": ""
+    },
+    "range_geojson": null,
+    "taxonomy": {
+      "family": "",
+      "genus": ""
+    }
   },
   {
     "id": "gallirallus_astolfoi",
@@ -4736,8 +8831,21 @@
       "lat": -27.60379,
       "lng": -144.31091
     },
-    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
-    "habitat": "Rapa Iti (Französisch-Polynesien)"
+    "habitat": "Rapa Iti (Französisch-Polynesien)",
+    "images": {
+      "tooltip": "",
+      "panel": ""
+    },
+    "panel": {
+      "description": "",
+      "habitat_text": "",
+      "extinction_text": ""
+    },
+    "range_geojson": null,
+    "taxonomy": {
+      "family": "",
+      "genus": ""
+    }
   },
   {
     "id": "otidiphaps_nobilis_insularis",
@@ -4751,8 +8859,21 @@
       "lat": -8.95453,
       "lng": 150.83804
     },
-    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
-    "habitat": "Fergusson-Insel"
+    "habitat": "Fergusson-Insel",
+    "images": {
+      "tooltip": "",
+      "panel": ""
+    },
+    "panel": {
+      "description": "",
+      "habitat_text": "",
+      "extinction_text": ""
+    },
+    "range_geojson": null,
+    "taxonomy": {
+      "family": "",
+      "genus": ""
+    }
   },
   {
     "id": "ammospiza_maritima_nigrescens",
@@ -4766,8 +8887,21 @@
       "lat": 27.84386,
       "lng": -81.7188
     },
-    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
-    "habitat": "Florida (USA)"
+    "habitat": "Florida (USA)",
+    "images": {
+      "tooltip": "",
+      "panel": ""
+    },
+    "panel": {
+      "description": "",
+      "habitat_text": "",
+      "extinction_text": ""
+    },
+    "range_geojson": null,
+    "taxonomy": {
+      "family": "",
+      "genus": ""
+    }
   },
   {
     "id": "coracina_striata_cebuensis",
@@ -4781,8 +8915,21 @@
       "lat": 10.25139,
       "lng": 123.87065
     },
-    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
-    "habitat": "Cebu (Philippinen)"
+    "habitat": "Cebu (Philippinen)",
+    "images": {
+      "tooltip": "",
+      "panel": ""
+    },
+    "panel": {
+      "description": "",
+      "habitat_text": "",
+      "extinction_text": ""
+    },
+    "range_geojson": null,
+    "taxonomy": {
+      "family": "",
+      "genus": ""
+    }
   },
   {
     "id": "dryolimnas_chekei",
@@ -4796,8 +8943,21 @@
       "lat": -19.6664,
       "lng": 57.33224
     },
-    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
-    "habitat": "Mauritius"
+    "habitat": "Mauritius",
+    "images": {
+      "tooltip": "",
+      "panel": ""
+    },
+    "panel": {
+      "description": "",
+      "habitat_text": "",
+      "extinction_text": ""
+    },
+    "range_geojson": null,
+    "taxonomy": {
+      "family": "",
+      "genus": ""
+    }
   },
   {
     "id": "rhipidura_rufifrons_uraniae",
@@ -4811,8 +8971,21 @@
       "lat": 13.4105,
       "lng": 144.83454
     },
-    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
-    "habitat": "Guam"
+    "habitat": "Guam",
+    "images": {
+      "tooltip": "",
+      "panel": ""
+    },
+    "panel": {
+      "description": "",
+      "habitat_text": "",
+      "extinction_text": ""
+    },
+    "range_geojson": null,
+    "taxonomy": {
+      "family": "",
+      "genus": ""
+    }
   },
   {
     "id": "turnagra_capensis_minor",
@@ -4826,8 +8999,21 @@
       "lat": -40.98736,
       "lng": 174.01155
     },
-    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
-    "habitat": "Neuseeland, Stephens Island"
+    "habitat": "Neuseeland, Stephens Island",
+    "images": {
+      "tooltip": "",
+      "panel": ""
+    },
+    "panel": {
+      "description": "",
+      "habitat_text": "",
+      "extinction_text": ""
+    },
+    "range_geojson": null,
+    "taxonomy": {
+      "family": "",
+      "genus": ""
+    }
   },
   {
     "id": "pachyornis_elephantopus",
@@ -4841,8 +9027,21 @@
       "lat": -40.9489,
       "lng": 173.99655
     },
-    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
-    "habitat": "Neuseeland (Südinsel)"
+    "habitat": "Neuseeland (Südinsel)",
+    "images": {
+      "tooltip": "",
+      "panel": ""
+    },
+    "panel": {
+      "description": "",
+      "habitat_text": "",
+      "extinction_text": ""
+    },
+    "range_geojson": null,
+    "taxonomy": {
+      "family": "",
+      "genus": ""
+    }
   },
   {
     "id": "euryapteryx_curtus",
@@ -4856,8 +9055,21 @@
       "lat": -40.95898,
       "lng": 173.99605
     },
-    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
-    "habitat": "Neuseeland"
+    "habitat": "Neuseeland",
+    "images": {
+      "tooltip": "",
+      "panel": ""
+    },
+    "panel": {
+      "description": "",
+      "habitat_text": "",
+      "extinction_text": ""
+    },
+    "range_geojson": null,
+    "taxonomy": {
+      "family": "",
+      "genus": ""
+    }
   },
   {
     "id": "numenius_tenuirostris",
@@ -4871,8 +9083,21 @@
       "lat": 59.95521,
       "lng": 79.9691
     },
-    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
-    "habitat": "Westsibirien, Mittelmeerraum"
+    "habitat": "Westsibirien, Mittelmeerraum",
+    "images": {
+      "tooltip": "",
+      "panel": ""
+    },
+    "panel": {
+      "description": "",
+      "habitat_text": "",
+      "extinction_text": ""
+    },
+    "range_geojson": null,
+    "taxonomy": {
+      "family": "",
+      "genus": ""
+    }
   },
   {
     "id": "cincloramphus_llaneae",
@@ -4886,8 +9111,21 @@
       "lat": -6.26535,
       "lng": 155.45254
     },
-    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
-    "habitat": "Bougainville (Papua-Neuguinea)"
+    "habitat": "Bougainville (Papua-Neuguinea)",
+    "images": {
+      "tooltip": "",
+      "panel": ""
+    },
+    "panel": {
+      "description": "",
+      "habitat_text": "",
+      "extinction_text": ""
+    },
+    "range_geojson": null,
+    "taxonomy": {
+      "family": "",
+      "genus": ""
+    }
   },
   {
     "id": "actenoides_bougainvillei_bougainvillei",
@@ -4901,8 +9139,21 @@
       "lat": -6.27641,
       "lng": 155.51551
     },
-    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
-    "habitat": "Bougainville (Papua-Neuguinea)"
+    "habitat": "Bougainville (Papua-Neuguinea)",
+    "images": {
+      "tooltip": "",
+      "panel": ""
+    },
+    "panel": {
+      "description": "",
+      "habitat_text": "",
+      "extinction_text": ""
+    },
+    "range_geojson": null,
+    "taxonomy": {
+      "family": "",
+      "genus": ""
+    }
   },
   {
     "id": "tadorna_rekohu",
@@ -4916,8 +9167,21 @@
       "lat": -43.91606,
       "lng": -176.51017
     },
-    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
-    "habitat": "Chathaminseln"
+    "habitat": "Chathaminseln",
+    "images": {
+      "tooltip": "",
+      "panel": ""
+    },
+    "panel": {
+      "description": "",
+      "habitat_text": "",
+      "extinction_text": ""
+    },
+    "range_geojson": null,
+    "taxonomy": {
+      "family": "",
+      "genus": ""
+    }
   },
   {
     "id": "cygnus_sumnerensis_chathamicus",
@@ -4931,8 +9195,21 @@
       "lat": -44.0027,
       "lng": -176.51456
     },
-    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
-    "habitat": "Chathaminseln"
+    "habitat": "Chathaminseln",
+    "images": {
+      "tooltip": "",
+      "panel": ""
+    },
+    "panel": {
+      "description": "",
+      "habitat_text": "",
+      "extinction_text": ""
+    },
+    "range_geojson": null,
+    "taxonomy": {
+      "family": "",
+      "genus": ""
+    }
   },
   {
     "id": "pachycephala_arctitorquis_tianduana",
@@ -4946,8 +9223,21 @@
       "lat": -4.64181,
       "lng": 119.81357
     },
-    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
-    "habitat": "Indonesien"
+    "habitat": "Indonesien",
+    "images": {
+      "tooltip": "",
+      "panel": ""
+    },
+    "panel": {
+      "description": "",
+      "habitat_text": "",
+      "extinction_text": ""
+    },
+    "range_geojson": null,
+    "taxonomy": {
+      "family": "",
+      "genus": ""
+    }
   },
   {
     "id": "chloris_trias",
@@ -4961,8 +9251,21 @@
       "lat": 28.13029,
       "lng": -16.44284
     },
-    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
-    "habitat": "La Palma (Kanaren)"
+    "habitat": "La Palma (Kanaren)",
+    "images": {
+      "tooltip": "",
+      "panel": ""
+    },
+    "panel": {
+      "description": "",
+      "habitat_text": "",
+      "extinction_text": ""
+    },
+    "range_geojson": null,
+    "taxonomy": {
+      "family": "",
+      "genus": ""
+    }
   },
   {
     "id": "coturnix_alabrevis",
@@ -4976,8 +9279,21 @@
       "lat": 33.1243,
       "lng": -16.26506
     },
-    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
-    "habitat": "Porto Santo Island (Madeira)"
+    "habitat": "Porto Santo Island (Madeira)",
+    "images": {
+      "tooltip": "",
+      "panel": ""
+    },
+    "panel": {
+      "description": "",
+      "habitat_text": "",
+      "extinction_text": ""
+    },
+    "range_geojson": null,
+    "taxonomy": {
+      "family": "",
+      "genus": ""
+    }
   },
   {
     "id": "coturnix_centensis",
@@ -4991,8 +9307,21 @@
       "lat": 16.79559,
       "lng": -24.96433
     },
-    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
-    "habitat": "São Vicente (Kap Verde)"
+    "habitat": "São Vicente (Kap Verde)",
+    "images": {
+      "tooltip": "",
+      "panel": ""
+    },
+    "panel": {
+      "description": "",
+      "habitat_text": "",
+      "extinction_text": ""
+    },
+    "range_geojson": null,
+    "taxonomy": {
+      "family": "",
+      "genus": ""
+    }
   },
   {
     "id": "coturnix_gomerae",
@@ -5006,8 +9335,21 @@
       "lat": 28.45299,
       "lng": -16.62322
     },
-    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
-    "habitat": "La Gomera (Kanaren)"
+    "habitat": "La Gomera (Kanaren)",
+    "images": {
+      "tooltip": "",
+      "panel": ""
+    },
+    "panel": {
+      "description": "",
+      "habitat_text": "",
+      "extinction_text": ""
+    },
+    "range_geojson": null,
+    "taxonomy": {
+      "family": "",
+      "genus": ""
+    }
   },
   {
     "id": "otus_mauli",
@@ -5021,8 +9363,21 @@
       "lat": 32.65573,
       "lng": -16.98741
     },
-    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
-    "habitat": "Madeira (Portugal)"
+    "habitat": "Madeira (Portugal)",
+    "images": {
+      "tooltip": "",
+      "panel": ""
+    },
+    "panel": {
+      "description": "",
+      "habitat_text": "",
+      "extinction_text": ""
+    },
+    "range_geojson": null,
+    "taxonomy": {
+      "family": "",
+      "genus": ""
+    }
   },
   {
     "id": "pterodroma_zinorum",
@@ -5036,8 +9391,21 @@
       "lat": 38.50747,
       "lng": -27.8666
     },
-    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
-    "habitat": "Azoren"
+    "habitat": "Azoren",
+    "images": {
+      "tooltip": "",
+      "panel": ""
+    },
+    "panel": {
+      "description": "",
+      "habitat_text": "",
+      "extinction_text": ""
+    },
+    "range_geojson": null,
+    "taxonomy": {
+      "family": "",
+      "genus": ""
+    }
   },
   {
     "id": "pyrrhula_crassa",
@@ -5051,8 +9419,21 @@
       "lat": 38.5658,
       "lng": -28.03549
     },
-    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
-    "habitat": "Azoren"
+    "habitat": "Azoren",
+    "images": {
+      "tooltip": "",
+      "panel": ""
+    },
+    "panel": {
+      "description": "",
+      "habitat_text": "",
+      "extinction_text": ""
+    },
+    "range_geojson": null,
+    "taxonomy": {
+      "family": "",
+      "genus": ""
+    }
   },
   {
     "id": "puffinus_olsoni",
@@ -5066,8 +9447,21 @@
       "lat": 28.49326,
       "lng": -16.69063
     },
-    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
-    "habitat": "Fuerteventura, Lanzarote (Kanaren)"
+    "habitat": "Fuerteventura, Lanzarote (Kanaren)",
+    "images": {
+      "tooltip": "",
+      "panel": ""
+    },
+    "panel": {
+      "description": "",
+      "habitat_text": "",
+      "extinction_text": ""
+    },
+    "range_geojson": null,
+    "taxonomy": {
+      "family": "",
+      "genus": ""
+    }
   },
   {
     "id": "rallus_adolfocaesaris",
@@ -5081,8 +9475,21 @@
       "lat": 33.07954,
       "lng": -16.24147
     },
-    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
-    "habitat": "Porto Santo Island (Madeira)"
+    "habitat": "Porto Santo Island (Madeira)",
+    "images": {
+      "tooltip": "",
+      "panel": ""
+    },
+    "panel": {
+      "description": "",
+      "habitat_text": "",
+      "extinction_text": ""
+    },
+    "range_geojson": null,
+    "taxonomy": {
+      "family": "",
+      "genus": ""
+    }
   },
   {
     "id": "rallus_carvaoensis",
@@ -5096,8 +9503,21 @@
       "lat": 38.59959,
       "lng": -27.78375
     },
-    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
-    "habitat": "São Miguel (Azoren)"
+    "habitat": "São Miguel (Azoren)",
+    "images": {
+      "tooltip": "",
+      "panel": ""
+    },
+    "panel": {
+      "description": "",
+      "habitat_text": "",
+      "extinction_text": ""
+    },
+    "range_geojson": null,
+    "taxonomy": {
+      "family": "",
+      "genus": ""
+    }
   },
   {
     "id": "rallus_lowei",
@@ -5111,8 +9531,21 @@
       "lat": 32.71951,
       "lng": -16.9968
     },
-    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
-    "habitat": "Madeira (Portugal)"
+    "habitat": "Madeira (Portugal)",
+    "images": {
+      "tooltip": "",
+      "panel": ""
+    },
+    "panel": {
+      "description": "",
+      "habitat_text": "",
+      "extinction_text": ""
+    },
+    "range_geojson": null,
+    "taxonomy": {
+      "family": "",
+      "genus": ""
+    }
   },
   {
     "id": "rallus_montivagorum",
@@ -5126,8 +9559,21 @@
       "lat": 38.18617,
       "lng": -28.0161
     },
-    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
-    "habitat": "Pico (Azoren)"
+    "habitat": "Pico (Azoren)",
+    "images": {
+      "tooltip": "",
+      "panel": ""
+    },
+    "panel": {
+      "description": "",
+      "habitat_text": "",
+      "extinction_text": ""
+    },
+    "range_geojson": null,
+    "taxonomy": {
+      "family": "",
+      "genus": ""
+    }
   },
   {
     "id": "rallus_nanus",
@@ -5141,8 +9587,21 @@
       "lat": 38.791,
       "lng": -28.14949
     },
-    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
-    "habitat": "São Jorge (Azoren)"
+    "habitat": "São Jorge (Azoren)",
+    "images": {
+      "tooltip": "",
+      "panel": ""
+    },
+    "panel": {
+      "description": "",
+      "habitat_text": "",
+      "extinction_text": ""
+    },
+    "range_geojson": null,
+    "taxonomy": {
+      "family": "",
+      "genus": ""
+    }
   },
   {
     "id": "rallus_sp",
@@ -5156,8 +9615,21 @@
       "lat": 37.9716,
       "lng": -27.90534
     },
-    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
-    "habitat": "Graciosa (Azoren)"
+    "habitat": "Graciosa (Azoren)",
+    "images": {
+      "tooltip": "",
+      "panel": ""
+    },
+    "panel": {
+      "description": "",
+      "habitat_text": "",
+      "extinction_text": ""
+    },
+    "range_geojson": null,
+    "taxonomy": {
+      "family": "",
+      "genus": ""
+    }
   },
   {
     "id": "rallus_sp",
@@ -5171,8 +9643,21 @@
       "lat": 37.73514,
       "lng": -27.67043
     },
-    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
-    "habitat": "Terceira (Azoren)"
+    "habitat": "Terceira (Azoren)",
+    "images": {
+      "tooltip": "",
+      "panel": ""
+    },
+    "panel": {
+      "description": "",
+      "habitat_text": "",
+      "extinction_text": ""
+    },
+    "range_geojson": null,
+    "taxonomy": {
+      "family": "",
+      "genus": ""
+    }
   },
   {
     "id": "rallus_sp",
@@ -5186,8 +9671,21 @@
       "lat": 38.55618,
       "lng": -28.23732
     },
-    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
-    "habitat": "Santa Maria (Azoren)"
+    "habitat": "Santa Maria (Azoren)",
+    "images": {
+      "tooltip": "",
+      "panel": ""
+    },
+    "panel": {
+      "description": "",
+      "habitat_text": "",
+      "extinction_text": ""
+    },
+    "range_geojson": null,
+    "taxonomy": {
+      "family": "",
+      "genus": ""
+    }
   },
   {
     "id": "cortunix_sp",
@@ -5201,8 +9699,21 @@
       "lat": 32.52015,
       "lng": -16.446
     },
-    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
-    "habitat": "Bugio (Madeira)"
+    "habitat": "Bugio (Madeira)",
+    "images": {
+      "tooltip": "",
+      "panel": ""
+    },
+    "panel": {
+      "description": "",
+      "habitat_text": "",
+      "extinction_text": ""
+    },
+    "range_geojson": null,
+    "taxonomy": {
+      "family": "",
+      "genus": ""
+    }
   },
   {
     "id": "cortunix_sp",
@@ -5216,8 +9727,21 @@
       "lat": 38.68155,
       "lng": -27.9018
     },
-    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
-    "habitat": "Santa Maria (Azoren)"
+    "habitat": "Santa Maria (Azoren)",
+    "images": {
+      "tooltip": "",
+      "panel": ""
+    },
+    "panel": {
+      "description": "",
+      "habitat_text": "",
+      "extinction_text": ""
+    },
+    "range_geojson": null,
+    "taxonomy": {
+      "family": "",
+      "genus": ""
+    }
   },
   {
     "id": "cortunix_sp",
@@ -5231,8 +9755,21 @@
       "lat": 38.4304,
       "lng": -27.57994
     },
-    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
-    "habitat": "Graciosa (Azoren)"
+    "habitat": "Graciosa (Azoren)",
+    "images": {
+      "tooltip": "",
+      "panel": ""
+    },
+    "panel": {
+      "description": "",
+      "habitat_text": "",
+      "extinction_text": ""
+    },
+    "range_geojson": null,
+    "taxonomy": {
+      "family": "",
+      "genus": ""
+    }
   },
   {
     "id": "otus_frutuosoi",
@@ -5246,8 +9783,21 @@
       "lat": 38.652,
       "lng": -28.48602
     },
-    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
-    "habitat": "São Miguel (Azoren)"
+    "habitat": "São Miguel (Azoren)",
+    "images": {
+      "tooltip": "",
+      "panel": ""
+    },
+    "panel": {
+      "description": "",
+      "habitat_text": "",
+      "extinction_text": ""
+    },
+    "range_geojson": null,
+    "taxonomy": {
+      "family": "",
+      "genus": ""
+    }
   },
   {
     "id": "emberiza_alcoveri",
@@ -5261,8 +9811,21 @@
       "lat": 28.42203,
       "lng": -16.94153
     },
-    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
-    "habitat": "Teneriffa (Kanaren)"
+    "habitat": "Teneriffa (Kanaren)",
+    "images": {
+      "tooltip": "",
+      "panel": ""
+    },
+    "panel": {
+      "description": "",
+      "habitat_text": "",
+      "extinction_text": ""
+    },
+    "range_geojson": null,
+    "taxonomy": {
+      "family": "",
+      "genus": ""
+    }
   },
   {
     "id": "chloris_aurelioi",
@@ -5276,8 +9839,21 @@
       "lat": 28.37244,
       "lng": -16.84384
     },
-    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
-    "habitat": "Teneriffa (Kanaren)"
+    "habitat": "Teneriffa (Kanaren)",
+    "images": {
+      "tooltip": "",
+      "panel": ""
+    },
+    "panel": {
+      "description": "",
+      "habitat_text": "",
+      "extinction_text": ""
+    },
+    "range_geojson": null,
+    "taxonomy": {
+      "family": "",
+      "genus": ""
+    }
   },
   {
     "id": "coturnix_lignorum",
@@ -5291,8 +9867,21 @@
       "lat": 32.77322,
       "lng": -16.92486
     },
-    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
-    "habitat": "Madeira (Portugal)"
+    "habitat": "Madeira (Portugal)",
+    "images": {
+      "tooltip": "",
+      "panel": ""
+    },
+    "panel": {
+      "description": "",
+      "habitat_text": "",
+      "extinction_text": ""
+    },
+    "range_geojson": null,
+    "taxonomy": {
+      "family": "",
+      "genus": ""
+    }
   },
   {
     "id": "ninox_novaeseelandiae_undulata",
@@ -5306,8 +9895,21 @@
       "lat": -29.06685,
       "lng": 167.92376
     },
-    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
-    "habitat": "Norfolkinsel"
+    "habitat": "Norfolkinsel",
+    "images": {
+      "tooltip": "",
+      "panel": ""
+    },
+    "panel": {
+      "description": "",
+      "habitat_text": "",
+      "extinction_text": ""
+    },
+    "range_geojson": null,
+    "taxonomy": {
+      "family": "",
+      "genus": ""
+    }
   },
   {
     "id": "janthothorax_bensbachi",
@@ -5321,8 +9923,21 @@
       "lat": -5.98676,
       "lng": 146.9862
     },
-    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
-    "habitat": "Neuguinea"
+    "habitat": "Neuguinea",
+    "images": {
+      "tooltip": "",
+      "panel": ""
+    },
+    "panel": {
+      "description": "",
+      "habitat_text": "",
+      "extinction_text": ""
+    },
+    "range_geojson": null,
+    "taxonomy": {
+      "family": "",
+      "genus": ""
+    }
   },
   {
     "id": "sitta_insularis",
@@ -5336,7 +9951,20 @@
       "lat": 23.87528,
       "lng": -75.58249
     },
-    "image": "https://collection.cloudinary.com/duhqcxr3q/3eed1f9a94d86c6780bb254d9b4e5524",
-    "habitat": "Bahamas"
+    "habitat": "Bahamas",
+    "images": {
+      "tooltip": "",
+      "panel": ""
+    },
+    "panel": {
+      "description": "",
+      "habitat_text": "",
+      "extinction_text": ""
+    },
+    "range_geojson": null,
+    "taxonomy": {
+      "family": "",
+      "genus": ""
+    }
   }
 ]
