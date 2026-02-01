@@ -713,13 +713,13 @@
     },
     "habitat": "Nordatlantik",
     "images": {
-      "tooltip": "",
-      "panel": ""
+      "tooltip": "https://cdn.prod.website-files.com/6950eb029163bef776e18cfd/697f4910e0f37325b5c5d6a7_pinguinus_impennis.jpg",
+      "panel": "https://cdn.prod.website-files.com/6950eb029163bef776e18cfd/697f48f38c22d1303f4e5878_pinguinus_impennis.jpg"
     },
     "panel": {
-      "description": "",
-      "habitat_text": "",
-      "extinction_text": ""
+      "description": "Riesenalk test",
+      "habitat_text": "Riesenalk test",
+      "extinction_text": "Riesenalk test"
     },
     "range_geojson": null,
     "taxonomy": {
