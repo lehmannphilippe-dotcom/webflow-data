@@ -7643,37 +7643,36 @@
       "genus": ""
     }
   },
-  {
-    "id": "drepanis_funerea",
-    "name": {
-      "de": "Schwarzer Mamo",
-      "lat": "Drepanis funerea",
-      "en": "Black Mamo"
-    },
-    "last_seen": "1907",
-    "location": {
-      "lat": 21.13,
-      "lng": -156.90
-    },
-    "habitat": "Molokai (Hawaii)",
-    "images": {
-      "tooltip": "",
-      "panel": "https://cdn.prod.website-files.com/6950eb029163bef776e18cfd/697f48f476e3dc90ba2bfbda_drepanis_funerea.jpg"
-    },
-      "panel": {
-      "description": "<p>Der Schwarze Mamo gehörte mit seinem langen, stark gekrümmten Schnabel und seiner röhrenförmigen Zunge zu den nektarfressenden Kleidervögeln (Drepanidini). Die Art hatte sich nur auf den Nektar einzelner endemische Lobelien spezialisiert was den Schwarzen Mamo von Natur aus selten und zugleich besonders anfällig für Umweltveränderungen machte.</p><p>Die Art galt als schlechter Flieger und bewegte sich überwiegend bodennah; Flüge erfolgten meist in geringer Höhe von selten mehr als drei Metern. Entsprechend baute der Schwarze Mamo seine Nester im dichten Unterholz, bevorzugt an Standorten mit weichem, feuchtem und teilweise morastigem Boden.</p>",
-      "habitat_text": "<p>Der Schwarze Mamo hatte nur ein kleines natürliches Verbreitungsgebiet auf der Insel Molokaʻi. Dort bewohnte die Art mehrheitlich östlich gelegene sumpfige Regenwälder in höheren Lagen ab 1.200 bis 1.525 m. Subfossile Funde belegen, dass der Schwarze Mamo ursprünglich auch auf der benachbarten Insel Maui vorkam. Dort ist die Art aber bereits vor der Ankunft der ersten Menschen ausgestorben.</p>",
-      "extinction_text": "<p>Eine zentrale Rolle beim Aussterben spielte die Zerstörung des Lebensraums durch eingeführte Hirsche, insbesondere den Axishirsch (Axis axis), der zur Förderung des Jagdtourismus ausgesetzt wurde. Die unkontrollierte Vermehrung von wilden Hirschpopulationen führte zu einer grossflächigen entwaldung und damit zum Verlust wichtiger Brut- und Nahrungsplätze.</p><p>Zusätzlich beschleunigten eingeschleppte Prädatoren wie Ratten und der Mungos das Aussterben, indem sie Nester plünderten und Eier sowie Jungvögel frassen. Besonders verheerend wirkte sich zudem das Auftreten durch Stechmücken übertragener Krankheiten aus, gegen die die endemischen Kleidervögel keine Immunität besassen. Nach der Einschleppung der invasiven Stechmücke Culex quinquefasciatus ab dem Jahr 1826 breitete sich die Vogelmalaria aus, was zu einem drastischen Rückgang aller Kleidervogelarten führte.</p><p>Im Jahr 1907 erlegte der Naturforscher William A. Bryan, nach einer siebenwöchigen Feldsuche die letzten drei bekannten lebenden Exemplare des Schwarzen Mamos. Seitdem existieren keine bestätigten Sichtungen mehr, und die Art galt nur wenige Jahre nach ihrer offiziellen Entdeckung als ausgestorben.</p><p>Heute existieren noch rund 10 präparierte Museumsexemplare. Diese befinden sich unter anderem in Bremen, London, Cambridge, Honolulu, Molokaʻi, Boston und New York City.</p>"
-  {
-  "...": "...",
+ {
+  "id": "drepanis_funerea",
+  "name": {
+    "de": "Schwarzer Mamo",
+    "lat": "Drepanis funerea",
+    "en": "Black Mamo"
+  },
+  "last_seen": "1907",
+  "location": {
+    "lat": 21.13,
+    "lng": -156.90
+  },
+  "habitat": "Molokai (Hawaii)",
+  "images": {
+    "tooltip": "",
+    "panel": "https://cdn.prod.website-files.com/6950eb029163bef776e18cfd/697f48f476e3dc90ba2bfbda_drepanis_funerea.jpg"
+  },
+  "panel": {
+    "description": "<p>Der Schwarze Mamo gehörte mit seinem langen, stark gekrümmten Schnabel und seiner röhrenförmigen Zunge zu den nektarfressenden Kleidervögeln (Drepanidini). Die Art hatte sich nur auf den Nektar einzelner endemische Lobelien spezialisiert was den Schwarzen Mamo von Natur aus selten und zugleich besonders anfällig für Umweltveränderungen machte.</p><p>Die Art galt als schlechter Flieger und bewegte sich überwiegend bodennah; Flüge erfolgten meist in geringer Höhe von selten mehr als drei Metern. Entsprechend baute der Schwarze Mamo seine Nester im dichten Unterholz, bevorzugt an Standorten mit weichem, feuchtem und teilweise morastigem Boden.</p>",
+    "habitat_text": "<p>Der Schwarze Mamo hatte nur ein kleines natürliches Verbreitungsgebiet auf der Insel Molokaʻi. Dort bewohnte die Art mehrheitlich östlich gelegene sumpfige Regenwälder in höheren Lagen ab 1.200 bis 1.525 m. Subfossile Funde belegen, dass der Schwarze Mamo ursprünglich auch auf der benachbarten Insel Maui vorkam. Dort ist die Art aber bereits vor der Ankunft der ersten Menschen ausgestorben.</p>",
+    "extinction_text": "<p>Eine zentrale Rolle beim Aussterben spielte die Zerstörung des Lebensraums durch eingeführte Hirsche, insbesondere den Axishirsch (Axis axis), der zur Förderung des Jagdtourismus ausgesetzt wurde. Die unkontrollierte Vermehrung von wilden Hirschpopulationen führte zu einer grossflächigen entwaldung und damit zum Verlust wichtiger Brut- und Nahrungsplätze.</p><p>Zusätzlich beschleunigten eingeschleppte Prädatoren wie Ratten und der Mungos das Aussterben, indem sie Nester plünderten und Eier sowie Jungvögel frassen. Besonders verheerend wirkte sich zudem das Auftreten durch Stechmücken übertragener Krankheiten aus, gegen die die endemischen Kleidervögel keine Immunität besassen. Nach der Einschleppung der invasiven Stechmücke Culex quinquefasciatus ab dem Jahr 1826 breitete sich die Vogelmalaria aus, was zu einem drastischen Rückgang aller Kleidervogelarten führte.</p><p>Im Jahr 1907 erlegte der Naturforscher William A. Bryan, nach einer siebenwöchigen Feldsuche die letzten drei bekannten lebenden Exemplare des Schwarzen Mamos. Seitdem existieren keine bestätigten Sichtungen mehr, und die Art galt nur wenige Jahre nach ihrer offiziellen Entdeckung als ausgestorben.</p><p>Heute existieren noch rund 10 präparierte Museumsexemplare. Diese befinden sich unter anderem in Bremen, London, Cambridge, Honolulu, Molokaʻi, Boston und New York City.</p>"
+  },
   "range": {
     "geojson_url": "https://raw.githubusercontent.com/lehmannphilippe-dotcom/webflow-data/main/ranges/black-mamo.geojson"
   },
-    "taxonomy": {
-      "family": "Kleidervögel (Drepanidini)",
-      "genus": "Mamos (Drepanis)"
-    }
-  },
+  "taxonomy": {
+    "family": "Kleidervögel (Drepanidini)",
+    "genus": "Mamos (Drepanis)"
+  }
+},
   {
     "id": "todiramphus_cinnamominus_miyakoensis",
     "name": {
