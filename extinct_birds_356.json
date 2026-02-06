@@ -723,7 +723,7 @@
     },
     "range_geojson": null,
     "taxonomy": {
-      "family": "Alkenvögel (Alcidae)",
+      "family": "Alkenvögel (Alcidae)",
       "genus": "Pinguinus"
     }
   },
@@ -7667,7 +7667,7 @@
   },
  "range": {
   "geojson_url": "https://raw.githubusercontent.com/lehmannphilippe-dotcom/webflow-data/refs/heads/main/ranges/black-mamo.json"
- }
+  
   },
   "taxonomy": {
     "family": "Kleidervögel (Drepanidini)",
