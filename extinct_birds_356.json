@@ -8073,7 +8073,7 @@
       "lat": "Chaetoptila angustipluma",
       "en": "Kioea"
     },
-    "last_seen": "1860er-Jahre",
+    "last_seen": "1860",
     "location": {
       "lat": 19.51914,
       "lng": -155.57679
@@ -8090,8 +8090,8 @@
   },
     "range_geojson": null,
     "taxonomy": {
-      "family": "",
-      "genus": ""
+      "family": "Mohoidae",
+      "genus": "Krausschwänze (Moho)"
     }
   },
   {
