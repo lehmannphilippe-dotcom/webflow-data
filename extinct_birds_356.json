@@ -1,5 +1,145 @@
 [
   {
+    "id": "chelychelynechen_quassus",
+    "name": {
+      "de": "Schildkrötenkiefer-Moa-Nalo",
+      "lat": "Chelychelynechen quassus",
+      "en": "Turtle-jawed moa-nalo"
+    },
+    "last_seen": "1200",
+    "location": {
+      "lat": 22.16694,
+      "lng": -159.38167
+    },
+    "habitat": "Hawaii",
+    "images": {
+      "tooltip": "",
+      "panel": ""
+    },
+    "panel": {
+      "description": "",
+      "habitat_text": "",
+      "extinction_text": ""
+    },
+    "range_geojson": null,
+    "taxonomy": {
+      "family": "",
+      "genus": ""
+    }
+  },
+{
+    "id": "thambetochen_chauliodous",
+    "name": {
+      "de": "Grossschnabel Mao-Nalo",
+      "lat": "Thambetochen chauliodous",
+      "en": "Large-billed mao-nalo"
+    },
+    "last_seen": "1200",
+    "location": {
+      "lat": 21.1770223,
+      "lng": -157.2186283
+    },
+    "habitat": "Hawaii",
+    "images": {
+      "tooltip": "",
+      "panel": ""
+    },
+    "panel": {
+      "description": "",
+      "habitat_text": "",
+      "extinction_text": ""
+    },
+    "range_geojson": null,
+    "taxonomy": {
+      "family": "",
+      "genus": ""
+    }
+  },
+{
+    "id": "thambetochen_xanion",
+    "name": {
+      "de": "O’ahu-Moa-Nola",
+      "lat": "Thambetochen xanion",
+      "en": "O’ahu-moa-nola"
+    },
+    "last_seen": "1200",
+    "location": {
+      "lat": 21.3867,
+      "lng": -158.0092
+    },
+    "habitat": "Hawaii",
+    "images": {
+      "tooltip": "",
+      "panel": ""
+    },
+    "panel": {
+      "description": "",
+      "habitat_text": "",
+      "extinction_text": ""
+    },
+    "range_geojson": null,
+    "taxonomy": {
+      "family": "",
+      "genus": ""
+    }
+  },
+{
+    "id": "ptaiochen_pau",
+    "name": {
+      "de": "Kleinschnabel Moa-Nalo",
+      "lat": "Ptaiochen pau",
+      "en": "Small-billed moa-nalo"
+    },
+    "last_seen": "1200",
+    "location": {
+      "lat": 21.3107392,
+      "lng": -157.8615353
+    },
+    "habitat": "Hawaii",
+    "images": {
+      "tooltip": "",
+      "panel": ""
+    },
+    "panel": {
+      "description": "",
+      "habitat_text": "",
+      "extinction_text": ""
+    },
+    "range_geojson": null,
+    "taxonomy": {
+      "family": "",
+      "genus": ""
+    }
+  },
+{
+    "id": "branta_rhuax",
+    "name": {
+      "de": "Hawaii Riesengans",
+      "lat": "Branta rhuax",
+      "en": "Giant Hawaiʻi goose"
+    },
+    "last_seen": "1200",
+    "location": {
+      "lat": 19.8532,
+      "lng": -155.1550
+    },
+    "habitat": "Hawaii",
+    "images": {
+      "tooltip": "",
+      "panel": ""
+    },
+    "panel": {
+      "description": "",
+      "habitat_text": "",
+      "extinction_text": ""
+    },
+    "range_geojson": null,
+    "taxonomy": {
+      "family": "",
+      "genus": ""
+    }
+  },
+  {
     "id": "prosobonia_cancellata",
     "name": {
       "de": "Kiritimati-Südseeläufer",
