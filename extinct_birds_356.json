@@ -1,5 +1,33 @@
 [
   {
+    "id": "branta_hylobadistes",
+    "name": {
+      "de": "Hawaii Waldgans",
+      "lat": "Branta hylobadistes",
+      "en": "Hawaii wood-walking goose"
+    },
+    "last_seen": "1300",
+    "location": {
+      "lat": 20.7416667,
+      "lng": -156.0416667
+    },
+    "habitat": "Hawaii",
+    "images": {
+      "tooltip": "",
+      "panel": ""
+    },
+    "panel": {
+      "description": "",
+      "habitat_text": "",
+      "extinction_text": ""
+    },
+    "range_geojson": null,
+    "taxonomy": {
+      "family": "",
+      "genus": ""
+    }
+  },
+  {
     "id": "chelychelynechen_quassus",
     "name": {
       "de": "Schildkrötenkiefer-Moa-Nalo",
