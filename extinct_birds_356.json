@@ -157,14 +157,14 @@
       "panel": "https://cdn.prod.website-files.com/6950eb029163bef776e18cfd/698f578c3704447cd781b0f4_%20Branta_rhuax.jpg"
     },
     "panel": {
-      "description": "",
-      "habitat_text": "",
-      "extinction_text": ""
+      "description": "<p>Über die Hawaii-Riesengans ist nur wenig bekannt, da ausschliesslich subfossile, stark fragmentierte Überreste erhalten sind. Die Art war offenbar sehr gross und daher vermutlich flugunfähig oder zumindest stark in ihrer Flugfähigkeit eingeschränkt. Ihr Körperbau deutet auf eine überwiegend bodenlebende Lebensweise hin, bei der sie sich wahrscheinlich von niedrig wachsender Vegetation ernährte.</p>",
+      "habitat_text": "<p>Die Art war wahrscheinlich endemisch auf der grössten Insel des Hawaii-Archipels verbreitet. Im Gegensatz zu den meisten anderen Arten der Gattung Branta war die Hawaii-Riesengans offenbar nicht eng an Gewässer gebunden, sondern lebte überwiegend terrestrisch und hielt sich vor allem auf den vulkanischen Hochplateaus des Mauna Kea auf.</p>",
+      "extinction_text": "<p>Die bislang gefundenen Knochenfragmente stammen aus einer Zeit, die mit der Ankunft der ersten polynesischen Siedler auf den Hawaii-Inseln zusammenfällt. Bis zu diesem Zeitpunkt hatte die Hawaii-Riesengans vermutlich keine natürlichen Feinde. Für den Menschen stellte sie daher wahrscheinlich eine leicht zu erbeutende Nahrungsquelle dar und wurde sowohl wegen ihres Fleisches als auch ihrer Eier gejagt. Wie bei vielen grossen, flugunfähigen Inselvögeln verlief ihr Aussterben offenbar rasch, sodass die Art innerhalb kurzer Zeit vollständig verschwand.</p>"
     },
     "range_geojson": null,
     "taxonomy": {
-      "family": "",
-      "genus": ""
+      "family": "Entenvögel",
+      "genus": "Branta"
     }
   },
   {
