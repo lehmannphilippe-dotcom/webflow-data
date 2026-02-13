@@ -3405,14 +3405,14 @@
       "panel": "https://cdn.prod.website-files.com/6950eb029163bef776e18cfd/698ec8d06679b0e2601ae9b0_Moho%20apicalis.jpg"
     },
     "panel": {
-      "description": "",
-      "habitat_text": "",
-      "extinction_text": ""
+      "description": "<p>Der Krauschwanzmoho war mit einer Gesamtlänge von bis zu 30 cm eine vergleichsweise grosse Art innerhalb der Gattung Moho. Sein Gefieder entsprach weitgehend dem Erscheinungsbild der übrigen Mohoarten. Charakteristisch waren jedoch die Schwanzfedern, die an ihren Enden deutlich ausgeprägte weisse Spitzen aufwiesen. Zudem ist überliefert, dass der Krauschwanzmoho seinen Schwanz häufig auffächerte, was vermutlich eine wichtige Rolle im Sozial- oder Balzverhalten spielte.</p><p>Da die Art nur selten lebend in freier Wildbahn beobachtet wurde, liegen kaum gesicherte Informationen zu seinem Verhalten und seiner Ernährungsweise vor. Aufgrund seiner systematischen Zugehörigkeit wird jedoch angenommen, dass sich die Art, wie andere Vertreter der Gattung Moho , überwiegend von Nektar sowie von Insekten ernährte.</p>",
+      "habitat_text": "<p>Sein Lebensraum waren die niederschlagsreichen tropischen Bergwälder der Insel Oʻahu. Wahrscheinlich verfügte die Art schon immer über ein sehr begrenztes Verbreitungsgebiet, was sie besonders anfällig für Umweltveränderungen und menschliche Eingriffe machte.</p>",
+      "extinction_text": "<p>Der Krausschwanzmoho wurde erstmals von Andrew Bloxam, einem englischen Geistlichen und Naturforscher, erwähnt. Dieser erwarb während seines Aufenthalts auf den Hawaii-Inseln im Jahr 1825, von Einheimischen lebende Exemplare der Art. Laut seinem Reisebuch war der Krausschwanzmoho bereits damals äusserst selten, was dazu führte das für ein lebendes Exemplar hohe Preise verlangt wurden.</p><p>Als der englische Ornithologe John Gould den Krausschwanzmoho im Jahr 1860 erstmals wissenschaftlich beschrieb, galt die Art bereits als verschollen. Die letzten drei gesicherten Exemplare wurden 1837 vom deutschen Naturforscher Ferdinand Deppe in den Hügeln hinter de Hauptstadt Honolulu erlegt. Dies stellt den letzten gesicherten Nachweis der Art dar. Nach mehreren gescheiterten Suchexpeditionen zwischen 1880 und 1890 wurde der Krausschwanzmoho offiziell für ausgestorben erklärt.</p><p>Als Ursachen für sein endgültiges Aussterben gelten, wie bei vielen hawaiischen Vogelarten, vermutlich Vogelkrankheiten durch eingeschleppte Mücken, die Zerstörung des Lebensraums infolge von Überweidung durch Nutztiere sowie die Abholzung der Wälder. Bis heute ist jedoch unklar, ob diese Faktoren allein ausschlaggebend waren oder ob der Krausschwanzmoho bereits zuvor durch menschlichen Einfluss der Ureinwohner oder durch natürliche Umweltveränderungen stark im Bestand geschwächt war.</p><p>Heute existieren noch sieben erhaltene Exemplare in Museumssammlungen in Berlin, London, New York, Cambridge und Massachusetts.</p>"
     },
     "range_geojson": null,
     "taxonomy": {
-      "family": "",
-      "genus": ""
+      "family": "Mohoidae",
+      "genus": "Krausschwänze (Moho)"
     }
   },
   {
