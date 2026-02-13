@@ -6638,7 +6638,7 @@
   {
     "id": "melamprosops_phaeosoma",
     "name": {
-      "de": "Weißwangen-Kleidervogel",
+      "de": "Weisswangen-Kleidervogel",
       "lat": "Melamprosops phaeosoma",
       "en": "Black-faced Honeycreeper"
     },
@@ -6650,7 +6650,7 @@
     "habitat": "Maui (Hawaii)",
     "images": {
       "tooltip": "",
-      "panel": ""
+      "panel": "https://cdn.prod.website-files.com/6950eb029163bef776e18cfd/698f70533d6c5e72997ee119_melamprosops_phaeosoma.jpg"
     },
     "panel": {
       "description": "",
