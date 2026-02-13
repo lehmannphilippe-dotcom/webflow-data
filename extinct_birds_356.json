@@ -6642,7 +6642,7 @@
       "lat": "Melamprosops phaeosoma",
       "en": "Black-faced Honeycreeper"
     },
-    "last_seen": "2004 ?",
+    "last_seen": "2004",
     "location": {
       "lat": 20.80469,
       "lng": -156.37786
@@ -6659,8 +6659,8 @@
     },
     "range_geojson": null,
     "taxonomy": {
-      "family": "",
-      "genus": ""
+      "family": "Kleidervögel (Drepanidini)",
+      "genus": "Melamprosops"
     }
   },
   {
