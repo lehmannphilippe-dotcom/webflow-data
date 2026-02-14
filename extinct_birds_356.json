@@ -2089,9 +2089,9 @@
       "panel": "https://cdn.prod.website-files.com/6950eb029163bef776e18cfd/6990c0d9749b44e6167c4432_hemignathus_sagittirostris.jpg"
     },
     "panel": {
-      "description": "",
-      "habitat_text": "",
-      "extinction_text": ""
+       "description": "<p>Der Einsiedler-Grünkleidervogel war ein mittelgrosser Kleidervogel von etwa 17 cm Länge. Über seine Lebensweise ist nur wenig bekannt. Er ernährte sich vorwiegend von Insekten und Spinnen, darunter Grashüpfer der Gattung Panatrigonidium, Käfer und Raupen. Seine Nahrung suchte er in Rindenspalten verschiedener endemischer Baumarten.</p>",
+      "habitat_text": "<p>Das Verbreitungsgebiet des Einsiedler-Grünkleidervogels war auf ein nur wenige Quadratkilometer grosses Gebiet am Wailuku-Fluss im Nordosten der Insel Hawaiʻi beschränkt. Er bewohnte feuchte Regenwälder in Höhenlagen zwischen 600 und 1’200 m.</p>",
+      "extinction_text": "<p>Da der Einsiedler-Grünkleidervogel bereits von Natur aus ein sehr kleines Verbreitungsgebiet hatte, war er selbst den Einheimischen lange nicht bekannt. Der Einsiedler-Grünkleidervogel wurde 1892 erstmals wissenschaftlich beschrieben und galt bereits wenige Jahre später als sehr selten. Um 1900 sammelte der Ornithologe Henry Wetherbee Henshaw nach langer Suche die letzten Exemplare, bevor die Art 1901 als ausgestorben erklärt wurde, da die Wälder in ihrem Verbreitungsgebiet grösstenteils durch die wachsende Zuckerrohrindustrie gerodet worden waren.</p>"
     },
     "range_geojson": null,
     "taxonomy": {
