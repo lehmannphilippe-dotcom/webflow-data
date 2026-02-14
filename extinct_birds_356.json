@@ -2086,7 +2086,7 @@
     "habitat": "Big Island (Hawaii)",
     "images": {
       "tooltip": "",
-      "panel": "https://cdn.prod.website-files.com/6950eb029163bef776e18cfd/6990c0d9749b44e6167c4432_hemignathus_sagittirostris.jpg"
+      "panel": "https://cdn.prod.website-files.com/6950eb029163bef776e18cfd/6990eb17cf2eb90ac8dca118_hemignathus_sagittirostris.jpg"
     },
     "panel": {
        "description": "<p>Der Einsiedler-Grünkleidervogel war ein mittelgrosser Kleidervogel von etwa 17 cm Länge. Über seine Lebensweise ist nur wenig bekannt. Er ernährte sich vorwiegend von Insekten und Spinnen, darunter Grashüpfer der Gattung Panatrigonidium, Käfer und Raupen. Seine Nahrung suchte er in Rindenspalten verschiedener endemischer Baumarten.</p>",
@@ -2095,8 +2095,8 @@
     },
     "range_geojson": null,
     "taxonomy": {
-      "family": "",
-      "genus": ""
+      "family": "Kleidervögel (Drepanidini)",
+      "genus": "Hemignathus"
     }
   },
   {
