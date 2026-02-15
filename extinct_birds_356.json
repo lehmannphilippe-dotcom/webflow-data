@@ -3584,10 +3584,10 @@
     }
   },
   {
-    "id": "hemignathus_ellisianus_lanaiensis",
+    "id": "hemignathus_lanaiensis",
     "name": {
       "de": "Lanai-Akialoa",
-      "lat": "Hemignathus ellisianus lanaiensis",
+      "lat": "Hemignathus lanaiensis",
       "en": "Lanai Akialoa"
     },
     "last_seen": "1892",
@@ -3598,7 +3598,7 @@
     "habitat": "Lanai (Hawaii)",
     "images": {
       "tooltip": "",
-      "panel": ""
+      "panel": "https://cdn.prod.website-files.com/6950eb029163bef776e18cfd/69921d948c56555d86e9c06f_hemignathus_lanaiensis.jpg"
     },
     "panel": {
       "description": "",
