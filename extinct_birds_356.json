@@ -2,7 +2,7 @@
   {
     "id": "hemignathus_vorpalis",
     "name": {
-      "de": "Riesen Nukuphu’u",
+      "de": "Riesennukuphu’u",
       "lat": "Hemignathus vorpalis",
       "en": "Giant Nukuphu’u"
     },
@@ -23,8 +23,8 @@
     },
     "range_geojson": null,
     "taxonomy": {
-      "family": "",
-      "genus": ""
+      "family": "Kleidervögel (Drepanidini)",
+      "genus": "Hemignathus"
     }
   },
   {
