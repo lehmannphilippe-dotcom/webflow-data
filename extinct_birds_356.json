@@ -1,5 +1,33 @@
 [ 
   {
+    "id": "circus_dossenus",
+    "name": {
+      "de": "Waldweihe",
+      "lat": "Circus dossenus",
+      "en": "Wood harrier"
+    },
+    "last_seen": "1300",
+    "location": {
+      "lat": 21.47837,
+      "lng": -158.11287
+    },
+    "habitat": "Oahu",
+    "images": {
+      "tooltip": "",
+      "panel": ""
+    },
+    "panel": {
+      "description": "",
+      "habitat_text": "",
+      "extinction_text": ""
+    },
+    "range_geojson": null,
+    "taxonomy": {
+      "family": "",
+      "genus": ""
+    }
+  },
+  {
     "id": "apteribis_brevis",
     "name": {
       "de": "Maui-Hochlandibis",
