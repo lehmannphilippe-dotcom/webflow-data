@@ -1,6 +1,34 @@
 [ 
   {
-    "id": "chloridops_regiskongi ",
+    "id": "chloridops_wahi",
+    "name": {
+      "de": "Wahi-Papageienschnäbler",
+      "lat": "Chloridops wahi",
+      "en": "wahi Grosbeak"
+    },
+    "last_seen": "1200",
+    "location": {
+      "lat": 21.50148,
+      "lng": -158.12714
+    },
+    "habitat": "Oahu",
+    "images": {
+      "tooltip": "",
+      "panel": ""
+    },
+    "panel": {
+      "description": "",
+      "habitat_text": "",
+      "extinction_text": ""
+    },
+    "range_geojson": null,
+    "taxonomy": {
+      "family": "",
+      "genus": ""
+    }
+  },
+  {
+    "id": "chloridops_regiskongi",
     "name": {
       "de": "Königs-Papageienschnäbler",
       "lat": "Chloridops regiskongi",
