@@ -1,5 +1,33 @@
 [ 
   {
+    "id": "apteribis_brevis",
+    "name": {
+      "de": "Maui-Hochlandibis",
+      "lat": "Apteribis brevis",
+      "en": "Maui highland ibis"
+    },
+    "last_seen": "1300",
+    "location": {
+      "lat": 20.6569,
+      "lng": -156.0733
+    },
+    "habitat": "Maui",
+    "images": {
+      "tooltip": "",
+      "panel": ""
+    },
+    "panel": {
+      "description": "",
+      "habitat_text": "",
+      "extinction_text": ""
+    },
+    "range_geojson": null,
+    "taxonomy": {
+      "family": "",
+      "genus": ""
+    }
+  },
+  {
     "id": "chloridops_wahi",
     "name": {
       "de": "Wahi-Papageienschnäbler",
