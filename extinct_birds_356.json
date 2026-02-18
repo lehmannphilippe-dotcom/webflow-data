@@ -1,5 +1,33 @@
 [ 
   {
+    "id": "myadestes_lanaiensis_rutha",
+    "name": {
+      "de": "Molokai-Drossel",
+      "lat": "Myadestes lanaiensis rutha",
+      "en": "Molokaʻi thrush"
+    },
+    "last_seen": "1980",
+    "location": {
+      "lat": 21.123282,
+      "lng": -157.121167
+    },
+    "habitat": "Molokai",
+    "images": {
+      "tooltip": "",
+      "panel": ""
+    },
+    "panel": {
+      "description": "",
+      "habitat_text": "",
+      "extinction_text": ""
+    },
+    "range_geojson": null,
+    "taxonomy": {
+      "family": "",
+      "genus": ""
+    }
+  },
+  {
     "id": "porzana_millsi",
     "name": {
       "de": "Dunkle Hawaii-Ralle",
@@ -3250,11 +3278,11 @@
   {
     "id": "myadestes_myadestinus",
     "name": {
-      "de": "Kauaiklarino",
+      "de": "Grosse Kauai-Drossel",
       "lat": "Myadestes myadestinus",
       "en": "Large Kauai Thrush"
     },
-    "last_seen": "1993 oder 1996",
+    "last_seen": "1993/1996",
     "location": {
       "lat": 22.08182,
       "lng": -159.52177
@@ -3668,18 +3696,18 @@
     }
   },
   {
-    "id": "myadestes_lanaiensis",
+    "id": "myadestes_lanaiensis_lanaiensis",
     "name": {
-      "de": "Lanaiklarino",
-      "lat": "Myadestes lanaiensis",
-      "en": "Olomao"
+      "de": "Lanai-Drossel",
+      "lat": "Myadestes lanaiensis lanaiensis",
+      "en": "Lānaʻi thrush"
     },
-    "last_seen": "1980er-Jahre ?",
+    "last_seen": "1933",
     "location": {
-      "lat": 19.57834,
-      "lng": -155.49608
+      "lat": 20.798875,
+      "lng": -156.881090
     },
-    "habitat": "Hawaii",
+    "habitat": "Lanai",
     "images": {
       "tooltip": "",
       "panel": ""
@@ -5462,11 +5490,11 @@
   {
     "id": "myadestes_woahensis",
     "name": {
-      "de": "Oahuklarino",
+      "de": "Oahu-Drossel",
       "lat": "Myadestes woahensis",
       "en": "Oahu Thrush"
     },
-    "last_seen": "1850er-Jahre",
+    "last_seen": "1850",
     "location": {
       "lat": 21.45101,
       "lng": -157.98851
