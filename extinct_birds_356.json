@@ -1,5 +1,33 @@
 [ 
   {
+    "id": "chloridops_regiskongi ",
+    "name": {
+      "de": "Königs-Papageienschnäbler",
+      "lat": "Chloridops regiskongi",
+      "en": "King Kong Grosbeak"
+    },
+    "last_seen": "1200",
+    "location": {
+      "lat": 21.3277778,
+      "lng": -158.1194444
+    },
+    "habitat": "Oahu",
+    "images": {
+      "tooltip": "",
+      "panel": "https://cdn.prod.website-files.com/6950eb029163bef776e18cfd/697f48f4cb548a5e907fbc2e_chloridops_regiskongi.jpg"
+    },
+    "panel": {
+      "description": "",
+      "habitat_text": "",
+      "extinction_text": ""
+    },
+    "range_geojson": null,
+    "taxonomy": {
+      "family": "",
+      "genus": ""
+    }
+  },
+  {
     "id": "myadestes_lanaiensis_rutha",
     "name": {
       "de": "Molokai-Drossel",
