@@ -1,5 +1,60 @@
 [ 
   {
+    "id": "rhodacanthis_litotes",
+    "name": {
+      "de": "Oahu Koa-Fink",
+      "lat": "Rhodacanthis litotes",
+      "en": "Oahu koa finch"
+    },
+    "last_seen": "1300",
+    "location": {
+      "lat": 21.625085,
+      "lng": -157.982567
+    },
+    "habitat": "Oahu",
+    "images": {
+      "tooltip": "",
+      "panel": "https://cdn.prod.website-files.com/6950eb029163bef776e18cfd/69985948a3f3e29190cbd967_rhodacanthis_litotes.jpg"
+    },
+    "panel": {
+      "description": "",
+      "habitat_text": "",
+      "extinction_text": ""
+    },
+    "range_geojson": null,
+    "taxonomy": {
+      "family": "",
+      "genus": ""
+    }
+    {
+    "id": "rhodacanthis_forfex",
+    "name": {
+      "de": "Kauai Koa-Fink",
+      "lat": "Rhodacanthis forfex",
+      "en": "Kauai koa finch"
+    },
+    "last_seen": "1300",
+    "location": {
+      "lat": 22.14853,
+      "lng": -159.65164
+    },
+    "habitat": "Kauai",
+    "images": {
+      "tooltip": "",
+      "panel": "https://cdn.prod.website-files.com/6950eb029163bef776e18cfd/6998594ba304fb5aef15a9c5_rhodacanthis_forfex.jpg"
+    },
+    "panel": {
+      "description": "",
+      "habitat_text": "",
+      "extinction_text": ""
+    },
+    "range_geojson": null,
+    "taxonomy": {
+      "family": "",
+      "genus": ""
+    }
+  },
+  {
     "id": "circus_dossenus",
     "name": {
       "de": "Waldweihe",
