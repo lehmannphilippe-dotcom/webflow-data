@@ -3530,7 +3530,7 @@
   {
     "id": "chloridops_kona",
     "name": {
-      "de": "Kona-Papageischnäbler",
+      "de": "Konakleidervogel",
       "lat": "Chloridops kona",
       "en": "Kona Grosbeak"
     },
@@ -3545,14 +3545,14 @@
       "panel": "https://cdn.prod.website-files.com/6950eb029163bef776e18cfd/6998a6bdc29e453439b4c932_chloridops_kona.jpg"
     },
     "panel": {
-      "description": "",
-      "habitat_text": "",
-      "extinction_text": ""
+      "description": "<p>Der Konakleidervogel war die letzte Art der Gattung Chlorids, die bis in die Neuzeit überlebte. Mit einer Gesamtlänge von etwa 15 cm zählte er zu den mittelgrossen, gedrungen gebauten Vogelarten Hawaiis. Sein kräftiger, kompakter Schnabel war hoch spezialisiert und eignete sich besonders zum Aufbrechen harter Nano-Früchte sowie der Samen verschiedener endemischer Sandelholzgewächse.</p><p>Die Art lebte überwiegend einzelgängerisch und zeigte ein zurückhaltendes, wenig auffälliges Verhalten. Die Zunge war dick und fleischig, ähnlich jener von Papageien. Ein Sexualdimorphismus hinsichtlich Körpergrösse oder Gefiederfärbung war nicht erkennbar.</p>",
+      "habitat_text": "<p>Sein Verbreitungsgebiet beschränkte sich auf Höhenlagen zwischen 1400 und 1500 Metern in der Nähe des Kona-Distrikts auf der Insel Hawaii. Dort bewegte er sich überwiegend bodennah auf dem rauen Lavagestein und suchte zwischen spärlicher Vegetation sowie in den Bäumen der nahegelegenen Sandelholzwälder mit hohem Bestand an Nano-Pflanzen nach Nahrung.</p>",
+      "extinction_text": "<p>Der Ornithologe Scott Barchard Wilson (1865–1923) gehörte zu den wenigen Forschern, die den Konakleidervogel noch in freier Wildbahn beobachten konnten. Bereits im Jahr 1894, nur sechs Jahre nach seiner Entdeckung, konnte die Art letztmals nachgewiesen werden.</p><p>Schon zum Zeitpunkt der Erstbeschreibung war der Konakleidervogel extrem selten und kam nur noch in einem Gebiet von rund 10 Quadratmetern vor. Über die genauen Umstände seines Aussterbens ist nur wenig bekannt. Als Hauptursachen gelten der Verlust des Lebensraums sowie die Einführung invasiver Tierarten, an die sich die Art nicht schnell genug anpassen konnte.</p><p>Vermutlich war die Art bereits durch den Einfluss der polynesischen Ureinwohner stark geschwächt, konnte sich jedoch in einem kleinen Refugium oberhalb des Kona-Distrikts noch in geringer Zahl halten. Mit der zunehmenden menschlichen Besiedlung und dem Ausbau landwirtschaftlicher Nutzflächen gegen Ende des 19. Jahrhunderts kam die Population jedoch rasch zum Erliegen.</p><p>Heute existieren noch 56 Präparierte Exemplare in Mueseumssammlungen in den USA und Europa.</p>"
     },
     "range_geojson": null,
     "taxonomy": {
-      "family": "",
-      "genus": ""
+      "family": "Kleidervögel (Drepanidini)",
+      "genus": "Chloridops"
     }
   },
   {
