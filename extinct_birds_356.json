@@ -2466,7 +2466,7 @@
   {
     "id": "rhodacanthis_flaviceps",
     "name": {
-      "de": "Gelbkopf-Papageischnäbler",
+      "de": "Kleiner Koa-Fink",
       "lat": "Rhodacanthis flaviceps",
       "en": "Lesser Koa Finch"
     },
@@ -2481,9 +2481,9 @@
       "panel": "https://cdn.prod.website-files.com/6950eb029163bef776e18cfd/6995ae5b2393808b8c1bd70f_rhodacanthis_flaviceps.jpg"
     },
     "panel": {
-      "description": "",
-      "habitat_text": "",
-      "extinction_text": ""
+      "description": "<p>Der Kleine Koa-Fink, auch Gelbkopf-Papageischnäbler genannt, war mit einer Gesamtlänge von rund 19 cm die kleinste bekannte Art der Koa-Finken. Er bewegte sich meist in kleinen Familiengruppen und lebte häufig gemeinsam mit dem Grossen Koa-Fink in grösseren Verbänden.</p><p>Ob es sich beim Kleinen Koa-Fink tatsächlich um eine eigenständige Art handelte, ist bis heute umstritten. Einige Forschende gehen davon aus, dass es sich bei den beschriebenen Individuen um jugendliche Exemplare des Grossen Koa-Finken gehandelt haben könnte.</p><p>Der Schnabel war – wie bei allen Koa-Finken – stark spezialisiert und eignete sich zum Aufbrechen der Schoten sowie zum Zerkleinern der Samen und Früchte der Koa-Akazie, von denen sich die Art offenbar ausschliesslich ernährte.</p><p>Die Männchen besassen einen auffällig goldgelb gefärbten Kopf- und Brustbereich, dessen Farbintensität variieren konnte. Die Weibchen waren deutlich unauffälliger gefärbt und zeigten überwiegend bräunlich-olivfarbene Töne. Abgesehen von der geringeren Körpergrösse unterschieden sie sich kaum von den Weibchen des Grossen Koa-Finken.</p>",
+      "habitat_text": "<p>Der Kleine Koa-Fink war auf die feuchten Koa-Wälder der Hauptinsel Hawai‘i beschränkt. Bereits kurz nach dem Eintreffen der ersten Europäer um 1778 wurde sein Lebensraum im Tiefland durch die fortschreitende Abholzung der Akazienwälder zunehmend zerstört. In der Folge wurden die letzten Koa-Finken aus ihren angestammten Tieflandhabitaten in höher gelegene, abgelegenere Rückzugsgebiete verdrängt.</p>",
+      "extinction_text": "<p>Die einzigen wissenschaftlich dokumentierten Beobachtungen des kleinen Koa-Finken in freier Wildbahn stammen von den Naturforschern und Vogelsammlern Henry Charles Palmer (1866–1920) und George Campbell Munro (1866–1963) aus dem Jahr 1891. Im Auftrag von Walter Rothschild (1868–1937), einem wohlhabenden britischen Zoologen, Grosssammler und Gründer eines der bedeutendsten naturhistorischen Privatmuseen seiner Zeit, sammelten sie exotische Vogelarten auf Hawaii für seine Museumssammlung.</p><p>Die wenigen Individuen, die Palmer und Munro während ihrer Expedition im Jahr 1891 erlegten, stellen bis heute den einzigen gesicherten Nachweis dieser Art dar. Nach diesen Beobachtungen wurde der Koa-Fink nie wieder gesichtet und galt bereits wenige Monate nach seiner wissenschaftlichen Entdeckung als ausgestorben.</p><p>Der Kleine und der Grosse Koa-Fink waren die letzten Arten der Gattung Rhodacanthis, die bis in die Neuzeit überlebten. Die beiden restlichen Arten dieser Gattung, die auf Oahu lebten, wurden bereits kurz nach der Ankunft der ersten polynesischen Siedler ausgerottet. Es ist daher anzunehmen, dass auch der Kleine Koa-Fink durch die frühe menschliche Besiedlung stark dezimiert wurde, sich jedoch in abgelegenen Regionen noch über mehrere Jahrhunderte halten konnte.</p><p>Das endgültige Aussterben erfolgte vermutlich erst im späten 19. Jahrhundert und stand in direktem Zusammenhang mit der grossflächigen Abholzung der letzten Waldrefugien in den Hochlandebenen Hawaiis. Mit dem Verlust dieser spezialisierten Lebensräume verschwand auch die letzte Population dieser Vogelgattung.</p>"
     },
     "range_geojson": null,
     "taxonomy": {
