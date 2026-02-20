@@ -45,14 +45,14 @@
       "panel": "https://cdn.prod.website-files.com/6950eb029163bef776e18cfd/6998594ba304fb5aef15a9c5_rhodacanthis_forfex.jpg"
     },
     "panel": {
-      "description": "",
-      "habitat_text": "",
-      "extinction_text": ""
+      "description": "<p>Der Kauai-Koa-Fink war ein grosser, kräftig gebauter Koa-Fink. Die Art ist ausschliesslich von subfossilen Überresten des Schädels und der Kiefer bekannt. Sie verfügte über eine bedeutend kräftigere Beissmuskulatur als alle anderen Koa-Finken, was darauf hindeutet, dass der Kauai-Koa-Fink die am stärksten spezialisierte Art der Gattung darstellte, mit einer Schnabel- und Schädelarchitektur, die auf besonders hohe mechanische Belastungen beim Nahrungserwerb ausgelegt war.</p><p>Über das äussere Erscheinungsbild, die Färbung sowie das Verhalten des Kauai-Koa-Finken ist nichts bekannt, da keinerlei zeitgenössische Beschreibungen oder Beobachtungen aus der Zeit seines Bestehens überliefert sind. Obwohl die Art vermutlich noch mehrere Jahrhunderte nach dem ersten Eintreffen des Menschen auf Hawaii existierte, wurde sie offenbar nie bewusst wahrgenommen.</p>",
+  "habitat_text": "<p>Der Kauai-Koa-Fink war auf den Inseln Kauai und Maui verbreitet und war womöglich bis gegen Ende des Pleistozäns, mit Ausnahme der Hauptinsel Hawaii, auch auf weiteren Inseln des hawaiischen Archipels vertreten.</p>",
+  "extinction_text": "<p>Durch die hohe Spezialisierung des Kauai-Koa-Finken war die Art besonders anfällig gegenüber raschen Umweltveränderungen sowie gegenüber der Rodung wichtiger Nahrungs- und Nistressourcen.</p><p>Wie lange die Art in entlegenen Refugien tatsächlich überlebte, kann heute nicht mehr rekonstruiert werden. Je nach Interpretation starb die Art bereits vor dem Eintreffen der ersten Europäer in den 1780er-Jahren aus, oder sie konnte sich in kleinen, isolierten Gruppen bis gegen die Mitte oder das Ende des 19. Jahrhunderts halten.</p><p>Das endgültige Aussterben erfolgte wahrscheinlich durch eine Kombination aus eingeschleppten Ratten, verwilderten Haustieren und einem kontinuierlichen Verlust des Lebensraums.</p>"
     },
     "range_geojson": null,
     "taxonomy": {
-      "family": "",
-      "genus": ""
+      "family": "Fringillidae",
+      "genus": "Rhodacanthis"
     }
   },
   {
