@@ -6,7 +6,7 @@
       "lat": "Rhodacanthis litotes",
       "en": "Oahu koa finch"
     },
-    "last_seen": "1300",
+    "last_seen": "1850",
     "location": {
       "lat": 21.625085,
       "lng": -157.982567
@@ -17,14 +17,14 @@
       "panel": "https://cdn.prod.website-files.com/6950eb029163bef776e18cfd/69987b250ffd5291cb195b45_rhodacanthis_litotes.jpg"
     },
     "panel": {
-      "description": "",
-      "habitat_text": "",
-      "extinction_text": ""
+       "description": "<p>Der Oahu-Koa-Fink war eine kleine bis mittelgrosse Art innerhalb der Koa-Finken. Die Art ist ausschliesslich von subfossilen Überresten des Schädels und der Kiefer bekannt, die jedoch eine klare Abgrenzung zu anderen Arten der Gattung Rhodacanthis erlauben.</p><p>Über das äussere Erscheinungsbild, die Färbung sowie das Verhalten des Oahu-Koa-Finken ist nichts bekannt, da keinerlei zeitgenössische Beschreibungen oder Beobachtungen aus der Zeit seines Bestehens überliefert sind. Obwohl die Art vermutlich noch mehrere Jahrhunderte nach dem ersten Eintreffen des Menschen auf Hawaii existierte, wurde sie offenbar nie bewusst wahrgenommen.</p>",
+      "habitat_text": "<p>Der Oahu Koa-Fink war auf den Inseln Oahu und Maui verbreitet und war früher bis gegen Ende des XXXX mit Ausnahme der Hauptinsel Hawaii auch auf weiteren Inseln des hawaiischen Archipels vertreten.</p><p>Wie alle Arten der Koa-Finken war auch der Ohau Koa-Finkt eng an Waldökosysteme mit hohem Bestand an Koa-Akazien gebunden. Diese Wälder bildeten sowohl den Lebensraum als auch die wichtigste Nahrungsgrundlage der Art.</p>",
+      "extinction_text": "<p>Der Oahu-Koa-Fink wurde vermutlich bereits durch die polynesischen Ureinwohner indirekt beeinträchtigt, insbesondere durch die Rodung und Umgestaltung grosser Waldgebiete.</p><p>Nach dem Eintreffen der ersten Europäer in den 1780er-Jahren verstärkten sich dieser Prozess. Die fortschreitende Zerstörung der Tieflandwälder zwang die Art vermutlich dazu, sich in höher gelegene, zunehmend isolierte Waldgebiete zurückzuziehen. Es ist möglich, dass der Oahu-Koa-Fink dort noch bis gegen Mitte oder Ende des 19. Jahrhunderts unentdeckt überlebte.</p><p>Das endgültige Aussterben erfolgte wahrscheinlich durch eine Kombination aus eingeschleppten Ratten, verwilderten Haustieren wie Katzen und Schweinen sowie weiterem Lebensraumverlust.</p>"
     },
     "range_geojson": null,
     "taxonomy": {
-      "family": "",
-      "genus": ""
+      "family": "Fringillidae",
+      "genus": "Rhodacanthis"
     }
   },
   {
@@ -34,7 +34,7 @@
       "lat": "Rhodacanthis forfex",
       "en": "Kauai koa finch"
     },
-    "last_seen": "1300",
+    "last_seen": "1850",
     "location": {
       "lat": 22.14853,
       "lng": -159.65164
