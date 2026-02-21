@@ -1277,14 +1277,14 @@
       "panel": "https://cdn.prod.website-files.com/6950eb029163bef776e18cfd/6994bc19e1c91493693c3f6f_ciridops_anna.jpg"
     },
     "panel": {
-      "description": "",
-      "habitat_text": "",
-      "extinction_text": ""
+      "description": "<p>Der Annakleidervogel erreichte eine durchschnittliche Gesamtlänge von etwa 11–12 cm und zählte damit zu den kleinen Honigfressern Hawaiʻis. Die Art ernährte sich vorwiegend von den unreifen Früchten der Fächerpalmen der Gattung Pritchardia. Der Ornithologe Robert Cyril Layton Perkins (1866–1955) beschrieb den Vogel als flink und sehr scheu.</p><p>Er wurde erstmals 1859 wissenschaftlich beschrieben und 1879 vom Juristen und späteren hawaiischen Gouverneur Sanford Dole (1844–1926) nach dessen Ehefrau Anna Cate Dole (1841–1918) benannt. Die hawaiischen Ureinwohner nannten die Art ʻUla-ʻAi-Hawane, was sinngemäss „der rote Vogel, der sich von der Hawane-Beere ernährt“ bedeutet.</p>",
+      "habitat_text": "<p>Der Annakleidervogel kam in den Distrikten Kona und Hilo sowie im Gebiet von Kohala auf der Hauptinsel Hawaiʻi vor. Er bewohnte die Plamenwälder des Hügel- und Berglands.</p>",
+      "extinction_text": "<p>Über die genauen Ursachen des Aussterbens dieser Art ist nur wenig bekannt. Bereits zum Zeitpunkt ihrer ersten wissenschaftlichen Beschreibung galt der Annakleidervogel als äusserst selten. Vermutlich spielte die Verknappung des Nahrungsangebots eine entscheidende Rolle, da viele Arten der Pflanzengattung Pritchardia bereits ausgestorben waren oder durch die Ausweitung von Nutzflächen stark zurückgingen.</p><p>Das letzte bekannte Exemplar wurde am 20. Februar 1892 am Awini River im Gebiet von Kohala erlegt. Danach wurde die Art nie wieder beobachtet und gilt seither als ausgestorben.</p><p>Heute existieren nur noch fünf Museumspräparate, die in den Museen von Harvard, Honolulu, New York und London aufbewahrt werden.</p>"
     },
     "range_geojson": null,
     "taxonomy": {
-      "family": "",
-      "genus": ""
+      "family": "Kleidervögel (Drepanidini)",
+      "genus": "Ciridops"
     }
   },
   {
