@@ -17,14 +17,14 @@
       "panel": "https://cdn.prod.website-files.com/6950eb029163bef776e18cfd/69998848006fb560ddadd5b5_ciridops_tenax.jpg"
     },
     "panel": {
-       "description": "",
-      "habitat_text": "",
-      "extinction_text": ""
+        "description": "<p>Der Dickbeinkleidervogel ist ausschliesslich durch subfossile Überreste bekannt. Über sein tatsächliches Aussehen sowie sein Verhalten liegen keine direkten Beobachtungen vor. Aufgrund seiner engen Verwandtschaft mit dem Annakleidervogel von der Hauptinsel Hawaiʻi gehen Fachleute jedoch davon aus, dass beide Arten ein ähnliches äusseres Erscheinungsbild besassen.</p><p>Vermutlich nutzte der Dickbeinkleidervogel seine kräftig ausgebildeten Hinterbeine, um im dichten Laubwerk an der Basis der Blätter endemischer Palmen der Gattung Pritchardia nach Nahrung zu suchen. Dabei dürfte er Ablagerungen aufgewühlt haben, um kleine Wirbellose freizulegen, sowie harte Früchte aufzubrechen, von denen er sich ernährte.</p>",
+        "habitat_text": "<p>Der Hawaii-Dickbeinfink war endemisch auf der Insel Kauaʻi im Hawaii-Archipel. Sein Lebensraum bestand aus palmenreichen Wäldern, die von Arten der Gattung Pritchardia dominiert wurden. Mit diesen Palmen war die Art vermutlich eng ökologisch verbunden.</p>",
+        "extinction_text": "<p>Das Aussterben des Dickbeinkleidervogels steht höchstwahrscheinlich im Zusammenhang mit der Ankunft der ersten polynesischen Siedler im Hawaii-Archipel. Der Verlust geeigneter Lebensräume sowie die Einschleppung fremder Tierarten, insbesondere Ratten und andere zuvor unbekannte Prädatoren, dürften entscheidend zum Rückgang der Population beigetragen haben.</p><p>Möglicherweise setzte der Niedergang der Art jedoch bereits früher ein, ausgelöst durch Klimaveränderungen während des Übergangs vom Pleistozän zum Holozän. Beide Faktoren führten zum Verschwinden zahlreicher Drepanidinenarten auf den hawaiischen Inseln.</p>"
     },
     "range_geojson": null,
     "taxonomy": {
-      "family": "",
-      "genus": ""
+      "family": "Kleidervögel (Drepanidini)",
+      "genus": "Ciridops"
     }
   },
   {
