@@ -1,5 +1,33 @@
 [ 
   {
+    "id": "ciridops_tenax",
+    "name": {
+      "de": "Oahu Koa-Fink",
+      "lat": "Dickbeinkleidervogel",
+      "en": "Stout-legged finch"
+    },
+    "last_seen": "1200",
+    "location": {
+      "lat": 21.998349,
+      "lng": -159.615332
+    },
+    "habitat": "Kauai",
+    "images": {
+      "tooltip": "",
+      "panel": "https://cdn.prod.website-files.com/6950eb029163bef776e18cfd/69998848006fb560ddadd5b5_ciridops_tenax.jpg"
+    },
+    "panel": {
+       "description": "",
+      "habitat_text": "",
+      "extinction_text": ""
+    },
+    "range_geojson": null,
+    "taxonomy": {
+      "family": "",
+      "genus": ""
+    }
+  },
+  {
     "id": "rhodacanthis_litotes",
     "name": {
       "de": "Oahu Koa-Fink",
