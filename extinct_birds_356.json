@@ -3601,14 +3601,14 @@
       "panel": "https://cdn.prod.website-files.com/6950eb029163bef776e18cfd/697f48f3dad2f94fefc13d75_drepanis_pacifica.jpg"
     },
     "panel": {
-      "description": "",
-      "habitat_text": "",
-      "extinction_text": ""
+      "description": "<p>Der Königskleidervogel, auch Hawaii-Mamo genannt, erreichte eine Körperlänge von bis zu 23 cm, wovon etwa 7 cm auf den langen, gebogenen Schnabel entfielen.</p><p>Die Art ernährte sich überwiegend von Nektar. Der Schnabel wurde tief in die Blütenkrone eingeführt, wo der Vogel mithilfe seiner langen, borstigen Zunge den Nektar aufnahm. Diese hoch spezialisierte Schnabelform war besonders gut an die Blütenkronen vieler endemischer Lobelien angepasst.</p><p>Neben Nektar ergänzte der Königskleidervogel seine Nahrung vermutlich gelegentlich mit kleinen Insekten. Ein ausgeprägter Sexualdimorphismus in Bezug auf Körpergrösse oder Gefiederfärbung war bei dieser Art nicht erkennbar.</p>",
+      "habitat_text": "<p>Die Art war endemisch auf der Hauptinsel Hawaiʻi. Dort bewohnte sie das Kronendach endemischer Lobelienwälder in mittleren Höhenlagen.</p>",
+      "extinction_text": "<p>In der hawaiianischen Kultur nahm der Königskleidervogel eine besondere Stellung ein und genoss insbesondere bei der herrschenden Elite sowie bei den Königen hohes Ansehen. Seine leuchtend gelben Federn wurden zur Herstellung von Federumhängen und Federhelmen verwendet, die in der streng hierarchisch organisierten Gesellschaft ausschliesslich dem Adel vorbehalten waren.</p><p>Zum Fang dieser Vögel bestrichen die Einheimischen Zweige in der Nähe von Lobelienblüten mit Sandelholz- oder Brotfruchtsaft. Die Vögel verfingen sich beim Nektarfressen in dem klebrigen Saft und konnten so eingefangen werden. Obwohl angenommen wird, dass das Ausrupfen der Federn für die Tiere meist nicht unmittelbar tödlich war, bleibt unklar, ob sie anschliessend verendeten, verzehrt oder wieder freigelassen wurden und sich regenerieren konnten.</p><p>Es wird davon ausgegangen, dass für die Anfertigung des berühmten gelben Umhangs von König Kamehameha I. (Regierungszeit 1795–1819) die Federn von bis zu 80’000 Vögeln verwendet wurden. Für solche Kleidungsstücke nutzte man jedoch nicht nur die Federn des Königskleidervogels, sondern auch die ebenso leuchtend gelben Schmuckfedern heute ausgestorbener Mohoarten, etwa des Prachtmohos.</p><p>Mit der Ankunft der Europäer auf den Inseln wurde das fragile Gleichgewicht zwischen den sogenannten „Königsvögeln“ und dem Menschen unwiederbringlich gestört. Grossflächige Rodungen zerstörten die Wälder zugunsten landwirtschaftlicher Nutzflächen, invasive Tierarten wurden eingeschleppt und schädigten die verbliebenen einheimischen Waldgebiete. Zusätzlich breiteten sich neue Krankheiten wie Vogelpocken und Vogelmalaria aus, gegen die sich die hawaiianischen Drepanidinen als äusserst anfällig erwiesen.</p><p>Obwohl der Königskleidervogel gemäss historischen Aufzeichnungen bis etwa 1880 noch relativ häufig war, brach die Population innerhalb weniger Jahre vollständig zusammen. Diese Kombination aus Lebensraumverlust, eingeschleppten Arten und Krankheiten führte dazu, dass der Königskleidervogel innerhalb von weniger als einem Jahrhundert ausstarb. Die letzte bestätigte Sichtung erfolgte 1898 durch den US-amerikanischen Naturforscher und Ethnologen Henry Wetherbee Henshaw (1850–1930).</p><p>Da der Königskleidervogel aufgrund seines leuchtenden Federkleids bei Sammlern äusserst begehrt war, existieren heute noch zahlreiche präparierte Exemplare in Museumssammlungen in den USA und in Europa.</p>"
     },
     "range_geojson": null,
     "taxonomy": {
-      "family": "",
-      "genus": ""
+      "family": "Kleidervögel (Drepanidini)",
+      "genus": "Drepanis"
     }
   },
   {
