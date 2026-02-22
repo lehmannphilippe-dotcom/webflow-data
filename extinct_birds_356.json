@@ -3836,10 +3836,10 @@
     }
   },
   {
-    "id": "hemignathus_lanaiensis",
+    "id": "akialoa_lanaiensis",
     "name": {
       "de": "Lanai-Akialoa",
-      "lat": "Hemignathus lanaiensis",
+      "lat": "Akialoa lanaiensis",
       "en": "Lanai Akialoa"
     },
     "last_seen": "1892",
@@ -3850,12 +3850,12 @@
     "habitat": "Lanai (Hawaii)",
     "images": {
       "tooltip": "",
-      "panel": "https://cdn.prod.website-files.com/6950eb029163bef776e18cfd/69921d948c56555d86e9c06f_hemignathus_lanaiensis.jpg"
+      "panel": "https://cdn.prod.website-files.com/6950eb029163bef776e18cfd/699ae330883c231bb913f708_hemignathus_lanaiensis.jpg"
     },
     "panel": {
-      "description": "",
-      "habitat_text": "",
-      "extinction_text": ""
+      "description": "<p>Der Lānaʻi-ʻAkialoa war ebenfalls eine mittelgrosse Form innerhalb der ʻAkialoa-Gruppe. Körpergrösse und Schnabellänge lagen mit etwa 45–55 mm im mittleren Bereich zwischen den Extremen von Kauaʻi und Hawaiʻi.</p><p>Der Schnabel war schlank, deutlich nach unten gebogen und an die Nahrungssuche in Blüten und Rindenspalten angepasst.</p><p>Männchen wurden als leuchtend gelb beschrieben, im Gegensatz zum gelbgrünen Gefieder anderer Formen. allerdings existieren keine sicher identifizierten adulten Männchen, was diese Farbbeschreibung unsicher macht. Weibchen waren vermutlich matter gefärbt.</p><p>Der Lānaʻi-ʻAkialoa ernährte sich nachweislich von Insekten, insbesondere Käfern und anderen Arthropoden. Zudem ernäahrte er sich wie alle anderen Akialoa-Arten gelegentlich von dem Nektar einheimischen Lobeliengewächsen wie Clermontia und Cyanea.</p>",
+      "habitat_text": "<p>Der Lānaʻi ʻAkialoa war auf der Insel Lanai endemisch und lebte vor allem in tiefer gelegene, mesische und feuchte Wälder. Fossile Funde weisen zusätzlich auf eine einste Verbreitung in trockener Tiefland-Strauchlandschaften hin. Die Art bevorzugte möglicherweise ausgedehnte ʻAkoko-Wälder, die später weitgehend zerstört wurden.</p>",
+      "extinction_text": "<p>Der Lānaʻi-ʻAkialoa wurde im November 1892 auf der Insel Lānaʻi entdeckt, als alle drei bekannten Exemplare gesammelt wurden. Bereits zu diesem Zeitpunkt galt die Art als äusserst selten.</p><p>Weitere gesicherte Beobachtungen erfolgten in den Jahren 1894, 1911 und 1930 durch die Ornithologen Robert Cyril Layton Perkins (1866–1955) und George Campbell Munro (1866–1963).</p><p>Weitere Nachweise des Lānaʻi-ʻAkialoa liegen nicht vor, sodass davon ausgegangen wird, dass die Art bereits kurz nach ihrer Entdeckung durch Lebensraumverlust und Krankheiten, die durch eingeschleppte Stechmücken übertragen wurden, ausgestorben ist.</p>"
     },
     "range_geojson": null,
     "taxonomy": {
