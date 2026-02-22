@@ -3402,17 +3402,17 @@
     "habitat": "Kauai (Hawaii)",
     "images": {
       "tooltip": "",
-      "panel": "https://cdn.prod.website-files.com/6950eb029163bef776e18cfd/69919cde6327178a6a8b19a8_akialoa_stejnegeri.jpg"
+      "panel": "https://cdn.prod.website-files.com/6950eb029163bef776e18cfd/699ae19070fbf87891fdabd4_hemignathus_stejnegeri.jpg"
     },
     "panel": {
-      "description": "",
-      "habitat_text": "",
-      "extinction_text": ""
+       "description": "<p>Der Kauaʻi-ʻAkialoa war die grösste bekannte Form der ʻAkialoa-Gruppe und besass den längsten Schnabel. Die Gesamtlänge, einschliesslich Schnabel, betrug etwa 19–20 cm. Charakteristisch war der deutlich längere und weniger gekrümmte Schnabel im Vergleich zu den anderen Akialoa-Arten.</p><p>Das Gefieder der Männchen wird als gelbgrün beschrieben, an der Unterseite heller, während die Weibchen matter grün bis graugrün gefärbt waren. Individuelle Unterschiede in Schnabellänge und -form waren ausgeprägt. Der Schnabel variierte farblich von schwarz über bläulich-schwarz bis schwarzbraun, mit teils hellerer Basis.</p><p>Der Kauaʻi-ʻAkialoa ernährte sich überwiegend von Arthropoden wie Spinnen, Käfern, Raupen und Insekteneiern, die er mit seinem Schnabel aus Rindenspalten und Blütenständen erbeutete. Saisonal ernährte sich der Kauaʻi-ʻAkialoa auch von Nektar wie z.B. von grossblütigen Lobeliengewächsen der Gattungen Clermontia und Cyanea.</p>",
+      "habitat_text": "<p>Der Kauaʻi ʻAkialoa bewohnte auf der Insel Kauaʻi ein breites Spektrum an Lebensräumen, vor allem mesische und feuchte Tiefland- und Bergwälder in Höhenlagen von etwa 200 bis 1.500 m. Besonders häufig kam war die Art in von ʻŌhiʻa-Bäaumen dominierten Waldtypen vor. Fossile Funde aus küstennahen Strauchlandschaften deuten darauf hin, dass die Art einst auch trockenere Tieflandhabitate nutzte.</p>",
+      "extinction_text": "<p>Bereits mit der polynesischen Besiedlung Kauaʻis begann die Rodung von Wäldern zur Anlage von Ackerflächen. Später verstärkten invasive Pflanzen und Tiere sowie die Ausbreitung der Landwirtschaft den Verlust geeigneter Habitate erheblich. Als Hauptursache für das Aussterben der Art gelten jedoch Krankheiten wie Vogelmalaria und Vogelpocken, die durch eingeschleppte Stechmücken übertragen wurden und gegen die die einheimische Vogelfauna keine Immunität besass.</p><p>Der letzte bestätigte Nachweis des Kauaʻi-ʻAkialoa stammt aus dem Jahr 1967 aus den Alakaʻi-Sümpfen am Mount Waiʻaleʻale. Heute gilt die Art aus ausgestorben und markiert somit das Ende aller bekannten ʻAkialoa-Arten.</p><p>Dass der Kauaʻi-ʻAkialoa stark von durch Stechmücken übertragenen Krankheiten betroffen war, zeigen gesammelte Museumspräparate eindrücklich. Viele bekannte Museumsexemplare, die seit dem späten 19. Jahrhundert erlegt wurden, wiesen Läsionen oder fehlende Zehen auf, teils mit schwerer Beeinträchtigung der Flugfähigkeit. Zusätzlich wurden innere Parasiten, Tumore sowie vereinzelt Läuse im Gefieder nachgewiesen.</p>"
     },
     "range_geojson": null,
     "taxonomy": {
-      "family": "",
-      "genus": ""
+      "family": "Kleidervögel (Drepanidini)",
+      "genus": "Hemignathus/Akialoa"
     }
   },
   {
