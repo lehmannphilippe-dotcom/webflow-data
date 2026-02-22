@@ -3859,8 +3859,8 @@
     },
     "range_geojson": null,
     "taxonomy": {
-      "family": "",
-      "genus": ""
+      "family": "Kleidervögel (Drepanidini)",
+      "genus": "Hemignathus/Akialoa"
     }
   },
   {
@@ -5600,10 +5600,10 @@
     }
   },
   {
-    "id": "hemignathus_ellisianus_ellisianus",
+    "id": "akialoa_ellisianus",
     "name": {
       "de": "Oahu-Akialoa",
-      "lat": "Hemignathus ellisianus ellisianus",
+      "lat": "Akialoa ellisianus",
       "en": "Greater Akialoa"
     },
     "last_seen": "1940",
@@ -5614,17 +5614,17 @@
     "habitat": "Oahu (Hawaii)",
     "images": {
       "tooltip": "",
-      "panel": "https://cdn.prod.website-files.com/6950eb029163bef776e18cfd/6991e67ae6184bf87d0d3ac0_hemignathus_ellisianus.jpg"
+      "panel": "https://cdn.prod.website-files.com/6950eb029163bef776e18cfd/699ae425875e0cfad9d0bf24_hemignathus_ellisianus.jpg"
     },
     "panel": {
-      "description": "",
-      "habitat_text": "",
-      "extinction_text": ""
+      "description": "<p>Der Oʻahu-ʻAkialoa war eine mittelgrosse Art innerhalb der ʻAkialoa-Gruppe. Seine Gesamtlänge lag zwischen jener des Kauaʻi- und des Hawaiʻi-ʻAkialoa. Der Schnabel erreichte eine Länge von etwa 45–55 mm und war deutlich nach unten gebogen, jedoch kürzer als beim Kauaʻi-ʻAkialoa.</p><p>Das Gefieder der Männchen wird als olivgrün beschrieben, möglicherweise dunkler als bei anderen Formen. Weibchen dürften, wie bei den übrigen ʻAkialoa, matter grün bis graugrün gefärbt gewesen sein.</p><p>Über die Ernährung des Oʻahu-ʻAkialoa liegen keine direkten Beobachtungen vor. Aufgrund der engen Verwandtschaft zu den übrigen ʻAkialoa-Arten wird jedoch angenommen, dass er sich ähnlich ernährte, vor allem von Arthropoden sowie ergänzend von Nektar aus einheimischen Blütenpflanzen.</p>",
+      "habitat_text": "<p>Der Lebensraum dieser Art ähnelten wahrscheinlich jenen des Kauaʻi ʻAkialoa und umfasste mesische und feuchte Tieflandwälder, die von ʻŌhiʻa und weiteren einheimischen Baumarten dominiert waren. Aufgrund der begrenzten Datenlage bleibt das genaue Verbreitunsgebiet dieser Art jedoch unsicher.</p>",
+      "extinction_text": "<p>Der Oʻahu-ʻAkialoa war bereits in den 1830er Jahren, als er erstmals wissenschaftlich beschrieben wurde, äusserst selten. Nur wenige Exemplare konnten gesammelt werden. Die Art konnte danach nie mehr gesichert nachgewiesen werden.</p><p>Wann die Art genau ausgestorben ist, lässt sich heute nicht mehr eindeutig rekonstruieren. Es wird angenommen, dass sie möglicherweise in kleinen, unzugänglichen Gebieten in Restpopulationen bis Mitte des 20. Jahrhunderts überlebt haben könnte.</p><p>Als Hauptursachen für das Aussterben gelten – wie bei allen ʻAkialoa-Arten – der Verlust des Lebensraums sowie Krankheiten, die durch eingeschleppte Stechmücken übertragen wurden.</p>"
     },
     "range_geojson": null,
     "taxonomy": {
-      "family": "",
-      "genus": ""
+      "family": "Kleidervögel (Drepanidini)",
+      "genus": "Hemignathus/Akialoa"
     }
   },
   {
