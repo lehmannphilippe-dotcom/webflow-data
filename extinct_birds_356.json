@@ -3881,14 +3881,14 @@
       "panel": "https://cdn.prod.website-files.com/6950eb029163bef776e18cfd/699b250ddb0af633bc55d15b_dysmorodrepanis_munroi.jpg"
     },
     "panel": {
-      "description": "",
-      "habitat_text": "",
-      "extinction_text": ""
+      "description": "<p>Der Lānaʻi-Hakenschnabel oder auch Lānaʻi-Kleidervogel genannt, wurde lange nicht als eigenständige Art anerkannt und galt zunächst als deformierte Form des Gelbkopf-Kleidervogels (Psittirostra psittacea).</p><p>Die Art ist nur durch ein einziges Exemplar bekannt, das 1913 von George Campbell Munro (1866–1963) im Kaiholena Valley auf Lānaʻi gesammelt wurde. Eine erneute Untersuchung dieses Exemplars im Jahr 1989 ergab anhand der Schädelosteologie, dass keine Deformierungen vorlagen und es sich um eine eigenständige, gültige Art handelt.</p><p>Zum Nahrungsverhalten ist nur wenig bekannt. Wahrscheinlich ernährte sich die Art von Früchten einheimischer Pflanzen wie ōpuhe und möglicherweise ʻakoko. Aufgrund der einzigartigen Schnabelform wird jedoch vermutet, dass der Lānaʻi-Hakenschnabel auf das Fangen von Schnecken spezialisiert war und seinen Schnabel sowohl zum Öffnen von Schneckenhäusern als auch zum Pflücken von Früchten und Blüten nutzte.</p>",
+      "habitat_text": "<p>Der Lānaʻi-Hakenschnabel lebte in den Wäldern am südwestlichen Ende der Insel Lānaʻi, insbesondere im Kaiholena Valley und im Gebiet von Waiakeakua, in Höhenlagen zwischen 600 und 800 m. Fossile und ökologische Hinweise deuten darauf hin, dass der Lebensraum der Art in der Vergangenheit deutlich grösser war und weite Teile der Insel umfasste.</p><p>Die Art war vermutlich ein Standvogel und bewohnte montane Trockenwälder, die vor allem von ʻakoko (Euphorbia lorifolia) und ōpuhe (Urera glabra) dominiert wurden. Die aussergewöhnliche Schnabelform und die offensichtliche Seltenheit der Art lassen darauf schliessen, dass der Lānaʻi-Hakenschnabel ein stark spezialisierter Vogel war, der eng an diesen Lebensraum gebunden blieb.</p>",
+      "extinction_text": "<p>Es wird angenommen, dass der Lānaʻi-Hakenschnabel bereits vor dem Eintreffen der Europäer selten war und möglicherweise schon durch frühe polynesische Siedler beeinträchtigt wurde. Nach seiner wissenschaftlichen Entdeckung im Jahr 1913 konnte die Art nur noch dreimal bis 1918 durch dokumentierte Beobachtungen nachgewiesen werden.</p><p>Zwischen 1900 und 1940 wurde nahezu die gesamte Waldfläche Lānaʻis in Ananasplantagen umgewandelt. Diese grossflächige Zerstörung des Lebensraums gilt als Hauptursache für das Aussterben der Art. Zusätzlich wirkten sich die Einführung von Ratten und verwilderten Katzen sowie durch eingeschleppte Stechmücken übertragene Krankheiten negativ auf den Bestand aus.</p>"
     },
     "range_geojson": null,
     "taxonomy": {
-      "family": "",
-      "genus": ""
+      "family": "Kleidervögel (Drepanidini)",
+      "genus": "Dysmorodrepanis"
     }
   },
   {
