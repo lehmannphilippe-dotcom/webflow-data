@@ -2940,10 +2940,10 @@
     }
   },
   {
-    "id": "hemignathus_obscurus",
+    "id": "akialoa_obscurus",
     "name": {
       "de": "Hawaii-Akialoa",
-      "lat": "Hemignathus obscurus",
+      "lat": "akialoa obscurus",
       "en": "Lesser Akialoa"
     },
     "last_seen": "1940",
@@ -2957,14 +2957,14 @@
       "panel": "https://cdn.prod.website-files.com/6950eb029163bef776e18cfd/6991b5bef4935373e847d3dc_hemignathus_obscurus.jpg"
     },
     "panel": {
-      "description": "",
-      "habitat_text": "",
-      "extinction_text": ""
+      "description": "<p>Der Hawaiʻi-ʻAkialoa war die kleinste bekannte Form der Akialoa-Gruppe. Die Gesamtlänge betrug etwa 16–17 cm. Sein Schnabel war mit 30–40 mm deutlich kürzer als bei den anderen Inselpopulationen, im Durchschnitt jedoch stärker nach unten gebogen.</p><p>Das Gefieder der Männchen wird als gelbgrün beschrieben, an der Unterseite heller, während die Weibchen matter grün bis graugrün erschienen. Die Art zeigte nicht nur individuelle Farbvarainz sondern auch individuelle Unterschiede in Schnabelform und -krümmung.</p><p>Die Ernährung bestand überwiegend aus Arthropoden wie Spinnen, Käfern, Raupen und Insekteneiern die dabei Specht- und Baumläuferähnlich an Ōhiʻa-, und Koabaumstämmen erbeutet wurden. Ergänzend nahm der Hawaiʻi-ʻAkialoa Nektar auf, vor allem von ʻŌhiʻa sowie von verschiedenen Arten baumförmiger Lobelien.</p>",
+      "habitat_text": "<p>Der Hawaiʻi ʻAkialoa war auf der Hauptinsel Hawaii einst weit verbreitet und besiedelte sowohl mesische als auch feuchte Tiefland- und Bergwälder. Die Art konnte in tieferen Lagen zwischen etwa 350 und 800 m und in Höhen von 1.500 bis 2.000 m beobachtet werden.</p>",
+      "extinction_text": "<p>Der Hawaiʻi-ʻAkialoa war gegen Ende des 18. Jahrhunderts auf der Insel Hawaiʻi offenbar noch häufig. Bis in die frühen 1890er Jahre blieb die Art relativ weit verbreitet und zahlreich, was sich auch darin widerspiegelt, dass der Grossteil der insgesamt rund 120 bekannten Museumsexemplare in diesem Zeitraum gesammelt wurde.</p><p>Um die Jahrhundertwende setzte ein rascher Bestandsrückgang ein. Die letzten gesicherten Exemplare wurden im Jahr 1903 gesammelt. Der genaue Zeitpunkt des Aussterbens lässt sich aufgrund lückenhafter Aufzeichnungen nicht eindeutig bestimmen. Es wird jedoch vermutet, dass der Hawaiʻi-ʻAkialoa möglicherweise noch bis in die 1940er Jahre überlebt haben könnte.</p><p>Als Hauptursache für das Aussterben der Art gelten Vogelpocken, die zu Beginn des 20. Jahrhunderts durch eingeschleppte Stechmücken übertragen wurden und gegen die der Hawaiʻi-ʻAkialoa keine Immunität besass. Rund ein Drittel der damals beobachteten Exemplare zeigte deutliche Anzeichen einer Erkrankung, was den erheblichen Einfluss dieser Krankheit auf den Niedergang der Art unterstreicht.</p>"
     },
     "range_geojson": null,
     "taxonomy": {
-      "family": "",
-      "genus": ""
+      "family": "Kleidervögel (Drepanidini)",
+      "genus": "Hemignathus/Akialoa"
     }
   },
   {
