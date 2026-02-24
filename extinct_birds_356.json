@@ -1,5 +1,89 @@
 [ 
   {
+    "id": "porzana_severnsi",
+    "name": {
+      "de": "Grosse Maui-Ralle",
+      "lat": "Porzana severnsi",
+      "en": "Large maui-rail"
+    },
+    "last_seen": "1600",
+    "location": {
+      "lat": 20.921525,
+      "lng": -156.349899
+    },
+    "habitat": "Maui",
+    "images": {
+      "tooltip": "",
+      "panel": ""
+    },
+    "panel": {
+        "description": "",
+        "habitat_text": "",
+        "extinction_text": ""
+    },
+    "range_geojson": null,
+    "taxonomy": {
+      "family": "Rallen (Rallidae)",
+      "genus": "Porzana"
+    }
+  },
+   {
+    "id": "porzana_keplerorum",
+    "name": {
+      "de": "Maui-Ralle",
+      "lat": "Porzana keplerorum",
+      "en": "Maui-rail"
+    },
+    "last_seen": "1500",
+    "location": {
+      "lat": 20.585271,
+      "lng": -156.363179
+    },
+    "habitat": "Maui",
+    "images": {
+      "tooltip": "",
+      "panel": ""
+    },
+    "panel": {
+        "description": "",
+        "habitat_text": "",
+        "extinction_text": ""
+    },
+    "range_geojson": null,
+    "taxonomy": {
+      "family": "Rallen (Rallidae)",
+      "genus": "Porzana"
+    }
+  },
+   {
+    "id": "porzana_ralphorum",
+    "name": {
+      "de": "Oʻahu-Ralle",
+      "lat": "Porzana ralphorum",
+      "en": "O'ahu-rail"
+    },
+    "last_seen": "1300",
+    "location": {
+      "lat": 21.460369,
+      "lng": -157.843217
+    },
+    "habitat": "Oahu",
+    "images": {
+      "tooltip": "",
+      "panel": ""
+    },
+    "panel": {
+        "description": "",
+        "habitat_text": "",
+        "extinction_text": ""
+    },
+    "range_geojson": null,
+    "taxonomy": {
+      "family": "Rallen (Rallidae)",
+      "genus": "Porzana"
+    }
+  },
+  {
     "id": "porzana_ziegleri",
     "name": {
       "de": "Grosse Oʻahu-Ralle",
@@ -11,7 +95,7 @@
       "lat": 21.502291,
       "lng": -158.225042
     },
-    "habitat": "Molokai",
+    "habitat": "Oahu",
     "images": {
       "tooltip": "",
       "panel": ""
