@@ -1,4 +1,60 @@
 [ 
+    {
+    "id": "corvus_viriosus",
+    "name": {
+      "de": "Schlankschnabelkrähe",
+      "lat": "Corvus viriosus",
+      "en": "slender-billed crow"
+    },
+    "last_seen": "1500",
+    "location": {
+      "lat": 21.117003,
+      "lng": -156.918933
+    },
+    "habitat": "Molokai",
+    "images": {
+      "tooltip": "",
+      "panel": ""
+    },
+    "panel": {
+        "description": "",
+        "habitat_text": "",
+        "extinction_text": ""
+    },
+    "range_geojson": null,
+    "taxonomy": {
+      "family": "Rabenvögel (Corvidae)",
+      "genus": "Raben und Krähen (Corvus)"
+    }
+  },
+  {
+    "id": "corvus_impluviatus",
+    "name": {
+      "de": "Hochschnabelkrähe",
+      "lat": "Corvus impluviatus",
+      "en": "high-billed crow"
+    },
+    "last_seen": "1500",
+    "location": {
+      "lat": 21.423971,
+      "lng": -157.925615
+    },
+    "habitat": "Oahu",
+    "images": {
+      "tooltip": "",
+      "panel": ""
+    },
+    "panel": {
+        "description": "",
+        "habitat_text": "",
+        "extinction_text": ""
+    },
+    "range_geojson": null,
+    "taxonomy": {
+      "family": "Rabenvögel (Corvidae)",
+      "genus": "Raben und Krähen (Corvus)"
+    }
+  },
   {
     "id": "porzana_severnsi",
     "name": {
