@@ -1,5 +1,33 @@
 [ 
   {
+    "id": "porzana_ziegleri",
+    "name": {
+      "de": "Grosse Oʻahu-Ralle",
+      "lat": "Porzana ziegleri",
+      "en": "Large O'ahu-rail"
+    },
+    "last_seen": "1400",
+    "location": {
+      "lat": 21.502291,
+      "lng": -158.225042
+    },
+    "habitat": "Molokai",
+    "images": {
+      "tooltip": "",
+      "panel": ""
+    },
+    "panel": {
+        "description": "",
+        "habitat_text": "",
+        "extinction_text": ""
+    },
+    "range_geojson": null,
+    "taxonomy": {
+      "family": "Rallen (Rallidae)",
+      "genus": "Porzana"
+    }
+  },
+  {
     "id": "porzana_menehune",
     "name": {
       "de": "Molokaʻi-Ralle",
