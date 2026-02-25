@@ -588,34 +588,6 @@
     }
   },
   {
-    "id": "porzana_millsi",
-    "name": {
-      "de": "Dunkle Hawaii-Ralle",
-      "lat": "Porzana Millsi",
-      "en": "Dark hawaiian rail"
-    },
-    "last_seen": "1890",
-    "location": {
-      "lat": 19.55583,
-      "lng": -155.10806
-    },
-    "habitat": "Hawaii",
-    "images": {
-      "tooltip": "",
-      "panel": "https://cdn.prod.website-files.com/6950eb029163bef776e18cfd/699586de33a5b998222232b8_porzana_millsi.jpg"
-    },
-    "panel": {
-      "description": "",
-      "habitat_text": "",
-      "extinction_text": ""
-    },
-    "range_geojson": null,
-    "taxonomy": {
-      "family": "",
-      "genus": ""
-    }
-  },
-  {
     "id": "hemignathus_vorpalis",
     "name": {
       "de": "Riesennukuphu’u",
