@@ -1,8 +1,92 @@
 [ 
+       {
+    "id": "grallistrix_orion ",
+    "name": {
+      "de": "Oahu-Langbeineule",
+      "lat": "Grallistrix orion",
+      "en": "Oahu-stilt-owl"
+    },
+    "last_seen": "1500",
+    "location": {
+      "lat": 21.289000,
+      "lng": -157.687503
+    },
+    "habitat": "Oahu",
+    "images": {
+      "tooltip": "",
+      "panel": ""
+    },
+    "panel": {
+        "description": "",
+        "habitat_text": "",
+        "extinction_text": ""
+    },
+    "range_geojson": null,
+    "taxonomy": {
+      "family": "Eigentliche Eulen (Strigidae)",
+      "genus": "Grallistrix"
+    }
+  },
+      {
+    "id": "grallistrix_geleches ",
+    "name": {
+      "de": "Molokai-Langbeineule",
+      "lat": "Grallistrix geleches",
+      "en": "Molokai-stilt-owl"
+    },
+    "last_seen": "1500",
+    "location": {
+      "lat": 21.140332,
+      "lng": -156.782892
+    },
+    "habitat": "Maui",
+    "images": {
+      "tooltip": "",
+      "panel": ""
+    },
+    "panel": {
+        "description": "",
+        "habitat_text": "",
+        "extinction_text": ""
+    },
+    "range_geojson": null,
+    "taxonomy": {
+      "family": "Eigentliche Eulen (Strigidae)",
+      "genus": "Grallistrix"
+    }
+  },
+       {
+    "id": "grallistrix_erdmani",
+    "name": {
+      "de": "Langbeineule",
+      "lat": "Grallistrix erdmani",
+      "en": "Stilt-owl"
+    },
+    "last_seen": "1500",
+    "location": {
+      "lat": 20.820453,
+      "lng": -156.592558
+    },
+    "habitat": "Maui",
+    "images": {
+      "tooltip": "",
+      "panel": ""
+    },
+    "panel": {
+        "description": "",
+        "habitat_text": "",
+        "extinction_text": ""
+    },
+    "range_geojson": null,
+    "taxonomy": {
+      "family": "Eigentliche Eulen (Strigidae)",
+      "genus": "Grallistrix"
+    }
+  },
       {
     "id": "grallistrix_auceps",
     "name": {
-      "de": "Kauai-Langbeineule ",
+      "de": "Kauai-Langbeineule",
       "lat": "Grallistrix auceps",
       "en": "Kauai stilt-owl"
     },
