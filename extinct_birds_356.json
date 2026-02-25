@@ -1,4 +1,32 @@
 [ 
+      {
+    "id": "grallistrix_auceps",
+    "name": {
+      "de": "Kauai-Langbeineule ",
+      "lat": "Grallistrix auceps",
+      "en": "Kauai stilt-owl"
+    },
+    "last_seen": "1500",
+    "location": {
+      "lat": 21.936848,
+      "lng": -159.557281
+    },
+    "habitat": "Kauai",
+    "images": {
+      "tooltip": "",
+      "panel": ""
+    },
+    "panel": {
+        "description": "",
+        "habitat_text": "",
+        "extinction_text": ""
+    },
+    "range_geojson": null,
+    "taxonomy": {
+      "family": "Eigentliche Eulen (Strigidae)",
+      "genus": "Grallistrix"
+    }
+  },
     {
     "id": "corvus_viriosus",
     "name": {
