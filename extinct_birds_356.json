@@ -1,4 +1,32 @@
 [ 
+        {
+    "id": "haliaeetus_sp.",
+    "name": {
+      "de": "Hawai-Seeadler",
+      "lat": "Haliaeetus sp.",
+      "en": "Hawai-eagle"
+    },
+    "last_seen": "1200",
+    "location": {
+      "lat": 20.839500,
+      "lng": -156.284435
+    },
+    "habitat": "Maui",
+    "images": {
+      "tooltip": "",
+      "panel": "https://cdn.prod.website-files.com/6950eb029163bef776e18cfd/69a08a0785f9fa73b6ec125b_Adler_default.jpg"
+    },
+    "panel": {
+        "description": "",
+        "habitat_text": "",
+        "extinction_text": ""
+    },
+    "range_geojson": null,
+    "taxonomy": {
+      "family": "Bussardartige (Buteoninae)",
+      "genus": "Seeadler (Haliaeetus)"
+    }
+  },
        {
     "id": "porzana_sp.",
     "name": {
