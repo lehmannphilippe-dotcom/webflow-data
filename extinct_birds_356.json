@@ -6099,6 +6099,7 @@
     },
     "range": {
   "geojson_url": "https://raw.githubusercontent.com/lehmannphilippe-dotcom/webflow-data/refs/heads/main/ranges/moho-bishopi.geojson"
+     },
     "taxonomy": {
       "family": "Mohoidae",
       "genus": "Krausschwänze (Moho)"
