@@ -4053,7 +4053,9 @@
       "habitat_text": "<p>Sein Lebensraum waren die niederschlagsreichen tropischen Bergwälder der Insel Oʻahu. Wahrscheinlich verfügte die Art schon immer über ein sehr begrenztes Verbreitungsgebiet, was sie besonders anfällig für Umweltveränderungen und menschliche Eingriffe machte.</p>",
       "extinction_text": "<p>Der Krausschwanzmoho wurde erstmals von Andrew Bloxam, einem englischen Geistlichen und Naturforscher, erwähnt. Dieser erwarb während seines Aufenthalts auf den Hawaii-Inseln im Jahr 1825, von Einheimischen lebende Exemplare der Art. Laut seinem Reisebuch war der Krausschwanzmoho bereits damals äusserst selten, was dazu führte das für ein lebendes Exemplar hohe Preise verlangt wurden.</p><p>Als der englische Ornithologe John Gould den Krausschwanzmoho im Jahr 1860 erstmals wissenschaftlich beschrieb, galt die Art bereits als verschollen. Die letzten drei gesicherten Exemplare wurden 1837 vom deutschen Naturforscher Ferdinand Deppe in den Hügeln hinter de Hauptstadt Honolulu erlegt. Dies stellt den letzten gesicherten Nachweis der Art dar. Nach mehreren gescheiterten Suchexpeditionen zwischen 1880 und 1890 wurde der Krausschwanzmoho offiziell für ausgestorben erklärt.</p><p>Als Ursachen für sein endgültiges Aussterben gelten, wie bei vielen hawaiischen Vogelarten, vermutlich Vogelkrankheiten durch eingeschleppte Mücken, die Zerstörung des Lebensraums infolge von Überweidung durch Nutztiere sowie die Abholzung der Wälder. Bis heute ist jedoch unklar, ob diese Faktoren allein ausschlaggebend waren oder ob der Krausschwanzmoho bereits zuvor durch menschlichen Einfluss der Ureinwohner oder durch natürliche Umweltveränderungen stark im Bestand geschwächt war.</p><p>Heute existieren noch sieben erhaltene Exemplare in Museumssammlungen in Berlin, London, New York, Cambridge und Massachusetts.</p>"
     },
-    "range_geojson": null,
+    "range": {
+          "geojson_url": "https://raw.githubusercontent.com/lehmannphilippe-dotcom/webflow-data/refs/heads/main/ranges/moho-apicalis.geojson"
+             },
     "taxonomy": {
       "family": "Mohoidae",
       "genus": "Krausschwänze (Moho)"
