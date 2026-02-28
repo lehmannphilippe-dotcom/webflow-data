@@ -8988,7 +8988,10 @@
   "habitat_text": "<p>Der Lebensraum des Schuppenkehlmohos befand sich im Unterholz feuchter bis nasser subtropischer Wälder auf der Insel Kauaʻi, der geologisch ältesten Insel des Hawaii-Archipels. Die Art war vor allem an höher gelegene, niederschlagsreiche Waldgebiete gebunden.</p><p>Bevorzugt wurden strukturreiche Altwälder mit einheimischen Baumarten wie ʻŌhiʻa (Metrosideros polymorpha), in deren natürlichen Baumhöhlen und Astspalten der Schuppenkehlmoho seine Nester anlegte.</p>",
   "extinction_text": "<p>Zu Beginn des 21. Jahrhunderts konnte der Schuppenkehlmoho noch vergleichsweise häufig beobachtet werden. Bereits während Expeditionen in den Jahren 1928 und 1936 gelang es jedoch nicht mehr, lebende Exemplare nachzuweisen. Erst 1960 wurde im dichten Alakaʻi-Sumpfwald am Mount Waiʻaleʻale auf Kauaʻi, in etwa 1.000 Metern Höhe, eine kleine Population von rund 34 Individuen wiederentdeckt. In den 1970er-Jahren konnten einige dieser Vögel sogar fotografiert und gefilmt werden.</p><p>Die Bestandsgrösse nahm jedoch rasch ab. Den endgültigen Todesstoss versetzten die beiden Hurrikane Iwa und Iniki, die innerhalb von zehn Jahren aufeinanderfolgten. Sie zerstörten zahlreiche alte Bäume mit natürlichen Höhlungen, die dem Schuppenkehlmoho als Brutplätze dienten. Nach dem zweiten Hurrikan wurde zudem das Nachwachsen geeigneter Bäume stark beeinträchtigt, was schliesslich zum Aussterben der Art führte.</p><p>Als Hauptursachen für das Aussterben gelten – wie bei vielen hawaiischen Vogelarten – die Zerstörung des Lebensraums sowie eingeschleppte Hausratten und Schweine. Zusätzlich spielten eingeführte Stechmücken eine entscheidende Rolle, da sie Vogelmalaria und Vogelpocken verbreiteten, welche unter der endemischen Avifauna Hawaiʻis ein massives Artensterben verursachten.</p><p>Mit dem Schuppenkehlmoho verschwand innerhalb von etwa 150 Jahren die letzte Art der Krausschwänze (Mohos). Heute existieren noch über 100 präparierte Exemplare, die auf Museen und Sammlungen in Europa und den USA verteilt sind.</p>"
     },
-    "range_geojson": null,
+     "range": {
+  "geojson_url": "https://raw.githubusercontent.com/lehmannphilippe-dotcom/webflow-data/refs/heads/main/ranges/moho-braccatus.geojson"
+  
+  },
     "taxonomy": {
       "family": "Mohoidae",
       "genus": "Krausschwänze (Moho)"
