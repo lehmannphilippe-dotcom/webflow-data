@@ -3368,10 +3368,10 @@
     },
     "last_seen": "1884",
     "location": {
-      "lat": 19.61356,
-      "lng": -155.58075
+      "lat": 19.481548,
+      "lng": -154.945551
     },
-    "habitat": "Big Island",
+    "habitat": "Hawaii",
     "images": {
       "tooltip": "",
       "panel": "https://cdn.prod.website-files.com/6950eb029163bef776e18cfd/699d461de7ddb3e1dc7c5cb6_porzana_sandwichensis.jpg"
@@ -3381,7 +3381,9 @@
       "habitat_text": "<p>Die Hawaiiralle war endemisch auf der Insel Hawaii. Sie bewohnte offene Graslandschaften, niedriges Buschland sowie Lichtungen in unterschiedlichen Waldgebieten. Sie war vor allem in den trockeneren Regionen der Insel verbreitet und konnte dort in nahezu allen verfügbaren Habitaten angetroffen werden.</p><p>Ihre subfossilen Überreste wurden in einem Gebiet nachgewiesen, das sich von der Kiholo-Bucht im Norden bis zur Manuka-Bucht im Süden erstreckt und Höhenlagen von bis zu 500 m oberhalb von Makalawena erreichte.</p>",
       "extinction_text": "<p>Die Ralle war bereits bei der Ankunft der Europäer in den 1780er-Jahren selten und wurde 1884 zuletzt lebend beobachtet. Der genaue Grund für das Aussterben ist unbekannt.</p><p>Die Mangusten, die zeitweise für das Aussterben verantwortlich gemacht wurden, wurden erst 1883 auf Hawaii eingeführt, als die Art bereits nahezu ausgestorben war, und gelten daher als unwahrscheinliche Ursache. Als wahrscheinlichere Gründe für das Aussterben gelten der Verlust des Lebensraums sowie eingeschleppte Ratten, verwilderte Katzen und Hunde.</p><p>Heute existieren nur noch wenige präparierte Museumsexemplare, unter anderem in New York, Leiden, Cambridge, Honolulu und Wien.</p>"
     },
-    "range_geojson": null,
+    "range": {
+    "geojson_url": "https://raw.githubusercontent.com/lehmannphilippe-dotcom/webflow-data/refs/heads/main/ranges/porzana-sandwichensis.geojson"
+      },
     "taxonomy": {
       "family": "Rallen (Rallidae)",
       "genus": "Porzana"
