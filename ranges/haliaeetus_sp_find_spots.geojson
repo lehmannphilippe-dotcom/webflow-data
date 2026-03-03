@@ -1,0 +1,74 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "place": "Barber’s Point / Ewa Plain sinkhole deposits (Kalaeloa, Oʻahu)",
+        "description": "Mindestens zwei Individuen aus einem grossen Sinkhole in angehobenem Kalkriff der Ewa Plain; explizit genannt als Bishop Museum archaeological site 50-Oa-B6-22. Zusätzlich spätere Funde aus kleineren Sinkholes im Umfeld.",
+        "references": [
+          "Olson & James 1982"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -158.1,
+          21.32
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place": "Kalaeloa Unit, Pearl Harbor National Wildlife Refuge (Oʻahu)",
+        "description": "Weitere Adlerknochen aus kleineren Sinkholes der Kalaeloa Unit; in der Literatur als spätere zusätzliche Funde erwähnt.",
+        "references": [
+          "Olson & James 1982"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -158.09,
+          21.33
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place": "Moomomi Dunes (Molokaʻi)",
+        "description": "Subfossile Funde aus Küstendünen nahe Meereshöhe; mehrere Individuen. Holocene Ablagerungen.",
+        "references": [
+          "Olson & James 1982",
+          "Hailer et al."
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -157.02,
+          21.17
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place": "Deep lava vent cave, south slope of Mt. Haleakalā (Maui)",
+        "description": "Nahezu vollständiges assoziiertes Skelett aus einer tiefen Lava-Vent-Höhle am Südhang des Haleakalā; radiokarbondatiert auf ca. 3’500 cal BP.",
+        "references": [
+          "Olson & James 1982"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -156.33,
+          20.67
+        ]
+      }
+    }
+  ]
+}
