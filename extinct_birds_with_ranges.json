@@ -2134,7 +2134,7 @@
       "genus": "Ciridops"
     },
     "ranges": {
-      "range_native": null,
+      "range_native": "https://raw.githubusercontent.com/lehmannphilippe-dotcom/webflow-data/refs/heads/main/ranges/ciridops_anna.geojson",
       "breeding_native": null,
       "range_hypothetical": null,
       "find_spots": null,
