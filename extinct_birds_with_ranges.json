@@ -51,9 +51,9 @@
       "panel": "https://cdn.prod.website-files.com/69a2957c566333eb83d17d8c/69a7e8b238c4c7c9fcc35e43_Akialoa_default.jpg"
     },
     "panel": {
-      "description": "",
-      "habitat_text": "",
-      "extinction_text": ""
+      "description": "<p>Von dieser Form sind bislang nur sehr fragmentarische subfossile Überreste bekannt. Aufgrund des stark begrenzten und unvollständigen Materials wurde sie bisher nicht als eigenständige Art beschrieben. Die vorhandenen Knochenfunde deuten jedoch darauf hin, dass diese Form deutlich grösser gewesen sein dürfte als die historisch belegte Hawaii-Akialoa (Akialoa obscurus).</p>",
+      "habitat_text": "<p>Diese Form war wahrscheinlich, ähnlich wie die Hawaii-Akialoa (Akialoa obscurus), auf der Insel Hawaii endemisch und besiedelte vermutlich vergleichbare Lebensräume wie andere Arten der Gattung Akialoa im hawaiischen Archipel. Über das genaue Habitat dieser Form lassen sich aus den bislang bekannten Fossilfunden jedoch kaum zuverlässige Rückschlüsse ziehen.</p>",
+      "extinction_text": "<p>Die bisher bekannten Fragmente werden in das Holozän datiert. Sollte es sich tatsächlich um eine eigenständige Akialoa-Art handeln, bleibt unklar, ob sie bereits vor der Ankunft des Menschen infolge natürlicher klimatischer oder ökologischer Veränderungen ausgestorben ist oder erst nach der Besiedlung der Inseln durch polynesische Siedler verschwand.</p>"
     },
     "taxonomy": {
       "family": "Kleidervögel (Drepanidini)",
