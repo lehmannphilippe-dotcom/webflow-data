@@ -7372,7 +7372,7 @@
     "ranges": {
       "range_native": "https://raw.githubusercontent.com/lehmannphilippe-dotcom/webflow-data/refs/heads/main/ranges/Akialoa_ellisianus.geojson",
       "breeding_native": null,
-      "range_hypothetical": null,
+      "range_hypothetical": "https://raw.githubusercontent.com/lehmannphilippe-dotcom/webflow-data/refs/heads/main/ranges/Akialoa_ellisianus_hypo.geojson",
       "find_spots": null,
       "last_observation": null
     }
