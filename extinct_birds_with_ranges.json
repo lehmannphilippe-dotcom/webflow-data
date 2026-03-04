@@ -3630,9 +3630,9 @@
       "genus": ""
     },
     "ranges": {
-      "range_native": null,
+      "range_native": "https://raw.githubusercontent.com/lehmannphilippe-dotcom/webflow-data/refs/heads/main/ranges/Psittirostra%20psittacea_native.geojson",
       "breeding_native": null,
-      "range_hypothetical": null,
+      "range_hypothetical": "https://raw.githubusercontent.com/lehmannphilippe-dotcom/webflow-data/refs/heads/main/ranges/psittirostra_psittacea_hypothetical.geojson",
       "find_spots": null,
       "last_observation": null
     }
