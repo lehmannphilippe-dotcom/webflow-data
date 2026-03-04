@@ -7370,7 +7370,7 @@
       "genus": "Hemignathus/Akialoa"
     },
     "ranges": {
-      "range_native": null,
+      "range_native": "https://raw.githubusercontent.com/lehmannphilippe-dotcom/webflow-data/refs/heads/main/ranges/Akialoa_ellisianus.geojson",
       "breeding_native": null,
       "range_hypothetical": null,
       "find_spots": null,
