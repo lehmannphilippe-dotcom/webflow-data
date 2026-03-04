@@ -1,5 +1,73 @@
 [
   {
+    "id": "akialoa_sp.",
+    "name": {
+      "de": "Maui-Akialoa",
+      "lat": "Akialoa sp.",
+      "en": "Maui Akialoa"
+    },
+    "last_seen": "1300",
+    "location": {
+      "lat": 20.720712,
+      "lng": -156.157356
+    },
+    "habitat": "Maui",
+    "images": {
+      "tooltip": "",
+      "panel": "https://cdn.prod.website-files.com/69a2957c566333eb83d17d8c/69a7e8b238c4c7c9fcc35e43_Akialoa_default.jpg"
+    },
+    "panel": {
+      "description": "",
+      "habitat_text": "",
+      "extinction_text": ""
+    },
+    "taxonomy": {
+      "family": "Kleidervögel (Drepanidini)",
+      "genus": "Hemignathus/Akialoa"
+    },
+    "ranges": {
+      "range_native": null,
+      "breeding_native": null,
+      "range_hypothetical": null,
+      "find_spots": null,
+      "last_observation": null
+    }
+  },
+  {
+    "id": "akialoa_sp.",
+    "name": {
+      "de": "Riesen-Akialoa",
+      "lat": "Akialoa sp.",
+      "en": "Giant Akialoa"
+    },
+    "last_seen": "1300",
+    "location": {
+      "lat": 19.414961,
+      "lng": -155.237017
+    },
+    "habitat": "Hawaii",
+    "images": {
+      "tooltip": "",
+      "panel": "https://cdn.prod.website-files.com/69a2957c566333eb83d17d8c/69a7e8b238c4c7c9fcc35e43_Akialoa_default.jpg"
+    },
+    "panel": {
+      "description": "",
+      "habitat_text": "",
+      "extinction_text": ""
+    },
+    "taxonomy": {
+      "family": "Kleidervögel (Drepanidini)",
+      "genus": "Hemignathus/Akialoa"
+    },
+    "ranges": {
+      "range_native": null,
+      "breeding_native": null,
+      "range_hypothetical": null,
+      "find_spots": null,
+      "last_observation": null
+    }
+  },
+  {
     "id": "branta_sp.",
     "name": {
       "de": "Riesen-Hawaiigans",
