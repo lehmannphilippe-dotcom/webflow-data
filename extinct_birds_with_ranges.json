@@ -4870,8 +4870,8 @@
     },
     "last_seen": "1894",
     "location": {
-      "lat": 19.6367,
-      "lng": -155.43703
+      "lat": 19.704082,
+      "lng": -155.913327
     },
     "habitat": "Big Island (Hawaii)",
     "images": {
@@ -4888,7 +4888,7 @@
       "genus": "Chloridops"
     },
     "ranges": {
-      "range_native": null,
+      "range_native": "https://raw.githubusercontent.com/lehmannphilippe-dotcom/webflow-data/refs/heads/main/ranges/Chloridops_kona.geojson",
       "breeding_native": null,
       "range_hypothetical": null,
       "find_spots": null,
