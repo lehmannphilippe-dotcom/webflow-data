@@ -5228,9 +5228,9 @@
       "genus": "Hemignathus/Akialoa"
     },
     "ranges": {
-      "range_native": null,
+      "range_native": "https://raw.githubusercontent.com/lehmannphilippe-dotcom/webflow-data/refs/heads/main/ranges/Akialoa_lanaiensis_nat.geojson",
       "breeding_native": null,
-      "range_hypothetical": null,
+      "range_hypothetical": "https://raw.githubusercontent.com/lehmannphilippe-dotcom/webflow-data/refs/heads/main/ranges/Akialoa_lanaiensis_hypo.geojson",
       "find_spots": null,
       "last_observation": null
     }
