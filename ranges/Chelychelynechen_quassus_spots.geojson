@@ -1,0 +1,40 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "place": "Makawehi Dunes (southeastern Kauai)",
+        "description": "Subfossile Überreste von *Chelychelynechen quassus* aus den kalkhaltigen Küstendünen von Makawehi; die Art wurde auf Grundlage dieses Materials beschrieben. Der Punkt markiert den wissenschaftlich belegten Fundkomplex, nicht jeden einzelnen nummerierten Teilfundplatz.",
+        "references": [
+          "Olson & James 1991",
+          "Olson & James 1982"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -159.434167,
+          21.880833
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place": "Makauwahi Cave / Mahaulepu sinkhole deposits (southern Kauai)",
+        "description": "Wissenschaftlich belegter Nachweis von *Chelychelynechen quassus* aus den Fossilablagerungen von Makauwahi im Mahaulepu-Gebiet. Die Fundstelle ist ein bedeutendes Sinkhole-/Höhlenarchiv mit subfossiler Avifauna von Kauai.",
+        "references": [
+          "Burney et al. 2001"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -159.421389,
+          21.891667
+        ]
+      }
+    }
+  ]
+}
