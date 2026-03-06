@@ -946,7 +946,7 @@
     "ranges": {
       "range_native": null,
       "breeding_native": null,
-      "range_hypothetical": null,
+      "range_hypothetical": "https://raw.githubusercontent.com/lehmannphilippe-dotcom/webflow-data/refs/heads/main/ranges/Chelychelynechen_quassus_hypo.geojson",
       "find_spots": "https://raw.githubusercontent.com/lehmannphilippe-dotcom/webflow-data/refs/heads/main/ranges/Chelychelynechen_quassus_spots.geojson",
       "last_observation": null
     }
