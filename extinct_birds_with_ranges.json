@@ -5406,16 +5406,16 @@
     }
   },
   {
-    "id": "porzana_palmeri",
+    "id": "zapornia_palmeri",
     "name": {
       "de": "Laysan-Ralle",
-      "lat": "Porzana palmeri",
+      "lat": "Zapornia palmeri",
       "en": "Laysan Rail"
     },
     "last_seen": "1944",
     "location": {
-      "lat": 25.65554,
-      "lng": -171.66493
+      "lat": 25.768516,
+      "lng": -171.739041
     },
     "habitat": "Laysan (Hawaii)",
     "images": {
@@ -5428,11 +5428,11 @@
       "extinction_text": ""
     },
     "taxonomy": {
-      "family": "",
-      "genus": ""
+      "family": "Rallen (Rallidae)",
+      "genus": "Zapornia"
     },
     "ranges": {
-      "range_native": null,
+      "range_native": "https://raw.githubusercontent.com/lehmannphilippe-dotcom/webflow-data/refs/heads/main/ranges/Zapornia_palmeri.geojson",
       "breeding_native": null,
       "range_hypothetical": null,
       "find_spots": null,
