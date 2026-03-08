@@ -5380,8 +5380,8 @@
     },
     "last_seen": "1923",
     "location": {
-      "lat": 25.82226,
-      "lng": -171.78186
+      "lat": 25.775242,
+      "lng": -171.727873
     },
     "habitat": "Laysan (Hawaii)",
     "images": {
@@ -5398,7 +5398,7 @@
       "genus": ""
     },
     "ranges": {
-      "range_native": null,
+      "range_native": "https://raw.githubusercontent.com/lehmannphilippe-dotcom/webflow-data/refs/heads/main/ranges/Zapornia_palmeri.geojson",
       "breeding_native": null,
       "range_hypothetical": null,
       "find_spots": null,
@@ -5448,8 +5448,8 @@
     },
     "last_seen": "1915",
     "location": {
-      "lat": 25.85301,
-      "lng": -171.74564
+      "lat": 25.761947,
+      "lng": -171.730620
     },
     "habitat": "Laysan (Hawaii)",
     "images": {
@@ -5466,7 +5466,7 @@
       "genus": ""
     },
     "ranges": {
-      "range_native": null,
+      "range_native": "https://raw.githubusercontent.com/lehmannphilippe-dotcom/webflow-data/refs/heads/main/ranges/Zapornia_palmeri.geojson",
       "breeding_native": null,
       "range_hypothetical": null,
       "find_spots": null,
