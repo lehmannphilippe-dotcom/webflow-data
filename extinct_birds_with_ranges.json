@@ -478,7 +478,7 @@
   {
     "id": "porzana_ralphorum",
     "name": {
-      "de": "Oʻahu-Ralle",
+      "de": "Grosse Oahu-Ralle",
       "lat": "Porzana ralphorum",
       "en": "O'ahu-rail"
     },
@@ -512,7 +512,7 @@
   {
     "id": "porzana_ziegleri",
     "name": {
-      "de": "Grosse Oʻahu-Ralle",
+      "de": "Oahu-Ralle",
       "lat": "Porzana ziegleri",
       "en": "Large O'ahu-rail"
     },
@@ -546,7 +546,7 @@
   {
     "id": "porzana_menehune",
     "name": {
-      "de": "Molokaʻi-Ralle",
+      "de": "Molokai-Ralle",
       "lat": "Porzana menehune",
       "en": "Molokaʻi-rail"
     },
