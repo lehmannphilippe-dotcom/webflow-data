@@ -425,9 +425,9 @@
       "panel": "https://cdn.prod.website-files.com/69a2957c566333eb83d17d8c/69ad9d41e95bc9445b656e7c_Porzana%20severnsi.jpg"
     },
     "panel": {
-      "description": "",
-      "habitat_text": "",
-      "extinction_text": ""
+       "description": "<p>Über die Grosse Maui-Ralle ist nur wenig bekannt. Die Art wurde 1991 von Storrs L. Olson (1944–2021) und Helen F. James (*1956) anhand subfossiler Knochen beschrieben, die auf der Insel Maui gefunden wurden.</p><p>Die bekannten Fossilien zeigen, dass es sich um eine mittelgrosse Ralle mit relativ kräftigen Beinen und stark reduzierten Flügeln handelte. Diese Merkmale deuten darauf hin, dass die Art flugunfähig war und überwiegend am Boden lebte. Wie andere hawaiische Rallen war die Grosse Maui-Ralle wahrscheinlich an eine bodenbewohnende Lebensweise in dichter Vegetation angepasst und ernährte sich vermutlich von Wirbellosen sowie von verschiedenen Pflanzenarten.</p>",
+      "habitat_text": "<p>Die Fossilien stammen aus mehreren Fundstellen auf Maui, darunter der Auwahi Cave sowie weiteren Höhlen an den Südhängen des Haleakalā und einer Fundstelle im Lower Waihoi Valley bei Hāna.</p><p>Da die Fossilien aus verschiedenen Regionen der Insel stammen, wird angenommen, dass die Art wahrscheinlich in unterschiedlichen Tiefland- und Hanghabitaten vorkam und möglicherweise ein relativ grosses Verbreitungsgebiet auf Maui besass.</p>",
+      "extinction_text": "<p>Die Grosse Maui-Ralle verschwand vermutlich nach der Ankunft der ersten Menschen auf den hawaiischen Inseln vor etwa 1000 Jahren. Flugunfähige Inselvögel waren besonders anfällig für eingeführte Tiere wie die polynesische Ratte (Rattus exulans), die Eier und Jungvögel frass.</p><p>Zusätzlich könnten Jagd und Veränderungen der ursprünglichen Lebensräume zum Rückgang der Art beigetragen haben. Wie viele andere flugunfähige Vögel Hawaiis starb die Art wahrscheinlich innerhalb weniger Jahrhunderte nach der menschlichen Besiedlung aus.</p>"
     },
     "taxonomy": {
       "family": "Rallen (Rallidae)",
