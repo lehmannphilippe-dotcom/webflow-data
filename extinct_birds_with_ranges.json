@@ -459,9 +459,9 @@
       "panel": "https://cdn.prod.website-files.com/69a2957c566333eb83d17d8c/69b5ae10da4734440dd4495e_Porzana%20keplerorum.jpg"
     },
     "panel": {
-      "description": "",
-      "habitat_text": "",
-      "extinction_text": ""
+     "description": "<p>Über die Maui-Ralle ist nur wenig bekannt. Die Art wurde 1991 von Storrs L. Olson (1944–2021) und Helen F. James (*1956) anhand subfossiler Knochen beschrieben, die auf der Insel Maui gefunden wurden.</p><p>Die bekannten Fossilien zeigen, dass es sich um eine mittelgrosse Ralle mit relativ kräftigen Beinen und stark reduzierten Flügeln handelte. Diese Merkmale deuten darauf hin, dass die Art flugunfähig war und überwiegend am Boden lebte. Wie andere hawaiische Rallen war die Maui-Ralle wahrscheinlich an eine bodenbewohnende Lebensweise in dichter Vegetation angepasst.</p>",
+      "habitat_text": "<p>Die Fossilien stammen aus Lavaröhren und Höhlen an den Südhängen des Haleakalā auf Maui, darunter die Fundstelle Auwahi Cave. Da diese Fundorte in trockenen bis halbtrockenen Regionen im Süden von Maui liegen, wird angenommen, dass die Art in offenen Landschaften mit dichter Bodenvegetation vorkam. Dazu könnten Grasland, Buschvegetation sowie andere Tieflandhabitate gehört haben. Wie andere Rallen dürfte sie sich hauptsächlich am Boden bewegt und sich von Wirbellosen sowie pflanzlicher Nahrung ernährt haben.</p><p>Im Gegensatz zur Grossen Maui-Ralle (Porzana severnsi) dürfte die Maui-Ralle ein kleineres, stärker spezialisiertes Verbreitungsgebiet gehabt haben.</p>",
+      "extinction_text": "<p>Die Maui-Ralle verschwand vermutlich nach der Ankunft der ersten Menschen auf den hawaiischen Inseln vor etwa 1000 Jahren. Flugunfähige Inselvögel waren besonders anfällig für eingeführte Tiere wie die polynesische Ratte (Rattus exulans), die Eier und Jungvögel frass.</p><p>Zusätzlich könnten Veränderungen der ursprünglichen Lebensräume zum Rückgang der Art beigetragen haben. Wie viele andere flugunfähige Vögel Hawaiis starb die Art wahrscheinlich innerhalb weniger Jahrhunderte nach der menschlichen Besiedlung aus.</p>"
     },
     "taxonomy": {
       "family": "Rallen (Rallidae)",
