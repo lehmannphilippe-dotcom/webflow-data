@@ -484,8 +484,8 @@
     },
     "last_seen": "1300",
     "location": {
-      "lat": 21.460369,
-      "lng": -157.843217
+      "lat": 21.342573,
+      "lng": -158.006605
     },
     "habitat": "Oahu",
     "images": {
@@ -504,7 +504,7 @@
     "ranges": {
       "range_native": null,
       "breeding_native": null,
-      "range_hypothetical": null,
+      "range_hypothetical": "https://raw.githubusercontent.com/lehmannphilippe-dotcom/webflow-data/refs/heads/main/ranges/Porzana%20ralphorum_hypo.geojson",
       "find_spots": "https://raw.githubusercontent.com/lehmannphilippe-dotcom/webflow-data/refs/heads/main/ranges/porzana_ralphorum_find_spots.geojson",
       "last_observation": null
     }
@@ -518,8 +518,8 @@
     },
     "last_seen": "1400",
     "location": {
-      "lat": 21.502291,
-      "lng": -158.225042
+      "lat": 21.325970,
+      "lng": -157.878467
     },
     "habitat": "Oahu",
     "images": {
@@ -538,7 +538,7 @@
     "ranges": {
       "range_native": null,
       "breeding_native": null,
-      "range_hypothetical": null,
+      "range_hypothetical": "https://raw.githubusercontent.com/lehmannphilippe-dotcom/webflow-data/refs/heads/main/ranges/Porzana%20ziegleri_hypo.geojson",
       "find_spots": "https://raw.githubusercontent.com/lehmannphilippe-dotcom/webflow-data/refs/heads/main/ranges/porzana_ziegleri_find_spots.geojson",
       "last_observation": null
     }
