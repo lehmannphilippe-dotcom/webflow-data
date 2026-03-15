@@ -1,0 +1,40 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "place": "Auwahi Cave (Auwahi District, Südwesthang Haleakalā, Maui)",
+        "description": "Typusfundstelle (Holotyp) von Porzana keplerorum; Lava-Röhre im Auwahi-Distrikt am Südwesthang des Haleakalā. In der Höhle traten Knochen ausgestorbener Vögel, überwiegend flugunfähige Arten (u.a. Rallen), in großer Menge an der Oberfläche und in dünnen Sedimentlagen auf.",
+        "references": [
+          "Olson & James 1991 (Ornithological Monographs 45)"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -156.35,
+          20.666666666666668
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place": "Puu Naio Cave (oberhalb La Perouse Bay, Südwest-Maui)",
+        "description": "Lava-Röhre nahe Puu Naio oberhalb der La Perouse Bay; fossile Vogelknochen sowohl an der Oberfläche als auch in tiefen, fein geschichteten Sedimenten. Die Ausgrabungen erbrachten u.a. Reste einer „small flightless rail“, die später als Porzana keplerorum beschrieben wurde.",
+        "references": [
+          "James et al. 1987 (PNAS 84:2350–2354)",
+          "Olson & James 1991 (Ornithological Monographs 45)"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -156.4,
+          20.616666666666667
+        ]
+      }
+    }
+  ]
+}
