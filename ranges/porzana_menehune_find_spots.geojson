@@ -1,0 +1,41 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "place": "Ilio Point dunes (Site 20, Molokaʻi)",
+        "description": "Typusfundstelle (Holotyp) von Porzana menehune aus Dünenablagerungen am Ilio Point (NW-Spitze von Molokaʻi), in Olson & James (1991) als „Site 20“ angegeben. Die publizierte Arbeit nennt den Fundort, jedoch keine exakten GPS-Punkte; die Koordinate markiert daher den Toponym‑Mittelpunkt von Ilio Point als praktikable Näherung.",
+        "references": [
+          "Olson & James 1991 (Ornithological Monographs 45): Porzana menehune – Type locality: Site 20, Ilio Point, Molokai",
+          "TopoZone (USGS-feature): Ilio Point (Cape) – Koordinaten"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -157.259438,
+          21.2193409
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place": "Moomomi dunes (NW Molokaʻi; vicinity of Moomomi Beach)",
+        "description": "Weitere subfossile Reste von Porzana menehune aus den Moomomi-Dünenfeldern (NW Molokaʻi). Olson & James (1991) führen die Verbreitung ausdrücklich für „Moomomi and Ilio Point dunes“ an. Exakte Fundpunkt-Koordinaten werden dort nicht publiziert; die Koordinate markiert den Bereich Moomomi Beach als Näherung für das Dünenareal.",
+        "references": [
+          "Olson & James 1991 (Ornithological Monographs 45): Porzana menehune – Distribution: Moomomi and Ilio Point dunes",
+          "TopoZone (USGS-feature): Moomomi Beach – Koordinaten"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -157.147623,
+          21.19691
+        ]
+      }
+    }
+  ]
+}

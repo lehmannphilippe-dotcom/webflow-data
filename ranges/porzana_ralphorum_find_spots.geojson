@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection",
+  "name": "Porzana ralphorum fossil find spots",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "place": "Barber’s Point / ʻEwa Plain sinkhole deposits (Site 50-Oa-B6-22; Kalaeloa, Oʻahu)",
+        "description": "Typusfundstelle (Holotyp) von Porzana ralphorum: rechter Tarsometatarsus (USNM 426114) aus einem überfluteten Sinkhole (Archäologie-Nummer 50-Oa-B6-22) bei Barber’s Point auf der ʻEwa Plain. Koordinate als Näherung für den Bereich Kalaeloa/Barber’s Point angegeben (Publikation nennt den Site-Code, aber keine exakten GPS-Koordinaten).",
+        "references": [
+          "Olson & James 1991 (Ornithological Monographs 45)",
+          "Ziegler et al. 2016 (American Museum Novitates; Diskussion zu 50-Oa-B6-22)"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -158.149667,
+          21.323333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place": "Kuliouou Shelter (Südküste, SE-Oʻahu; Nähe Kuliouou Valley)",
+        "description": "Weitere Nachweise auf Oʻahu: Kuliouou Shelter wird als Fundstelle für Porzana ralphorum genannt. Koordinate als Näherung für den Bereich Kuliouou Valley angegeben.",
+        "references": [
+          "Olson & James 1991 (Ornithological Monographs 45)",
+          "Olson & James 1982 (Smithsonian Contributions to Zoology 365)"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -157.7232778,
+          21.2933611
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place": "Ulupaʻu Head / Ulupaʻu Crater (Mōkapu Peninsula, Oʻahu)",
+        "description": "Weitere Nachweise auf Oʻahu: Porzana ralphorum wird auch aus Ulupau Head (Pleistozäne lakustrine Sedimente im Krater auf der Mōkapu Peninsula) aufgeführt. Koordinate für Ulupaʻu Head (Toponym-Zentrum) angegeben.",
+        "references": [
+          "Olson & James 1991 (Ornithological Monographs 45)",
+          "James 1987 (Ulupau Head crater sediments)"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -157.7319145,
+          21.4543867
+        ]
+      }
+    }
+  ]
+}

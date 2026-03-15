@@ -1,0 +1,40 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "place": "Site 50-Oa-B6-22 (Barbers Point/Kalaeloa, Ewa Plain sinkhole deposits, Oʻahu)",
+        "description": "Typusfundstelle (Holotyp) von Porzana ziegleri aus einem Sinkhole der Barbers-Point/Kalaeloa–Karstlandschaft (Ewa Plain). Olson & James (1991) geben als Typuslokalität „Site 50-Oa-B6-22, Barbers Point“ an; exakte Koordinaten des einzelnen Sinkholes werden dort nicht publiziert. Die hier angegebenen Koordinaten markieren daher den Ortsmittelpunkt von Kalaeloa/Barbers Point als Annäherung.",
+        "references": [
+          "Olson & James 1991 (Ornithological Monographs 45): Porzana ziegleri – Type locality: Site 50-Oa-B6-22, Barbers Point; Distribution: Barbers Point & Ulupau Head."
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -158.08306,
+          21.32444
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place": "Ulupaʻu Head crater deposits (Mokapu Peninsula, Oʻahu)",
+        "description": "Fossilnachweise von Porzana ziegleri aus den (pleistozänen) lakustrinen Krater-Sedimenten am Ulupaʻu Head; die Art wird von Olson & James (1991) für Oʻahu u.a. ausdrücklich von „Ulupau Head“ gemeldet.",
+        "references": [
+          "Olson & James 1991 (Ornithological Monographs 45): Porzana ziegleri – Distribution includes Ulupau Head.",
+          "USGS GNIS: Ulupaʻu Head (Feature ID 364349) – Koordinaten."
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -157.7319145,
+          21.4543867
+        ]
+      }
+    }
+  ]
+}
