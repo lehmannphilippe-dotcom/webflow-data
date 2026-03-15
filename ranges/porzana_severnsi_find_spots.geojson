@@ -1,0 +1,58 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "place": "Auwahi Cave (Makena Quad.; Südwesthang Haleakalā, Maui)",
+        "description": "Typusfundstelle (Holotyp) von Porzana severnsi. Lava-Tube im Auwahi-District am Südwesthang des Haleakalā; zahlreiche, gut erhaltene Subfossilien, besonders von flugunfähigen Arten (u.a. Rails). Koordinaten nach Olson & James (1991) in Grad/Minuten (als Näherung angegeben).",
+        "references": [
+          "Olson & James 1991 (Ornithological Monographs 45, 'New Hawaiian Birds')"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -156.35,
+          20.666666666666668
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place": "Puu Naio Cave (Makena Quad.; über La Perouse Bay, Maui)",
+        "description": "Lava-Tube am Südwesthang des Haleakalā. Für Porzana severnsi werden explizit Exemplare aus Puu Naio Cave erwähnt (übernommenes Zitat/Beleg aus Olson & James 1991). Koordinaten nach James et al. (1987) / Olson & James (1991).",
+        "references": [
+          "Olson & James 1991 (Ornithological Monographs 45, Verbreitung/Material)",
+          "Soares et al. 2022 (zitiert Olson & James 1991 zu Exemplaren aus Puu Naio Cave)",
+          "James et al. 1987 (PNAS; Koordinaten/Ortsbeschreibung Puu Naio Cave)"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -156.4,
+          20.616666666666667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place": "Lower Waihoi Valley Cave (Kipahulu Quad.; nahe Hāna, Ost-Maui)",
+        "description": "Lava-Tube im Lower Waihoi Valley, ca. 4,8 km südlich von Hāna (424 m). In dieser Höhle wurden mehrere Rails gefunden; mindestens zwei Individuen von Porzana severnsi werden im Kontext der Funde von Lower Waihoi Valley Cave erwähnt. Die Koordinate ist aus der Distanzangabe (4,8 km südlich von Hāna) abgeleitet und daher eine Näherung.",
+        "references": [
+          "Olson & James 1991 (Ornithological Monographs 45; Fundstellenbeschreibung & Vergleich mit Material aus Lower Waihoi Valley Cave)"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -155.99,
+          20.714756756756756
+        ]
+      }
+    }
+  ]
+}
