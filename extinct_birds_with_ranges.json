@@ -505,7 +505,7 @@
       "range_native": null,
       "breeding_native": null,
       "range_hypothetical": null,
-      "find_spots": null,
+      "find_spots": "https://raw.githubusercontent.com/lehmannphilippe-dotcom/webflow-data/refs/heads/main/ranges/porzana_ralphorum_find_spots.geojson",
       "last_observation": null
     }
   },
@@ -539,7 +539,7 @@
       "range_native": null,
       "breeding_native": null,
       "range_hypothetical": null,
-      "find_spots": null,
+      "find_spots": "https://raw.githubusercontent.com/lehmannphilippe-dotcom/webflow-data/refs/heads/main/ranges/porzana_ziegleri_find_spots.geojson",
       "last_observation": null
     }
   },
@@ -573,7 +573,7 @@
       "range_native": null,
       "breeding_native": null,
       "range_hypothetical": null,
-      "find_spots": null,
+      "find_spots": "https://raw.githubusercontent.com/lehmannphilippe-dotcom/webflow-data/refs/heads/main/ranges/porzana_menehune_find_spots.geojson",
       "last_observation": null
     }
   },
