@@ -437,7 +437,7 @@
       "range_native": null,
       "breeding_native": null,
       "range_hypothetical": null,
-      "find_spots": null,
+      "find_spots": "https://raw.githubusercontent.com/lehmannphilippe-dotcom/webflow-data/refs/heads/main/ranges/porzana_severnsi_find_spots.geojson",
       "last_observation": null
     }
   },
