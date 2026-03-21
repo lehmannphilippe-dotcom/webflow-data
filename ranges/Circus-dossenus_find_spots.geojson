@@ -1,0 +1,40 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "place": "Mō‘omomi dunes (Site 10; near Mō‘omomi Beach, Molokaʻi)",
+        "description": "Typuslokalität (Holotyp) von Circus dossenus (gesammelt 1983; Joan Aidem). Fossilien aus den kalkigen Küstendünen an der Nordwestküste Molokaʻis; Koordinaten hier als Näherung zum Gebiet Mō‘omomi Beach angegeben.",
+        "references": [
+          "Olson & James 1991 (Ornithological Monographs 45: New Hawaiian Birds)"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -157.147623,
+          21.19691
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place": "Barber’s Point / Ewa Plain sinkhole deposits (Kalaeloa, Oʻahu)",
+        "description": "Fossilmaterial von mindestens zwei Individuen aus zwei verschiedenen Sinkholes im angehobenen Kalkriff der Ewa Plain bei Barbers Point (Oʻahu). Fundkontext: holozäne Sedimente in Karst-Sinkholes; genaue Sinkhole-Positionen variieren innerhalb des Barbers-Point/Kalaeloa-Gebiets.",
+        "references": [
+          "Olson & James 1991 (Ornithological Monographs 45: New Hawaiian Birds)",
+          "Hawaii DOH Clean Water Branch – Marine Recreational Monitoring Site: Barber’s Point (Station 000213; NAD83 Koordinaten)"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -158.10595,
+          21.29622777777778
+        ]
+      }
+    }
+  ]
+}
