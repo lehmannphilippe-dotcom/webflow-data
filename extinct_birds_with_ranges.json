@@ -697,13 +697,13 @@
       "panel": "https://cdn.prod.website-files.com/69a2957c566333eb83d17d8c/69bcf30693e2b804445883f7_circus_dossenus.jpg"
     },
     "panel": {
-      "description": "",
-      "habitat_text": "",
-      "extinction_text": ""
+     "description": "<p>Über die Waldweihe ist nur wenig bekannt. Die Art wurde 1991 von Storrs L. Olson (1944–2021) und Helen F. James (*1956) anhand begrenzter subfossiler Knochen beschrieben.</p><p>Es handelt sich dabei um die kleinste bekannte Art der Weihen. Auffällig sind die proportional kurzen Flügel und Brustknochen, die eher an Vertreter der Habichte (Accipiter) erinnern.</p><p>Wie andere Weihen war auch die Waldweihe ein Raubvogel. Aufgrund ihrer besonderen Körperproportionen und der damaligen Umweltbedingungen auf Hawaii wird angenommen, dass sie nicht wie typische, langflügelige Weihen offene Landschaften bejagte, sondern eher die ökologische Rolle eines kleinen, wendigen Waldjägers einnahm. Wahrscheinlich ernährte sie sich vor allem von kleineren Vögeln und Wirbellosen.</p>",
+    "habitat_text": "<p>Die Waldweihe bewohnte dichte, subtropische Wälder auf Oahu und Molokai. Da nur rudimentäre Überreste bekannt sind, lässt sich das genaue Verbreitungsgebiet nicht mehr sicher bestimmen.</p><p>Im Gegensatz zu grösseren Weihen dürfte die Waldweihe nur eingeschränkt zu ausgedehnten Inselwechseln zur Nahrungssuche fähig gewesen sein. Ihre verkürzten Flügel und die wohl enge Bindung an Waldlebensräume sprechen dafür, dass sie an einzelne Inseln oder Waldregionen gebunden war.</p>",
+    "extinction_text": "<p>Ob die Waldweihe früher ein grösseres Verbreitungsgebiet besass und möglicherweise bereits vor der Ankunft des Menschen auf einzelnen Inseln wieder verschwand, lässt sich wegen der sehr lückenhaften Fossilüberlieferung nicht mehr klären.</p><p>Die Waldweihe verschwand vermutlich nach der Ankunft der ersten Menschen auf den hawaiischen Inseln vor etwa 1000 Jahren.</p><p>Da Weihen in der Regel Bodenbrüter sind, war die Waldweihe vermutlich besonders anfällig gegenüber eingeschleppten Räubern. Gleichzeitig dürfte sie auf grössere, zusammenhängende Waldgebiete angewiesen gewesen sein. Die Rodung und Umgestaltung weiter Teile der Tieflandwälder sowie die Störung des Waldbodens durch eingeführte Tiere könnten daher entscheidend zu ihrem Verschwinden beigetragen haben. Wahrscheinlich starb die Art innerhalb weniger Jahrhunderte nach der menschlichen Besiedlung aus.</p>"
     },
     "taxonomy": {
-      "family": "",
-      "genus": ""
+      "family": "Habichtartige (Accipitridae)",
+      "genus": "Weihen (Circus)"
     },
     "ranges": {
       "range_native": null,
