@@ -1,4 +1,106 @@
 [
+   {
+    "id": "Apteribis glenos",
+    "name": {
+      "de": "Molokai-Ibis",
+      "lat": "Apteribis glenos",
+      "en": "Molokai Ibis"
+    },
+    "last_seen": "1300",
+    "location": {
+      "lat": 20.879917,
+      "lng": -156.953077
+    },
+    "habitat": "Molokai",
+    "images": {
+      "tooltip": "",
+      "panel": "https://cdn.prod.website-files.com/69a2957c566333eb83d17d8c/69c19f673a14d0d7b682a953_Apteribis_glenos.jpg"
+    },
+    "panel": {
+      "description": "",
+      "habitat_text": "",
+      "extinction_text": ""
+    },
+    "taxonomy": {
+      "family": "",
+      "genus": ""
+    },
+    "ranges": {
+      "range_native": null,
+      "breeding_native": null,
+      "range_hypothetical": null,
+      "find_spots": null,
+      "last_observation": null
+    }
+  },
+  {
+    "id": "Apteribis sp.",
+    "name": {
+      "de": "Lanai-Ibis",
+      "lat": "Apteribis sp.",
+      "en": "Lanai Ibis"
+    },
+    "last_seen": "1300",
+    "location": {
+      "lat": 20.879917,
+      "lng": -156.953077
+    },
+    "habitat": "Lanai",
+    "images": {
+      "tooltip": "",
+      "panel": "https://cdn.prod.website-files.com/69a2957c566333eb83d17d8c/69c19f575d22d5245b99e4ac_Ibiss_default.jpg"
+    },
+    "panel": {
+      "description": "",
+      "habitat_text": "",
+      "extinction_text": ""
+    },
+    "taxonomy": {
+      "family": "",
+      "genus": ""
+    },
+    "ranges": {
+      "range_native": null,
+      "breeding_native": null,
+      "range_hypothetical": null,
+      "find_spots": null,
+      "last_observation": null
+    }
+  },
+  {
+    "id": "Apteribis sp.",
+    "name": {
+      "de": "Maui-Ibis",
+      "lat": "Apteribis sp.",
+      "en": "Maui Ibis"
+    },
+    "last_seen": "1300",
+    "location": {
+      "lat": 20.875351,
+      "lng": -156.386158
+    },
+    "habitat": "Maui",
+    "images": {
+      "tooltip": "",
+      "panel": "https://cdn.prod.website-files.com/69a2957c566333eb83d17d8c/69c19f575d22d5245b99e4ac_Ibiss_default.jpg"
+    },
+    "panel": {
+      "description": "",
+      "habitat_text": "",
+      "extinction_text": ""
+    },
+    "taxonomy": {
+      "family": "",
+      "genus": ""
+    },
+    "ranges": {
+      "range_native": null,
+      "breeding_native": null,
+      "range_hypothetical": null,
+      "find_spots": null,
+      "last_observation": null
+    }
+  },
   {
     "id": "akialoa_sp.",
     "name": {
