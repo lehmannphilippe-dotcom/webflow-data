@@ -833,9 +833,9 @@
       "panel": "https://cdn.prod.website-files.com/69a2957c566333eb83d17d8c/69c19f69b0df795a24a1b053_Apteribis_brevis.jpg"
     },
     "panel": {
-      "description": "",
-      "habitat_text": "",
-      "extinction_text": ""
+       "description": "<p>Über den Maui-Hochlandibis ist nur wenig bekannt. Die Art wurde 1991 von Storrs L. Olson (1944–2021) und Helen F. James (*1956) anhand weniger subfossiler Knochen beschrieben.</p><p>Wie alle Arten der Gattung Apteribis war auch der Maui-Hochlandibis flugunfähig. Er besass verkürzte, kräftige Beine, die ihm vermutlich eine wendige und agile Fortbewegung am Waldboden ermöglichten. Zudem waren die visuellen Strukturen im Schädel stark zurückgebildet. Dies betrifft die Augen, den Sehnerv sowie den Bereich des Tectum opticum, in dem visuelle Reize im Gehirn verarbeitet werden.</p><p>Diese stark reduzierten Sehstrukturen deuten darauf hin, dass der Maui-Hochlandibis nur über ein eingeschränktes Sehvermögen verfügte und wahrscheinlich nachtaktiv war – ein Zustand, der unter den Ibissen bislang nur für die Gattung Apteribis bekannt ist. Vermutlich stützte sich die Art vor allem auf taktile Reize, die sie mit ihrem Schnabel wahrnahm, um Beutetiere wie Landschnecken oder flugunfähige Grillen aufzuspüren. Ihre Lebensweise ähnelte damit wahrscheinlich jener der heutigen Kiwis in Neuseeland.</p>",
+     "habitat_text": "<p>Da auf Maui einst zwei Apteribis-Arten vorkamen, war der Maui-Hochlandibis vermutlich vor allem auf Waldgebiete in höheren Lagen an den Südhängen des Haleakalā beschränkt, darunter Auwahi, Pūʻu Makua und die oberen Kipahulu-Gebiete. Aufgrund des begrenzten Fossilmaterials lässt sich das ursprüngliche Verbreitungsgebiet heute jedoch nicht mehr genau bestimmen.</p>",
+     "extinction_text": "<p>Ob die Art bereits vor der Ankunft der ersten Menschen ausstarb, lässt sich heute nicht eindeutig klären. Die bisher bekannten Knochenfunde stammen ausschliesslich aus einer Zeit vor der Besiedlung durch den Menschen.</p><p>Falls der Maui-Hochlandibis bei der Ankunft der ersten Siedler noch existierte, dürfte er aufgrund seiner fehlenden Fluchtmöglichkeiten gegenüber eingeschleppten Raubtieren sowie durch den Verlust seines Lebensraums rasch verschwunden sein. Möglich ist jedoch auch, dass die Art bereits zuvor, während des Übergangs vom Pleistozän zum Holozän und den damit verbundenen klimatischen Veränderungen, ausstarb.</p>"
     },
     "taxonomy": {
       "family": "",
