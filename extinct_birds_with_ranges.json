@@ -1,5 +1,39 @@
 [
    {
+    "id": "pterodroma_jugabilis",
+    "name": {
+      "de": "Oahu-Sturmvogel",
+      "lat": "Pterodroma jugabilis",
+      "en": "Oahu Petrel"
+    },
+    "last_seen": "1500",
+    "location": {
+      "lat": 21.334117,
+      "lng": -157.961431
+    },
+    "habitat": "Oahu",
+    "images": {
+      "tooltip": "",
+      "panel": ""
+    },
+    "panel": {
+      "description": "",
+      "habitat_text": "",
+      "extinction_text": ""
+    },
+    "taxonomy": {
+      "family": "Sturmvögel (Procellariidae)",
+      "genus": "Hakensturmtaucher (Pterodroma)"
+    },
+    "ranges": {
+      "range_native": null,
+      "breeding_native": null,
+      "range_hypothetical": null,
+      "find_spots": null,
+      "last_observation": null
+    }
+  },
+   {
     "id": "Apteribis glenos",
     "name": {
       "de": "Molokai-Ibis",
