@@ -1,4 +1,72 @@
-[
+[ 
+   {
+    "id": "telespiza_ypsilon",
+    "name": {
+      "de": "Maui Nui Fink ",
+      "lat": "Telespiza ypsilon",
+      "en": "Maui Nui finch"
+    },
+    "last_seen": "1650",
+    "location": {
+      "lat": 21.183107,
+      "lng": -157.215318
+    },
+    "habitat": "Molokai",
+    "images": {
+      "tooltip": "",
+      "panel": ""
+    },
+    "panel": {
+      "description": "",
+      "habitat_text": "",
+      "extinction_text": ""
+    },
+    "taxonomy": {
+      "family": "Kleidervögel (Drepanidini)",
+      "genus": "Telespiza "
+    },
+    "ranges": {
+      "range_native": null,
+      "breeding_native": null,
+      "range_hypothetical": null,
+      "find_spots": null,
+      "last_observation": null
+    }
+  },
+   {
+    "id": "telespiza_pursuerix",
+    "name": {
+      "de": "Kauai-Fink ",
+      "lat": "Telespiza pursuerix",
+      "en": "Kauai finch"
+    },
+    "last_seen": "1650",
+    "location": {
+      "lat": 21.417670,
+      "lng": -158.060618
+    },
+    "habitat": "Kauai",
+    "images": {
+      "tooltip": "",
+      "panel": ""
+    },
+    "panel": {
+      "description": "",
+      "habitat_text": "",
+      "extinction_text": ""
+    },
+    "taxonomy": {
+      "family": "Kleidervögel (Drepanidini)",
+      "genus": "Telespiza "
+    },
+    "ranges": {
+      "range_native": null,
+      "breeding_native": null,
+      "range_hypothetical": null,
+      "find_spots": null,
+      "last_observation": null
+    }
+  },
    {
     "id": "pterodroma_jugabilis",
     "name": {
