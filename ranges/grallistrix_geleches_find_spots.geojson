@@ -1,0 +1,41 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "place": "Moʻomomi dunes (Molokaʻi) – vicinity of sites 5 & 10 (type locality)",
+        "description": "Typuslokalität von Grallistrix geleches: Knochen (u.a. assoziiertes Teilskelett/Holotyp) aus lockeren Dünen-Sanden der Moʻomomi-Dünen, explizit als „vicinity of sites 5 and 10“ angegeben.",
+        "references": [
+          "Olson & James 1991 (Ornithological Monographs 45): Grallistrix geleches – type locality",
+          "Olson & James 1982 (Smithsonian Contributions to Zoology 365): Moʻomomi dunes fossil sites"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -157.146699,
+          21.198562
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place": "ʻĪlio Point dunes (west Molokaʻi)",
+        "description": "Weitere Nachweise von Grallistrix geleches aus Dünenablagerungen am nordwestlichsten Ende Molokaʻis (ʻĪlio Point); im Artaccount als Verbreitung „Moʻomomi and Ilio Point dunes“ genannt.",
+        "references": [
+          "Olson & James 1991 (Ornithological Monographs 45): distribution includes Ilio Point dunes",
+          "Olson & James 1982 (Smithsonian Contributions to Zoology 365): Molokaʻi fossil dunes localities (ʻĪlio Point)"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -157.256946,
+          21.217501
+        ]
+      }
+    }
+  ]
+}
