@@ -1,4 +1,242 @@
 [ 
+      {
+    "id": "xestospiza_fastigialis",
+    "name": {
+      "de": "Rückenschnabel-Fink",
+      "lat": "Xestospiza fastigialis",
+      "en": "Ridge-billed finch"
+    },
+    "last_seen": "1500",
+    "location": {
+      "lat": 21.146010,
+      "lng": -156.844020
+    },
+    "habitat": "Maui ,Molokai, Oahu",
+    "images": {
+      "tooltip": "",
+      "panel": ""
+    },
+    "panel": {
+      "description": "",
+      "habitat_text": "",
+      "extinction_text": ""
+    },
+    "taxonomy": {
+      "family": "Kleidervögel (Drepanidini)",
+      "genus": "Xestospiza"
+    },
+    "ranges": {
+      "range_native": null,
+      "breeding_native": null,
+      "range_hypothetical": null,
+      "find_spots": null,
+      "last_observation": null
+    }
+  },
+   {
+    "id": "xestospiza_conica",
+    "name": {
+      "de": "Kegelschnabel-Fink",
+      "lat": "Xestospiza conica",
+      "en": "Cone-billed finch"
+    },
+    "last_seen": "1500",
+    "location": {
+      "lat": 21.990481,
+      "lng": -159.747698
+    },
+    "habitat": "Kauai",
+    "images": {
+      "tooltip": "",
+      "panel": ""
+    },
+    "panel": {
+      "description": "",
+      "habitat_text": "",
+      "extinction_text": ""
+    },
+    "taxonomy": {
+      "family": "Kleidervögel (Drepanidini)",
+      "genus": "Xestospiza"
+    },
+    "ranges": {
+      "range_native": null,
+      "breeding_native": null,
+      "range_hypothetical": null,
+      "find_spots": null,
+      "last_observation": null
+    }
+  },
+    {
+    "id": "vangulifer_neophasis",
+    "name": {
+      "de": "Vangulifer neophasis",
+      "lat": "Vangulifer neophasis",
+      "en": "Vangulifer neophasis"
+    },
+    "last_seen": "1500",
+    "location": {
+      "lat": 20.981429,
+      "lng": -156.636267
+    },
+    "habitat": "Maui",
+    "images": {
+      "tooltip": "",
+      "panel": ""
+    },
+    "panel": {
+      "description": "",
+      "habitat_text": "",
+      "extinction_text": ""
+    },
+    "taxonomy": {
+      "family": "Kleidervögel (Drepanidini)",
+      "genus": "Vangulifer"
+    },
+    "ranges": {
+      "range_native": null,
+      "breeding_native": null,
+      "range_hypothetical": null,
+      "find_spots": null,
+      "last_observation": null
+    }
+  },
+   {
+    "id": "vangulifer_mirandus",
+    "name": {
+      "de": "Vangulifer mirandus",
+      "lat": "Vangulifer mirandus",
+      "en": "Vangulifer mirandus"
+    },
+    "last_seen": "1500",
+    "location": {
+      "lat": 20.786478,
+      "lng": -156.069171
+    },
+    "habitat": "Maui",
+    "images": {
+      "tooltip": "",
+      "panel": ""
+    },
+    "panel": {
+      "description": "",
+      "habitat_text": "",
+      "extinction_text": ""
+    },
+    "taxonomy": {
+      "family": "Kleidervögel (Drepanidini)",
+      "genus": "Vangulifer"
+    },
+    "ranges": {
+      "range_native": null,
+      "breeding_native": null,
+      "range_hypothetical": null,
+      "find_spots": null,
+      "last_observation": null
+    }
+  },
+   {
+    "id": "aidemedia_zanclops",
+    "name": {
+      "de": "Aidemedia zanclops",
+      "lat": "Aidemedia zanclops",
+      "en": "Aidemedia zanclops"
+    },
+    "last_seen": "1500",
+    "location": {
+      "lat": 21.302271,
+      "lng": -157.782514
+    },
+    "habitat": "Oahu",
+    "images": {
+      "tooltip": "",
+      "panel": ""
+    },
+    "panel": {
+      "description": "",
+      "habitat_text": "",
+      "extinction_text": ""
+    },
+    "taxonomy": {
+      "family": "Kleidervögel (Drepanidini)",
+      "genus": "Aidemedia"
+    },
+    "ranges": {
+      "range_native": null,
+      "breeding_native": null,
+      "range_hypothetical": null,
+      "find_spots": null,
+      "last_observation": null
+    }
+  },
+   {
+    "id": "aidemedia_chascax",
+    "name": {
+      "de": "Aidemedia chascax",
+      "lat": "Aidemedia chascax",
+      "en": "Aidemedia chascax"
+    },
+    "last_seen": "1500",
+    "location": {
+      "lat": 21.385259,
+      "lng": -157.804119
+    },
+    "habitat": "Oahu",
+    "images": {
+      "tooltip": "",
+      "panel": ""
+    },
+    "panel": {
+      "description": "",
+      "habitat_text": "",
+      "extinction_text": ""
+    },
+    "taxonomy": {
+      "family": "Kleidervögel (Drepanidini)",
+      "genus": "Aidemedia"
+    },
+    "ranges": {
+      "range_native": null,
+      "breeding_native": null,
+      "range_hypothetical": null,
+      "find_spots": null,
+      "last_observation": null
+    }
+  },
+   {
+    "id": "aidemedia_lutetiae ",
+    "name": {
+      "de": "Aidemedia lutetiae",
+      "lat": "Aidemedia lutetiae",
+      "en": "Aidemedia lutetiae"
+    },
+    "last_seen": "1500",
+    "location": {
+      "lat": 20.831011,
+      "lng": -156.191565
+    },
+    "habitat": "Maui/Molokai",
+    "images": {
+      "tooltip": "",
+      "panel": ""
+    },
+    "panel": {
+      "description": "",
+      "habitat_text": "",
+      "extinction_text": ""
+    },
+    "taxonomy": {
+      "family": "Kleidervögel (Drepanidini)",
+      "genus": "Aidemedia"
+    },
+    "ranges": {
+      "range_native": null,
+      "breeding_native": null,
+      "range_hypothetical": null,
+      "find_spots": null,
+      "last_observation": null
+    }
+  },
    {
     "id": "telespiza_ypsilon",
     "name": {
