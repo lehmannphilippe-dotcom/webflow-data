@@ -1,0 +1,158 @@
+[
+  {
+    "id": "drepanidini",
+    "name": {
+      "de": "Kleidervögel",
+      "lat": "Drepanidini",
+      "en": "Drepanidini"
+    },
+    "extinction_date": null,
+    "panel": {
+      "description": ""
+    }
+  },
+  {
+    "id": "procellariidae",
+    "name": {
+      "de": "Sturmvögel",
+      "lat": "Procellariidae",
+      "en": "Procellariidae"
+    },
+    "extinction_date": null,
+    "panel": {
+      "description": ""
+    }
+  },
+  {
+    "id": "threskiornithidae",
+    "name": {
+      "de": "Ibisse und Löffler",
+      "lat": "Threskiornithidae",
+      "en": "Threskiornithidae"
+    },
+    "extinction_date": null,
+    "panel": {
+      "description": ""
+    }
+  },
+  {
+    "id": "anserinae",
+    "name": {
+      "de": "Gänse",
+      "lat": "Anserinae",
+      "en": "Anserinae"
+    },
+    "extinction_date": null,
+    "panel": {
+      "description": ""
+    }
+  },
+  {
+    "id": "buteoninae",
+    "name": {
+      "de": "Bussardartige",
+      "lat": "Buteoninae",
+      "en": "Buteoninae"
+    },
+    "extinction_date": null,
+    "panel": {
+      "description": ""
+    }
+  },
+  {
+    "id": "rallidae",
+    "name": {
+      "de": "Rallen",
+      "lat": "Rallidae",
+      "en": "Rallidae"
+    },
+    "extinction_date": null,
+    "panel": {
+      "description": ""
+    }
+  },
+  {
+    "id": "strigidae",
+    "name": {
+      "de": "Eigentliche Eulen",
+      "lat": "Strigidae",
+      "en": "Strigidae"
+    },
+    "extinction_date": null,
+    "panel": {
+      "description": ""
+    }
+  },
+  {
+    "id": "corvidae",
+    "name": {
+      "de": "Rabenvögel",
+      "lat": "Corvidae",
+      "en": "Corvidae"
+    },
+    "extinction_date": null,
+    "panel": {
+      "description": ""
+    }
+  },
+  {
+    "id": "fringillidae",
+    "name": {
+      "de": "Fringillidae",
+      "lat": "Fringillidae",
+      "en": "Fringillidae"
+    },
+    "extinction_date": null,
+    "panel": {
+      "description": ""
+    }
+  },
+  {
+    "id": "accipitridae",
+    "name": {
+      "de": "Habichtartige",
+      "lat": "Accipitridae",
+      "en": "Accipitridae"
+    },
+    "extinction_date": null,
+    "panel": {
+      "description": ""
+    }
+  },
+  {
+    "id": "thambetochenini",
+    "name": {
+      "de": "Moa-Nalos",
+      "lat": "Thambetochenini",
+      "en": "Thambetochenini"
+    },
+    "extinction_date": null,
+    "panel": {
+      "description": ""
+    }
+  },
+  {
+    "id": "alcidae",
+    "name": {
+      "de": "Alkenvögel",
+      "lat": "Alcidae",
+      "en": "Alcidae"
+    },
+    "extinction_date": null,
+    "panel": {
+      "description": ""
+    }
+  },
+  {
+    "id": "mohoidae",
+    "name": {
+      "de": "Mohoidae",
+      "lat": "Mohoidae",
+      "en": "Mohoidae"
+    },
+    "extinction_date": null,
+    "panel": {
+      "description": ""
+    }
+  }
+]
