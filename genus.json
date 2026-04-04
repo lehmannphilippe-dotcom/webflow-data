@@ -1,0 +1,352 @@
+[
+  {
+    "id": "aidemedia",
+    "family": "Kleidervögel (Drepanidini)",
+    "family_key": "drepanidini",
+    "name": {
+      "de": "Aidemedia",
+      "lat": "Aidemedia",
+      "en": "Aidemedia"
+    },
+    "extinction_date": "",
+    "panel": {
+      "description": ""
+    }
+  },
+  {
+    "id": "apteribis",
+    "family": "Ibisse und Löffler (Threskiornithidae)",
+    "family_key": "threskiornithidae",
+    "name": {
+      "de": "Maui-Nui-Ibisse",
+      "lat": "Apteribis",
+      "en": "Apteribis"
+    },
+    "extinction_date": "",
+    "panel": {
+      "description": ""
+    }
+  },
+  {
+    "id": "branta",
+    "family": "Gänse (Anserinae)",
+    "family_key": "anserinae",
+    "name": {
+      "de": "Meergänse",
+      "lat": "Branta",
+      "en": "Branta"
+    },
+    "extinction_date": "",
+    "panel": {
+      "description": ""
+    }
+  },
+  {
+    "id": "chelychelynechen",
+    "family": "Thambetochenini (Moa-Nalos)",
+    "family_key": "thambetochenini",
+    "name": {
+      "de": "Chelychelynechen",
+      "lat": "Chelychelynechen",
+      "en": "Chelychelynechen"
+    },
+    "extinction_date": "",
+    "panel": {
+      "description": ""
+    }
+  },
+  {
+    "id": "chloridops",
+    "family": "Kleidervögel (Drepanidini)",
+    "family_key": "drepanidini",
+    "name": {
+      "de": "Chloridops",
+      "lat": "Chloridops",
+      "en": "Chloridops"
+    },
+    "extinction_date": "",
+    "panel": {
+      "description": ""
+    }
+  },
+  {
+    "id": "circus",
+    "family": "Habichtartige (Accipitridae)",
+    "family_key": "accipitridae",
+    "name": {
+      "de": "Weihen",
+      "lat": "Circus",
+      "en": "Circus"
+    },
+    "extinction_date": "",
+    "panel": {
+      "description": ""
+    }
+  },
+  {
+    "id": "ciridops",
+    "family": "Kleidervögel (Drepanidini)",
+    "family_key": "drepanidini",
+    "name": {
+      "de": "Ciridops",
+      "lat": "Ciridops",
+      "en": "Ciridops"
+    },
+    "extinction_date": "",
+    "panel": {
+      "description": ""
+    }
+  },
+  {
+    "id": "corvus",
+    "family": "Rabenvögel (Corvidae)",
+    "family_key": "corvidae",
+    "name": {
+      "de": "Raben und Krähen",
+      "lat": "Corvus",
+      "en": "Corvus"
+    },
+    "extinction_date": "",
+    "panel": {
+      "description": ""
+    }
+  },
+  {
+    "id": "drepanis",
+    "family": "Kleidervögel (Drepanidini)",
+    "family_key": "drepanidini",
+    "name": {
+      "de": "Mamos",
+      "lat": "Drepanis",
+      "en": "Drepanis"
+    },
+    "extinction_date": "",
+    "panel": {
+      "description": ""
+    }
+  },
+  {
+    "id": "dysmorodrepanis",
+    "family": "Kleidervögel (Drepanidini)",
+    "family_key": "drepanidini",
+    "name": {
+      "de": "Dysmorodrepanis",
+      "lat": "Dysmorodrepanis",
+      "en": "Dysmorodrepanis"
+    },
+    "extinction_date": "",
+    "panel": {
+      "description": ""
+    }
+  },
+  {
+    "id": "grallistrix",
+    "family": "Eigentliche Eulen (Strigidae)",
+    "family_key": "strigidae",
+    "name": {
+      "de": "Grallistrix",
+      "lat": "Grallistrix",
+      "en": "Grallistrix"
+    },
+    "extinction_date": "",
+    "panel": {
+      "description": ""
+    }
+  },
+  {
+    "id": "haliaeetus",
+    "family": "Bussardartige (Buteoninae)",
+    "family_key": "buteoninae",
+    "name": {
+      "de": "Seeadler",
+      "lat": "Haliaeetus",
+      "en": "Haliaeetus"
+    },
+    "extinction_date": "",
+    "panel": {
+      "description": ""
+    }
+  },
+  {
+    "id": "hemignathus",
+    "family": "Kleidervögel (Drepanidini)",
+    "family_key": "drepanidini",
+    "name": {
+      "de": "Hemignathus",
+      "lat": "Hemignathus",
+      "en": "Hemignathus"
+    },
+    "extinction_date": "",
+    "panel": {
+      "description": ""
+    }
+  },
+  {
+    "id": "hemignathus_akialoa",
+    "family": "Kleidervögel (Drepanidini)",
+    "family_key": "drepanidini",
+    "name": {
+      "de": "Hemignathus/Akialoa",
+      "lat": "Hemignathus/Akialoa",
+      "en": "Hemignathus/Akialoa"
+    },
+    "extinction_date": "",
+    "panel": {
+      "description": ""
+    }
+  },
+  {
+    "id": "loxioides",
+    "family": "Kleidervögel (Drepanidini)",
+    "family_key": "drepanidini",
+    "name": {
+      "de": "Loxioides",
+      "lat": "Loxioides",
+      "en": "Loxioides"
+    },
+    "extinction_date": "",
+    "panel": {
+      "description": ""
+    }
+  },
+  {
+    "id": "melamprosops",
+    "family": "Kleidervögel (Drepanidini)",
+    "family_key": "drepanidini",
+    "name": {
+      "de": "Melamprosops",
+      "lat": "Melamprosops",
+      "en": "Melamprosops"
+    },
+    "extinction_date": "",
+    "panel": {
+      "description": ""
+    }
+  },
+  {
+    "id": "moho",
+    "family": "Mohoidae",
+    "family_key": "mohoidae",
+    "name": {
+      "de": "Krausschwänze",
+      "lat": "Moho",
+      "en": "Moho"
+    },
+    "extinction_date": "",
+    "panel": {
+      "description": ""
+    }
+  },
+  {
+    "id": "pinguinus",
+    "family": "Alkenvögel (Alcidae)",
+    "family_key": "alcidae",
+    "name": {
+      "de": "Pinguinus",
+      "lat": "Pinguinus",
+      "en": "Pinguinus"
+    },
+    "extinction_date": "",
+    "panel": {
+      "description": ""
+    }
+  },
+  {
+    "id": "porzana",
+    "family": "Rallen (Rallidae)",
+    "family_key": "rallidae",
+    "name": {
+      "de": "Porzana",
+      "lat": "Porzana",
+      "en": "Porzana"
+    },
+    "extinction_date": "",
+    "panel": {
+      "description": ""
+    }
+  },
+  {
+    "id": "pterodroma",
+    "family": "Sturmvögel (Procellariidae)",
+    "family_key": "procellariidae",
+    "name": {
+      "de": "Hakensturmtaucher",
+      "lat": "Pterodroma",
+      "en": "Pterodroma"
+    },
+    "extinction_date": "",
+    "panel": {
+      "description": ""
+    }
+  },
+  {
+    "id": "rhodacanthis",
+    "family": "Fringillidae",
+    "family_key": "fringillidae",
+    "name": {
+      "de": "Rhodacanthis",
+      "lat": "Rhodacanthis",
+      "en": "Rhodacanthis"
+    },
+    "extinction_date": "",
+    "panel": {
+      "description": ""
+    }
+  },
+  {
+    "id": "telespiza",
+    "family": "Kleidervögel (Drepanidini)",
+    "family_key": "drepanidini",
+    "name": {
+      "de": "Telespiza",
+      "lat": "Telespiza",
+      "en": "Telespiza"
+    },
+    "extinction_date": "",
+    "panel": {
+      "description": ""
+    }
+  },
+  {
+    "id": "vangulifer",
+    "family": "Kleidervögel (Drepanidini)",
+    "family_key": "drepanidini",
+    "name": {
+      "de": "Vangulifer",
+      "lat": "Vangulifer",
+      "en": "Vangulifer"
+    },
+    "extinction_date": "",
+    "panel": {
+      "description": ""
+    }
+  },
+  {
+    "id": "xestospiza",
+    "family": "Kleidervögel (Drepanidini)",
+    "family_key": "drepanidini",
+    "name": {
+      "de": "Xestospiza",
+      "lat": "Xestospiza",
+      "en": "Xestospiza"
+    },
+    "extinction_date": "",
+    "panel": {
+      "description": ""
+    }
+  },
+  {
+    "id": "zapornia",
+    "family": "Rallen (Rallidae)",
+    "family_key": "rallidae",
+    "name": {
+      "de": "Zapornia",
+      "lat": "Zapornia",
+      "en": "Zapornia"
+    },
+    "extinction_date": "",
+    "panel": {
+      "description": ""
+    }
+  }
+]
