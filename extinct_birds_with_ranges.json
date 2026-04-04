@@ -1,5 +1,5 @@
-[ 
-      {
+[
+  {
     "id": "xestospiza_fastigialis",
     "name": {
       "de": "Rückenschnabel-Fink",
@@ -8,8 +8,8 @@
     },
     "last_seen": "1500",
     "location": {
-      "lat": 21.146010,
-      "lng": -156.844020
+      "lat": 21.14601,
+      "lng": -156.84402
     },
     "habitat": "Maui ,Molokai, Oahu",
     "images": {
@@ -23,7 +23,9 @@
     },
     "taxonomy": {
       "family": "Kleidervögel (Drepanidini)",
-      "genus": "Xestospiza"
+      "genus": "Xestospiza",
+      "family_key": "drepanidini",
+      "genus_key": "xestospiza"
     },
     "ranges": {
       "range_native": null,
@@ -33,7 +35,7 @@
       "last_observation": null
     }
   },
-   {
+  {
     "id": "xestospiza_conica",
     "name": {
       "de": "Kegelschnabel-Fink",
@@ -57,7 +59,9 @@
     },
     "taxonomy": {
       "family": "Kleidervögel (Drepanidini)",
-      "genus": "Xestospiza"
+      "genus": "Xestospiza",
+      "family_key": "drepanidini",
+      "genus_key": "xestospiza"
     },
     "ranges": {
       "range_native": null,
@@ -67,7 +71,7 @@
       "last_observation": null
     }
   },
-    {
+  {
     "id": "vangulifer_neophasis",
     "name": {
       "de": "Vangulifer neophasis",
@@ -91,7 +95,9 @@
     },
     "taxonomy": {
       "family": "Kleidervögel (Drepanidini)",
-      "genus": "Vangulifer"
+      "genus": "Vangulifer",
+      "family_key": "drepanidini",
+      "genus_key": "vangulifer"
     },
     "ranges": {
       "range_native": null,
@@ -101,7 +107,7 @@
       "last_observation": null
     }
   },
-   {
+  {
     "id": "vangulifer_mirandus",
     "name": {
       "de": "Vangulifer mirandus",
@@ -125,7 +131,9 @@
     },
     "taxonomy": {
       "family": "Kleidervögel (Drepanidini)",
-      "genus": "Vangulifer"
+      "genus": "Vangulifer",
+      "family_key": "drepanidini",
+      "genus_key": "vangulifer"
     },
     "ranges": {
       "range_native": null,
@@ -135,7 +143,7 @@
       "last_observation": null
     }
   },
-   {
+  {
     "id": "aidemedia_zanclops",
     "name": {
       "de": "Aidemedia zanclops",
@@ -159,7 +167,9 @@
     },
     "taxonomy": {
       "family": "Kleidervögel (Drepanidini)",
-      "genus": "Aidemedia"
+      "genus": "Aidemedia",
+      "family_key": "drepanidini",
+      "genus_key": "aidemedia"
     },
     "ranges": {
       "range_native": null,
@@ -169,7 +179,7 @@
       "last_observation": null
     }
   },
-   {
+  {
     "id": "aidemedia_chascax",
     "name": {
       "de": "Aidemedia chascax",
@@ -193,7 +203,9 @@
     },
     "taxonomy": {
       "family": "Kleidervögel (Drepanidini)",
-      "genus": "Aidemedia"
+      "genus": "Aidemedia",
+      "family_key": "drepanidini",
+      "genus_key": "aidemedia"
     },
     "ranges": {
       "range_native": null,
@@ -203,7 +215,7 @@
       "last_observation": null
     }
   },
-   {
+  {
     "id": "aidemedia_lutetiae ",
     "name": {
       "de": "Aidemedia lutetiae",
@@ -227,7 +239,9 @@
     },
     "taxonomy": {
       "family": "Kleidervögel (Drepanidini)",
-      "genus": "Aidemedia"
+      "genus": "Aidemedia",
+      "family_key": "drepanidini",
+      "genus_key": "aidemedia"
     },
     "ranges": {
       "range_native": null,
@@ -237,7 +251,7 @@
       "last_observation": null
     }
   },
-   {
+  {
     "id": "telespiza_ypsilon",
     "name": {
       "de": "Maui Nui Fink ",
@@ -261,7 +275,9 @@
     },
     "taxonomy": {
       "family": "Kleidervögel (Drepanidini)",
-      "genus": "Telespiza "
+      "genus": "Telespiza ",
+      "family_key": "drepanidini",
+      "genus_key": "telespiza"
     },
     "ranges": {
       "range_native": null,
@@ -271,7 +287,7 @@
       "last_observation": null
     }
   },
-   {
+  {
     "id": "telespiza_pursuerix",
     "name": {
       "de": "Kauai-Fink ",
@@ -295,7 +311,9 @@
     },
     "taxonomy": {
       "family": "Kleidervögel (Drepanidini)",
-      "genus": "Telespiza "
+      "genus": "Telespiza ",
+      "family_key": "drepanidini",
+      "genus_key": "telespiza"
     },
     "ranges": {
       "range_native": null,
@@ -305,7 +323,7 @@
       "last_observation": null
     }
   },
-   {
+  {
     "id": "pterodroma_jugabilis",
     "name": {
       "de": "Oahu-Sturmvogel",
@@ -324,12 +342,14 @@
     },
     "panel": {
       "description": "<p>Über den Oahu-Sturmvogel ist nur wenig bekannt. Die Art wurde 1991 von Storrs L. Olson (1944–2021) und Helen F. James (*1956) anhand weniger subfossiler Knochen beschrieben.</p><p>Der Oahu-Sturmvogel war einer der kleinsten bekannten Sturmvögel. Den grössten Teil seines Lebens verbrachte er auf offener See und konnte dabei trotz seiner geringen Grösse weite Strecken zurücklegen. Zudem war er in der Lage, sich auch schwierigsten Wetterbedingungen auszusetzen.</p><p>Wahrscheinlich war auch der Oahu-Sturmvogel ein nachtaktiver Hochseevogel, der seine Nahrung – kleine Fische und wirbellose Meerestiere wie Krebse und Kalmare – knapp unter der Wasseroberfläche erbeutete. Auf Grundlage der heute lebenden Hakensturmtaucher legte auch der Oahu-Sturmvogel wohl nur ein einziges Ei pro jährlichem Brutversuch. Vermutlich brütete er in dichten Kolonien in Erd- oder Sandbauen an Stränden und/oder in Ritzen und Höhlenräumen an felsigen Küstenabschnitten.</p>",
-     "habitat_text": "<p>Wie alle Sturmvogelarten besass auch der Oahu-Sturmvogel vermutlich ein ausgedehntes Verbreitungsgebiet, das weite Teile des Pazifiks umfasste. Während der Brutzeit versammelte er sich in grösseren Kolonien an wenigen Standorten auf den Hauptinseln von Hawaiʻi.</p><p>Da Hawaiʻi vor der Ankunft des Menschen keine einheimischen landlebenden Säugetiere und keine einheimischen Landreptilien aufwies, konnten boden- und höhlenbrütende Seevögel ursprünglich auch leicht zugängliche Nistplätze nutzen.</p><p>Ob der Oahu-Sturmvogel seine Brutgebiete mit dem Hawai-Sturmvogel (Pterodroma sandwichensis) teilte, ist bislang nicht sicher belegt. Obwohl eine räumliche Überschneidung beider Arten während der Brutzeit grundsätzlich möglich erscheint, lässt sich nicht nachweisen, ob sie dieselben Brutplätze nutzten und gemeinsam in Kolonien vorkamen oder ob sie sich in ihrer Habitatwahl unterschieden, etwa hinsichtlich der Höhenlage, der Lage der Brutplätze oder der Art der genutzten Hohlräume.</p>",
-     "extinction_text": "<p>Das genaue Aussterbedatum des Oahu-Sturmvogels ist unbekannt. Funde aus archäologischem Kontext zeigen jedoch, dass die Art wenige Jahrhunderte nach der Besiedlung Hawaiʻis durch polynesische Siedler verschwunden ist.</p><p>Wie bei vielen anderen boden- und höhlenbrütenden Vogelarten Hawais dürfte sein Rückgang auf mehrere Faktoren zurückzuführen sein. Sowohl für den Menschen als auch für eingeschleppte Tierarten wie die polynesische Ratte waren die leicht zugänglichen Nistplätze eine ideale Nahrungsquelle für Eier und Jungtiere. Da die Art vermutlich nur wenige geeignete Brutplätze nutzte und wie andere Hakensturmtaucher nur ein einziges Ei pro Brutversuch legte, brach die Population innert kürzester Zeit zusammen.</p><p>Ein ähnlicher Prozess spielte sich auch beim Hawai-Sturmvogel (Pterodroma sandwichensis) ab, der heute auf den meisten Hauptinseln Hawais verschwunden ist und seine Brutgebiete in hohe, schwer zugängliche Kraterlandschaften verlagert hat. Im Unterschied zum Hawai-Sturmvogel konnte sich der Oahu-Sturmvogel nicht schnell genug an die veränderten Bedingungen anpassen und keine ausreichend geschützten Rückzugsräume erschliessen, sodass er schliesslich vollständig verschwand.</p>"
+      "habitat_text": "<p>Wie alle Sturmvogelarten besass auch der Oahu-Sturmvogel vermutlich ein ausgedehntes Verbreitungsgebiet, das weite Teile des Pazifiks umfasste. Während der Brutzeit versammelte er sich in grösseren Kolonien an wenigen Standorten auf den Hauptinseln von Hawaiʻi.</p><p>Da Hawaiʻi vor der Ankunft des Menschen keine einheimischen landlebenden Säugetiere und keine einheimischen Landreptilien aufwies, konnten boden- und höhlenbrütende Seevögel ursprünglich auch leicht zugängliche Nistplätze nutzen.</p><p>Ob der Oahu-Sturmvogel seine Brutgebiete mit dem Hawai-Sturmvogel (Pterodroma sandwichensis) teilte, ist bislang nicht sicher belegt. Obwohl eine räumliche Überschneidung beider Arten während der Brutzeit grundsätzlich möglich erscheint, lässt sich nicht nachweisen, ob sie dieselben Brutplätze nutzten und gemeinsam in Kolonien vorkamen oder ob sie sich in ihrer Habitatwahl unterschieden, etwa hinsichtlich der Höhenlage, der Lage der Brutplätze oder der Art der genutzten Hohlräume.</p>",
+      "extinction_text": "<p>Das genaue Aussterbedatum des Oahu-Sturmvogels ist unbekannt. Funde aus archäologischem Kontext zeigen jedoch, dass die Art wenige Jahrhunderte nach der Besiedlung Hawaiʻis durch polynesische Siedler verschwunden ist.</p><p>Wie bei vielen anderen boden- und höhlenbrütenden Vogelarten Hawais dürfte sein Rückgang auf mehrere Faktoren zurückzuführen sein. Sowohl für den Menschen als auch für eingeschleppte Tierarten wie die polynesische Ratte waren die leicht zugänglichen Nistplätze eine ideale Nahrungsquelle für Eier und Jungtiere. Da die Art vermutlich nur wenige geeignete Brutplätze nutzte und wie andere Hakensturmtaucher nur ein einziges Ei pro Brutversuch legte, brach die Population innert kürzester Zeit zusammen.</p><p>Ein ähnlicher Prozess spielte sich auch beim Hawai-Sturmvogel (Pterodroma sandwichensis) ab, der heute auf den meisten Hauptinseln Hawais verschwunden ist und seine Brutgebiete in hohe, schwer zugängliche Kraterlandschaften verlagert hat. Im Unterschied zum Hawai-Sturmvogel konnte sich der Oahu-Sturmvogel nicht schnell genug an die veränderten Bedingungen anpassen und keine ausreichend geschützten Rückzugsräume erschliessen, sodass er schliesslich vollständig verschwand.</p>"
     },
     "taxonomy": {
       "family": "Sturmvögel (Procellariidae)",
-      "genus": "Hakensturmtaucher (Pterodroma)"
+      "genus": "Hakensturmtaucher (Pterodroma)",
+      "family_key": "procellariidae",
+      "genus_key": "pterodroma"
     },
     "ranges": {
       "range_native": null,
@@ -339,7 +359,7 @@
       "last_observation": null
     }
   },
-   {
+  {
     "id": "Apteribis glenos",
     "name": {
       "de": "Molokai-Ibis",
@@ -359,11 +379,13 @@
     "panel": {
       "description": "<p>Über den Molokai-Ibis ist nur wenig bekannt. Die Art wurde erstmals 1976 von Storrs L. Olson (1944–2021) und Alexander Wetmore (1886–1978) beschrieben.</p><p>Wie alle Arten der Gattung Apteribis war auch der Molokai-Ibis flugunfähig. Er besass verkürzte, kräftige Beine, die ihm vermutlich eine wendige und agile Fortbewegung am Waldboden ermöglichten. Zudem waren die visuellen Strukturen im Schädel stark zurückgebildet. Dies betrifft die Augen, den Sehnerv sowie den Bereich des Tectum opticum, in dem visuelle Reize im Gehirn verarbeitet werden.</p><p>Diese stark reduzierten Sehstrukturen deuten darauf hin, dass der Molokai-Ibis nur über ein eingeschränktes Sehvermögen verfügte und wahrscheinlich nachtaktiv war – ein Zustand, der unter den Ibissen bislang nur für die ausgestorbene Gattung Apteribis aus Hawaii bekannt ist. Vermutlich stützte sich die Art vor allem auf taktile Reize, die sie mit ihrem Schnabel wahrnahm, um Beutetiere wie Landschnecken oder flugunfähige Grillen aufzuspüren. Ihre Lebensweise ähnelte damit wahrscheinlich jener der heutigen Kiwis in Neuseeland.</p>",
       "habitat_text": "<p>Der Molokai-Ibis war vermutlich vor allem in Tieflandhabitaten und küstennahen Waldlandschaften verbreitet. Diese Einschätzung stützt sich auf die bisher bekannten Fundorte auf Molokai. Da das Fossilmaterial jedoch begrenzt ist, bleibt offen, ob die Art ausschliesslich auf solche Lebensräume beschränkt war oder auch andere Habitate der Insel nutzte.</p>",
-     "extinction_text": "<p>Ob die Art bereits vor der Ankunft der ersten Menschen ausstarb, lässt sich heute nicht eindeutig klären. Die bisher bekannten Knochenfunde stammen ausschliesslich aus einer Zeit vor der Besiedlung durch den Menschen.</p><p>Falls der Molokai-Ibis bei der Ankunft der ersten Siedler noch existierte, dürfte er aufgrund seiner fehlenden Fluchtmöglichkeiten gegenüber eingeschleppten Raubtieren sowie durch den Verlust seines Lebensraums rasch verschwunden sein. Möglich ist jedoch auch, dass die Art bereits zuvor, während des Übergangs vom Pleistozän zum Holozän und den damit verbundenen klimatischen Veränderungen, ausstarb.</p>"
+      "extinction_text": "<p>Ob die Art bereits vor der Ankunft der ersten Menschen ausstarb, lässt sich heute nicht eindeutig klären. Die bisher bekannten Knochenfunde stammen ausschliesslich aus einer Zeit vor der Besiedlung durch den Menschen.</p><p>Falls der Molokai-Ibis bei der Ankunft der ersten Siedler noch existierte, dürfte er aufgrund seiner fehlenden Fluchtmöglichkeiten gegenüber eingeschleppten Raubtieren sowie durch den Verlust seines Lebensraums rasch verschwunden sein. Möglich ist jedoch auch, dass die Art bereits zuvor, während des Übergangs vom Pleistozän zum Holozän und den damit verbundenen klimatischen Veränderungen, ausstarb.</p>"
     },
     "taxonomy": {
       "family": "Ibisse und Löffler (Threskiornithidae)",
-      "genus": "Maui-Nui-Ibisse (Apteribis)"
+      "genus": "Maui-Nui-Ibisse (Apteribis)",
+      "family_key": "threskiornithidae",
+      "genus_key": "apteribis"
     },
     "ranges": {
       "range_native": null,
@@ -393,11 +415,13 @@
     "panel": {
       "description": "<p>Von dieser bislang unbeschriebenen Form ist bis heute nur ein einziger Fund bekannt. Zwar handelt es sich dabei um ein nahezu vollständiges Skelett mit sogar gut erhaltenen Konturfedern, doch reicht dieser aussergewöhnliche Einzelfund bislang nicht aus, um die Form als eigenständige Art sicher zu definieren und eindeutig von anderen Maui-Nui-Ibissen wie etwa dem Molokai-Ibis (Apteribis glenos) abzugrenzen.</p><p>Die erhaltenen Federn deuten auf eine Färbung mit braun-schwarzen sowie elfenbein-beigen bis hellbraunen Partien hin. Wie alle Arten der Gattung Apteribis war auch diese Form flugunfähig und mit verkürzten, kräftigen Beinen an ein Leben am Boden angepasst. Aufgrund ihres eingeschränkten Sehvermögens war auch diese Form wahrscheinlich vorwiegend nachtaktiv und ernährte sich von Wirbellosen wie Landschnecken und flugunfähigen Grillen.</p>",
       "habitat_text": "<p>Falls es sich bei dieser Form tatsächlich um eine eigenständige Art handelte, war sie vermutlich auf Lānaʻi beschränkt und somit endemisch. Ob sie vorwiegend trockene Niederungen, Waldhabitate oder ein breiteres Spektrum unterschiedlicher Lebensräume nutzte, lässt sich aufgrund der bislang sehr begrenzten Funde jedoch nicht sicher bestimmen.</p>",
-     "extinction_text": "<p>Ob der flugunfähige Maui-Nui-Ibis von Lānaʻi bereits vor der Ankunft der ersten Menschen ausstarb, lässt sich heute nicht eindeutig klären. Die bisher bekannten Knochenfunde stammen ausschliesslich aus einer Zeit vor der Besiedlung durch den Menschen.</p><p>Falls die Form bei der Ankunft der ersten Siedler noch existierte, dürfte sie aufgrund ihrer fehlenden Fluchtmöglichkeiten gegenüber eingeschleppten Raubtieren sowie durch den Verlust ihres Lebensraums rasch verschwunden sein. Möglich ist jedoch auch, dass die Form bereits zuvor, während des Übergangs vom Pleistozän zum Holozän und den damit verbundenen klimatischen Veränderungen, ausstarb.</p>"
+      "extinction_text": "<p>Ob der flugunfähige Maui-Nui-Ibis von Lānaʻi bereits vor der Ankunft der ersten Menschen ausstarb, lässt sich heute nicht eindeutig klären. Die bisher bekannten Knochenfunde stammen ausschliesslich aus einer Zeit vor der Besiedlung durch den Menschen.</p><p>Falls die Form bei der Ankunft der ersten Siedler noch existierte, dürfte sie aufgrund ihrer fehlenden Fluchtmöglichkeiten gegenüber eingeschleppten Raubtieren sowie durch den Verlust ihres Lebensraums rasch verschwunden sein. Möglich ist jedoch auch, dass die Form bereits zuvor, während des Übergangs vom Pleistozän zum Holozän und den damit verbundenen klimatischen Veränderungen, ausstarb.</p>"
     },
     "taxonomy": {
       "family": "Ibisse und Löffler (Threskiornithidae)",
-      "genus": "Maui-Nui-Ibisse (Apteribis)"
+      "genus": "Maui-Nui-Ibisse (Apteribis)",
+      "family_key": "threskiornithidae",
+      "genus_key": "apteribis"
     },
     "ranges": {
       "range_native": null,
@@ -426,12 +450,14 @@
     },
     "panel": {
       "description": "<p>Von dieser bislang unbeschriebenen Form sind bis heute nur sehr fragmentarische Überreste bekannt. Obwohl sich die Funde in ihrer Grösse klar vom Maui-Hochlandibis unterscheiden und heute mehrheitlich angenommen wird, dass es sich bei dieser Form um eine eigenständige Art handelt, ist die Datengrundlage bislang zu schmal, um sie eindeutig vom Molokai-Ibis (Apteribis glenos) abzugrenzen.</p><p>Wie alle Arten der Gattung Apteribis war auch diese Form flugunfähig und mit verkürzten, kräftigen Beinen an ein Leben am Boden angepasst. Aufgrund ihres eingeschränkten Sehvermögens war auch diese Art wahrscheinlich vorwiegend nachtaktiv und ernährte sich von Wirbellosen wie Landschnecken und flugunfähigen Grillen. Ihre Lebensweise ähnelte damit vermutlich jener der heutigen Kiwis in Neuseeland.</p>",
-     "habitat_text": "<p>Neben dem Maui-Hochlandibis bewohnte diese Form vermutlich vor allem offene Graslandschaften und Waldgebiete in tieferen Lagen der Insel Maui. Aufgrund des begrenzten Fossilmaterials lässt sich das ursprüngliche Verbreitungsgebiet heute jedoch nicht mehr genau bestimmen.</p>",
-     "extinction_text": "<p>Ob diese Form bereits vor der Ankunft der ersten Menschen ausstarb, lässt sich heute nicht eindeutig klären. Die bisher bekannten Knochenfunde stammen ausschliesslich aus einer Zeit vor der Besiedlung durch den Menschen.</p><p>Falls die Form bei der Ankunft der ersten Siedler noch existierte, dürfte sie aufgrund ihrer fehlenden Fluchtmöglichkeiten gegenüber eingeschleppten Raubtieren sowie durch den Verlust ihres Lebensraums rasch verschwunden sein. Möglich ist jedoch auch, dass die Form bereits zuvor, während des Übergangs vom Pleistozän zum Holozän und den damit verbundenen klimatischen Veränderungen, ausstarb.</p>"
+      "habitat_text": "<p>Neben dem Maui-Hochlandibis bewohnte diese Form vermutlich vor allem offene Graslandschaften und Waldgebiete in tieferen Lagen der Insel Maui. Aufgrund des begrenzten Fossilmaterials lässt sich das ursprüngliche Verbreitungsgebiet heute jedoch nicht mehr genau bestimmen.</p>",
+      "extinction_text": "<p>Ob diese Form bereits vor der Ankunft der ersten Menschen ausstarb, lässt sich heute nicht eindeutig klären. Die bisher bekannten Knochenfunde stammen ausschliesslich aus einer Zeit vor der Besiedlung durch den Menschen.</p><p>Falls die Form bei der Ankunft der ersten Siedler noch existierte, dürfte sie aufgrund ihrer fehlenden Fluchtmöglichkeiten gegenüber eingeschleppten Raubtieren sowie durch den Verlust ihres Lebensraums rasch verschwunden sein. Möglich ist jedoch auch, dass die Form bereits zuvor, während des Übergangs vom Pleistozän zum Holozän und den damit verbundenen klimatischen Veränderungen, ausstarb.</p>"
     },
     "taxonomy": {
       "family": "Ibisse und Löffler (Threskiornithidae)",
-      "genus": "Maui-Nui-Ibisse (Apteribis)"
+      "genus": "Maui-Nui-Ibisse (Apteribis)",
+      "family_key": "threskiornithidae",
+      "genus_key": "apteribis"
     },
     "ranges": {
       "range_native": null,
@@ -465,7 +491,9 @@
     },
     "taxonomy": {
       "family": "Kleidervögel (Drepanidini)",
-      "genus": "Hemignathus/Akialoa"
+      "genus": "Hemignathus/Akialoa",
+      "family_key": "drepanidini",
+      "genus_key": "hemignathus_akialoa"
     },
     "ranges": {
       "range_native": null,
@@ -499,7 +527,9 @@
     },
     "taxonomy": {
       "family": "Kleidervögel (Drepanidini)",
-      "genus": "Hemignathus/Akialoa"
+      "genus": "Hemignathus/Akialoa",
+      "family_key": "drepanidini",
+      "genus_key": "hemignathus_akialoa"
     },
     "ranges": {
       "range_native": null,
@@ -533,7 +563,9 @@
     },
     "taxonomy": {
       "family": "Gänse (Anserinae)",
-      "genus": "Meergänse (Branta) "
+      "genus": "Meergänse (Branta) ",
+      "family_key": "anserinae",
+      "genus_key": "branta"
     },
     "ranges": {
       "range_native": null,
@@ -567,7 +599,9 @@
     },
     "taxonomy": {
       "family": "Bussardartige (Buteoninae)",
-      "genus": "Seeadler (Haliaeetus)"
+      "genus": "Seeadler (Haliaeetus)",
+      "family_key": "buteoninae",
+      "genus_key": "haliaeetus"
     },
     "ranges": {
       "range_native": null,
@@ -601,7 +635,9 @@
     },
     "taxonomy": {
       "family": "Rallen (Rallidae)",
-      "genus": "Porzana"
+      "genus": "Porzana",
+      "family_key": "rallidae",
+      "genus_key": "porzana"
     },
     "ranges": {
       "range_native": null,
@@ -635,7 +671,9 @@
     },
     "taxonomy": {
       "family": "Rallen (Rallidae)",
-      "genus": "Porzana"
+      "genus": "Porzana",
+      "family_key": "rallidae",
+      "genus_key": "porzana"
     },
     "ranges": {
       "range_native": null,
@@ -669,7 +707,9 @@
     },
     "taxonomy": {
       "family": "Eigentliche Eulen (Strigidae)",
-      "genus": "Grallistrix"
+      "genus": "Grallistrix",
+      "family_key": "strigidae",
+      "genus_key": "grallistrix"
     },
     "ranges": {
       "range_native": null,
@@ -698,12 +738,14 @@
     },
     "panel": {
       "description": "<p>Über die Molokai-Langbeineule ist nur wenig bekannt. Die Art wurde 1991 von Storrs L. Olson und Helen F. James anhand fossiler Knochenfunde von Molokai beschrieben. Sie gehört zur ausgestorbenen hawaiischen Eulengattung Grallistrix, die mit vier Arten auf Kauai, Oahu, Molokai und Maui vertreten war.</p><p>Die Molokai-Langbeineule war die grösste der vier Grallistrix-Arten. Mit einer Gesamtkörpergrösse von etwa 42 bis 45 Zentimetern entsprach sie ungefähr einer heute mittelgrossen Eule wie dem Waldkauz (Strix aluco). Charakteristisch war – wie bei allen Vertretern der Gattung Grallistrix – ein ungewöhnlicher Körperbau, der eher an einen Sperber oder Habicht erinnerte als an eine rezente Eule. Dazu gehörten kurze, gerundete Flügel, lange, schlanke Beine, sehr kräftige Zehen sowie ein länglicher Schädel mit stärker seitlich ausgerichteten Augen.</p><p>Diese besondere Anatomie stellt eine deutliche Spezialisierung an ihre ökologische Nische dar. Während die meisten heute lebenden Eulen vorwiegend nachtaktive Kleinsäuger jagen, erbeuteten die Grallistrix-Arten vermutlich tagsüber in wendigen Flugmanövern kleinere Vögel. Fossile Gewölle – also unverdauliche Nahrungsreste wie Knochen, Federn oder Haare, die von Eulen wieder ausgewürgt werden – zeigen, dass die Molokai-Langbeineule hauptsächlich dem ausgestorbenen Maui-Nui-Fink (Telespiza ypsilon) sowie der ebenfalls ausgestorbenen Molokai-Ralle (Porzana menehune) nachstellte.</p>",
-     "habitat_text": "<p>Fossile Nachweise der Molokai-Langbeineule sind bislang ausschliesslich von der Insel Molokai bekannt. Ob die Art früher auch auf benachbarten Inseln vorkam, lässt sich heute nicht mehr mit Sicherheit klären.</p><p>Die Anhäufung von Knochen und Gewöllen deutet darauf hin, dass sich die Molokai-Langbeineule zumindest zeitweise auf offenem Sand oder in niedriger Dünenvegetation aufhielt. Wahrscheinlich besiedelte sie tiefer gelegene Dünenlandschaften, in denen die niedrige Vegetation sowohl ausreichend Nahrung als auch geschützte Bodenbrutplätze bot.</p>",
-     "extinction_text": "<p>Das genaue Aussterbedatum der Molokai-Langbeineule ist unbekannt. Es wird jedoch angenommen, dass die Art wenige Jahrhunderte nach der Besiedlung Hawaiis durch polynesische Siedler verschwand.</p><p>Wie bei vielen anderen bodenbrütenden Vogelarten Hawaiis dürfte ihr Rückgang auf mehrere Faktoren zurückzuführen sein. Die leicht zugänglichen Nistplätze machten Eier und Jungtiere sowohl für den Menschen als auch für eingeschleppte Tiere wie die polynesische Ratte zu einer leicht erreichbaren Nahrungsquelle. Gleichzeitig dürfte auch der Verlust geeigneter Lebensräume zum Niedergang der Art beigetragen haben. Möglicherweise verschlechterte sich zusätzlich ihre Nahrungsgrundlage, da auf Molokai im gleichen Zeitraum auch mehrere ihrer potenziellen Beutetiere verschwanden.</p>"
+      "habitat_text": "<p>Fossile Nachweise der Molokai-Langbeineule sind bislang ausschliesslich von der Insel Molokai bekannt. Ob die Art früher auch auf benachbarten Inseln vorkam, lässt sich heute nicht mehr mit Sicherheit klären.</p><p>Die Anhäufung von Knochen und Gewöllen deutet darauf hin, dass sich die Molokai-Langbeineule zumindest zeitweise auf offenem Sand oder in niedriger Dünenvegetation aufhielt. Wahrscheinlich besiedelte sie tiefer gelegene Dünenlandschaften, in denen die niedrige Vegetation sowohl ausreichend Nahrung als auch geschützte Bodenbrutplätze bot.</p>",
+      "extinction_text": "<p>Das genaue Aussterbedatum der Molokai-Langbeineule ist unbekannt. Es wird jedoch angenommen, dass die Art wenige Jahrhunderte nach der Besiedlung Hawaiis durch polynesische Siedler verschwand.</p><p>Wie bei vielen anderen bodenbrütenden Vogelarten Hawaiis dürfte ihr Rückgang auf mehrere Faktoren zurückzuführen sein. Die leicht zugänglichen Nistplätze machten Eier und Jungtiere sowohl für den Menschen als auch für eingeschleppte Tiere wie die polynesische Ratte zu einer leicht erreichbaren Nahrungsquelle. Gleichzeitig dürfte auch der Verlust geeigneter Lebensräume zum Niedergang der Art beigetragen haben. Möglicherweise verschlechterte sich zusätzlich ihre Nahrungsgrundlage, da auf Molokai im gleichen Zeitraum auch mehrere ihrer potenziellen Beutetiere verschwanden.</p>"
     },
     "taxonomy": {
       "family": "Eigentliche Eulen (Strigidae)",
-      "genus": "Grallistrix"
+      "genus": "Grallistrix",
+      "family_key": "strigidae",
+      "genus_key": "grallistrix"
     },
     "ranges": {
       "range_native": null,
@@ -737,7 +779,9 @@
     },
     "taxonomy": {
       "family": "Eigentliche Eulen (Strigidae)",
-      "genus": "Grallistrix"
+      "genus": "Grallistrix",
+      "family_key": "strigidae",
+      "genus_key": "grallistrix"
     },
     "ranges": {
       "range_native": null,
@@ -771,7 +815,9 @@
     },
     "taxonomy": {
       "family": "Eigentliche Eulen (Strigidae)",
-      "genus": "Grallistrix"
+      "genus": "Grallistrix",
+      "family_key": "strigidae",
+      "genus_key": "grallistrix"
     },
     "ranges": {
       "range_native": null,
@@ -805,7 +851,9 @@
     },
     "taxonomy": {
       "family": "Rabenvögel (Corvidae)",
-      "genus": "Raben und Krähen (Corvus)"
+      "genus": "Raben und Krähen (Corvus)",
+      "family_key": "corvidae",
+      "genus_key": "corvus"
     },
     "ranges": {
       "range_native": null,
@@ -839,7 +887,9 @@
     },
     "taxonomy": {
       "family": "Rabenvögel (Corvidae)",
-      "genus": "Raben und Krähen (Corvus)"
+      "genus": "Raben und Krähen (Corvus)",
+      "family_key": "corvidae",
+      "genus_key": "corvus"
     },
     "ranges": {
       "range_native": null,
@@ -859,7 +909,7 @@
     "last_seen": "1600",
     "location": {
       "lat": 20.637279,
-      "lng": -156.350390
+      "lng": -156.35039
     },
     "habitat": "Maui",
     "images": {
@@ -867,13 +917,15 @@
       "panel": "https://cdn.prod.website-files.com/69a2957c566333eb83d17d8c/69ad9d41e95bc9445b656e7c_Porzana%20severnsi.jpg"
     },
     "panel": {
-       "description": "<p>Über die Grosse Maui-Ralle ist nur wenig bekannt. Die Art wurde 1991 von Storrs L. Olson (1944–2021) und Helen F. James (*1956) anhand subfossiler Knochen beschrieben, die auf der Insel Maui gefunden wurden.</p><p>Die bekannten Fossilien zeigen, dass es sich um eine mittelgrosse Ralle mit relativ kräftigen Beinen und stark reduzierten Flügeln handelte. Diese Merkmale deuten darauf hin, dass die Art flugunfähig war und überwiegend am Boden lebte. Wie andere hawaiische Rallen war die Grosse Maui-Ralle wahrscheinlich an eine bodenbewohnende Lebensweise in dichter Vegetation angepasst und ernährte sich vermutlich von Wirbellosen sowie von verschiedenen Pflanzenarten.</p>",
+      "description": "<p>Über die Grosse Maui-Ralle ist nur wenig bekannt. Die Art wurde 1991 von Storrs L. Olson (1944–2021) und Helen F. James (*1956) anhand subfossiler Knochen beschrieben, die auf der Insel Maui gefunden wurden.</p><p>Die bekannten Fossilien zeigen, dass es sich um eine mittelgrosse Ralle mit relativ kräftigen Beinen und stark reduzierten Flügeln handelte. Diese Merkmale deuten darauf hin, dass die Art flugunfähig war und überwiegend am Boden lebte. Wie andere hawaiische Rallen war die Grosse Maui-Ralle wahrscheinlich an eine bodenbewohnende Lebensweise in dichter Vegetation angepasst und ernährte sich vermutlich von Wirbellosen sowie von verschiedenen Pflanzenarten.</p>",
       "habitat_text": "<p>Die Fossilien stammen aus mehreren Fundstellen auf Maui, darunter der Auwahi Cave sowie weiteren Höhlen an den Südhängen des Haleakalā und einer Fundstelle im Lower Waihoi Valley bei Hāna.</p><p>Da die Fossilien aus verschiedenen Regionen der Insel stammen, wird angenommen, dass die Art wahrscheinlich in unterschiedlichen Tiefland- und Hanghabitaten vorkam und möglicherweise ein relativ grosses Verbreitungsgebiet auf Maui besass.</p>",
       "extinction_text": "<p>Die Grosse Maui-Ralle verschwand vermutlich nach der Ankunft der ersten Menschen auf den hawaiischen Inseln vor etwa 1000 Jahren. Flugunfähige Inselvögel waren besonders anfällig für eingeführte Tiere wie die polynesische Ratte (Rattus exulans), die Eier und Jungvögel frass.</p><p>Zusätzlich könnten Jagd und Veränderungen der ursprünglichen Lebensräume zum Rückgang der Art beigetragen haben. Wie viele andere flugunfähige Vögel Hawaiis starb die Art wahrscheinlich innerhalb weniger Jahrhunderte nach der menschlichen Besiedlung aus.</p>"
     },
     "taxonomy": {
       "family": "Rallen (Rallidae)",
-      "genus": "Porzana"
+      "genus": "Porzana",
+      "family_key": "rallidae",
+      "genus_key": "porzana"
     },
     "ranges": {
       "range_native": null,
@@ -901,13 +953,15 @@
       "panel": "https://cdn.prod.website-files.com/69a2957c566333eb83d17d8c/69b5ae10da4734440dd4495e_Porzana%20keplerorum.jpg"
     },
     "panel": {
-     "description": "<p>Über die Maui-Ralle ist nur wenig bekannt. Die Art wurde 1991 von Storrs L. Olson (1944–2021) und Helen F. James (*1956) anhand subfossiler Knochen beschrieben, die auf der Insel Maui gefunden wurden.</p><p>Die bekannten Fossilien zeigen, dass es sich um eine mittelgrosse Ralle mit relativ kräftigen Beinen und stark reduzierten Flügeln handelte. Diese Merkmale deuten darauf hin, dass die Art flugunfähig war und überwiegend am Boden lebte. Wie andere hawaiische Rallen war die Maui-Ralle wahrscheinlich an eine bodenbewohnende Lebensweise in dichter Vegetation angepasst.</p>",
+      "description": "<p>Über die Maui-Ralle ist nur wenig bekannt. Die Art wurde 1991 von Storrs L. Olson (1944–2021) und Helen F. James (*1956) anhand subfossiler Knochen beschrieben, die auf der Insel Maui gefunden wurden.</p><p>Die bekannten Fossilien zeigen, dass es sich um eine mittelgrosse Ralle mit relativ kräftigen Beinen und stark reduzierten Flügeln handelte. Diese Merkmale deuten darauf hin, dass die Art flugunfähig war und überwiegend am Boden lebte. Wie andere hawaiische Rallen war die Maui-Ralle wahrscheinlich an eine bodenbewohnende Lebensweise in dichter Vegetation angepasst.</p>",
       "habitat_text": "<p>Die Fossilien stammen aus Lavaröhren und Höhlen an den Südhängen des Haleakalā auf Maui, darunter die Fundstelle Auwahi Cave. Da diese Fundorte in trockenen bis halbtrockenen Regionen im Süden von Maui liegen, wird angenommen, dass die Art in offenen Landschaften mit dichter Bodenvegetation vorkam. Dazu könnten Grasland, Buschvegetation sowie andere Tieflandhabitate gehört haben. Wie andere Rallen dürfte sie sich hauptsächlich am Boden bewegt und sich von Wirbellosen sowie pflanzlicher Nahrung ernährt haben.</p><p>Im Gegensatz zur Grossen Maui-Ralle (Porzana severnsi) dürfte die Maui-Ralle ein kleineres, stärker spezialisiertes Verbreitungsgebiet gehabt haben.</p>",
       "extinction_text": "<p>Die Maui-Ralle verschwand vermutlich nach der Ankunft der ersten Menschen auf den hawaiischen Inseln vor etwa 1000 Jahren. Flugunfähige Inselvögel waren besonders anfällig für eingeführte Tiere wie die polynesische Ratte (Rattus exulans), die Eier und Jungvögel frass.</p><p>Zusätzlich könnten Veränderungen der ursprünglichen Lebensräume zum Rückgang der Art beigetragen haben. Wie viele andere flugunfähige Vögel Hawaiis starb die Art wahrscheinlich innerhalb weniger Jahrhunderte nach der menschlichen Besiedlung aus.</p>"
     },
     "taxonomy": {
       "family": "Rallen (Rallidae)",
-      "genus": "Porzana"
+      "genus": "Porzana",
+      "family_key": "rallidae",
+      "genus_key": "porzana"
     },
     "ranges": {
       "range_native": null,
@@ -941,7 +995,9 @@
     },
     "taxonomy": {
       "family": "Rallen (Rallidae)",
-      "genus": "Porzana"
+      "genus": "Porzana",
+      "family_key": "rallidae",
+      "genus_key": "porzana"
     },
     "ranges": {
       "range_native": null,
@@ -960,7 +1016,7 @@
     },
     "last_seen": "1400",
     "location": {
-      "lat": 21.325970,
+      "lat": 21.32597,
       "lng": -157.878467
     },
     "habitat": "Oahu",
@@ -975,7 +1031,9 @@
     },
     "taxonomy": {
       "family": "Rallen (Rallidae)",
-      "genus": "Porzana"
+      "genus": "Porzana",
+      "family_key": "rallidae",
+      "genus_key": "porzana"
     },
     "ranges": {
       "range_native": null,
@@ -994,7 +1052,7 @@
     },
     "last_seen": "1400",
     "location": {
-      "lat": 21.218530,
+      "lat": 21.21853,
       "lng": -157.254308
     },
     "habitat": "Molokai",
@@ -1003,13 +1061,15 @@
       "panel": "https://cdn.prod.website-files.com/69a2957c566333eb83d17d8c/69b5aab134067226524ccc1b_Porzana%20menehune.jpg"
     },
     "panel": {
-       "description": "<p>Über die Molokai-Ralle ist nur wenig bekannt. Die Art wurde 1991 von Storrs L. Olson (1944–2021) und Helen F. James (*1956) anhand subfossiler Knochen beschrieben, die auf der Insel Molokai gefunden wurden. Die bekannten Fossilien zeigen, dass es sich um eine kleine Ralle mit relativ kräftigen Beinen und stark reduzierten Flügeln handelte. Diese Merkmale deuten darauf hin, dass die Art flugunfähig war und überwiegend am Boden lebte.</p><p>Im Vergleich zu anderen hawaiischen Rallen war die Molokai-Ralle eine der kleinsten Arten und hatte eine vermutliche Grösse von nur 14–17 cm. Wie andere hawaiische Rallen war die Art wahrscheinlich an eine bodenbewohnende Lebensweise in dichter Vegetation angepasst.</p>",
-        "habitat_text": "<p>Die Fossilien stammen aus Dünenablagerungen im Nordwesten von Molokai, darunter Fundstellen bei Moomomi und ʻIlio Point. Diese liegen in trockenen Küstenregionen der Insel.</p><p>Da die bekannten Funde aus solchen Küsten- und Tieflandgebieten stammen, wird angenommen, dass die Art vor allem offene Landschaften mit dichter Bodenvegetation bewohnte. Dazu könnten Grasland, Buschvegetation sowie küstennahe Lebensräume gehört haben. Wie andere Rallen dürfte sie sich hauptsächlich am Boden bewegt und sich von Wirbellosen sowie pflanzlicher Nahrung ernährt haben.</p>",
-        "extinction_text": "<p>Die Molokai-Ralle verschwand vermutlich nach der Ankunft der ersten Menschen auf den hawaiischen Inseln vor etwa 1000 Jahren. Kleine flugunfähige Inselvögel waren besonders anfällig für eingeführte Tiere wie die polynesische Ratte (Rattus exulans), die Eier, Jungvögel und adulte Vögel frass.</p><p>Zusätzlich könnten Veränderungen der ursprünglichen Tieflandhabitate zum Rückgang der Art beigetragen haben. Wie viele andere flugunfähige Vögel Hawaiis starb die Art wahrscheinlich innerhalb weniger Jahrhunderte nach der menschlichen Besiedlung aus.</p>"
+      "description": "<p>Über die Molokai-Ralle ist nur wenig bekannt. Die Art wurde 1991 von Storrs L. Olson (1944–2021) und Helen F. James (*1956) anhand subfossiler Knochen beschrieben, die auf der Insel Molokai gefunden wurden. Die bekannten Fossilien zeigen, dass es sich um eine kleine Ralle mit relativ kräftigen Beinen und stark reduzierten Flügeln handelte. Diese Merkmale deuten darauf hin, dass die Art flugunfähig war und überwiegend am Boden lebte.</p><p>Im Vergleich zu anderen hawaiischen Rallen war die Molokai-Ralle eine der kleinsten Arten und hatte eine vermutliche Grösse von nur 14–17 cm. Wie andere hawaiische Rallen war die Art wahrscheinlich an eine bodenbewohnende Lebensweise in dichter Vegetation angepasst.</p>",
+      "habitat_text": "<p>Die Fossilien stammen aus Dünenablagerungen im Nordwesten von Molokai, darunter Fundstellen bei Moomomi und ʻIlio Point. Diese liegen in trockenen Küstenregionen der Insel.</p><p>Da die bekannten Funde aus solchen Küsten- und Tieflandgebieten stammen, wird angenommen, dass die Art vor allem offene Landschaften mit dichter Bodenvegetation bewohnte. Dazu könnten Grasland, Buschvegetation sowie küstennahe Lebensräume gehört haben. Wie andere Rallen dürfte sie sich hauptsächlich am Boden bewegt und sich von Wirbellosen sowie pflanzlicher Nahrung ernährt haben.</p>",
+      "extinction_text": "<p>Die Molokai-Ralle verschwand vermutlich nach der Ankunft der ersten Menschen auf den hawaiischen Inseln vor etwa 1000 Jahren. Kleine flugunfähige Inselvögel waren besonders anfällig für eingeführte Tiere wie die polynesische Ratte (Rattus exulans), die Eier, Jungvögel und adulte Vögel frass.</p><p>Zusätzlich könnten Veränderungen der ursprünglichen Tieflandhabitate zum Rückgang der Art beigetragen haben. Wie viele andere flugunfähige Vögel Hawaiis starb die Art wahrscheinlich innerhalb weniger Jahrhunderte nach der menschlichen Besiedlung aus.</p>"
     },
     "taxonomy": {
       "family": "Rallen (Rallidae)",
-      "genus": "Porzana"
+      "genus": "Porzana",
+      "family_key": "rallidae",
+      "genus_key": "porzana"
     },
     "ranges": {
       "range_native": null,
@@ -1043,7 +1103,9 @@
     },
     "taxonomy": {
       "family": "Kleidervögel (Drepanidini)",
-      "genus": "Ciridops"
+      "genus": "Ciridops",
+      "family_key": "drepanidini",
+      "genus_key": "ciridops"
     },
     "ranges": {
       "range_native": null,
@@ -1077,7 +1139,9 @@
     },
     "taxonomy": {
       "family": "Fringillidae",
-      "genus": "Rhodacanthis"
+      "genus": "Rhodacanthis",
+      "family_key": "fringillidae",
+      "genus_key": "rhodacanthis"
     },
     "ranges": {
       "range_native": null,
@@ -1111,7 +1175,9 @@
     },
     "taxonomy": {
       "family": "Fringillidae",
-      "genus": "Rhodacanthis"
+      "genus": "Rhodacanthis",
+      "family_key": "fringillidae",
+      "genus_key": "rhodacanthis"
     },
     "ranges": {
       "range_native": null,
@@ -1139,13 +1205,15 @@
       "panel": "https://cdn.prod.website-files.com/69a2957c566333eb83d17d8c/69be5bef57d52104c1b1d5a3_circus_dossenus.jpg"
     },
     "panel": {
-     "description": "<p>Über die Waldweihe ist nur wenig bekannt. Die Art wurde 1991 von Storrs L. Olson (1944–2021) und Helen F. James (*1956) anhand begrenzter subfossiler Knochen beschrieben.</p><p>Es handelt sich dabei um die kleinste bekannte Art der Weihen. Auffällig sind die proportional kurzen Flügel und Brustknochen, die eher an Vertreter der Habichte (Accipiter) erinnern.</p><p>Wie andere Weihen war auch die Waldweihe ein Raubvogel. Aufgrund ihrer besonderen Körperproportionen und der damaligen Umweltbedingungen auf Hawaii wird angenommen, dass sie nicht wie typische, langflügelige Weihen offene Landschaften bejagte, sondern eher die ökologische Rolle eines kleinen, wendigen Waldjägers einnahm. Wahrscheinlich ernährte sie sich vor allem von kleineren Vögeln und Wirbellosen.</p>",
-    "habitat_text": "<p>Die Waldweihe bewohnte dichte, subtropische Wälder auf Oahu und Molokai. Da nur rudimentäre Überreste bekannt sind, lässt sich das genaue Verbreitungsgebiet nicht mehr sicher bestimmen.</p><p>Ob die Art gelegentlich auch zwischen den Inseln wechseln konnte, ist nicht geklärt. Ihre verkürzten Flügel und die vermutlich enge Bindung an bewaldete Lebensräume sprechen jedoch dafür, dass sie eher an einzelne Inseln oder bestimmte Waldregionen gebunden war.</p>",
-    "extinction_text": "<p>Ob die Waldweihe früher ein grösseres Verbreitungsgebiet besass und möglicherweise bereits vor der Ankunft des Menschen auf einzelnen Inseln wieder verschwand, lässt sich wegen der sehr lückenhaften Fossilüberlieferung nicht mehr klären.</p><p>Die Waldweihe verschwand vermutlich nach der Ankunft der ersten Menschen auf den hawaiischen Inseln vor etwa 1000 Jahren.</p><p>Da Weihen in der Regel Bodenbrüter sind, war die Waldweihe vermutlich besonders anfällig gegenüber eingeschleppten Räubern. Gleichzeitig dürfte sie auf grössere, zusammenhängende Waldgebiete angewiesen gewesen sein. Die Rodung und Umgestaltung weiter Teile der Tieflandwälder sowie die Störung des Waldbodens durch eingeführte Tiere könnten daher entscheidend zu ihrem Verschwinden beigetragen haben. Wahrscheinlich starb die Art innerhalb weniger Jahrhunderte nach der menschlichen Besiedlung aus.</p>"
+      "description": "<p>Über die Waldweihe ist nur wenig bekannt. Die Art wurde 1991 von Storrs L. Olson (1944–2021) und Helen F. James (*1956) anhand begrenzter subfossiler Knochen beschrieben.</p><p>Es handelt sich dabei um die kleinste bekannte Art der Weihen. Auffällig sind die proportional kurzen Flügel und Brustknochen, die eher an Vertreter der Habichte (Accipiter) erinnern.</p><p>Wie andere Weihen war auch die Waldweihe ein Raubvogel. Aufgrund ihrer besonderen Körperproportionen und der damaligen Umweltbedingungen auf Hawaii wird angenommen, dass sie nicht wie typische, langflügelige Weihen offene Landschaften bejagte, sondern eher die ökologische Rolle eines kleinen, wendigen Waldjägers einnahm. Wahrscheinlich ernährte sie sich vor allem von kleineren Vögeln und Wirbellosen.</p>",
+      "habitat_text": "<p>Die Waldweihe bewohnte dichte, subtropische Wälder auf Oahu und Molokai. Da nur rudimentäre Überreste bekannt sind, lässt sich das genaue Verbreitungsgebiet nicht mehr sicher bestimmen.</p><p>Ob die Art gelegentlich auch zwischen den Inseln wechseln konnte, ist nicht geklärt. Ihre verkürzten Flügel und die vermutlich enge Bindung an bewaldete Lebensräume sprechen jedoch dafür, dass sie eher an einzelne Inseln oder bestimmte Waldregionen gebunden war.</p>",
+      "extinction_text": "<p>Ob die Waldweihe früher ein grösseres Verbreitungsgebiet besass und möglicherweise bereits vor der Ankunft des Menschen auf einzelnen Inseln wieder verschwand, lässt sich wegen der sehr lückenhaften Fossilüberlieferung nicht mehr klären.</p><p>Die Waldweihe verschwand vermutlich nach der Ankunft der ersten Menschen auf den hawaiischen Inseln vor etwa 1000 Jahren.</p><p>Da Weihen in der Regel Bodenbrüter sind, war die Waldweihe vermutlich besonders anfällig gegenüber eingeschleppten Räubern. Gleichzeitig dürfte sie auf grössere, zusammenhängende Waldgebiete angewiesen gewesen sein. Die Rodung und Umgestaltung weiter Teile der Tieflandwälder sowie die Störung des Waldbodens durch eingeführte Tiere könnten daher entscheidend zu ihrem Verschwinden beigetragen haben. Wahrscheinlich starb die Art innerhalb weniger Jahrhunderte nach der menschlichen Besiedlung aus.</p>"
     },
     "taxonomy": {
       "family": "Habichtartige (Accipitridae)",
-      "genus": "Weihen (Circus)"
+      "genus": "Weihen (Circus)",
+      "family_key": "accipitridae",
+      "genus_key": "circus"
     },
     "ranges": {
       "range_native": null,
@@ -1173,13 +1241,15 @@
       "panel": "https://cdn.prod.website-files.com/69a2957c566333eb83d17d8c/69c19f69b0df795a24a1b053_Apteribis_brevis.jpg"
     },
     "panel": {
-       "description": "<p>Über den Maui-Hochlandibis ist nur wenig bekannt. Die Art wurde 1991 von Storrs L. Olson (1944–2021) und Helen F. James (*1956) anhand weniger subfossiler Knochen beschrieben.</p><p>Wie alle Arten der Gattung Apteribis war auch der Maui-Hochlandibis flugunfähig. Er besass verkürzte, kräftige Beine, die ihm vermutlich eine wendige und agile Fortbewegung am Waldboden ermöglichten. Zudem waren die visuellen Strukturen im Schädel stark zurückgebildet. Dies betrifft die Augen, den Sehnerv sowie den Bereich des Tectum opticum, in dem visuelle Reize im Gehirn verarbeitet werden.</p><p>Diese stark reduzierten Sehstrukturen deuten darauf hin, dass der Maui-Hochlandibis nur über ein eingeschränktes Sehvermögen verfügte und wahrscheinlich nachtaktiv war – ein Zustand, der unter den Ibissen bislang nur für die ausgestorbene Gattung Apteribis aus Hawai bekannt ist. Vermutlich stützte sich die Art vor allem auf taktile Reize, die sie mit ihrem Schnabel wahrnahm, um Beutetiere wie Landschnecken oder flugunfähige Grillen aufzuspüren. Ihre Lebensweise ähnelte damit wahrscheinlich jener der heutigen Kiwis in Neuseeland.</p>",
-     "habitat_text": "<p>Da auf Maui einst zwei Apteribis-Arten vorkamen, war der Maui-Hochlandibis vermutlich vor allem auf Waldgebiete in höheren Lagen an den Südhängen des Haleakalā beschränkt, darunter Auwahi, Pūʻu Makua und die oberen Kipahulu-Gebiete. Aufgrund des begrenzten Fossilmaterials lässt sich das ursprüngliche Verbreitungsgebiet heute jedoch nicht mehr genau bestimmen.</p>",
-     "extinction_text": "<p>Ob die Art bereits vor der Ankunft der ersten Menschen ausstarb, lässt sich heute nicht eindeutig klären. Die bisher bekannten Knochenfunde stammen ausschliesslich aus einer Zeit vor der Besiedlung durch den Menschen.</p><p>Falls der Maui-Hochlandibis bei der Ankunft der ersten Siedler noch existierte, dürfte er aufgrund seiner fehlenden Fluchtmöglichkeiten gegenüber eingeschleppten Raubtieren sowie durch den Verlust seines Lebensraums rasch verschwunden sein. Möglich ist jedoch auch, dass die Art bereits zuvor, während des Übergangs vom Pleistozän zum Holozän und den damit verbundenen klimatischen Veränderungen, ausstarb.</p>"
+      "description": "<p>Über den Maui-Hochlandibis ist nur wenig bekannt. Die Art wurde 1991 von Storrs L. Olson (1944–2021) und Helen F. James (*1956) anhand weniger subfossiler Knochen beschrieben.</p><p>Wie alle Arten der Gattung Apteribis war auch der Maui-Hochlandibis flugunfähig. Er besass verkürzte, kräftige Beine, die ihm vermutlich eine wendige und agile Fortbewegung am Waldboden ermöglichten. Zudem waren die visuellen Strukturen im Schädel stark zurückgebildet. Dies betrifft die Augen, den Sehnerv sowie den Bereich des Tectum opticum, in dem visuelle Reize im Gehirn verarbeitet werden.</p><p>Diese stark reduzierten Sehstrukturen deuten darauf hin, dass der Maui-Hochlandibis nur über ein eingeschränktes Sehvermögen verfügte und wahrscheinlich nachtaktiv war – ein Zustand, der unter den Ibissen bislang nur für die ausgestorbene Gattung Apteribis aus Hawai bekannt ist. Vermutlich stützte sich die Art vor allem auf taktile Reize, die sie mit ihrem Schnabel wahrnahm, um Beutetiere wie Landschnecken oder flugunfähige Grillen aufzuspüren. Ihre Lebensweise ähnelte damit wahrscheinlich jener der heutigen Kiwis in Neuseeland.</p>",
+      "habitat_text": "<p>Da auf Maui einst zwei Apteribis-Arten vorkamen, war der Maui-Hochlandibis vermutlich vor allem auf Waldgebiete in höheren Lagen an den Südhängen des Haleakalā beschränkt, darunter Auwahi, Pūʻu Makua und die oberen Kipahulu-Gebiete. Aufgrund des begrenzten Fossilmaterials lässt sich das ursprüngliche Verbreitungsgebiet heute jedoch nicht mehr genau bestimmen.</p>",
+      "extinction_text": "<p>Ob die Art bereits vor der Ankunft der ersten Menschen ausstarb, lässt sich heute nicht eindeutig klären. Die bisher bekannten Knochenfunde stammen ausschliesslich aus einer Zeit vor der Besiedlung durch den Menschen.</p><p>Falls der Maui-Hochlandibis bei der Ankunft der ersten Siedler noch existierte, dürfte er aufgrund seiner fehlenden Fluchtmöglichkeiten gegenüber eingeschleppten Raubtieren sowie durch den Verlust seines Lebensraums rasch verschwunden sein. Möglich ist jedoch auch, dass die Art bereits zuvor, während des Übergangs vom Pleistozän zum Holozän und den damit verbundenen klimatischen Veränderungen, ausstarb.</p>"
     },
     "taxonomy": {
       "family": "Ibisse und Löffler (Threskiornithidae)",
-      "genus": "Maui-Nui-Ibisse (Apteribis)"
+      "genus": "Maui-Nui-Ibisse (Apteribis)",
+      "family_key": "threskiornithidae",
+      "genus_key": "apteribis"
     },
     "ranges": {
       "range_native": null,
@@ -1213,7 +1283,9 @@
     },
     "taxonomy": {
       "family": "",
-      "genus": ""
+      "genus": "",
+      "family_key": "",
+      "genus_key": ""
     },
     "ranges": {
       "range_native": null,
@@ -1247,7 +1319,9 @@
     },
     "taxonomy": {
       "family": "",
-      "genus": ""
+      "genus": "",
+      "family_key": "",
+      "genus_key": ""
     },
     "ranges": {
       "range_native": null,
@@ -1281,7 +1355,9 @@
     },
     "taxonomy": {
       "family": "",
-      "genus": ""
+      "genus": "",
+      "family_key": "",
+      "genus_key": ""
     },
     "ranges": {
       "range_native": null,
@@ -1315,7 +1391,9 @@
     },
     "taxonomy": {
       "family": "Kleidervögel (Drepanidini)",
-      "genus": "Hemignathus"
+      "genus": "Hemignathus",
+      "family_key": "drepanidini",
+      "genus_key": "hemignathus"
     },
     "ranges": {
       "range_native": null,
@@ -1349,7 +1427,9 @@
     },
     "taxonomy": {
       "family": "",
-      "genus": ""
+      "genus": "",
+      "family_key": "",
+      "genus_key": ""
     },
     "ranges": {
       "range_native": null,
@@ -1383,7 +1463,9 @@
     },
     "taxonomy": {
       "family": "Thambetochenini (Moa-Nalos)",
-      "genus": "Chelychelynechen"
+      "genus": "Chelychelynechen",
+      "family_key": "thambetochenini",
+      "genus_key": "chelychelynechen"
     },
     "ranges": {
       "range_native": null,
@@ -1417,7 +1499,9 @@
     },
     "taxonomy": {
       "family": "",
-      "genus": ""
+      "genus": "",
+      "family_key": "",
+      "genus_key": ""
     },
     "ranges": {
       "range_native": null,
@@ -1451,7 +1535,9 @@
     },
     "taxonomy": {
       "family": "",
-      "genus": ""
+      "genus": "",
+      "family_key": "",
+      "genus_key": ""
     },
     "ranges": {
       "range_native": null,
@@ -1485,7 +1571,9 @@
     },
     "taxonomy": {
       "family": "",
-      "genus": ""
+      "genus": "",
+      "family_key": "",
+      "genus_key": ""
     },
     "ranges": {
       "range_native": null,
@@ -1519,7 +1607,9 @@
     },
     "taxonomy": {
       "family": "Gänse (Anserinae)",
-      "genus": "Meergänse (Branta)"
+      "genus": "Meergänse (Branta)",
+      "family_key": "anserinae",
+      "genus_key": "branta"
     },
     "ranges": {
       "range_native": null,
@@ -1553,7 +1643,9 @@
     },
     "taxonomy": {
       "family": "",
-      "genus": ""
+      "genus": "",
+      "family_key": "",
+      "genus_key": ""
     },
     "ranges": {
       "range_native": null,
@@ -1587,7 +1679,9 @@
     },
     "taxonomy": {
       "family": "",
-      "genus": ""
+      "genus": "",
+      "family_key": "",
+      "genus_key": ""
     },
     "ranges": {
       "range_native": null,
@@ -1621,7 +1715,9 @@
     },
     "taxonomy": {
       "family": "",
-      "genus": ""
+      "genus": "",
+      "family_key": "",
+      "genus_key": ""
     },
     "ranges": {
       "range_native": null,
@@ -1655,7 +1751,9 @@
     },
     "taxonomy": {
       "family": "",
-      "genus": ""
+      "genus": "",
+      "family_key": "",
+      "genus_key": ""
     },
     "ranges": {
       "range_native": null,
@@ -1689,7 +1787,9 @@
     },
     "taxonomy": {
       "family": "",
-      "genus": ""
+      "genus": "",
+      "family_key": "",
+      "genus_key": ""
     },
     "ranges": {
       "range_native": null,
@@ -1723,7 +1823,9 @@
     },
     "taxonomy": {
       "family": "",
-      "genus": ""
+      "genus": "",
+      "family_key": "",
+      "genus_key": ""
     },
     "ranges": {
       "range_native": null,
@@ -1757,7 +1859,9 @@
     },
     "taxonomy": {
       "family": "",
-      "genus": ""
+      "genus": "",
+      "family_key": "",
+      "genus_key": ""
     },
     "ranges": {
       "range_native": null,
@@ -1791,7 +1895,9 @@
     },
     "taxonomy": {
       "family": "",
-      "genus": ""
+      "genus": "",
+      "family_key": "",
+      "genus_key": ""
     },
     "ranges": {
       "range_native": null,
@@ -1825,7 +1931,9 @@
     },
     "taxonomy": {
       "family": "",
-      "genus": ""
+      "genus": "",
+      "family_key": "",
+      "genus_key": ""
     },
     "ranges": {
       "range_native": null,
@@ -1859,7 +1967,9 @@
     },
     "taxonomy": {
       "family": "",
-      "genus": ""
+      "genus": "",
+      "family_key": "",
+      "genus_key": ""
     },
     "ranges": {
       "range_native": null,
@@ -1893,7 +2003,9 @@
     },
     "taxonomy": {
       "family": "",
-      "genus": ""
+      "genus": "",
+      "family_key": "",
+      "genus_key": ""
     },
     "ranges": {
       "range_native": null,
@@ -1927,7 +2039,9 @@
     },
     "taxonomy": {
       "family": "",
-      "genus": ""
+      "genus": "",
+      "family_key": "",
+      "genus_key": ""
     },
     "ranges": {
       "range_native": null,
@@ -1961,7 +2075,9 @@
     },
     "taxonomy": {
       "family": "",
-      "genus": ""
+      "genus": "",
+      "family_key": "",
+      "genus_key": ""
     },
     "ranges": {
       "range_native": null,
@@ -1995,7 +2111,9 @@
     },
     "taxonomy": {
       "family": "",
-      "genus": ""
+      "genus": "",
+      "family_key": "",
+      "genus_key": ""
     },
     "ranges": {
       "range_native": null,
@@ -2029,7 +2147,9 @@
     },
     "taxonomy": {
       "family": "",
-      "genus": ""
+      "genus": "",
+      "family_key": "",
+      "genus_key": ""
     },
     "ranges": {
       "range_native": null,
@@ -2063,7 +2183,9 @@
     },
     "taxonomy": {
       "family": "",
-      "genus": ""
+      "genus": "",
+      "family_key": "",
+      "genus_key": ""
     },
     "ranges": {
       "range_native": null,
@@ -2097,7 +2219,9 @@
     },
     "taxonomy": {
       "family": "",
-      "genus": ""
+      "genus": "",
+      "family_key": "",
+      "genus_key": ""
     },
     "ranges": {
       "range_native": null,
@@ -2131,7 +2255,9 @@
     },
     "taxonomy": {
       "family": "",
-      "genus": ""
+      "genus": "",
+      "family_key": "",
+      "genus_key": ""
     },
     "ranges": {
       "range_native": null,
@@ -2165,7 +2291,9 @@
     },
     "taxonomy": {
       "family": "",
-      "genus": ""
+      "genus": "",
+      "family_key": "",
+      "genus_key": ""
     },
     "ranges": {
       "range_native": null,
@@ -2199,7 +2327,9 @@
     },
     "taxonomy": {
       "family": "",
-      "genus": ""
+      "genus": "",
+      "family_key": "",
+      "genus_key": ""
     },
     "ranges": {
       "range_native": null,
@@ -2233,7 +2363,9 @@
     },
     "taxonomy": {
       "family": "",
-      "genus": ""
+      "genus": "",
+      "family_key": "",
+      "genus_key": ""
     },
     "ranges": {
       "range_native": null,
@@ -2267,7 +2399,9 @@
     },
     "taxonomy": {
       "family": "",
-      "genus": ""
+      "genus": "",
+      "family_key": "",
+      "genus_key": ""
     },
     "ranges": {
       "range_native": null,
@@ -2301,7 +2435,9 @@
     },
     "taxonomy": {
       "family": "",
-      "genus": ""
+      "genus": "",
+      "family_key": "",
+      "genus_key": ""
     },
     "ranges": {
       "range_native": null,
@@ -2335,7 +2471,9 @@
     },
     "taxonomy": {
       "family": "",
-      "genus": ""
+      "genus": "",
+      "family_key": "",
+      "genus_key": ""
     },
     "ranges": {
       "range_native": null,
@@ -2369,7 +2507,9 @@
     },
     "taxonomy": {
       "family": "",
-      "genus": ""
+      "genus": "",
+      "family_key": "",
+      "genus_key": ""
     },
     "ranges": {
       "range_native": null,
@@ -2403,7 +2543,9 @@
     },
     "taxonomy": {
       "family": "Alkenvögel (Alcidae)",
-      "genus": "Pinguinus"
+      "genus": "Pinguinus",
+      "family_key": "alcidae",
+      "genus_key": "pinguinus"
     },
     "ranges": {
       "range_native": null,
@@ -2437,7 +2579,9 @@
     },
     "taxonomy": {
       "family": "",
-      "genus": ""
+      "genus": "",
+      "family_key": "",
+      "genus_key": ""
     },
     "ranges": {
       "range_native": null,
@@ -2471,7 +2615,9 @@
     },
     "taxonomy": {
       "family": "",
-      "genus": ""
+      "genus": "",
+      "family_key": "",
+      "genus_key": ""
     },
     "ranges": {
       "range_native": null,
@@ -2505,7 +2651,9 @@
     },
     "taxonomy": {
       "family": "",
-      "genus": ""
+      "genus": "",
+      "family_key": "",
+      "genus_key": ""
     },
     "ranges": {
       "range_native": null,
@@ -2539,7 +2687,9 @@
     },
     "taxonomy": {
       "family": "",
-      "genus": ""
+      "genus": "",
+      "family_key": "",
+      "genus_key": ""
     },
     "ranges": {
       "range_native": null,
@@ -2558,7 +2708,7 @@
     },
     "last_seen": "1892",
     "location": {
-      "lat": 19.176820,
+      "lat": 19.17682,
       "lng": -155.717183
     },
     "habitat": "Big Island (Hawaii)",
@@ -2573,7 +2723,9 @@
     },
     "taxonomy": {
       "family": "Kleidervögel (Drepanidini)",
-      "genus": "Ciridops"
+      "genus": "Ciridops",
+      "family_key": "drepanidini",
+      "genus_key": "ciridops"
     },
     "ranges": {
       "range_native": "https://raw.githubusercontent.com/lehmannphilippe-dotcom/webflow-data/refs/heads/main/ranges/ciridops_anna.geojson",
@@ -2607,7 +2759,9 @@
     },
     "taxonomy": {
       "family": "",
-      "genus": ""
+      "genus": "",
+      "family_key": "",
+      "genus_key": ""
     },
     "ranges": {
       "range_native": null,
@@ -2641,7 +2795,9 @@
     },
     "taxonomy": {
       "family": "",
-      "genus": ""
+      "genus": "",
+      "family_key": "",
+      "genus_key": ""
     },
     "ranges": {
       "range_native": null,
@@ -2675,7 +2831,9 @@
     },
     "taxonomy": {
       "family": "",
-      "genus": ""
+      "genus": "",
+      "family_key": "",
+      "genus_key": ""
     },
     "ranges": {
       "range_native": null,
@@ -2709,7 +2867,9 @@
     },
     "taxonomy": {
       "family": "",
-      "genus": ""
+      "genus": "",
+      "family_key": "",
+      "genus_key": ""
     },
     "ranges": {
       "range_native": null,
@@ -2743,7 +2903,9 @@
     },
     "taxonomy": {
       "family": "",
-      "genus": ""
+      "genus": "",
+      "family_key": "",
+      "genus_key": ""
     },
     "ranges": {
       "range_native": null,
@@ -2777,7 +2939,9 @@
     },
     "taxonomy": {
       "family": "",
-      "genus": ""
+      "genus": "",
+      "family_key": "",
+      "genus_key": ""
     },
     "ranges": {
       "range_native": null,
@@ -2811,7 +2975,9 @@
     },
     "taxonomy": {
       "family": "",
-      "genus": ""
+      "genus": "",
+      "family_key": "",
+      "genus_key": ""
     },
     "ranges": {
       "range_native": null,
@@ -2845,7 +3011,9 @@
     },
     "taxonomy": {
       "family": "",
-      "genus": ""
+      "genus": "",
+      "family_key": "",
+      "genus_key": ""
     },
     "ranges": {
       "range_native": null,
@@ -2879,7 +3047,9 @@
     },
     "taxonomy": {
       "family": "",
-      "genus": ""
+      "genus": "",
+      "family_key": "",
+      "genus_key": ""
     },
     "ranges": {
       "range_native": null,
@@ -2913,7 +3083,9 @@
     },
     "taxonomy": {
       "family": "",
-      "genus": ""
+      "genus": "",
+      "family_key": "",
+      "genus_key": ""
     },
     "ranges": {
       "range_native": null,
@@ -2947,7 +3119,9 @@
     },
     "taxonomy": {
       "family": "",
-      "genus": ""
+      "genus": "",
+      "family_key": "",
+      "genus_key": ""
     },
     "ranges": {
       "range_native": null,
@@ -2981,7 +3155,9 @@
     },
     "taxonomy": {
       "family": "",
-      "genus": ""
+      "genus": "",
+      "family_key": "",
+      "genus_key": ""
     },
     "ranges": {
       "range_native": null,
@@ -3015,7 +3191,9 @@
     },
     "taxonomy": {
       "family": "",
-      "genus": ""
+      "genus": "",
+      "family_key": "",
+      "genus_key": ""
     },
     "ranges": {
       "range_native": null,
@@ -3049,7 +3227,9 @@
     },
     "taxonomy": {
       "family": "",
-      "genus": ""
+      "genus": "",
+      "family_key": "",
+      "genus_key": ""
     },
     "ranges": {
       "range_native": null,
@@ -3083,7 +3263,9 @@
     },
     "taxonomy": {
       "family": "",
-      "genus": ""
+      "genus": "",
+      "family_key": "",
+      "genus_key": ""
     },
     "ranges": {
       "range_native": null,
@@ -3117,7 +3299,9 @@
     },
     "taxonomy": {
       "family": "",
-      "genus": ""
+      "genus": "",
+      "family_key": "",
+      "genus_key": ""
     },
     "ranges": {
       "range_native": null,
@@ -3151,7 +3335,9 @@
     },
     "taxonomy": {
       "family": "",
-      "genus": ""
+      "genus": "",
+      "family_key": "",
+      "genus_key": ""
     },
     "ranges": {
       "range_native": null,
@@ -3185,7 +3371,9 @@
     },
     "taxonomy": {
       "family": "",
-      "genus": ""
+      "genus": "",
+      "family_key": "",
+      "genus_key": ""
     },
     "ranges": {
       "range_native": null,
@@ -3219,7 +3407,9 @@
     },
     "taxonomy": {
       "family": "",
-      "genus": ""
+      "genus": "",
+      "family_key": "",
+      "genus_key": ""
     },
     "ranges": {
       "range_native": null,
@@ -3253,7 +3443,9 @@
     },
     "taxonomy": {
       "family": "",
-      "genus": ""
+      "genus": "",
+      "family_key": "",
+      "genus_key": ""
     },
     "ranges": {
       "range_native": null,
@@ -3287,7 +3479,9 @@
     },
     "taxonomy": {
       "family": "",
-      "genus": ""
+      "genus": "",
+      "family_key": "",
+      "genus_key": ""
     },
     "ranges": {
       "range_native": null,
@@ -3321,7 +3515,9 @@
     },
     "taxonomy": {
       "family": "",
-      "genus": ""
+      "genus": "",
+      "family_key": "",
+      "genus_key": ""
     },
     "ranges": {
       "range_native": null,
@@ -3355,7 +3551,9 @@
     },
     "taxonomy": {
       "family": "",
-      "genus": ""
+      "genus": "",
+      "family_key": "",
+      "genus_key": ""
     },
     "ranges": {
       "range_native": null,
@@ -3389,7 +3587,9 @@
     },
     "taxonomy": {
       "family": "",
-      "genus": ""
+      "genus": "",
+      "family_key": "",
+      "genus_key": ""
     },
     "ranges": {
       "range_native": null,
@@ -3423,7 +3623,9 @@
     },
     "taxonomy": {
       "family": "",
-      "genus": ""
+      "genus": "",
+      "family_key": "",
+      "genus_key": ""
     },
     "ranges": {
       "range_native": null,
@@ -3457,7 +3659,9 @@
     },
     "taxonomy": {
       "family": "",
-      "genus": ""
+      "genus": "",
+      "family_key": "",
+      "genus_key": ""
     },
     "ranges": {
       "range_native": null,
@@ -3491,7 +3695,9 @@
     },
     "taxonomy": {
       "family": "",
-      "genus": ""
+      "genus": "",
+      "family_key": "",
+      "genus_key": ""
     },
     "ranges": {
       "range_native": null,
@@ -3525,7 +3731,9 @@
     },
     "taxonomy": {
       "family": "",
-      "genus": ""
+      "genus": "",
+      "family_key": "",
+      "genus_key": ""
     },
     "ranges": {
       "range_native": null,
@@ -3559,7 +3767,9 @@
     },
     "taxonomy": {
       "family": "",
-      "genus": ""
+      "genus": "",
+      "family_key": "",
+      "genus_key": ""
     },
     "ranges": {
       "range_native": null,
@@ -3593,7 +3803,9 @@
     },
     "taxonomy": {
       "family": "",
-      "genus": ""
+      "genus": "",
+      "family_key": "",
+      "genus_key": ""
     },
     "ranges": {
       "range_native": null,
@@ -3627,7 +3839,9 @@
     },
     "taxonomy": {
       "family": "",
-      "genus": ""
+      "genus": "",
+      "family_key": "",
+      "genus_key": ""
     },
     "ranges": {
       "range_native": null,
@@ -3661,7 +3875,9 @@
     },
     "taxonomy": {
       "family": "",
-      "genus": ""
+      "genus": "",
+      "family_key": "",
+      "genus_key": ""
     },
     "ranges": {
       "range_native": null,
@@ -3695,7 +3911,9 @@
     },
     "taxonomy": {
       "family": "",
-      "genus": ""
+      "genus": "",
+      "family_key": "",
+      "genus_key": ""
     },
     "ranges": {
       "range_native": null,
@@ -3729,7 +3947,9 @@
     },
     "taxonomy": {
       "family": "",
-      "genus": ""
+      "genus": "",
+      "family_key": "",
+      "genus_key": ""
     },
     "ranges": {
       "range_native": null,
@@ -3763,7 +3983,9 @@
     },
     "taxonomy": {
       "family": "",
-      "genus": ""
+      "genus": "",
+      "family_key": "",
+      "genus_key": ""
     },
     "ranges": {
       "range_native": null,
@@ -3797,7 +4019,9 @@
     },
     "taxonomy": {
       "family": "",
-      "genus": ""
+      "genus": "",
+      "family_key": "",
+      "genus_key": ""
     },
     "ranges": {
       "range_native": null,
@@ -3831,7 +4055,9 @@
     },
     "taxonomy": {
       "family": "",
-      "genus": ""
+      "genus": "",
+      "family_key": "",
+      "genus_key": ""
     },
     "ranges": {
       "range_native": null,
@@ -3865,7 +4091,9 @@
     },
     "taxonomy": {
       "family": "Kleidervögel (Drepanidini)",
-      "genus": "Hemignathus"
+      "genus": "Hemignathus",
+      "family_key": "drepanidini",
+      "genus_key": "hemignathus"
     },
     "ranges": {
       "range_native": null,
@@ -3899,7 +4127,9 @@
     },
     "taxonomy": {
       "family": "",
-      "genus": ""
+      "genus": "",
+      "family_key": "",
+      "genus_key": ""
     },
     "ranges": {
       "range_native": null,
@@ -3933,7 +4163,9 @@
     },
     "taxonomy": {
       "family": "",
-      "genus": ""
+      "genus": "",
+      "family_key": "",
+      "genus_key": ""
     },
     "ranges": {
       "range_native": null,
@@ -3967,7 +4199,9 @@
     },
     "taxonomy": {
       "family": "",
-      "genus": ""
+      "genus": "",
+      "family_key": "",
+      "genus_key": ""
     },
     "ranges": {
       "range_native": null,
@@ -4001,7 +4235,9 @@
     },
     "taxonomy": {
       "family": "",
-      "genus": ""
+      "genus": "",
+      "family_key": "",
+      "genus_key": ""
     },
     "ranges": {
       "range_native": null,
@@ -4035,7 +4271,9 @@
     },
     "taxonomy": {
       "family": "",
-      "genus": ""
+      "genus": "",
+      "family_key": "",
+      "genus_key": ""
     },
     "ranges": {
       "range_native": null,
@@ -4069,7 +4307,9 @@
     },
     "taxonomy": {
       "family": "",
-      "genus": ""
+      "genus": "",
+      "family_key": "",
+      "genus_key": ""
     },
     "ranges": {
       "range_native": "https://raw.githubusercontent.com/lehmannphilippe-dotcom/webflow-data/refs/heads/main/ranges/Psittirostra%20psittacea_native.geojson",
@@ -4103,7 +4343,9 @@
     },
     "taxonomy": {
       "family": "Fringillidae",
-      "genus": "Rhodacanthis"
+      "genus": "Rhodacanthis",
+      "family_key": "fringillidae",
+      "genus_key": "rhodacanthis"
     },
     "ranges": {
       "range_native": null,
@@ -4137,7 +4379,9 @@
     },
     "taxonomy": {
       "family": "",
-      "genus": ""
+      "genus": "",
+      "family_key": "",
+      "genus_key": ""
     },
     "ranges": {
       "range_native": null,
@@ -4171,7 +4415,9 @@
     },
     "taxonomy": {
       "family": "",
-      "genus": ""
+      "genus": "",
+      "family_key": "",
+      "genus_key": ""
     },
     "ranges": {
       "range_native": null,
@@ -4205,7 +4451,9 @@
     },
     "taxonomy": {
       "family": "",
-      "genus": ""
+      "genus": "",
+      "family_key": "",
+      "genus_key": ""
     },
     "ranges": {
       "range_native": null,
@@ -4239,7 +4487,9 @@
     },
     "taxonomy": {
       "family": "",
-      "genus": ""
+      "genus": "",
+      "family_key": "",
+      "genus_key": ""
     },
     "ranges": {
       "range_native": null,
@@ -4273,7 +4523,9 @@
     },
     "taxonomy": {
       "family": "",
-      "genus": ""
+      "genus": "",
+      "family_key": "",
+      "genus_key": ""
     },
     "ranges": {
       "range_native": null,
@@ -4307,7 +4559,9 @@
     },
     "taxonomy": {
       "family": "",
-      "genus": ""
+      "genus": "",
+      "family_key": "",
+      "genus_key": ""
     },
     "ranges": {
       "range_native": null,
@@ -4341,7 +4595,9 @@
     },
     "taxonomy": {
       "family": "",
-      "genus": ""
+      "genus": "",
+      "family_key": "",
+      "genus_key": ""
     },
     "ranges": {
       "range_native": null,
@@ -4375,7 +4631,9 @@
     },
     "taxonomy": {
       "family": "",
-      "genus": ""
+      "genus": "",
+      "family_key": "",
+      "genus_key": ""
     },
     "ranges": {
       "range_native": null,
@@ -4409,7 +4667,9 @@
     },
     "taxonomy": {
       "family": "",
-      "genus": ""
+      "genus": "",
+      "family_key": "",
+      "genus_key": ""
     },
     "ranges": {
       "range_native": null,
@@ -4443,7 +4703,9 @@
     },
     "taxonomy": {
       "family": "",
-      "genus": ""
+      "genus": "",
+      "family_key": "",
+      "genus_key": ""
     },
     "ranges": {
       "range_native": null,
@@ -4477,7 +4739,9 @@
     },
     "taxonomy": {
       "family": "",
-      "genus": ""
+      "genus": "",
+      "family_key": "",
+      "genus_key": ""
     },
     "ranges": {
       "range_native": null,
@@ -4511,7 +4775,9 @@
     },
     "taxonomy": {
       "family": "",
-      "genus": ""
+      "genus": "",
+      "family_key": "",
+      "genus_key": ""
     },
     "ranges": {
       "range_native": null,
@@ -4545,7 +4811,9 @@
     },
     "taxonomy": {
       "family": "",
-      "genus": ""
+      "genus": "",
+      "family_key": "",
+      "genus_key": ""
     },
     "ranges": {
       "range_native": null,
@@ -4564,7 +4832,7 @@
     },
     "last_seen": "1940",
     "location": {
-      "lat": 19.552010,
+      "lat": 19.55201,
       "lng": -155.263616
     },
     "habitat": "Big Island",
@@ -4579,7 +4847,9 @@
     },
     "taxonomy": {
       "family": "Kleidervögel (Drepanidini)",
-      "genus": "Hemignathus/Akialoa"
+      "genus": "Hemignathus/Akialoa",
+      "family_key": "drepanidini",
+      "genus_key": "hemignathus_akialoa"
     },
     "ranges": {
       "range_native": "https://raw.githubusercontent.com/lehmannphilippe-dotcom/webflow-data/refs/heads/main/ranges/Akialoa_obscurus.geojson",
@@ -4613,7 +4883,9 @@
     },
     "taxonomy": {
       "family": "Rallen (Rallidae)",
-      "genus": "Porzana"
+      "genus": "Porzana",
+      "family_key": "rallidae",
+      "genus_key": "porzana"
     },
     "ranges": {
       "range_native": "https://raw.githubusercontent.com/lehmannphilippe-dotcom/webflow-data/refs/heads/main/ranges/porzana-sandwichensis.geojson",
@@ -4647,7 +4919,9 @@
     },
     "taxonomy": {
       "family": "",
-      "genus": ""
+      "genus": "",
+      "family_key": "",
+      "genus_key": ""
     },
     "ranges": {
       "range_native": null,
@@ -4681,7 +4955,9 @@
     },
     "taxonomy": {
       "family": "",
-      "genus": ""
+      "genus": "",
+      "family_key": "",
+      "genus_key": ""
     },
     "ranges": {
       "range_native": null,
@@ -4715,7 +4991,9 @@
     },
     "taxonomy": {
       "family": "",
-      "genus": ""
+      "genus": "",
+      "family_key": "",
+      "genus_key": ""
     },
     "ranges": {
       "range_native": null,
@@ -4749,7 +5027,9 @@
     },
     "taxonomy": {
       "family": "",
-      "genus": ""
+      "genus": "",
+      "family_key": "",
+      "genus_key": ""
     },
     "ranges": {
       "range_native": null,
@@ -4783,7 +5063,9 @@
     },
     "taxonomy": {
       "family": "",
-      "genus": ""
+      "genus": "",
+      "family_key": "",
+      "genus_key": ""
     },
     "ranges": {
       "range_native": null,
@@ -4817,7 +5099,9 @@
     },
     "taxonomy": {
       "family": "",
-      "genus": ""
+      "genus": "",
+      "family_key": "",
+      "genus_key": ""
     },
     "ranges": {
       "range_native": null,
@@ -4851,7 +5135,9 @@
     },
     "taxonomy": {
       "family": "",
-      "genus": ""
+      "genus": "",
+      "family_key": "",
+      "genus_key": ""
     },
     "ranges": {
       "range_native": null,
@@ -4885,7 +5171,9 @@
     },
     "taxonomy": {
       "family": "",
-      "genus": ""
+      "genus": "",
+      "family_key": "",
+      "genus_key": ""
     },
     "ranges": {
       "range_native": null,
@@ -4919,7 +5207,9 @@
     },
     "taxonomy": {
       "family": "",
-      "genus": ""
+      "genus": "",
+      "family_key": "",
+      "genus_key": ""
     },
     "ranges": {
       "range_native": null,
@@ -4953,7 +5243,9 @@
     },
     "taxonomy": {
       "family": "",
-      "genus": ""
+      "genus": "",
+      "family_key": "",
+      "genus_key": ""
     },
     "ranges": {
       "range_native": null,
@@ -4987,7 +5279,9 @@
     },
     "taxonomy": {
       "family": "",
-      "genus": ""
+      "genus": "",
+      "family_key": "",
+      "genus_key": ""
     },
     "ranges": {
       "range_native": null,
@@ -5021,7 +5315,9 @@
     },
     "taxonomy": {
       "family": "",
-      "genus": ""
+      "genus": "",
+      "family_key": "",
+      "genus_key": ""
     },
     "ranges": {
       "range_native": null,
@@ -5055,7 +5351,9 @@
     },
     "taxonomy": {
       "family": "",
-      "genus": ""
+      "genus": "",
+      "family_key": "",
+      "genus_key": ""
     },
     "ranges": {
       "range_native": null,
@@ -5089,7 +5387,9 @@
     },
     "taxonomy": {
       "family": "",
-      "genus": ""
+      "genus": "",
+      "family_key": "",
+      "genus_key": ""
     },
     "ranges": {
       "range_native": null,
@@ -5123,7 +5423,9 @@
     },
     "taxonomy": {
       "family": "Kleidervögel (Drepanidini)",
-      "genus": "Hemignathus/Akialoa"
+      "genus": "Hemignathus/Akialoa",
+      "family_key": "drepanidini",
+      "genus_key": "hemignathus_akialoa"
     },
     "ranges": {
       "range_native": "https://raw.githubusercontent.com/lehmannphilippe-dotcom/webflow-data/refs/heads/main/ranges/Akialoa_stejnegeri.geojson",
@@ -5157,7 +5459,9 @@
     },
     "taxonomy": {
       "family": "Kleidervögel (Drepanidini)",
-      "genus": "Loxioides"
+      "genus": "Loxioides",
+      "family_key": "drepanidini",
+      "genus_key": "loxioides"
     },
     "ranges": {
       "range_native": null,
@@ -5191,7 +5495,9 @@
     },
     "taxonomy": {
       "family": "",
-      "genus": ""
+      "genus": "",
+      "family_key": "",
+      "genus_key": ""
     },
     "ranges": {
       "range_native": null,
@@ -5225,7 +5531,9 @@
     },
     "taxonomy": {
       "family": "",
-      "genus": ""
+      "genus": "",
+      "family_key": "",
+      "genus_key": ""
     },
     "ranges": {
       "range_native": null,
@@ -5259,7 +5567,9 @@
     },
     "taxonomy": {
       "family": "",
-      "genus": ""
+      "genus": "",
+      "family_key": "",
+      "genus_key": ""
     },
     "ranges": {
       "range_native": null,
@@ -5293,7 +5603,9 @@
     },
     "taxonomy": {
       "family": "",
-      "genus": ""
+      "genus": "",
+      "family_key": "",
+      "genus_key": ""
     },
     "ranges": {
       "range_native": null,
@@ -5327,7 +5639,9 @@
     },
     "taxonomy": {
       "family": "Kleidervögel (Drepanidini)",
-      "genus": "Chloridops"
+      "genus": "Chloridops",
+      "family_key": "drepanidini",
+      "genus_key": "chloridops"
     },
     "ranges": {
       "range_native": "https://raw.githubusercontent.com/lehmannphilippe-dotcom/webflow-data/refs/heads/main/ranges/Chloridops_kona.geojson",
@@ -5361,7 +5675,9 @@
     },
     "taxonomy": {
       "family": "Kleidervögel (Drepanidini)",
-      "genus": "Drepanis"
+      "genus": "Drepanis",
+      "family_key": "drepanidini",
+      "genus_key": "drepanis"
     },
     "ranges": {
       "range_native": "https://raw.githubusercontent.com/lehmannphilippe-dotcom/webflow-data/refs/heads/main/ranges/drepanis-pacifica.geojson",
@@ -5395,7 +5711,9 @@
     },
     "taxonomy": {
       "family": "",
-      "genus": ""
+      "genus": "",
+      "family_key": "",
+      "genus_key": ""
     },
     "ranges": {
       "range_native": null,
@@ -5429,7 +5747,9 @@
     },
     "taxonomy": {
       "family": "",
-      "genus": ""
+      "genus": "",
+      "family_key": "",
+      "genus_key": ""
     },
     "ranges": {
       "range_native": null,
@@ -5463,7 +5783,9 @@
     },
     "taxonomy": {
       "family": "Mohoidae",
-      "genus": "Krausschwänze (Moho)"
+      "genus": "Krausschwänze (Moho)",
+      "family_key": "mohoidae",
+      "genus_key": "moho"
     },
     "ranges": {
       "range_native": "https://raw.githubusercontent.com/lehmannphilippe-dotcom/webflow-data/refs/heads/main/ranges/moho-apicalis.geojson",
@@ -5497,7 +5819,9 @@
     },
     "taxonomy": {
       "family": "",
-      "genus": ""
+      "genus": "",
+      "family_key": "",
+      "genus_key": ""
     },
     "ranges": {
       "range_native": null,
@@ -5531,7 +5855,9 @@
     },
     "taxonomy": {
       "family": "",
-      "genus": ""
+      "genus": "",
+      "family_key": "",
+      "genus_key": ""
     },
     "ranges": {
       "range_native": null,
@@ -5565,7 +5891,9 @@
     },
     "taxonomy": {
       "family": "",
-      "genus": ""
+      "genus": "",
+      "family_key": "",
+      "genus_key": ""
     },
     "ranges": {
       "range_native": null,
@@ -5599,7 +5927,9 @@
     },
     "taxonomy": {
       "family": "",
-      "genus": ""
+      "genus": "",
+      "family_key": "",
+      "genus_key": ""
     },
     "ranges": {
       "range_native": null,
@@ -5633,7 +5963,9 @@
     },
     "taxonomy": {
       "family": "",
-      "genus": ""
+      "genus": "",
+      "family_key": "",
+      "genus_key": ""
     },
     "ranges": {
       "range_native": null,
@@ -5667,7 +5999,9 @@
     },
     "taxonomy": {
       "family": "Kleidervögel (Drepanidini)",
-      "genus": "Hemignathus/Akialoa"
+      "genus": "Hemignathus/Akialoa",
+      "family_key": "drepanidini",
+      "genus_key": "hemignathus_akialoa"
     },
     "ranges": {
       "range_native": "https://raw.githubusercontent.com/lehmannphilippe-dotcom/webflow-data/refs/heads/main/ranges/Akialoa_lanaiensis_nat.geojson",
@@ -5701,7 +6035,9 @@
     },
     "taxonomy": {
       "family": "Kleidervögel (Drepanidini)",
-      "genus": "Dysmorodrepanis"
+      "genus": "Dysmorodrepanis",
+      "family_key": "drepanidini",
+      "genus_key": "dysmorodrepanis"
     },
     "ranges": {
       "range_native": null,
@@ -5735,7 +6071,9 @@
     },
     "taxonomy": {
       "family": "",
-      "genus": ""
+      "genus": "",
+      "family_key": "",
+      "genus_key": ""
     },
     "ranges": {
       "range_native": null,
@@ -5769,7 +6107,9 @@
     },
     "taxonomy": {
       "family": "",
-      "genus": ""
+      "genus": "",
+      "family_key": "",
+      "genus_key": ""
     },
     "ranges": {
       "range_native": null,
@@ -5803,7 +6143,9 @@
     },
     "taxonomy": {
       "family": "",
-      "genus": ""
+      "genus": "",
+      "family_key": "",
+      "genus_key": ""
     },
     "ranges": {
       "range_native": null,
@@ -5837,7 +6179,9 @@
     },
     "taxonomy": {
       "family": "",
-      "genus": ""
+      "genus": "",
+      "family_key": "",
+      "genus_key": ""
     },
     "ranges": {
       "range_native": "https://raw.githubusercontent.com/lehmannphilippe-dotcom/webflow-data/refs/heads/main/ranges/Zapornia_palmeri.geojson",
@@ -5865,13 +6209,15 @@
       "panel": "https://cdn.prod.website-files.com/69a2957c566333eb83d17d8c/69b3165857a8aab96d5cdaeb_zapornia_palmeri.jpg"
     },
     "panel": {
-     "description": "<p>Die Laysan-Ralle war eine kleine, flugunfähige Rallenart, die ausschliesslich auf dem Laysan-Atoll der nordwestlichen Hawaii-Inseln vorkam. Mit einer Körperlänge von etwa 15 cm gehörte sie zu den kleinsten bekannten flugunfähigen Vögeln. Wie viele Inselrallen hatte sie im Verlauf ihrer Evolution stark verkürzte Flügel entwickelt und war vollständig an ein Leben am Boden angepasst.</p><p>Aufgrund der geringen Grösse der Insel und der begrenzten Ressourcen war die Art ein opportunistischer Allesfresser. Den Hauptteil der Nahrung bildeten Insekten und andere kleine wirbellose Tiere, die zwischen der Vegetation und im Treibgut entlang der Küste gesucht wurden. Ergänzend frass die Ralle pflanzliches Material sowie Eier, Küken oder Kadaver von Seevögeln, die in den grossen Brutkolonien der Insel reichlich vorhanden waren.</p><p>Da auf Laysan keine permanenten Süsswasserquellen existieren, deckte die Art ihren Wasserbedarf vermutlich überwiegend über Regenpfützen sowie über die in ihrer Nahrung enthaltene Feuchtigkeit. Diese Anpassung ist auch von anderen Vögeln trockener Inselökosysteme bekannt.</p><p>Die Nester wurden am Boden angelegt, meist im Inneren dichter Grasbüschel oder niedriger Vegetation. Aus trockenen Halmen und Blättern formten die Vögel eine gut verborgene Nestkammer, die häufig über einen kurzen, tunnelartigen Zugang erreichbar war. Diese Konstruktion bot Schutz vor starkem Wind und Sandverwehungen sowie vor potenziellen Nesträubern. Zu den natürlichen Gefahren gehörten vor allem grosse Seevögel wie Fregattvögel oder Raubmöwen, die gelegentlich Küken erbeuten konnten.</p>",
-    "habitat_text": "<p>Laysan ist ein flaches Korallenatoll mit einer Gesamtfläche von rund 4,114 km². Das Zentrum der Insel wird von einem etwa 40 Hektar grossen hypersalinen See eingenommen, sodass weniger als 2,5 km² als nutzbare Landfläche verbleiben. Dadurch war der Lebensraum für terrestrische Arten von vornherein stark begrenzt.</p><p>Die Laysan-Ralle bewohnte hauptsächlich die Vegetationszonen zwischen den offenen Sandstränden der Küste und den Uferbereichen des zentralen Sees. Trotz der geringen Ausdehnung der Insel war die ursprüngliche Pflanzenwelt vergleichsweise vielfältig. Sie bestand aus dichten Beständen endemischer Gräser, krautiger Pflanzen und niedriger Sträucher. In geschützteren Bereichen entwickelten sich zudem kleinere Bestände endemischer Fächerpalmen sowie verschiedene Sandelholzarten.</p><p>Für die Fortpflanzung war die Laysan-Ralle auf dichte Bodenvegetation angewiesen, in der sie ihre Nester gut verborgen anlegen konnte. Entsprechend konzentrierten sich die Brutgebiete wahrscheinlich auf Bereiche mit besonders dichtem Grasbewuchs. Da geeignete Strukturen für den Nestbau nur in begrenztem Umfang vorhanden waren, blieb das potenzielle Brutgebiet der Art selbst unter natürlichen Bedingungen relativ klein, was die Population grundsätzlich anfällig für Umweltveränderungen machte. Die Gesamtpopulation der Laysan-Ralle dürfte daher vermutlich nie mehr als etwa 2.500 Individuen umfasst haben.</p>",
-    "extinction_text": "<p>Ab 1890 wurde Guano (Ablagerungen von Seevogel-Exkrementen, die als natürlicher Dünger genutzt wurden) auf Laysan im grossen Stil abgebaut. Als die Nachfrage nach Guano zurückging, entschied Max Schlemmer (1856-1935), ein deutscher Industrieller und Einwanderer, der als «König von Laysan» bekannt war, im Jahr 1904 Kaninchen auf Laysan auszusetzen, um einen Markt für Kaninchenfleisch aufzubauen. Dieses Geschäft rentierte sich jedoch nicht. Durch die rasche und unkontrollierte Vermehrung der verbleibenden Kaninchen wurde innerhalb weniger Jahre die gesamte Vegetation der Insel abgefressen. Die Landschaft verwandelte sich dadurch in eine weitgehend vegetationslose, wüstenartige Fläche. Der Verlust der dichten Bodenvegetation gilt als Hauptursache für das Aussterben der Laysan-Ralle in ihrem natürlichen Verbreitungsgebiet.</p><p>Zu Beginn des 20. Jahrhunderts wurden daher Versuche unternommen, die Art auf anderen kleinen Nachbarsinseln anzusiedeln. 1913 wurde die Laysan-Ralle erfolgreich auf dem Midway-Atoll eingeführt, 1929 auch auf dem Pearl- und Hermes-Atoll. Auf letzterem konnte sich jedoch keine stabile Population etablieren; bereits 1930 konnten dort keine lebenden Individuen mehr nachgewiesen werden. Als mögliche Ursache gelten die instabilen Umweltbedingungen des Atolls, dessen niedrige Sandinseln regelmässig von Stürmen überflutet werden.</p><p>Auf dem Midway-Atoll hingegen fand die Art zunächst günstigere Bedingungen vor. Die Inseln verfügten über ähnliche Lebensräume wie Laysan, mit dichter Gras- und Krautvegetation sowie grossen Seevogelkolonien, die reichlich Nahrung boten. Die Population nahm rasch zu und erreichte innerhalb weniger Jahre mehrere hundert Individuen.</p><p>Während des Zweiten Weltkriegs wurde das Midway-Atoll stark militärisch ausgebaut, wodurch ein erheblicher Teil des natürlichen Lebensraums verloren ging. Gleichzeitig gelangten mit dem zunehmenden Schiffsverkehr eingeschleppte Ratten auf die Inseln. Diese wirkten sich als bedeutende Prädatoren aus, indem sie Nester plünderten und sowohl Jungvögel als auch adulte Rallen erbeuteten. In Kombination mit dem Verlust geeigneter Habitate führte dies schliesslich zum Zusammenbruch der Population.</p><p>Die letzten gesicherten Beobachtungen der Laysan-Ralle stammen aus dem Jahr 1944; danach gilt die Art als ausgestorben.</p>"
+      "description": "<p>Die Laysan-Ralle war eine kleine, flugunfähige Rallenart, die ausschliesslich auf dem Laysan-Atoll der nordwestlichen Hawaii-Inseln vorkam. Mit einer Körperlänge von etwa 15 cm gehörte sie zu den kleinsten bekannten flugunfähigen Vögeln. Wie viele Inselrallen hatte sie im Verlauf ihrer Evolution stark verkürzte Flügel entwickelt und war vollständig an ein Leben am Boden angepasst.</p><p>Aufgrund der geringen Grösse der Insel und der begrenzten Ressourcen war die Art ein opportunistischer Allesfresser. Den Hauptteil der Nahrung bildeten Insekten und andere kleine wirbellose Tiere, die zwischen der Vegetation und im Treibgut entlang der Küste gesucht wurden. Ergänzend frass die Ralle pflanzliches Material sowie Eier, Küken oder Kadaver von Seevögeln, die in den grossen Brutkolonien der Insel reichlich vorhanden waren.</p><p>Da auf Laysan keine permanenten Süsswasserquellen existieren, deckte die Art ihren Wasserbedarf vermutlich überwiegend über Regenpfützen sowie über die in ihrer Nahrung enthaltene Feuchtigkeit. Diese Anpassung ist auch von anderen Vögeln trockener Inselökosysteme bekannt.</p><p>Die Nester wurden am Boden angelegt, meist im Inneren dichter Grasbüschel oder niedriger Vegetation. Aus trockenen Halmen und Blättern formten die Vögel eine gut verborgene Nestkammer, die häufig über einen kurzen, tunnelartigen Zugang erreichbar war. Diese Konstruktion bot Schutz vor starkem Wind und Sandverwehungen sowie vor potenziellen Nesträubern. Zu den natürlichen Gefahren gehörten vor allem grosse Seevögel wie Fregattvögel oder Raubmöwen, die gelegentlich Küken erbeuten konnten.</p>",
+      "habitat_text": "<p>Laysan ist ein flaches Korallenatoll mit einer Gesamtfläche von rund 4,114 km². Das Zentrum der Insel wird von einem etwa 40 Hektar grossen hypersalinen See eingenommen, sodass weniger als 2,5 km² als nutzbare Landfläche verbleiben. Dadurch war der Lebensraum für terrestrische Arten von vornherein stark begrenzt.</p><p>Die Laysan-Ralle bewohnte hauptsächlich die Vegetationszonen zwischen den offenen Sandstränden der Küste und den Uferbereichen des zentralen Sees. Trotz der geringen Ausdehnung der Insel war die ursprüngliche Pflanzenwelt vergleichsweise vielfältig. Sie bestand aus dichten Beständen endemischer Gräser, krautiger Pflanzen und niedriger Sträucher. In geschützteren Bereichen entwickelten sich zudem kleinere Bestände endemischer Fächerpalmen sowie verschiedene Sandelholzarten.</p><p>Für die Fortpflanzung war die Laysan-Ralle auf dichte Bodenvegetation angewiesen, in der sie ihre Nester gut verborgen anlegen konnte. Entsprechend konzentrierten sich die Brutgebiete wahrscheinlich auf Bereiche mit besonders dichtem Grasbewuchs. Da geeignete Strukturen für den Nestbau nur in begrenztem Umfang vorhanden waren, blieb das potenzielle Brutgebiet der Art selbst unter natürlichen Bedingungen relativ klein, was die Population grundsätzlich anfällig für Umweltveränderungen machte. Die Gesamtpopulation der Laysan-Ralle dürfte daher vermutlich nie mehr als etwa 2.500 Individuen umfasst haben.</p>",
+      "extinction_text": "<p>Ab 1890 wurde Guano (Ablagerungen von Seevogel-Exkrementen, die als natürlicher Dünger genutzt wurden) auf Laysan im grossen Stil abgebaut. Als die Nachfrage nach Guano zurückging, entschied Max Schlemmer (1856-1935), ein deutscher Industrieller und Einwanderer, der als «König von Laysan» bekannt war, im Jahr 1904 Kaninchen auf Laysan auszusetzen, um einen Markt für Kaninchenfleisch aufzubauen. Dieses Geschäft rentierte sich jedoch nicht. Durch die rasche und unkontrollierte Vermehrung der verbleibenden Kaninchen wurde innerhalb weniger Jahre die gesamte Vegetation der Insel abgefressen. Die Landschaft verwandelte sich dadurch in eine weitgehend vegetationslose, wüstenartige Fläche. Der Verlust der dichten Bodenvegetation gilt als Hauptursache für das Aussterben der Laysan-Ralle in ihrem natürlichen Verbreitungsgebiet.</p><p>Zu Beginn des 20. Jahrhunderts wurden daher Versuche unternommen, die Art auf anderen kleinen Nachbarsinseln anzusiedeln. 1913 wurde die Laysan-Ralle erfolgreich auf dem Midway-Atoll eingeführt, 1929 auch auf dem Pearl- und Hermes-Atoll. Auf letzterem konnte sich jedoch keine stabile Population etablieren; bereits 1930 konnten dort keine lebenden Individuen mehr nachgewiesen werden. Als mögliche Ursache gelten die instabilen Umweltbedingungen des Atolls, dessen niedrige Sandinseln regelmässig von Stürmen überflutet werden.</p><p>Auf dem Midway-Atoll hingegen fand die Art zunächst günstigere Bedingungen vor. Die Inseln verfügten über ähnliche Lebensräume wie Laysan, mit dichter Gras- und Krautvegetation sowie grossen Seevogelkolonien, die reichlich Nahrung boten. Die Population nahm rasch zu und erreichte innerhalb weniger Jahre mehrere hundert Individuen.</p><p>Während des Zweiten Weltkriegs wurde das Midway-Atoll stark militärisch ausgebaut, wodurch ein erheblicher Teil des natürlichen Lebensraums verloren ging. Gleichzeitig gelangten mit dem zunehmenden Schiffsverkehr eingeschleppte Ratten auf die Inseln. Diese wirkten sich als bedeutende Prädatoren aus, indem sie Nester plünderten und sowohl Jungvögel als auch adulte Rallen erbeuteten. In Kombination mit dem Verlust geeigneter Habitate führte dies schliesslich zum Zusammenbruch der Population.</p><p>Die letzten gesicherten Beobachtungen der Laysan-Ralle stammen aus dem Jahr 1944; danach gilt die Art als ausgestorben.</p>"
     },
     "taxonomy": {
       "family": "Rallen (Rallidae)",
-      "genus": "Zapornia"
+      "genus": "Zapornia",
+      "family_key": "rallidae",
+      "genus_key": "zapornia"
     },
     "ranges": {
       "range_native": "https://raw.githubusercontent.com/lehmannphilippe-dotcom/webflow-data/refs/heads/main/ranges/Zapornia_palmeri.geojson",
@@ -5891,7 +6237,7 @@
     "last_seen": "1915",
     "location": {
       "lat": 25.761947,
-      "lng": -171.730620
+      "lng": -171.73062
     },
     "habitat": "Laysan (Hawaii)",
     "images": {
@@ -5905,7 +6251,9 @@
     },
     "taxonomy": {
       "family": "",
-      "genus": ""
+      "genus": "",
+      "family_key": "",
+      "genus_key": ""
     },
     "ranges": {
       "range_native": "https://raw.githubusercontent.com/lehmannphilippe-dotcom/webflow-data/refs/heads/main/ranges/Zapornia_palmeri.geojson",
@@ -5939,7 +6287,9 @@
     },
     "taxonomy": {
       "family": "",
-      "genus": ""
+      "genus": "",
+      "family_key": "",
+      "genus_key": ""
     },
     "ranges": {
       "range_native": null,
@@ -5973,7 +6323,9 @@
     },
     "taxonomy": {
       "family": "",
-      "genus": ""
+      "genus": "",
+      "family_key": "",
+      "genus_key": ""
     },
     "ranges": {
       "range_native": null,
@@ -6007,7 +6359,9 @@
     },
     "taxonomy": {
       "family": "",
-      "genus": ""
+      "genus": "",
+      "family_key": "",
+      "genus_key": ""
     },
     "ranges": {
       "range_native": null,
@@ -6041,7 +6395,9 @@
     },
     "taxonomy": {
       "family": "",
-      "genus": ""
+      "genus": "",
+      "family_key": "",
+      "genus_key": ""
     },
     "ranges": {
       "range_native": null,
@@ -6075,7 +6431,9 @@
     },
     "taxonomy": {
       "family": "",
-      "genus": ""
+      "genus": "",
+      "family_key": "",
+      "genus_key": ""
     },
     "ranges": {
       "range_native": null,
@@ -6109,7 +6467,9 @@
     },
     "taxonomy": {
       "family": "",
-      "genus": ""
+      "genus": "",
+      "family_key": "",
+      "genus_key": ""
     },
     "ranges": {
       "range_native": null,
@@ -6143,7 +6503,9 @@
     },
     "taxonomy": {
       "family": "",
-      "genus": ""
+      "genus": "",
+      "family_key": "",
+      "genus_key": ""
     },
     "ranges": {
       "range_native": null,
@@ -6177,7 +6539,9 @@
     },
     "taxonomy": {
       "family": "",
-      "genus": ""
+      "genus": "",
+      "family_key": "",
+      "genus_key": ""
     },
     "ranges": {
       "range_native": null,
@@ -6211,7 +6575,9 @@
     },
     "taxonomy": {
       "family": "",
-      "genus": ""
+      "genus": "",
+      "family_key": "",
+      "genus_key": ""
     },
     "ranges": {
       "range_native": null,
@@ -6245,7 +6611,9 @@
     },
     "taxonomy": {
       "family": "",
-      "genus": ""
+      "genus": "",
+      "family_key": "",
+      "genus_key": ""
     },
     "ranges": {
       "range_native": null,
@@ -6279,7 +6647,9 @@
     },
     "taxonomy": {
       "family": "",
-      "genus": ""
+      "genus": "",
+      "family_key": "",
+      "genus_key": ""
     },
     "ranges": {
       "range_native": null,
@@ -6313,7 +6683,9 @@
     },
     "taxonomy": {
       "family": "",
-      "genus": ""
+      "genus": "",
+      "family_key": "",
+      "genus_key": ""
     },
     "ranges": {
       "range_native": null,
@@ -6347,7 +6719,9 @@
     },
     "taxonomy": {
       "family": "",
-      "genus": ""
+      "genus": "",
+      "family_key": "",
+      "genus_key": ""
     },
     "ranges": {
       "range_native": null,
@@ -6381,7 +6755,9 @@
     },
     "taxonomy": {
       "family": "",
-      "genus": ""
+      "genus": "",
+      "family_key": "",
+      "genus_key": ""
     },
     "ranges": {
       "range_native": null,
@@ -6415,7 +6791,9 @@
     },
     "taxonomy": {
       "family": "",
-      "genus": ""
+      "genus": "",
+      "family_key": "",
+      "genus_key": ""
     },
     "ranges": {
       "range_native": null,
@@ -6449,7 +6827,9 @@
     },
     "taxonomy": {
       "family": "",
-      "genus": ""
+      "genus": "",
+      "family_key": "",
+      "genus_key": ""
     },
     "ranges": {
       "range_native": null,
@@ -6483,7 +6863,9 @@
     },
     "taxonomy": {
       "family": "",
-      "genus": ""
+      "genus": "",
+      "family_key": "",
+      "genus_key": ""
     },
     "ranges": {
       "range_native": null,
@@ -6517,7 +6899,9 @@
     },
     "taxonomy": {
       "family": "",
-      "genus": ""
+      "genus": "",
+      "family_key": "",
+      "genus_key": ""
     },
     "ranges": {
       "range_native": null,
@@ -6551,7 +6935,9 @@
     },
     "taxonomy": {
       "family": "",
-      "genus": ""
+      "genus": "",
+      "family_key": "",
+      "genus_key": ""
     },
     "ranges": {
       "range_native": null,
@@ -6585,7 +6971,9 @@
     },
     "taxonomy": {
       "family": "",
-      "genus": ""
+      "genus": "",
+      "family_key": "",
+      "genus_key": ""
     },
     "ranges": {
       "range_native": null,
@@ -6619,7 +7007,9 @@
     },
     "taxonomy": {
       "family": "",
-      "genus": ""
+      "genus": "",
+      "family_key": "",
+      "genus_key": ""
     },
     "ranges": {
       "range_native": null,
@@ -6653,7 +7043,9 @@
     },
     "taxonomy": {
       "family": "",
-      "genus": ""
+      "genus": "",
+      "family_key": "",
+      "genus_key": ""
     },
     "ranges": {
       "range_native": null,
@@ -6687,7 +7079,9 @@
     },
     "taxonomy": {
       "family": "",
-      "genus": ""
+      "genus": "",
+      "family_key": "",
+      "genus_key": ""
     },
     "ranges": {
       "range_native": null,
@@ -6721,7 +7115,9 @@
     },
     "taxonomy": {
       "family": "",
-      "genus": ""
+      "genus": "",
+      "family_key": "",
+      "genus_key": ""
     },
     "ranges": {
       "range_native": null,
@@ -6755,7 +7151,9 @@
     },
     "taxonomy": {
       "family": "",
-      "genus": ""
+      "genus": "",
+      "family_key": "",
+      "genus_key": ""
     },
     "ranges": {
       "range_native": null,
@@ -6789,7 +7187,9 @@
     },
     "taxonomy": {
       "family": "",
-      "genus": ""
+      "genus": "",
+      "family_key": "",
+      "genus_key": ""
     },
     "ranges": {
       "range_native": null,
@@ -6823,7 +7223,9 @@
     },
     "taxonomy": {
       "family": "",
-      "genus": ""
+      "genus": "",
+      "family_key": "",
+      "genus_key": ""
     },
     "ranges": {
       "range_native": null,
@@ -6857,7 +7259,9 @@
     },
     "taxonomy": {
       "family": "",
-      "genus": ""
+      "genus": "",
+      "family_key": "",
+      "genus_key": ""
     },
     "ranges": {
       "range_native": null,
@@ -6891,7 +7295,9 @@
     },
     "taxonomy": {
       "family": "",
-      "genus": ""
+      "genus": "",
+      "family_key": "",
+      "genus_key": ""
     },
     "ranges": {
       "range_native": null,
@@ -6925,7 +7331,9 @@
     },
     "taxonomy": {
       "family": "",
-      "genus": ""
+      "genus": "",
+      "family_key": "",
+      "genus_key": ""
     },
     "ranges": {
       "range_native": null,
@@ -6959,7 +7367,9 @@
     },
     "taxonomy": {
       "family": "",
-      "genus": ""
+      "genus": "",
+      "family_key": "",
+      "genus_key": ""
     },
     "ranges": {
       "range_native": null,
@@ -6993,7 +7403,9 @@
     },
     "taxonomy": {
       "family": "",
-      "genus": ""
+      "genus": "",
+      "family_key": "",
+      "genus_key": ""
     },
     "ranges": {
       "range_native": null,
@@ -7027,7 +7439,9 @@
     },
     "taxonomy": {
       "family": "",
-      "genus": ""
+      "genus": "",
+      "family_key": "",
+      "genus_key": ""
     },
     "ranges": {
       "range_native": null,
@@ -7061,7 +7475,9 @@
     },
     "taxonomy": {
       "family": "",
-      "genus": ""
+      "genus": "",
+      "family_key": "",
+      "genus_key": ""
     },
     "ranges": {
       "range_native": null,
@@ -7095,7 +7511,9 @@
     },
     "taxonomy": {
       "family": "",
-      "genus": ""
+      "genus": "",
+      "family_key": "",
+      "genus_key": ""
     },
     "ranges": {
       "range_native": null,
@@ -7129,7 +7547,9 @@
     },
     "taxonomy": {
       "family": "",
-      "genus": ""
+      "genus": "",
+      "family_key": "",
+      "genus_key": ""
     },
     "ranges": {
       "range_native": null,
@@ -7163,7 +7583,9 @@
     },
     "taxonomy": {
       "family": "",
-      "genus": ""
+      "genus": "",
+      "family_key": "",
+      "genus_key": ""
     },
     "ranges": {
       "range_native": null,
@@ -7197,7 +7619,9 @@
     },
     "taxonomy": {
       "family": "",
-      "genus": ""
+      "genus": "",
+      "family_key": "",
+      "genus_key": ""
     },
     "ranges": {
       "range_native": null,
@@ -7231,7 +7655,9 @@
     },
     "taxonomy": {
       "family": "",
-      "genus": ""
+      "genus": "",
+      "family_key": "",
+      "genus_key": ""
     },
     "ranges": {
       "range_native": null,
@@ -7265,7 +7691,9 @@
     },
     "taxonomy": {
       "family": "",
-      "genus": ""
+      "genus": "",
+      "family_key": "",
+      "genus_key": ""
     },
     "ranges": {
       "range_native": null,
@@ -7299,7 +7727,9 @@
     },
     "taxonomy": {
       "family": "",
-      "genus": ""
+      "genus": "",
+      "family_key": "",
+      "genus_key": ""
     },
     "ranges": {
       "range_native": null,
@@ -7333,7 +7763,9 @@
     },
     "taxonomy": {
       "family": "",
-      "genus": ""
+      "genus": "",
+      "family_key": "",
+      "genus_key": ""
     },
     "ranges": {
       "range_native": null,
@@ -7367,7 +7799,9 @@
     },
     "taxonomy": {
       "family": "",
-      "genus": ""
+      "genus": "",
+      "family_key": "",
+      "genus_key": ""
     },
     "ranges": {
       "range_native": null,
@@ -7401,7 +7835,9 @@
     },
     "taxonomy": {
       "family": "",
-      "genus": ""
+      "genus": "",
+      "family_key": "",
+      "genus_key": ""
     },
     "ranges": {
       "range_native": null,
@@ -7435,7 +7871,9 @@
     },
     "taxonomy": {
       "family": "",
-      "genus": ""
+      "genus": "",
+      "family_key": "",
+      "genus_key": ""
     },
     "ranges": {
       "range_native": null,
@@ -7469,7 +7907,9 @@
     },
     "taxonomy": {
       "family": "",
-      "genus": ""
+      "genus": "",
+      "family_key": "",
+      "genus_key": ""
     },
     "ranges": {
       "range_native": null,
@@ -7503,7 +7943,9 @@
     },
     "taxonomy": {
       "family": "",
-      "genus": ""
+      "genus": "",
+      "family_key": "",
+      "genus_key": ""
     },
     "ranges": {
       "range_native": null,
@@ -7537,7 +7979,9 @@
     },
     "taxonomy": {
       "family": "",
-      "genus": ""
+      "genus": "",
+      "family_key": "",
+      "genus_key": ""
     },
     "ranges": {
       "range_native": null,
@@ -7571,7 +8015,9 @@
     },
     "taxonomy": {
       "family": "",
-      "genus": ""
+      "genus": "",
+      "family_key": "",
+      "genus_key": ""
     },
     "ranges": {
       "range_native": null,
@@ -7605,7 +8051,9 @@
     },
     "taxonomy": {
       "family": "",
-      "genus": ""
+      "genus": "",
+      "family_key": "",
+      "genus_key": ""
     },
     "ranges": {
       "range_native": null,
@@ -7639,7 +8087,9 @@
     },
     "taxonomy": {
       "family": "",
-      "genus": ""
+      "genus": "",
+      "family_key": "",
+      "genus_key": ""
     },
     "ranges": {
       "range_native": null,
@@ -7673,7 +8123,9 @@
     },
     "taxonomy": {
       "family": "",
-      "genus": ""
+      "genus": "",
+      "family_key": "",
+      "genus_key": ""
     },
     "ranges": {
       "range_native": null,
@@ -7707,7 +8159,9 @@
     },
     "taxonomy": {
       "family": "",
-      "genus": ""
+      "genus": "",
+      "family_key": "",
+      "genus_key": ""
     },
     "ranges": {
       "range_native": null,
@@ -7741,7 +8195,9 @@
     },
     "taxonomy": {
       "family": "",
-      "genus": ""
+      "genus": "",
+      "family_key": "",
+      "genus_key": ""
     },
     "ranges": {
       "range_native": null,
@@ -7775,7 +8231,9 @@
     },
     "taxonomy": {
       "family": "",
-      "genus": ""
+      "genus": "",
+      "family_key": "",
+      "genus_key": ""
     },
     "ranges": {
       "range_native": null,
@@ -7809,7 +8267,9 @@
     },
     "taxonomy": {
       "family": "Kleidervögel (Drepanidini)",
-      "genus": "Hemignathus/Akialoa"
+      "genus": "Hemignathus/Akialoa",
+      "family_key": "drepanidini",
+      "genus_key": "hemignathus_akialoa"
     },
     "ranges": {
       "range_native": "https://raw.githubusercontent.com/lehmannphilippe-dotcom/webflow-data/refs/heads/main/ranges/Akialoa_ellisianus.geojson",
@@ -7843,7 +8303,9 @@
     },
     "taxonomy": {
       "family": "",
-      "genus": ""
+      "genus": "",
+      "family_key": "",
+      "genus_key": ""
     },
     "ranges": {
       "range_native": null,
@@ -7877,7 +8339,9 @@
     },
     "taxonomy": {
       "family": "",
-      "genus": ""
+      "genus": "",
+      "family_key": "",
+      "genus_key": ""
     },
     "ranges": {
       "range_native": null,
@@ -7911,7 +8375,9 @@
     },
     "taxonomy": {
       "family": "",
-      "genus": ""
+      "genus": "",
+      "family_key": "",
+      "genus_key": ""
     },
     "ranges": {
       "range_native": null,
@@ -7945,7 +8411,9 @@
     },
     "taxonomy": {
       "family": "Mohoidae",
-      "genus": "Krausschwänze (Moho)"
+      "genus": "Krausschwänze (Moho)",
+      "family_key": "mohoidae",
+      "genus_key": "moho"
     },
     "ranges": {
       "range_native": "https://raw.githubusercontent.com/lehmannphilippe-dotcom/webflow-data/refs/heads/main/ranges/moho-bishopi.geojson",
@@ -7979,7 +8447,9 @@
     },
     "taxonomy": {
       "family": "",
-      "genus": ""
+      "genus": "",
+      "family_key": "",
+      "genus_key": ""
     },
     "ranges": {
       "range_native": null,
@@ -8013,7 +8483,9 @@
     },
     "taxonomy": {
       "family": "Fringillidae",
-      "genus": "Rhodacanthis"
+      "genus": "Rhodacanthis",
+      "family_key": "fringillidae",
+      "genus_key": "rhodacanthis"
     },
     "ranges": {
       "range_native": null,
@@ -8047,7 +8519,9 @@
     },
     "taxonomy": {
       "family": "",
-      "genus": ""
+      "genus": "",
+      "family_key": "",
+      "genus_key": ""
     },
     "ranges": {
       "range_native": null,
@@ -8081,7 +8555,9 @@
     },
     "taxonomy": {
       "family": "",
-      "genus": ""
+      "genus": "",
+      "family_key": "",
+      "genus_key": ""
     },
     "ranges": {
       "range_native": null,
@@ -8115,7 +8591,9 @@
     },
     "taxonomy": {
       "family": "",
-      "genus": ""
+      "genus": "",
+      "family_key": "",
+      "genus_key": ""
     },
     "ranges": {
       "range_native": null,
@@ -8149,7 +8627,9 @@
     },
     "taxonomy": {
       "family": "",
-      "genus": ""
+      "genus": "",
+      "family_key": "",
+      "genus_key": ""
     },
     "ranges": {
       "range_native": null,
@@ -8183,7 +8663,9 @@
     },
     "taxonomy": {
       "family": "Mohoidae",
-      "genus": "Krausschwänze (Moho)"
+      "genus": "Krausschwänze (Moho)",
+      "family_key": "mohoidae",
+      "genus_key": "moho"
     },
     "ranges": {
       "range_native": null,
@@ -8217,7 +8699,9 @@
     },
     "taxonomy": {
       "family": "",
-      "genus": ""
+      "genus": "",
+      "family_key": "",
+      "genus_key": ""
     },
     "ranges": {
       "range_native": null,
@@ -8251,7 +8735,9 @@
     },
     "taxonomy": {
       "family": "",
-      "genus": ""
+      "genus": "",
+      "family_key": "",
+      "genus_key": ""
     },
     "ranges": {
       "range_native": null,
@@ -8285,7 +8771,9 @@
     },
     "taxonomy": {
       "family": "",
-      "genus": ""
+      "genus": "",
+      "family_key": "",
+      "genus_key": ""
     },
     "ranges": {
       "range_native": null,
@@ -8319,7 +8807,9 @@
     },
     "taxonomy": {
       "family": "",
-      "genus": ""
+      "genus": "",
+      "family_key": "",
+      "genus_key": ""
     },
     "ranges": {
       "range_native": null,
@@ -8353,7 +8843,9 @@
     },
     "taxonomy": {
       "family": "",
-      "genus": ""
+      "genus": "",
+      "family_key": "",
+      "genus_key": ""
     },
     "ranges": {
       "range_native": null,
@@ -8387,7 +8879,9 @@
     },
     "taxonomy": {
       "family": "",
-      "genus": ""
+      "genus": "",
+      "family_key": "",
+      "genus_key": ""
     },
     "ranges": {
       "range_native": null,
@@ -8421,7 +8915,9 @@
     },
     "taxonomy": {
       "family": "",
-      "genus": ""
+      "genus": "",
+      "family_key": "",
+      "genus_key": ""
     },
     "ranges": {
       "range_native": null,
@@ -8455,7 +8951,9 @@
     },
     "taxonomy": {
       "family": "",
-      "genus": ""
+      "genus": "",
+      "family_key": "",
+      "genus_key": ""
     },
     "ranges": {
       "range_native": null,
@@ -8489,7 +8987,9 @@
     },
     "taxonomy": {
       "family": "",
-      "genus": ""
+      "genus": "",
+      "family_key": "",
+      "genus_key": ""
     },
     "ranges": {
       "range_native": null,
@@ -8523,7 +9023,9 @@
     },
     "taxonomy": {
       "family": "",
-      "genus": ""
+      "genus": "",
+      "family_key": "",
+      "genus_key": ""
     },
     "ranges": {
       "range_native": null,
@@ -8557,7 +9059,9 @@
     },
     "taxonomy": {
       "family": "",
-      "genus": ""
+      "genus": "",
+      "family_key": "",
+      "genus_key": ""
     },
     "ranges": {
       "range_native": null,
@@ -8591,7 +9095,9 @@
     },
     "taxonomy": {
       "family": "",
-      "genus": ""
+      "genus": "",
+      "family_key": "",
+      "genus_key": ""
     },
     "ranges": {
       "range_native": null,
@@ -8625,7 +9131,9 @@
     },
     "taxonomy": {
       "family": "",
-      "genus": ""
+      "genus": "",
+      "family_key": "",
+      "genus_key": ""
     },
     "ranges": {
       "range_native": null,
@@ -8659,7 +9167,9 @@
     },
     "taxonomy": {
       "family": "",
-      "genus": ""
+      "genus": "",
+      "family_key": "",
+      "genus_key": ""
     },
     "ranges": {
       "range_native": null,
@@ -8693,7 +9203,9 @@
     },
     "taxonomy": {
       "family": "",
-      "genus": ""
+      "genus": "",
+      "family_key": "",
+      "genus_key": ""
     },
     "ranges": {
       "range_native": null,
@@ -8727,7 +9239,9 @@
     },
     "taxonomy": {
       "family": "",
-      "genus": ""
+      "genus": "",
+      "family_key": "",
+      "genus_key": ""
     },
     "ranges": {
       "range_native": null,
@@ -8761,7 +9275,9 @@
     },
     "taxonomy": {
       "family": "",
-      "genus": ""
+      "genus": "",
+      "family_key": "",
+      "genus_key": ""
     },
     "ranges": {
       "range_native": null,
@@ -8795,7 +9311,9 @@
     },
     "taxonomy": {
       "family": "",
-      "genus": ""
+      "genus": "",
+      "family_key": "",
+      "genus_key": ""
     },
     "ranges": {
       "range_native": null,
@@ -8829,7 +9347,9 @@
     },
     "taxonomy": {
       "family": "",
-      "genus": ""
+      "genus": "",
+      "family_key": "",
+      "genus_key": ""
     },
     "ranges": {
       "range_native": null,
@@ -8863,7 +9383,9 @@
     },
     "taxonomy": {
       "family": "",
-      "genus": ""
+      "genus": "",
+      "family_key": "",
+      "genus_key": ""
     },
     "ranges": {
       "range_native": null,
@@ -8897,7 +9419,9 @@
     },
     "taxonomy": {
       "family": "",
-      "genus": ""
+      "genus": "",
+      "family_key": "",
+      "genus_key": ""
     },
     "ranges": {
       "range_native": null,
@@ -8931,7 +9455,9 @@
     },
     "taxonomy": {
       "family": "",
-      "genus": ""
+      "genus": "",
+      "family_key": "",
+      "genus_key": ""
     },
     "ranges": {
       "range_native": null,
@@ -8965,7 +9491,9 @@
     },
     "taxonomy": {
       "family": "",
-      "genus": ""
+      "genus": "",
+      "family_key": "",
+      "genus_key": ""
     },
     "ranges": {
       "range_native": null,
@@ -8999,7 +9527,9 @@
     },
     "taxonomy": {
       "family": "",
-      "genus": ""
+      "genus": "",
+      "family_key": "",
+      "genus_key": ""
     },
     "ranges": {
       "range_native": null,
@@ -9033,7 +9563,9 @@
     },
     "taxonomy": {
       "family": "",
-      "genus": ""
+      "genus": "",
+      "family_key": "",
+      "genus_key": ""
     },
     "ranges": {
       "range_native": null,
@@ -9067,7 +9599,9 @@
     },
     "taxonomy": {
       "family": "",
-      "genus": ""
+      "genus": "",
+      "family_key": "",
+      "genus_key": ""
     },
     "ranges": {
       "range_native": null,
@@ -9101,7 +9635,9 @@
     },
     "taxonomy": {
       "family": "",
-      "genus": ""
+      "genus": "",
+      "family_key": "",
+      "genus_key": ""
     },
     "ranges": {
       "range_native": null,
@@ -9135,7 +9671,9 @@
     },
     "taxonomy": {
       "family": "",
-      "genus": ""
+      "genus": "",
+      "family_key": "",
+      "genus_key": ""
     },
     "ranges": {
       "range_native": null,
@@ -9169,7 +9707,9 @@
     },
     "taxonomy": {
       "family": "",
-      "genus": ""
+      "genus": "",
+      "family_key": "",
+      "genus_key": ""
     },
     "ranges": {
       "range_native": null,
@@ -9203,7 +9743,9 @@
     },
     "taxonomy": {
       "family": "",
-      "genus": ""
+      "genus": "",
+      "family_key": "",
+      "genus_key": ""
     },
     "ranges": {
       "range_native": null,
@@ -9237,7 +9779,9 @@
     },
     "taxonomy": {
       "family": "",
-      "genus": ""
+      "genus": "",
+      "family_key": "",
+      "genus_key": ""
     },
     "ranges": {
       "range_native": null,
@@ -9271,7 +9815,9 @@
     },
     "taxonomy": {
       "family": "",
-      "genus": ""
+      "genus": "",
+      "family_key": "",
+      "genus_key": ""
     },
     "ranges": {
       "range_native": null,
@@ -9305,7 +9851,9 @@
     },
     "taxonomy": {
       "family": "",
-      "genus": ""
+      "genus": "",
+      "family_key": "",
+      "genus_key": ""
     },
     "ranges": {
       "range_native": null,
@@ -9339,7 +9887,9 @@
     },
     "taxonomy": {
       "family": "",
-      "genus": ""
+      "genus": "",
+      "family_key": "",
+      "genus_key": ""
     },
     "ranges": {
       "range_native": null,
@@ -9373,7 +9923,9 @@
     },
     "taxonomy": {
       "family": "",
-      "genus": ""
+      "genus": "",
+      "family_key": "",
+      "genus_key": ""
     },
     "ranges": {
       "range_native": null,
@@ -9407,7 +9959,9 @@
     },
     "taxonomy": {
       "family": "Kleidervögel (Drepanidini)",
-      "genus": "Melamprosops"
+      "genus": "Melamprosops",
+      "family_key": "drepanidini",
+      "genus_key": "melamprosops"
     },
     "ranges": {
       "range_native": null,
@@ -9441,7 +9995,9 @@
     },
     "taxonomy": {
       "family": "",
-      "genus": ""
+      "genus": "",
+      "family_key": "",
+      "genus_key": ""
     },
     "ranges": {
       "range_native": null,
@@ -9475,7 +10031,9 @@
     },
     "taxonomy": {
       "family": "",
-      "genus": ""
+      "genus": "",
+      "family_key": "",
+      "genus_key": ""
     },
     "ranges": {
       "range_native": null,
@@ -9509,7 +10067,9 @@
     },
     "taxonomy": {
       "family": "",
-      "genus": ""
+      "genus": "",
+      "family_key": "",
+      "genus_key": ""
     },
     "ranges": {
       "range_native": null,
@@ -9543,7 +10103,9 @@
     },
     "taxonomy": {
       "family": "",
-      "genus": ""
+      "genus": "",
+      "family_key": "",
+      "genus_key": ""
     },
     "ranges": {
       "range_native": null,
@@ -9577,7 +10139,9 @@
     },
     "taxonomy": {
       "family": "",
-      "genus": ""
+      "genus": "",
+      "family_key": "",
+      "genus_key": ""
     },
     "ranges": {
       "range_native": null,
@@ -9611,7 +10175,9 @@
     },
     "taxonomy": {
       "family": "",
-      "genus": ""
+      "genus": "",
+      "family_key": "",
+      "genus_key": ""
     },
     "ranges": {
       "range_native": null,
@@ -9645,7 +10211,9 @@
     },
     "taxonomy": {
       "family": "",
-      "genus": ""
+      "genus": "",
+      "family_key": "",
+      "genus_key": ""
     },
     "ranges": {
       "range_native": null,
@@ -9679,7 +10247,9 @@
     },
     "taxonomy": {
       "family": "",
-      "genus": ""
+      "genus": "",
+      "family_key": "",
+      "genus_key": ""
     },
     "ranges": {
       "range_native": null,
@@ -9713,7 +10283,9 @@
     },
     "taxonomy": {
       "family": "",
-      "genus": ""
+      "genus": "",
+      "family_key": "",
+      "genus_key": ""
     },
     "ranges": {
       "range_native": null,
@@ -9747,7 +10319,9 @@
     },
     "taxonomy": {
       "family": "",
-      "genus": ""
+      "genus": "",
+      "family_key": "",
+      "genus_key": ""
     },
     "ranges": {
       "range_native": null,
@@ -9781,7 +10355,9 @@
     },
     "taxonomy": {
       "family": "",
-      "genus": ""
+      "genus": "",
+      "family_key": "",
+      "genus_key": ""
     },
     "ranges": {
       "range_native": null,
@@ -9815,7 +10391,9 @@
     },
     "taxonomy": {
       "family": "",
-      "genus": ""
+      "genus": "",
+      "family_key": "",
+      "genus_key": ""
     },
     "ranges": {
       "range_native": null,
@@ -9849,7 +10427,9 @@
     },
     "taxonomy": {
       "family": "",
-      "genus": ""
+      "genus": "",
+      "family_key": "",
+      "genus_key": ""
     },
     "ranges": {
       "range_native": null,
@@ -9883,7 +10463,9 @@
     },
     "taxonomy": {
       "family": "",
-      "genus": ""
+      "genus": "",
+      "family_key": "",
+      "genus_key": ""
     },
     "ranges": {
       "range_native": null,
@@ -9917,7 +10499,9 @@
     },
     "taxonomy": {
       "family": "",
-      "genus": ""
+      "genus": "",
+      "family_key": "",
+      "genus_key": ""
     },
     "ranges": {
       "range_native": null,
@@ -9951,7 +10535,9 @@
     },
     "taxonomy": {
       "family": "",
-      "genus": ""
+      "genus": "",
+      "family_key": "",
+      "genus_key": ""
     },
     "ranges": {
       "range_native": null,
@@ -9985,7 +10571,9 @@
     },
     "taxonomy": {
       "family": "",
-      "genus": ""
+      "genus": "",
+      "family_key": "",
+      "genus_key": ""
     },
     "ranges": {
       "range_native": null,
@@ -10019,7 +10607,9 @@
     },
     "taxonomy": {
       "family": "",
-      "genus": ""
+      "genus": "",
+      "family_key": "",
+      "genus_key": ""
     },
     "ranges": {
       "range_native": null,
@@ -10053,7 +10643,9 @@
     },
     "taxonomy": {
       "family": "",
-      "genus": ""
+      "genus": "",
+      "family_key": "",
+      "genus_key": ""
     },
     "ranges": {
       "range_native": null,
@@ -10087,7 +10679,9 @@
     },
     "taxonomy": {
       "family": "",
-      "genus": ""
+      "genus": "",
+      "family_key": "",
+      "genus_key": ""
     },
     "ranges": {
       "range_native": null,
@@ -10121,7 +10715,9 @@
     },
     "taxonomy": {
       "family": "",
-      "genus": ""
+      "genus": "",
+      "family_key": "",
+      "genus_key": ""
     },
     "ranges": {
       "range_native": null,
@@ -10155,7 +10751,9 @@
     },
     "taxonomy": {
       "family": "",
-      "genus": ""
+      "genus": "",
+      "family_key": "",
+      "genus_key": ""
     },
     "ranges": {
       "range_native": null,
@@ -10189,7 +10787,9 @@
     },
     "taxonomy": {
       "family": "",
-      "genus": ""
+      "genus": "",
+      "family_key": "",
+      "genus_key": ""
     },
     "ranges": {
       "range_native": null,
@@ -10223,7 +10823,9 @@
     },
     "taxonomy": {
       "family": "",
-      "genus": ""
+      "genus": "",
+      "family_key": "",
+      "genus_key": ""
     },
     "ranges": {
       "range_native": null,
@@ -10257,7 +10859,9 @@
     },
     "taxonomy": {
       "family": "",
-      "genus": ""
+      "genus": "",
+      "family_key": "",
+      "genus_key": ""
     },
     "ranges": {
       "range_native": null,
@@ -10291,7 +10895,9 @@
     },
     "taxonomy": {
       "family": "",
-      "genus": ""
+      "genus": "",
+      "family_key": "",
+      "genus_key": ""
     },
     "ranges": {
       "range_native": null,
@@ -10325,7 +10931,9 @@
     },
     "taxonomy": {
       "family": "",
-      "genus": ""
+      "genus": "",
+      "family_key": "",
+      "genus_key": ""
     },
     "ranges": {
       "range_native": null,
@@ -10359,7 +10967,9 @@
     },
     "taxonomy": {
       "family": "",
-      "genus": ""
+      "genus": "",
+      "family_key": "",
+      "genus_key": ""
     },
     "ranges": {
       "range_native": null,
@@ -10393,7 +11003,9 @@
     },
     "taxonomy": {
       "family": "",
-      "genus": ""
+      "genus": "",
+      "family_key": "",
+      "genus_key": ""
     },
     "ranges": {
       "range_native": null,
@@ -10427,7 +11039,9 @@
     },
     "taxonomy": {
       "family": "",
-      "genus": ""
+      "genus": "",
+      "family_key": "",
+      "genus_key": ""
     },
     "ranges": {
       "range_native": null,
@@ -10461,7 +11075,9 @@
     },
     "taxonomy": {
       "family": "",
-      "genus": ""
+      "genus": "",
+      "family_key": "",
+      "genus_key": ""
     },
     "ranges": {
       "range_native": null,
@@ -10495,7 +11111,9 @@
     },
     "taxonomy": {
       "family": "",
-      "genus": ""
+      "genus": "",
+      "family_key": "",
+      "genus_key": ""
     },
     "ranges": {
       "range_native": null,
@@ -10529,7 +11147,9 @@
     },
     "taxonomy": {
       "family": "",
-      "genus": ""
+      "genus": "",
+      "family_key": "",
+      "genus_key": ""
     },
     "ranges": {
       "range_native": null,
@@ -10563,7 +11183,9 @@
     },
     "taxonomy": {
       "family": "",
-      "genus": ""
+      "genus": "",
+      "family_key": "",
+      "genus_key": ""
     },
     "ranges": {
       "range_native": null,
@@ -10597,7 +11219,9 @@
     },
     "taxonomy": {
       "family": "",
-      "genus": ""
+      "genus": "",
+      "family_key": "",
+      "genus_key": ""
     },
     "ranges": {
       "range_native": null,
@@ -10631,7 +11255,9 @@
     },
     "taxonomy": {
       "family": "",
-      "genus": ""
+      "genus": "",
+      "family_key": "",
+      "genus_key": ""
     },
     "ranges": {
       "range_native": null,
@@ -10665,7 +11291,9 @@
     },
     "taxonomy": {
       "family": "",
-      "genus": ""
+      "genus": "",
+      "family_key": "",
+      "genus_key": ""
     },
     "ranges": {
       "range_native": null,
@@ -10699,7 +11327,9 @@
     },
     "taxonomy": {
       "family": "",
-      "genus": ""
+      "genus": "",
+      "family_key": "",
+      "genus_key": ""
     },
     "ranges": {
       "range_native": null,
@@ -10733,7 +11363,9 @@
     },
     "taxonomy": {
       "family": "",
-      "genus": ""
+      "genus": "",
+      "family_key": "",
+      "genus_key": ""
     },
     "ranges": {
       "range_native": null,
@@ -10767,7 +11399,9 @@
     },
     "taxonomy": {
       "family": "",
-      "genus": ""
+      "genus": "",
+      "family_key": "",
+      "genus_key": ""
     },
     "ranges": {
       "range_native": null,
@@ -10801,7 +11435,9 @@
     },
     "taxonomy": {
       "family": "",
-      "genus": ""
+      "genus": "",
+      "family_key": "",
+      "genus_key": ""
     },
     "ranges": {
       "range_native": null,
@@ -10835,7 +11471,9 @@
     },
     "taxonomy": {
       "family": "Kleidervögel (Drepanidini)",
-      "genus": "Mamos (Drepanis)"
+      "genus": "Mamos (Drepanis)",
+      "family_key": "drepanidini",
+      "genus_key": "drepanis"
     },
     "ranges": {
       "range_native": "https://raw.githubusercontent.com/lehmannphilippe-dotcom/webflow-data/refs/heads/main/ranges/black-mamo.json",
@@ -10869,7 +11507,9 @@
     },
     "taxonomy": {
       "family": "",
-      "genus": ""
+      "genus": "",
+      "family_key": "",
+      "genus_key": ""
     },
     "ranges": {
       "range_native": null,
@@ -10903,7 +11543,9 @@
     },
     "taxonomy": {
       "family": "",
-      "genus": ""
+      "genus": "",
+      "family_key": "",
+      "genus_key": ""
     },
     "ranges": {
       "range_native": null,
@@ -10937,7 +11579,9 @@
     },
     "taxonomy": {
       "family": "",
-      "genus": ""
+      "genus": "",
+      "family_key": "",
+      "genus_key": ""
     },
     "ranges": {
       "range_native": null,
@@ -10971,7 +11615,9 @@
     },
     "taxonomy": {
       "family": "",
-      "genus": ""
+      "genus": "",
+      "family_key": "",
+      "genus_key": ""
     },
     "ranges": {
       "range_native": null,
@@ -11005,7 +11651,9 @@
     },
     "taxonomy": {
       "family": "",
-      "genus": ""
+      "genus": "",
+      "family_key": "",
+      "genus_key": ""
     },
     "ranges": {
       "range_native": null,
@@ -11039,7 +11687,9 @@
     },
     "taxonomy": {
       "family": "",
-      "genus": ""
+      "genus": "",
+      "family_key": "",
+      "genus_key": ""
     },
     "ranges": {
       "range_native": null,
@@ -11073,7 +11723,9 @@
     },
     "taxonomy": {
       "family": "",
-      "genus": ""
+      "genus": "",
+      "family_key": "",
+      "genus_key": ""
     },
     "ranges": {
       "range_native": null,
@@ -11107,7 +11759,9 @@
     },
     "taxonomy": {
       "family": "",
-      "genus": ""
+      "genus": "",
+      "family_key": "",
+      "genus_key": ""
     },
     "ranges": {
       "range_native": null,
@@ -11141,7 +11795,9 @@
     },
     "taxonomy": {
       "family": "",
-      "genus": ""
+      "genus": "",
+      "family_key": "",
+      "genus_key": ""
     },
     "ranges": {
       "range_native": null,
@@ -11175,7 +11831,9 @@
     },
     "taxonomy": {
       "family": "",
-      "genus": ""
+      "genus": "",
+      "family_key": "",
+      "genus_key": ""
     },
     "ranges": {
       "range_native": null,
@@ -11209,7 +11867,9 @@
     },
     "taxonomy": {
       "family": "",
-      "genus": ""
+      "genus": "",
+      "family_key": "",
+      "genus_key": ""
     },
     "ranges": {
       "range_native": null,
@@ -11243,7 +11903,9 @@
     },
     "taxonomy": {
       "family": "",
-      "genus": ""
+      "genus": "",
+      "family_key": "",
+      "genus_key": ""
     },
     "ranges": {
       "range_native": null,
@@ -11277,7 +11939,9 @@
     },
     "taxonomy": {
       "family": "",
-      "genus": ""
+      "genus": "",
+      "family_key": "",
+      "genus_key": ""
     },
     "ranges": {
       "range_native": null,
@@ -11311,7 +11975,9 @@
     },
     "taxonomy": {
       "family": "",
-      "genus": ""
+      "genus": "",
+      "family_key": "",
+      "genus_key": ""
     },
     "ranges": {
       "range_native": null,
@@ -11345,7 +12011,9 @@
     },
     "taxonomy": {
       "family": "Mohoidae",
-      "genus": "Krausschwänze (Moho)"
+      "genus": "Krausschwänze (Moho)",
+      "family_key": "mohoidae",
+      "genus_key": "moho"
     },
     "ranges": {
       "range_native": null,
@@ -11379,7 +12047,9 @@
     },
     "taxonomy": {
       "family": "",
-      "genus": ""
+      "genus": "",
+      "family_key": "",
+      "genus_key": ""
     },
     "ranges": {
       "range_native": null,
@@ -11413,7 +12083,9 @@
     },
     "taxonomy": {
       "family": "",
-      "genus": ""
+      "genus": "",
+      "family_key": "",
+      "genus_key": ""
     },
     "ranges": {
       "range_native": null,
@@ -11447,7 +12119,9 @@
     },
     "taxonomy": {
       "family": "Mohoidae",
-      "genus": "Krausschwänze (Moho)"
+      "genus": "Krausschwänze (Moho)",
+      "family_key": "mohoidae",
+      "genus_key": "moho"
     },
     "ranges": {
       "range_native": "https://raw.githubusercontent.com/lehmannphilippe-dotcom/webflow-data/refs/heads/main/ranges/moho-braccatus.geojson",
@@ -11481,7 +12155,9 @@
     },
     "taxonomy": {
       "family": "",
-      "genus": ""
+      "genus": "",
+      "family_key": "",
+      "genus_key": ""
     },
     "ranges": {
       "range_native": null,
@@ -11515,7 +12191,9 @@
     },
     "taxonomy": {
       "family": "",
-      "genus": ""
+      "genus": "",
+      "family_key": "",
+      "genus_key": ""
     },
     "ranges": {
       "range_native": null,
@@ -11549,7 +12227,9 @@
     },
     "taxonomy": {
       "family": "",
-      "genus": ""
+      "genus": "",
+      "family_key": "",
+      "genus_key": ""
     },
     "ranges": {
       "range_native": null,
@@ -11583,7 +12263,9 @@
     },
     "taxonomy": {
       "family": "",
-      "genus": ""
+      "genus": "",
+      "family_key": "",
+      "genus_key": ""
     },
     "ranges": {
       "range_native": null,
@@ -11617,7 +12299,9 @@
     },
     "taxonomy": {
       "family": "",
-      "genus": ""
+      "genus": "",
+      "family_key": "",
+      "genus_key": ""
     },
     "ranges": {
       "range_native": null,
@@ -11651,7 +12335,9 @@
     },
     "taxonomy": {
       "family": "",
-      "genus": ""
+      "genus": "",
+      "family_key": "",
+      "genus_key": ""
     },
     "ranges": {
       "range_native": null,
@@ -11685,7 +12371,9 @@
     },
     "taxonomy": {
       "family": "",
-      "genus": ""
+      "genus": "",
+      "family_key": "",
+      "genus_key": ""
     },
     "ranges": {
       "range_native": null,
@@ -11719,7 +12407,9 @@
     },
     "taxonomy": {
       "family": "",
-      "genus": ""
+      "genus": "",
+      "family_key": "",
+      "genus_key": ""
     },
     "ranges": {
       "range_native": null,
@@ -11753,7 +12443,9 @@
     },
     "taxonomy": {
       "family": "",
-      "genus": ""
+      "genus": "",
+      "family_key": "",
+      "genus_key": ""
     },
     "ranges": {
       "range_native": null,
@@ -11787,7 +12479,9 @@
     },
     "taxonomy": {
       "family": "",
-      "genus": ""
+      "genus": "",
+      "family_key": "",
+      "genus_key": ""
     },
     "ranges": {
       "range_native": null,
@@ -11821,7 +12515,9 @@
     },
     "taxonomy": {
       "family": "",
-      "genus": ""
+      "genus": "",
+      "family_key": "",
+      "genus_key": ""
     },
     "ranges": {
       "range_native": null,
@@ -11855,7 +12551,9 @@
     },
     "taxonomy": {
       "family": "",
-      "genus": ""
+      "genus": "",
+      "family_key": "",
+      "genus_key": ""
     },
     "ranges": {
       "range_native": null,
@@ -11889,7 +12587,9 @@
     },
     "taxonomy": {
       "family": "",
-      "genus": ""
+      "genus": "",
+      "family_key": "",
+      "genus_key": ""
     },
     "ranges": {
       "range_native": null,
@@ -11923,7 +12623,9 @@
     },
     "taxonomy": {
       "family": "",
-      "genus": ""
+      "genus": "",
+      "family_key": "",
+      "genus_key": ""
     },
     "ranges": {
       "range_native": null,
@@ -11957,7 +12659,9 @@
     },
     "taxonomy": {
       "family": "",
-      "genus": ""
+      "genus": "",
+      "family_key": "",
+      "genus_key": ""
     },
     "ranges": {
       "range_native": null,
@@ -11991,7 +12695,9 @@
     },
     "taxonomy": {
       "family": "",
-      "genus": ""
+      "genus": "",
+      "family_key": "",
+      "genus_key": ""
     },
     "ranges": {
       "range_native": null,
@@ -12025,7 +12731,9 @@
     },
     "taxonomy": {
       "family": "",
-      "genus": ""
+      "genus": "",
+      "family_key": "",
+      "genus_key": ""
     },
     "ranges": {
       "range_native": null,
@@ -12059,7 +12767,9 @@
     },
     "taxonomy": {
       "family": "",
-      "genus": ""
+      "genus": "",
+      "family_key": "",
+      "genus_key": ""
     },
     "ranges": {
       "range_native": null,
@@ -12093,7 +12803,9 @@
     },
     "taxonomy": {
       "family": "",
-      "genus": ""
+      "genus": "",
+      "family_key": "",
+      "genus_key": ""
     },
     "ranges": {
       "range_native": null,
@@ -12127,7 +12839,9 @@
     },
     "taxonomy": {
       "family": "",
-      "genus": ""
+      "genus": "",
+      "family_key": "",
+      "genus_key": ""
     },
     "ranges": {
       "range_native": null,
@@ -12161,7 +12875,9 @@
     },
     "taxonomy": {
       "family": "",
-      "genus": ""
+      "genus": "",
+      "family_key": "",
+      "genus_key": ""
     },
     "ranges": {
       "range_native": null,
@@ -12195,7 +12911,9 @@
     },
     "taxonomy": {
       "family": "",
-      "genus": ""
+      "genus": "",
+      "family_key": "",
+      "genus_key": ""
     },
     "ranges": {
       "range_native": null,
@@ -12229,7 +12947,9 @@
     },
     "taxonomy": {
       "family": "",
-      "genus": ""
+      "genus": "",
+      "family_key": "",
+      "genus_key": ""
     },
     "ranges": {
       "range_native": null,
@@ -12263,7 +12983,9 @@
     },
     "taxonomy": {
       "family": "",
-      "genus": ""
+      "genus": "",
+      "family_key": "",
+      "genus_key": ""
     },
     "ranges": {
       "range_native": null,
@@ -12297,7 +13019,9 @@
     },
     "taxonomy": {
       "family": "",
-      "genus": ""
+      "genus": "",
+      "family_key": "",
+      "genus_key": ""
     },
     "ranges": {
       "range_native": null,
@@ -12331,7 +13055,9 @@
     },
     "taxonomy": {
       "family": "",
-      "genus": ""
+      "genus": "",
+      "family_key": "",
+      "genus_key": ""
     },
     "ranges": {
       "range_native": null,
@@ -12365,7 +13091,9 @@
     },
     "taxonomy": {
       "family": "",
-      "genus": ""
+      "genus": "",
+      "family_key": "",
+      "genus_key": ""
     },
     "ranges": {
       "range_native": null,
@@ -12399,7 +13127,9 @@
     },
     "taxonomy": {
       "family": "",
-      "genus": ""
+      "genus": "",
+      "family_key": "",
+      "genus_key": ""
     },
     "ranges": {
       "range_native": null,
@@ -12433,7 +13163,9 @@
     },
     "taxonomy": {
       "family": "",
-      "genus": ""
+      "genus": "",
+      "family_key": "",
+      "genus_key": ""
     },
     "ranges": {
       "range_native": null,
@@ -12467,7 +13199,9 @@
     },
     "taxonomy": {
       "family": "",
-      "genus": ""
+      "genus": "",
+      "family_key": "",
+      "genus_key": ""
     },
     "ranges": {
       "range_native": null,
@@ -12501,7 +13235,9 @@
     },
     "taxonomy": {
       "family": "",
-      "genus": ""
+      "genus": "",
+      "family_key": "",
+      "genus_key": ""
     },
     "ranges": {
       "range_native": null,
@@ -12535,7 +13271,9 @@
     },
     "taxonomy": {
       "family": "",
-      "genus": ""
+      "genus": "",
+      "family_key": "",
+      "genus_key": ""
     },
     "ranges": {
       "range_native": null,
@@ -12569,7 +13307,9 @@
     },
     "taxonomy": {
       "family": "",
-      "genus": ""
+      "genus": "",
+      "family_key": "",
+      "genus_key": ""
     },
     "ranges": {
       "range_native": null,
@@ -12603,7 +13343,9 @@
     },
     "taxonomy": {
       "family": "",
-      "genus": ""
+      "genus": "",
+      "family_key": "",
+      "genus_key": ""
     },
     "ranges": {
       "range_native": null,
@@ -12637,7 +13379,9 @@
     },
     "taxonomy": {
       "family": "",
-      "genus": ""
+      "genus": "",
+      "family_key": "",
+      "genus_key": ""
     },
     "ranges": {
       "range_native": null,
@@ -12671,7 +13415,9 @@
     },
     "taxonomy": {
       "family": "",
-      "genus": ""
+      "genus": "",
+      "family_key": "",
+      "genus_key": ""
     },
     "ranges": {
       "range_native": null,
@@ -12705,7 +13451,9 @@
     },
     "taxonomy": {
       "family": "",
-      "genus": ""
+      "genus": "",
+      "family_key": "",
+      "genus_key": ""
     },
     "ranges": {
       "range_native": null,
@@ -12739,7 +13487,9 @@
     },
     "taxonomy": {
       "family": "",
-      "genus": ""
+      "genus": "",
+      "family_key": "",
+      "genus_key": ""
     },
     "ranges": {
       "range_native": null,
@@ -12773,7 +13523,9 @@
     },
     "taxonomy": {
       "family": "",
-      "genus": ""
+      "genus": "",
+      "family_key": "",
+      "genus_key": ""
     },
     "ranges": {
       "range_native": null,
@@ -12807,7 +13559,9 @@
     },
     "taxonomy": {
       "family": "",
-      "genus": ""
+      "genus": "",
+      "family_key": "",
+      "genus_key": ""
     },
     "ranges": {
       "range_native": null,
@@ -12841,7 +13595,9 @@
     },
     "taxonomy": {
       "family": "",
-      "genus": ""
+      "genus": "",
+      "family_key": "",
+      "genus_key": ""
     },
     "ranges": {
       "range_native": null,
@@ -12875,7 +13631,9 @@
     },
     "taxonomy": {
       "family": "",
-      "genus": ""
+      "genus": "",
+      "family_key": "",
+      "genus_key": ""
     },
     "ranges": {
       "range_native": null,
@@ -12909,7 +13667,9 @@
     },
     "taxonomy": {
       "family": "",
-      "genus": ""
+      "genus": "",
+      "family_key": "",
+      "genus_key": ""
     },
     "ranges": {
       "range_native": null,
@@ -12943,7 +13703,9 @@
     },
     "taxonomy": {
       "family": "",
-      "genus": ""
+      "genus": "",
+      "family_key": "",
+      "genus_key": ""
     },
     "ranges": {
       "range_native": null,
@@ -12977,7 +13739,9 @@
     },
     "taxonomy": {
       "family": "",
-      "genus": ""
+      "genus": "",
+      "family_key": "",
+      "genus_key": ""
     },
     "ranges": {
       "range_native": null,
@@ -13011,7 +13775,9 @@
     },
     "taxonomy": {
       "family": "",
-      "genus": ""
+      "genus": "",
+      "family_key": "",
+      "genus_key": ""
     },
     "ranges": {
       "range_native": null,
@@ -13045,7 +13811,9 @@
     },
     "taxonomy": {
       "family": "",
-      "genus": ""
+      "genus": "",
+      "family_key": "",
+      "genus_key": ""
     },
     "ranges": {
       "range_native": null,
@@ -13079,7 +13847,9 @@
     },
     "taxonomy": {
       "family": "",
-      "genus": ""
+      "genus": "",
+      "family_key": "",
+      "genus_key": ""
     },
     "ranges": {
       "range_native": null,
@@ -13113,7 +13883,9 @@
     },
     "taxonomy": {
       "family": "",
-      "genus": ""
+      "genus": "",
+      "family_key": "",
+      "genus_key": ""
     },
     "ranges": {
       "range_native": null,
@@ -13147,7 +13919,9 @@
     },
     "taxonomy": {
       "family": "",
-      "genus": ""
+      "genus": "",
+      "family_key": "",
+      "genus_key": ""
     },
     "ranges": {
       "range_native": null,
@@ -13181,7 +13955,9 @@
     },
     "taxonomy": {
       "family": "",
-      "genus": ""
+      "genus": "",
+      "family_key": "",
+      "genus_key": ""
     },
     "ranges": {
       "range_native": null,
@@ -13215,7 +13991,9 @@
     },
     "taxonomy": {
       "family": "",
-      "genus": ""
+      "genus": "",
+      "family_key": "",
+      "genus_key": ""
     },
     "ranges": {
       "range_native": null,
@@ -13249,7 +14027,9 @@
     },
     "taxonomy": {
       "family": "",
-      "genus": ""
+      "genus": "",
+      "family_key": "",
+      "genus_key": ""
     },
     "ranges": {
       "range_native": null,
@@ -13283,7 +14063,9 @@
     },
     "taxonomy": {
       "family": "",
-      "genus": ""
+      "genus": "",
+      "family_key": "",
+      "genus_key": ""
     },
     "ranges": {
       "range_native": null,
@@ -13317,7 +14099,9 @@
     },
     "taxonomy": {
       "family": "",
-      "genus": ""
+      "genus": "",
+      "family_key": "",
+      "genus_key": ""
     },
     "ranges": {
       "range_native": null,
@@ -13351,7 +14135,9 @@
     },
     "taxonomy": {
       "family": "",
-      "genus": ""
+      "genus": "",
+      "family_key": "",
+      "genus_key": ""
     },
     "ranges": {
       "range_native": null,
@@ -13385,7 +14171,9 @@
     },
     "taxonomy": {
       "family": "",
-      "genus": ""
+      "genus": "",
+      "family_key": "",
+      "genus_key": ""
     },
     "ranges": {
       "range_native": null,
@@ -13419,7 +14207,9 @@
     },
     "taxonomy": {
       "family": "",
-      "genus": ""
+      "genus": "",
+      "family_key": "",
+      "genus_key": ""
     },
     "ranges": {
       "range_native": null,
@@ -13453,7 +14243,9 @@
     },
     "taxonomy": {
       "family": "",
-      "genus": ""
+      "genus": "",
+      "family_key": "",
+      "genus_key": ""
     },
     "ranges": {
       "range_native": null,
@@ -13487,7 +14279,9 @@
     },
     "taxonomy": {
       "family": "",
-      "genus": ""
+      "genus": "",
+      "family_key": "",
+      "genus_key": ""
     },
     "ranges": {
       "range_native": null,
@@ -13521,7 +14315,9 @@
     },
     "taxonomy": {
       "family": "",
-      "genus": ""
+      "genus": "",
+      "family_key": "",
+      "genus_key": ""
     },
     "ranges": {
       "range_native": null,
@@ -13555,7 +14351,9 @@
     },
     "taxonomy": {
       "family": "",
-      "genus": ""
+      "genus": "",
+      "family_key": "",
+      "genus_key": ""
     },
     "ranges": {
       "range_native": null,
@@ -13589,7 +14387,9 @@
     },
     "taxonomy": {
       "family": "",
-      "genus": ""
+      "genus": "",
+      "family_key": "",
+      "genus_key": ""
     },
     "ranges": {
       "range_native": null,
@@ -13623,7 +14423,9 @@
     },
     "taxonomy": {
       "family": "",
-      "genus": ""
+      "genus": "",
+      "family_key": "",
+      "genus_key": ""
     },
     "ranges": {
       "range_native": null,
