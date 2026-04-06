@@ -1138,9 +1138,9 @@
       "extinction_text": "<p>Der Oahu-Koa-Fink wurde vermutlich bereits durch die polynesischen Ureinwohner indirekt beeinträchtigt, insbesondere durch die Rodung und Umgestaltung grosser Waldgebiete.</p><p>Nach dem Eintreffen der ersten Europäer in den 1780er-Jahren verstärkten sich dieser Prozess. Die fortschreitende Zerstörung der Tieflandwälder zwang die Art vermutlich dazu, sich in höher gelegene, zunehmend isolierte Waldgebiete zurückzuziehen. Es ist möglich, dass der Oahu-Koa-Fink dort noch bis gegen Mitte oder Ende des 19. Jahrhunderts unentdeckt überlebte.</p><p>Das endgültige Aussterben erfolgte wahrscheinlich durch eine Kombination aus eingeschleppten Ratten, verwilderten Haustieren wie Katzen und Schweinen sowie weiterem Lebensraumverlust.</p>"
     },
     "taxonomy": {
-      "family": "Fringillidae",
+      "family": "Kleidervögel (Drepanidini)",
       "genus": "Rhodacanthis",
-      "family_key": "fringillidae",
+      "family_key": "drepanidini",
       "genus_key": "rhodacanthis"
     },
     "ranges": {
@@ -1174,10 +1174,10 @@
       "extinction_text": "<p>Durch die hohe Spezialisierung des Kauai-Koa-Finken war die Art besonders anfällig gegenüber raschen Umweltveränderungen sowie gegenüber der Rodung wichtiger Nahrungs- und Nistressourcen.</p><p>Wie lange die Art in entlegenen Refugien tatsächlich überlebte, kann heute nicht mehr rekonstruiert werden. Je nach Interpretation starb die Art bereits vor dem Eintreffen der ersten Europäer in den 1780er-Jahren aus, oder sie konnte sich in kleinen, isolierten Gruppen bis gegen die Mitte oder das Ende des 19. Jahrhunderts halten.</p><p>Das endgültige Aussterben erfolgte wahrscheinlich durch eine Kombination aus eingeschleppten Ratten, verwilderten Haustieren und einem kontinuierlichen Verlust des Lebensraums.</p>"
     },
     "taxonomy": {
-      "family": "Fringillidae",
+      "family": "Kleidervögel (Drepanidini)",
       "genus": "Rhodacanthis",
       "family_key": "fringillidae",
-      "genus_key": "rhodacanthis"
+      "genus_key": "drepanidini"
     },
     "ranges": {
       "range_native": null,
@@ -4342,9 +4342,9 @@
       "extinction_text": "<p>Die einzigen wissenschaftlich dokumentierten Beobachtungen des kleinen Koa-Finken in freier Wildbahn stammen von den Naturforschern und Vogelsammlern Henry Charles Palmer (1866–1920) und George Campbell Munro (1866–1963) aus dem Jahr 1891. Im Auftrag von Walter Rothschild (1868–1937), einem wohlhabenden britischen Bankier, Zoologen und Gründer eines der bedeutendsten naturhistorischen Privatmuseen seiner Zeit, sammelten sie exotische Vogelarten auf Hawaii für seine Museumssammlung.</p><p>Die wenigen Individuen, die Palmer und Munro während ihrer Expedition im Jahr 1891 erlegten, stellen bis heute den einzigen gesicherten Nachweis dieser Art dar. Nach diesen Beobachtungen wurde der Koa-Fink nie wieder gesichtet und galt bereits wenige Monate nach seiner wissenschaftlichen Entdeckung als ausgestorben.</p><p>Der Kleine und der Grosse Koa-Fink waren die letzten Arten der Gattung Rhodacanthis, die bis in die Neuzeit überlebten. Die beiden restlichen Arten dieser Gattung, die auf Oahu lebten, wurden bereits kurz nach der Ankunft der ersten polynesischen Siedler ausgerottet. Es ist daher anzunehmen, dass auch der Kleine Koa-Fink durch die frühe menschliche Besiedlung stark dezimiert wurde, sich jedoch in abgelegenen Regionen noch über mehrere Jahrhunderte halten konnte.</p><p>Das endgültige Aussterben erfolgte vermutlich erst im späten 19. Jahrhundert und stand in direktem Zusammenhang mit der grossflächigen Abholzung der Akazien-Wälder oberhalb von 1.220 m durch Weideland ersetzt wurden.</p>"
     },
     "taxonomy": {
-      "family": "Fringillidae",
+      "family": "Kleidervögel (Drepanidini)",
       "genus": "Rhodacanthis",
-      "family_key": "fringillidae",
+      "family_key": "drepanidini",
       "genus_key": "rhodacanthis"
     },
     "ranges": {
@@ -8482,9 +8482,9 @@
       "extinction_text": "<p>Die Art wurde von den beiden Naturforschern und Vogelsammlern Henry Charles Palmer (1866–1920),  und  George Campbell Munro (1866–1963) im Jahr 1891 erstmals wissenschaftlich beschrieben. Nur fünf Jahre später, im Jahr 1896, konnte die Art von dem britischen Zoologen Robert Cyril Layton Perkins (1866-1955) das letzte mal Nachgewiesen werden.   Die 65 Exemplare, die damals für die private Museumssammlung von Walter Rothschild (1868–1937), einem wohlhabenden britischen Bankier und Zoologen, gesammelt wurden, bilden bis heute den einzigen gesicherten Nachweis dieser Art.</p><p>Der Grosse und der Kleine Koa-Fink waren die letzten Arten der Gattung Rhodacanthis, die bis in die Neuzeit überlebten. Die beiden restlichen Arten dieser Gattung, die auf Oahu lebten, wurden bereits kurz nach der Ankunft der ersten polynesischen Siedler ausgerottet. Es ist daher anzunehmen, dass auch der Grosse Koa-Fink durch die frühe menschliche Besiedlung stark dezimiert wurde, sich jedoch in abgelegenen Regionen noch über mehrere Jahrhunderte halten konnte.</p><p>Das endgültige Aussterben erfolgte vermutlich erst im späten 19. Jahrhundert und stand in direktem Zusammenhang mit der grossflächigen Abholzung der Akazien-Wälder oberhalb von 1.220 m durch Weideland ersetzt wurden.</p>"
     },
     "taxonomy": {
-      "family": "Fringillidae",
+      "family": "Kleidervögel (Drepanidini)",
       "genus": "Rhodacanthis",
-      "family_key": "fringillidae",
+      "family_key": "drepanidini",
       "genus_key": "rhodacanthis"
     },
     "ranges": {
