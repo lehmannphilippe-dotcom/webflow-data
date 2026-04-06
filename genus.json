@@ -1,5 +1,19 @@
 [
   {
+    "id": "chaetoptila",
+    "family": "Mohoidae",
+    "family_key": "mohoidae",
+    "name": {
+      "de": "Chaetoptila",
+      "lat": "Chaetoptilaa",
+      "en": "Chaetoptila"
+    },
+    "extinction_date": "1860",
+    "panel": {
+      "description": ""
+    }
+  },
+  {
     "id": "aidemedia",
     "family": "Kleidervögel (Drepanidini)",
     "family_key": "drepanidini",
