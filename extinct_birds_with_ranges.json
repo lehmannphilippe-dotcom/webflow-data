@@ -1281,11 +1281,11 @@
       "habitat_text": "",
       "extinction_text": ""
     },
-    "taxonomy": {
-      "family": "",
-      "genus": "",
-      "family_key": "",
-      "genus_key": ""
+     "taxonomy": {
+      "family": "Kleidervögel (Drepanidini)",
+      "genus": "Chloridops",
+      "family_key": "drepanidini",
+      "genus_key": "chloridops"
     },
     "ranges": {
       "range_native": null,
@@ -1317,11 +1317,11 @@
       "habitat_text": "",
       "extinction_text": ""
     },
-    "taxonomy": {
-      "family": "",
-      "genus": "",
-      "family_key": "",
-      "genus_key": ""
+     "taxonomy": {
+      "family": "Kleidervögel (Drepanidini)",
+      "genus": "Chloridops",
+      "family_key": "drepanidini",
+      "genus_key": "chloridops"
     },
     "ranges": {
       "range_native": null,
