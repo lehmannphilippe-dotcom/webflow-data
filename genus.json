@@ -295,14 +295,14 @@
   },
   {
     "id": "rhodacanthis",
-    "family": "Fringillidae",
-    "family_key": "fringillidae",
+    "family": "Kleidervögel (Drepanidini)",
+    "family_key": "drepanidini",
     "name": {
       "de": "Rhodacanthis",
       "lat": "Rhodacanthis",
       "en": "Rhodacanthis"
     },
-    "extinction_date": "",
+    "extinction_date": "1896",
     "panel": {
       "description": ""
     }
