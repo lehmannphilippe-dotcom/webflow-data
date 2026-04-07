@@ -4306,10 +4306,10 @@
       "extinction_text": ""
     },
     "taxonomy": {
-      "family": "",
-      "genus": "",
-      "family_key": "",
-      "genus_key": ""
+       "family": "Kleidervögel (Drepanidini)",
+      "genus": "Psittirostra",
+      "family_key": "drepanidini",
+      "genus_key": "psittirostra"
     },
     "ranges": {
       "range_native": "https://raw.githubusercontent.com/lehmannphilippe-dotcom/webflow-data/refs/heads/main/ranges/Psittirostra%20psittacea_native.geojson",
@@ -5494,10 +5494,10 @@
       "extinction_text": ""
     },
     "taxonomy": {
-      "family": "",
-      "genus": "",
-      "family_key": "",
-      "genus_key": ""
+      "family": "Kleidervögel (Drepanidini)",
+      "genus": "Hemignathus",
+      "family_key": "drepanidini",
+      "genus_key": "hemignathus"
     },
     "ranges": {
       "range_native": null,
@@ -7114,10 +7114,10 @@
       "extinction_text": ""
     },
     "taxonomy": {
-      "family": "",
-      "genus": "",
-      "family_key": "",
-      "genus_key": ""
+      "family": "Kleidervögel (Drepanidini)",
+      "genus": "Loxops",
+       "family_key": "drepanidini",
+      "genus_key": "loxops"
     },
     "ranges": {
       "range_native": null,
@@ -7149,11 +7149,11 @@
       "habitat_text": "",
       "extinction_text": ""
     },
-    "taxonomy": {
-      "family": "",
-      "genus": "",
-      "family_key": "",
-      "genus_key": ""
+     "taxonomy": {
+      "family": "Kleidervögel (Drepanidini)",
+      "genus": "Hemignathus",
+      "family_key": "drepanidini",
+      "genus_key": "hemignathus"
     },
     "ranges": {
       "range_native": null,
@@ -12910,10 +12910,10 @@
       "extinction_text": ""
     },
     "taxonomy": {
-      "family": "",
-      "genus": "",
-      "family_key": "",
-      "genus_key": ""
+      "family": "Kleidervögel (Drepanidini)",
+      "genus": "Loxops",
+       "family_key": "drepanidini",
+      "genus_key": "loxops"
     },
     "ranges": {
       "range_native": null,
