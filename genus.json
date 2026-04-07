@@ -1,4 +1,33 @@
 [
+
+          {
+    "id": "paroreomyza",
+     "family": "Kleidervögel (Drepanidini)",
+    "family_key": "drepanidini",
+    "name": {
+      "de": "Paroreomyza",
+      "lat": "Paroreomyza",
+      "en": "Paroreomyza"
+    },
+    "extinction_date": "1860",
+    "panel": {
+      "description": ""
+    }
+  },
+      {
+    "id": "himatione",
+     "family": "Kleidervögel (Drepanidini)",
+    "family_key": "drepanidini",
+    "name": {
+      "de": "Himatione",
+      "lat": "Himatione",
+      "en": "Himatione"
+    },
+    "extinction_date": "1860",
+    "panel": {
+      "description": ""
+    }
+  },
       {
     "id": "psittirostra",
      "family": "Kleidervögel (Drepanidini)",
