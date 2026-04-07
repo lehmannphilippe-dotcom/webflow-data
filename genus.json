@@ -1,4 +1,32 @@
 [
+      {
+    "id": "psittirostra",
+     "family": "Kleidervögel (Drepanidini)",
+    "family_key": "drepanidini",
+    "name": {
+      "de": "Psittirostra",
+      "lat": "Psittirostra",
+      "en": "Psittirostra"
+    },
+    "extinction_date": "1860",
+    "panel": {
+      "description": ""
+    }
+  },
+    {
+    "id": "loxops",
+     "family": "Kleidervögel (Drepanidini)",
+    "family_key": "drepanidini",
+    "name": {
+      "de": "Loxops",
+      "lat": "Loxops",
+      "en": "Loxops"
+    },
+    "extinction_date": "1860",
+    "panel": {
+      "description": ""
+    }
+  },
   {
     "id": "chaetoptila",
     "family": "Mohoidae",
