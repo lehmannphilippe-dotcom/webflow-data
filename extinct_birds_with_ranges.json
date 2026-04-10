@@ -31,6 +31,8 @@
       "range_native": null,
       "breeding_native": null,
       "range_hypothetical": null,
+      "passage": null,
+      "breeding_spots": null,
       "find_spots": null,
       "last_observation": null
     }
@@ -67,6 +69,8 @@
       "range_native": null,
       "breeding_native": null,
       "range_hypothetical": null,
+      "passage": null,
+      "breeding_spots": null,
       "find_spots": null,
       "last_observation": null
     }
@@ -103,6 +107,8 @@
       "range_native": null,
       "breeding_native": null,
       "range_hypothetical": null,
+      "passage": null,
+      "breeding_spots": null,
       "find_spots": null,
       "last_observation": null
     }
@@ -139,6 +145,8 @@
       "range_native": null,
       "breeding_native": null,
       "range_hypothetical": null,
+      "passage": null,
+      "breeding_spots": null,
       "find_spots": null,
       "last_observation": null
     }
@@ -175,6 +183,8 @@
       "range_native": null,
       "breeding_native": null,
       "range_hypothetical": null,
+      "passage": null,
+      "breeding_spots": null,
       "find_spots": null,
       "last_observation": null
     }
@@ -211,6 +221,8 @@
       "range_native": null,
       "breeding_native": null,
       "range_hypothetical": null,
+      "passage": null,
+      "breeding_spots": null,
       "find_spots": null,
       "last_observation": null
     }
@@ -247,6 +259,8 @@
       "range_native": null,
       "breeding_native": null,
       "range_hypothetical": null,
+      "passage": null,
+      "breeding_spots": null,
       "find_spots": null,
       "last_observation": null
     }
@@ -283,6 +297,8 @@
       "range_native": null,
       "breeding_native": null,
       "range_hypothetical": null,
+      "passage": null,
+      "breeding_spots": null,
       "find_spots": null,
       "last_observation": null
     }
@@ -319,6 +335,8 @@
       "range_native": null,
       "breeding_native": null,
       "range_hypothetical": null,
+      "passage": null,
+      "breeding_spots": null,
       "find_spots": null,
       "last_observation": null
     }
@@ -355,6 +373,8 @@
       "range_native": null,
       "breeding_native": null,
       "range_hypothetical": null,
+      "passage": null,
+      "breeding_spots": null,
       "find_spots": null,
       "last_observation": null
     }
@@ -391,6 +411,8 @@
       "range_native": null,
       "breeding_native": null,
       "range_hypothetical": null,
+      "passage": null,
+      "breeding_spots": null,
       "find_spots": null,
       "last_observation": null
     }
@@ -427,6 +449,8 @@
       "range_native": null,
       "breeding_native": null,
       "range_hypothetical": null,
+      "passage": null,
+      "breeding_spots": null,
       "find_spots": null,
       "last_observation": null
     }
@@ -463,6 +487,8 @@
       "range_native": null,
       "breeding_native": null,
       "range_hypothetical": null,
+      "passage": null,
+      "breeding_spots": null,
       "find_spots": null,
       "last_observation": null
     }
@@ -499,6 +525,8 @@
       "range_native": null,
       "breeding_native": null,
       "range_hypothetical": null,
+      "passage": null,
+      "breeding_spots": null,
       "find_spots": null,
       "last_observation": null
     }
@@ -535,6 +563,8 @@
       "range_native": null,
       "breeding_native": null,
       "range_hypothetical": null,
+      "passage": null,
+      "breeding_spots": null,
       "find_spots": null,
       "last_observation": null
     }
@@ -571,6 +601,8 @@
       "range_native": null,
       "breeding_native": null,
       "range_hypothetical": null,
+      "passage": null,
+      "breeding_spots": null,
       "find_spots": null,
       "last_observation": null
     }
@@ -607,6 +639,8 @@
       "range_native": null,
       "breeding_native": null,
       "range_hypothetical": "https://raw.githubusercontent.com/lehmannphilippe-dotcom/webflow-data/refs/heads/main/ranges/haliaeetus_sp_range_hypo.geojson",
+      "passage": null,
+      "breeding_spots": null,
       "find_spots": "https://raw.githubusercontent.com/lehmannphilippe-dotcom/webflow-data/refs/heads/main/ranges/haliaeetus_sp_find_spots.geojson",
       "last_observation": null
     }
@@ -643,6 +677,8 @@
       "range_native": null,
       "breeding_native": null,
       "range_hypothetical": null,
+      "passage": null,
+      "breeding_spots": null,
       "find_spots": null,
       "last_observation": null
     }
@@ -679,6 +715,8 @@
       "range_native": null,
       "breeding_native": null,
       "range_hypothetical": null,
+      "passage": null,
+      "breeding_spots": null,
       "find_spots": null,
       "last_observation": null
     }
@@ -715,6 +753,8 @@
       "range_native": null,
       "breeding_native": null,
       "range_hypothetical": null,
+      "passage": null,
+      "breeding_spots": null,
       "find_spots": null,
       "last_observation": null
     }
@@ -751,6 +791,8 @@
       "range_native": null,
       "breeding_native": null,
       "range_hypothetical": null,
+      "passage": null,
+      "breeding_spots": null,
       "find_spots": "https://raw.githubusercontent.com/lehmannphilippe-dotcom/webflow-data/refs/heads/main/ranges/grallistrix_geleches_find_spots.geojson",
       "last_observation": null
     }
@@ -787,6 +829,8 @@
       "range_native": null,
       "breeding_native": null,
       "range_hypothetical": null,
+      "passage": null,
+      "breeding_spots": null,
       "find_spots": null,
       "last_observation": null
     }
@@ -823,6 +867,8 @@
       "range_native": null,
       "breeding_native": null,
       "range_hypothetical": null,
+      "passage": null,
+      "breeding_spots": null,
       "find_spots": null,
       "last_observation": null
     }
@@ -859,6 +905,8 @@
       "range_native": null,
       "breeding_native": null,
       "range_hypothetical": null,
+      "passage": null,
+      "breeding_spots": null,
       "find_spots": null,
       "last_observation": null
     }
@@ -895,6 +943,8 @@
       "range_native": null,
       "breeding_native": null,
       "range_hypothetical": null,
+      "passage": null,
+      "breeding_spots": null,
       "find_spots": null,
       "last_observation": null
     }
@@ -931,6 +981,8 @@
       "range_native": null,
       "breeding_native": null,
       "range_hypothetical": "https://raw.githubusercontent.com/lehmannphilippe-dotcom/webflow-data/refs/heads/main/ranges/Porzana%20severnsi_hypo.geojson",
+      "passage": null,
+      "breeding_spots": null,
       "find_spots": "https://raw.githubusercontent.com/lehmannphilippe-dotcom/webflow-data/refs/heads/main/ranges/porzana_severnsi_find_spots.geojson",
       "last_observation": null
     }
@@ -967,6 +1019,8 @@
       "range_native": null,
       "breeding_native": null,
       "range_hypothetical": "https://raw.githubusercontent.com/lehmannphilippe-dotcom/webflow-data/refs/heads/main/ranges/Porzana%20keplerorum_hypo.geojson",
+      "passage": null,
+      "breeding_spots": null,
       "find_spots": "https://raw.githubusercontent.com/lehmannphilippe-dotcom/webflow-data/refs/heads/main/ranges/porzana_keplerorum_find_spots.geojson",
       "last_observation": null
     }
@@ -1003,6 +1057,8 @@
       "range_native": null,
       "breeding_native": null,
       "range_hypothetical": "https://raw.githubusercontent.com/lehmannphilippe-dotcom/webflow-data/refs/heads/main/ranges/Porzana%20ralphorum_hypo.geojson",
+      "passage": null,
+      "breeding_spots": null,
       "find_spots": "https://raw.githubusercontent.com/lehmannphilippe-dotcom/webflow-data/refs/heads/main/ranges/porzana_ralphorum_find_spots.geojson",
       "last_observation": null
     }
@@ -1039,6 +1095,8 @@
       "range_native": null,
       "breeding_native": null,
       "range_hypothetical": "https://raw.githubusercontent.com/lehmannphilippe-dotcom/webflow-data/refs/heads/main/ranges/Porzana%20ziegleri_hypo.geojson",
+      "passage": null,
+      "breeding_spots": null,
       "find_spots": "https://raw.githubusercontent.com/lehmannphilippe-dotcom/webflow-data/refs/heads/main/ranges/porzana_ziegleri_find_spots.geojson",
       "last_observation": null
     }
@@ -1075,6 +1133,8 @@
       "range_native": null,
       "breeding_native": null,
       "range_hypothetical": "https://raw.githubusercontent.com/lehmannphilippe-dotcom/webflow-data/refs/heads/main/ranges/Porzana%20menehune_hypo.geojson",
+      "passage": null,
+      "breeding_spots": null,
       "find_spots": "https://raw.githubusercontent.com/lehmannphilippe-dotcom/webflow-data/refs/heads/main/ranges/porzana_menehune_find_spots.geojson",
       "last_observation": null
     }
@@ -1111,6 +1171,8 @@
       "range_native": null,
       "breeding_native": null,
       "range_hypothetical": null,
+      "passage": null,
+      "breeding_spots": null,
       "find_spots": null,
       "last_observation": null
     }
@@ -1147,6 +1209,8 @@
       "range_native": null,
       "breeding_native": null,
       "range_hypothetical": null,
+      "passage": null,
+      "breeding_spots": null,
       "find_spots": null,
       "last_observation": null
     }
@@ -1183,6 +1247,8 @@
       "range_native": null,
       "breeding_native": null,
       "range_hypothetical": null,
+      "passage": null,
+      "breeding_spots": null,
       "find_spots": null,
       "last_observation": null
     }
@@ -1219,6 +1285,8 @@
       "range_native": null,
       "breeding_native": null,
       "range_hypothetical": null,
+      "passage": null,
+      "breeding_spots": null,
       "find_spots": "https://raw.githubusercontent.com/lehmannphilippe-dotcom/webflow-data/refs/heads/main/ranges/Circus-dossenus_find_spots.geojson",
       "last_observation": null
     }
@@ -1255,6 +1323,8 @@
       "range_native": null,
       "breeding_native": null,
       "range_hypothetical": null,
+      "passage": null,
+      "breeding_spots": null,
       "find_spots": null,
       "last_observation": null
     }
@@ -1281,7 +1351,7 @@
       "habitat_text": "",
       "extinction_text": ""
     },
-     "taxonomy": {
+    "taxonomy": {
       "family": "Kleidervögel (Drepanidini)",
       "genus": "Chloridops",
       "family_key": "drepanidini",
@@ -1291,6 +1361,8 @@
       "range_native": null,
       "breeding_native": null,
       "range_hypothetical": null,
+      "passage": null,
+      "breeding_spots": null,
       "find_spots": null,
       "last_observation": null
     }
@@ -1317,7 +1389,7 @@
       "habitat_text": "",
       "extinction_text": ""
     },
-     "taxonomy": {
+    "taxonomy": {
       "family": "Kleidervögel (Drepanidini)",
       "genus": "Chloridops",
       "family_key": "drepanidini",
@@ -1327,6 +1399,8 @@
       "range_native": null,
       "breeding_native": null,
       "range_hypothetical": null,
+      "passage": null,
+      "breeding_spots": null,
       "find_spots": null,
       "last_observation": null
     }
@@ -1363,6 +1437,8 @@
       "range_native": null,
       "breeding_native": null,
       "range_hypothetical": null,
+      "passage": null,
+      "breeding_spots": null,
       "find_spots": null,
       "last_observation": null
     }
@@ -1399,6 +1475,8 @@
       "range_native": null,
       "breeding_native": null,
       "range_hypothetical": null,
+      "passage": null,
+      "breeding_spots": null,
       "find_spots": null,
       "last_observation": null
     }
@@ -1435,6 +1513,8 @@
       "range_native": null,
       "breeding_native": null,
       "range_hypothetical": null,
+      "passage": null,
+      "breeding_spots": null,
       "find_spots": null,
       "last_observation": null
     }
@@ -1471,6 +1551,8 @@
       "range_native": null,
       "breeding_native": null,
       "range_hypothetical": "https://raw.githubusercontent.com/lehmannphilippe-dotcom/webflow-data/refs/heads/main/ranges/Chelychelynechen_quassus_hypo.geojson",
+      "passage": null,
+      "breeding_spots": null,
       "find_spots": "https://raw.githubusercontent.com/lehmannphilippe-dotcom/webflow-data/refs/heads/main/ranges/Chelychelynechen_quassus_spots.geojson",
       "last_observation": null
     }
@@ -1507,6 +1589,8 @@
       "range_native": null,
       "breeding_native": null,
       "range_hypothetical": null,
+      "passage": null,
+      "breeding_spots": null,
       "find_spots": null,
       "last_observation": null
     }
@@ -1543,6 +1627,8 @@
       "range_native": null,
       "breeding_native": null,
       "range_hypothetical": null,
+      "passage": null,
+      "breeding_spots": null,
       "find_spots": null,
       "last_observation": null
     }
@@ -1579,6 +1665,8 @@
       "range_native": null,
       "breeding_native": null,
       "range_hypothetical": null,
+      "passage": null,
+      "breeding_spots": null,
       "find_spots": null,
       "last_observation": null
     }
@@ -1615,6 +1703,8 @@
       "range_native": null,
       "breeding_native": null,
       "range_hypothetical": null,
+      "passage": null,
+      "breeding_spots": null,
       "find_spots": null,
       "last_observation": null
     }
@@ -1651,6 +1741,8 @@
       "range_native": null,
       "breeding_native": null,
       "range_hypothetical": null,
+      "passage": null,
+      "breeding_spots": null,
       "find_spots": null,
       "last_observation": null
     }
@@ -1687,6 +1779,8 @@
       "range_native": null,
       "breeding_native": null,
       "range_hypothetical": null,
+      "passage": null,
+      "breeding_spots": null,
       "find_spots": null,
       "last_observation": null
     }
@@ -1723,6 +1817,8 @@
       "range_native": null,
       "breeding_native": null,
       "range_hypothetical": null,
+      "passage": null,
+      "breeding_spots": null,
       "find_spots": null,
       "last_observation": null
     }
@@ -1759,6 +1855,8 @@
       "range_native": null,
       "breeding_native": null,
       "range_hypothetical": null,
+      "passage": null,
+      "breeding_spots": null,
       "find_spots": null,
       "last_observation": null
     }
@@ -1795,6 +1893,8 @@
       "range_native": null,
       "breeding_native": null,
       "range_hypothetical": null,
+      "passage": null,
+      "breeding_spots": null,
       "find_spots": null,
       "last_observation": null
     }
@@ -1831,6 +1931,8 @@
       "range_native": null,
       "breeding_native": null,
       "range_hypothetical": null,
+      "passage": null,
+      "breeding_spots": null,
       "find_spots": null,
       "last_observation": null
     }
@@ -1867,6 +1969,8 @@
       "range_native": null,
       "breeding_native": null,
       "range_hypothetical": null,
+      "passage": null,
+      "breeding_spots": null,
       "find_spots": null,
       "last_observation": null
     }
@@ -1903,6 +2007,8 @@
       "range_native": null,
       "breeding_native": null,
       "range_hypothetical": null,
+      "passage": null,
+      "breeding_spots": null,
       "find_spots": null,
       "last_observation": null
     }
@@ -1939,6 +2045,8 @@
       "range_native": null,
       "breeding_native": null,
       "range_hypothetical": null,
+      "passage": null,
+      "breeding_spots": null,
       "find_spots": null,
       "last_observation": null
     }
@@ -1975,6 +2083,8 @@
       "range_native": null,
       "breeding_native": null,
       "range_hypothetical": null,
+      "passage": null,
+      "breeding_spots": null,
       "find_spots": null,
       "last_observation": null
     }
@@ -2011,6 +2121,8 @@
       "range_native": null,
       "breeding_native": null,
       "range_hypothetical": null,
+      "passage": null,
+      "breeding_spots": null,
       "find_spots": null,
       "last_observation": null
     }
@@ -2047,6 +2159,8 @@
       "range_native": null,
       "breeding_native": null,
       "range_hypothetical": null,
+      "passage": null,
+      "breeding_spots": null,
       "find_spots": null,
       "last_observation": null
     }
@@ -2083,6 +2197,8 @@
       "range_native": null,
       "breeding_native": null,
       "range_hypothetical": null,
+      "passage": null,
+      "breeding_spots": null,
       "find_spots": null,
       "last_observation": null
     }
@@ -2119,6 +2235,8 @@
       "range_native": null,
       "breeding_native": null,
       "range_hypothetical": null,
+      "passage": null,
+      "breeding_spots": null,
       "find_spots": null,
       "last_observation": null
     }
@@ -2155,6 +2273,8 @@
       "range_native": null,
       "breeding_native": null,
       "range_hypothetical": null,
+      "passage": null,
+      "breeding_spots": null,
       "find_spots": null,
       "last_observation": null
     }
@@ -2191,6 +2311,8 @@
       "range_native": null,
       "breeding_native": null,
       "range_hypothetical": null,
+      "passage": null,
+      "breeding_spots": null,
       "find_spots": null,
       "last_observation": null
     }
@@ -2227,6 +2349,8 @@
       "range_native": null,
       "breeding_native": null,
       "range_hypothetical": null,
+      "passage": null,
+      "breeding_spots": null,
       "find_spots": null,
       "last_observation": null
     }
@@ -2263,6 +2387,8 @@
       "range_native": null,
       "breeding_native": null,
       "range_hypothetical": null,
+      "passage": null,
+      "breeding_spots": null,
       "find_spots": null,
       "last_observation": null
     }
@@ -2299,6 +2425,8 @@
       "range_native": null,
       "breeding_native": null,
       "range_hypothetical": null,
+      "passage": null,
+      "breeding_spots": null,
       "find_spots": null,
       "last_observation": null
     }
@@ -2335,6 +2463,8 @@
       "range_native": null,
       "breeding_native": null,
       "range_hypothetical": null,
+      "passage": null,
+      "breeding_spots": null,
       "find_spots": null,
       "last_observation": null
     }
@@ -2371,6 +2501,8 @@
       "range_native": null,
       "breeding_native": null,
       "range_hypothetical": null,
+      "passage": null,
+      "breeding_spots": null,
       "find_spots": null,
       "last_observation": null
     }
@@ -2407,6 +2539,8 @@
       "range_native": null,
       "breeding_native": null,
       "range_hypothetical": null,
+      "passage": null,
+      "breeding_spots": null,
       "find_spots": null,
       "last_observation": null
     }
@@ -2443,6 +2577,8 @@
       "range_native": null,
       "breeding_native": null,
       "range_hypothetical": null,
+      "passage": null,
+      "breeding_spots": null,
       "find_spots": null,
       "last_observation": null
     }
@@ -2479,6 +2615,8 @@
       "range_native": null,
       "breeding_native": null,
       "range_hypothetical": null,
+      "passage": null,
+      "breeding_spots": null,
       "find_spots": null,
       "last_observation": null
     }
@@ -2515,6 +2653,8 @@
       "range_native": null,
       "breeding_native": null,
       "range_hypothetical": null,
+      "passage": null,
+      "breeding_spots": null,
       "find_spots": null,
       "last_observation": null
     }
@@ -2551,6 +2691,8 @@
       "range_native": null,
       "breeding_native": null,
       "range_hypothetical": null,
+      "passage": null,
+      "breeding_spots": null,
       "find_spots": null,
       "last_observation": null
     }
@@ -2587,6 +2729,8 @@
       "range_native": null,
       "breeding_native": null,
       "range_hypothetical": null,
+      "passage": null,
+      "breeding_spots": null,
       "find_spots": null,
       "last_observation": null
     }
@@ -2623,6 +2767,8 @@
       "range_native": null,
       "breeding_native": null,
       "range_hypothetical": null,
+      "passage": null,
+      "breeding_spots": null,
       "find_spots": null,
       "last_observation": null
     }
@@ -2659,6 +2805,8 @@
       "range_native": null,
       "breeding_native": null,
       "range_hypothetical": null,
+      "passage": null,
+      "breeding_spots": null,
       "find_spots": null,
       "last_observation": null
     }
@@ -2695,6 +2843,8 @@
       "range_native": null,
       "breeding_native": null,
       "range_hypothetical": null,
+      "passage": null,
+      "breeding_spots": null,
       "find_spots": null,
       "last_observation": null
     }
@@ -2731,6 +2881,8 @@
       "range_native": "https://raw.githubusercontent.com/lehmannphilippe-dotcom/webflow-data/refs/heads/main/ranges/ciridops_anna.geojson",
       "breeding_native": null,
       "range_hypothetical": null,
+      "passage": null,
+      "breeding_spots": null,
       "find_spots": null,
       "last_observation": null
     }
@@ -2767,6 +2919,8 @@
       "range_native": null,
       "breeding_native": null,
       "range_hypothetical": null,
+      "passage": null,
+      "breeding_spots": null,
       "find_spots": null,
       "last_observation": null
     }
@@ -2803,6 +2957,8 @@
       "range_native": null,
       "breeding_native": null,
       "range_hypothetical": null,
+      "passage": null,
+      "breeding_spots": null,
       "find_spots": null,
       "last_observation": null
     }
@@ -2839,6 +2995,8 @@
       "range_native": null,
       "breeding_native": null,
       "range_hypothetical": null,
+      "passage": null,
+      "breeding_spots": null,
       "find_spots": null,
       "last_observation": null
     }
@@ -2875,6 +3033,8 @@
       "range_native": null,
       "breeding_native": null,
       "range_hypothetical": null,
+      "passage": null,
+      "breeding_spots": null,
       "find_spots": null,
       "last_observation": null
     }
@@ -2911,6 +3071,8 @@
       "range_native": null,
       "breeding_native": null,
       "range_hypothetical": null,
+      "passage": null,
+      "breeding_spots": null,
       "find_spots": null,
       "last_observation": null
     }
@@ -2947,6 +3109,8 @@
       "range_native": null,
       "breeding_native": null,
       "range_hypothetical": null,
+      "passage": null,
+      "breeding_spots": null,
       "find_spots": null,
       "last_observation": null
     }
@@ -2983,6 +3147,8 @@
       "range_native": null,
       "breeding_native": null,
       "range_hypothetical": null,
+      "passage": null,
+      "breeding_spots": null,
       "find_spots": null,
       "last_observation": null
     }
@@ -3019,6 +3185,8 @@
       "range_native": null,
       "breeding_native": null,
       "range_hypothetical": null,
+      "passage": null,
+      "breeding_spots": null,
       "find_spots": null,
       "last_observation": null
     }
@@ -3055,6 +3223,8 @@
       "range_native": null,
       "breeding_native": null,
       "range_hypothetical": null,
+      "passage": null,
+      "breeding_spots": null,
       "find_spots": null,
       "last_observation": null
     }
@@ -3091,6 +3261,8 @@
       "range_native": null,
       "breeding_native": null,
       "range_hypothetical": null,
+      "passage": null,
+      "breeding_spots": null,
       "find_spots": null,
       "last_observation": null
     }
@@ -3127,6 +3299,8 @@
       "range_native": null,
       "breeding_native": null,
       "range_hypothetical": null,
+      "passage": null,
+      "breeding_spots": null,
       "find_spots": null,
       "last_observation": null
     }
@@ -3163,6 +3337,8 @@
       "range_native": null,
       "breeding_native": null,
       "range_hypothetical": null,
+      "passage": null,
+      "breeding_spots": null,
       "find_spots": null,
       "last_observation": null
     }
@@ -3199,6 +3375,8 @@
       "range_native": null,
       "breeding_native": null,
       "range_hypothetical": null,
+      "passage": null,
+      "breeding_spots": null,
       "find_spots": null,
       "last_observation": null
     }
@@ -3235,6 +3413,8 @@
       "range_native": null,
       "breeding_native": null,
       "range_hypothetical": null,
+      "passage": null,
+      "breeding_spots": null,
       "find_spots": null,
       "last_observation": null
     }
@@ -3271,6 +3451,8 @@
       "range_native": null,
       "breeding_native": null,
       "range_hypothetical": null,
+      "passage": null,
+      "breeding_spots": null,
       "find_spots": null,
       "last_observation": null
     }
@@ -3307,6 +3489,8 @@
       "range_native": null,
       "breeding_native": null,
       "range_hypothetical": null,
+      "passage": null,
+      "breeding_spots": null,
       "find_spots": null,
       "last_observation": null
     }
@@ -3343,6 +3527,8 @@
       "range_native": null,
       "breeding_native": null,
       "range_hypothetical": null,
+      "passage": null,
+      "breeding_spots": null,
       "find_spots": null,
       "last_observation": null
     }
@@ -3379,6 +3565,8 @@
       "range_native": null,
       "breeding_native": null,
       "range_hypothetical": null,
+      "passage": null,
+      "breeding_spots": null,
       "find_spots": null,
       "last_observation": null
     }
@@ -3415,6 +3603,8 @@
       "range_native": null,
       "breeding_native": null,
       "range_hypothetical": null,
+      "passage": null,
+      "breeding_spots": null,
       "find_spots": null,
       "last_observation": null
     }
@@ -3451,6 +3641,8 @@
       "range_native": null,
       "breeding_native": null,
       "range_hypothetical": null,
+      "passage": null,
+      "breeding_spots": null,
       "find_spots": null,
       "last_observation": null
     }
@@ -3487,6 +3679,8 @@
       "range_native": null,
       "breeding_native": null,
       "range_hypothetical": null,
+      "passage": null,
+      "breeding_spots": null,
       "find_spots": null,
       "last_observation": null
     }
@@ -3523,6 +3717,8 @@
       "range_native": null,
       "breeding_native": null,
       "range_hypothetical": null,
+      "passage": null,
+      "breeding_spots": null,
       "find_spots": null,
       "last_observation": null
     }
@@ -3559,6 +3755,8 @@
       "range_native": null,
       "breeding_native": null,
       "range_hypothetical": null,
+      "passage": null,
+      "breeding_spots": null,
       "find_spots": null,
       "last_observation": null
     }
@@ -3595,6 +3793,8 @@
       "range_native": null,
       "breeding_native": null,
       "range_hypothetical": null,
+      "passage": null,
+      "breeding_spots": null,
       "find_spots": null,
       "last_observation": null
     }
@@ -3631,6 +3831,8 @@
       "range_native": null,
       "breeding_native": null,
       "range_hypothetical": null,
+      "passage": null,
+      "breeding_spots": null,
       "find_spots": null,
       "last_observation": null
     }
@@ -3667,6 +3869,8 @@
       "range_native": null,
       "breeding_native": null,
       "range_hypothetical": null,
+      "passage": null,
+      "breeding_spots": null,
       "find_spots": null,
       "last_observation": null
     }
@@ -3703,6 +3907,8 @@
       "range_native": null,
       "breeding_native": null,
       "range_hypothetical": null,
+      "passage": null,
+      "breeding_spots": null,
       "find_spots": null,
       "last_observation": null
     }
@@ -3739,6 +3945,8 @@
       "range_native": null,
       "breeding_native": null,
       "range_hypothetical": null,
+      "passage": null,
+      "breeding_spots": null,
       "find_spots": null,
       "last_observation": null
     }
@@ -3775,6 +3983,8 @@
       "range_native": null,
       "breeding_native": null,
       "range_hypothetical": null,
+      "passage": null,
+      "breeding_spots": null,
       "find_spots": null,
       "last_observation": null
     }
@@ -3811,6 +4021,8 @@
       "range_native": null,
       "breeding_native": null,
       "range_hypothetical": null,
+      "passage": null,
+      "breeding_spots": null,
       "find_spots": null,
       "last_observation": null
     }
@@ -3847,6 +4059,8 @@
       "range_native": null,
       "breeding_native": null,
       "range_hypothetical": null,
+      "passage": null,
+      "breeding_spots": null,
       "find_spots": null,
       "last_observation": null
     }
@@ -3883,6 +4097,8 @@
       "range_native": null,
       "breeding_native": null,
       "range_hypothetical": null,
+      "passage": null,
+      "breeding_spots": null,
       "find_spots": null,
       "last_observation": null
     }
@@ -3919,6 +4135,8 @@
       "range_native": null,
       "breeding_native": null,
       "range_hypothetical": null,
+      "passage": null,
+      "breeding_spots": null,
       "find_spots": null,
       "last_observation": null
     }
@@ -3955,6 +4173,8 @@
       "range_native": null,
       "breeding_native": null,
       "range_hypothetical": null,
+      "passage": null,
+      "breeding_spots": null,
       "find_spots": null,
       "last_observation": null
     }
@@ -3991,6 +4211,8 @@
       "range_native": null,
       "breeding_native": null,
       "range_hypothetical": null,
+      "passage": null,
+      "breeding_spots": null,
       "find_spots": null,
       "last_observation": null
     }
@@ -4027,6 +4249,8 @@
       "range_native": null,
       "breeding_native": null,
       "range_hypothetical": null,
+      "passage": null,
+      "breeding_spots": null,
       "find_spots": null,
       "last_observation": null
     }
@@ -4063,6 +4287,8 @@
       "range_native": null,
       "breeding_native": null,
       "range_hypothetical": null,
+      "passage": null,
+      "breeding_spots": null,
       "find_spots": null,
       "last_observation": null
     }
@@ -4099,6 +4325,8 @@
       "range_native": null,
       "breeding_native": null,
       "range_hypothetical": null,
+      "passage": null,
+      "breeding_spots": null,
       "find_spots": null,
       "last_observation": null
     }
@@ -4135,6 +4363,8 @@
       "range_native": null,
       "breeding_native": null,
       "range_hypothetical": null,
+      "passage": null,
+      "breeding_spots": null,
       "find_spots": null,
       "last_observation": null
     }
@@ -4171,6 +4401,8 @@
       "range_native": null,
       "breeding_native": null,
       "range_hypothetical": null,
+      "passage": null,
+      "breeding_spots": null,
       "find_spots": null,
       "last_observation": null
     }
@@ -4207,6 +4439,8 @@
       "range_native": null,
       "breeding_native": null,
       "range_hypothetical": null,
+      "passage": null,
+      "breeding_spots": null,
       "find_spots": null,
       "last_observation": null
     }
@@ -4243,6 +4477,8 @@
       "range_native": null,
       "breeding_native": null,
       "range_hypothetical": null,
+      "passage": null,
+      "breeding_spots": null,
       "find_spots": null,
       "last_observation": null
     }
@@ -4279,6 +4515,8 @@
       "range_native": null,
       "breeding_native": null,
       "range_hypothetical": null,
+      "passage": null,
+      "breeding_spots": null,
       "find_spots": null,
       "last_observation": null
     }
@@ -4306,7 +4544,7 @@
       "extinction_text": ""
     },
     "taxonomy": {
-       "family": "Kleidervögel (Drepanidini)",
+      "family": "Kleidervögel (Drepanidini)",
       "genus": "Psittirostra",
       "family_key": "drepanidini",
       "genus_key": "psittirostra"
@@ -4315,6 +4553,8 @@
       "range_native": "https://raw.githubusercontent.com/lehmannphilippe-dotcom/webflow-data/refs/heads/main/ranges/Psittirostra%20psittacea_native.geojson",
       "breeding_native": null,
       "range_hypothetical": "https://raw.githubusercontent.com/lehmannphilippe-dotcom/webflow-data/refs/heads/main/ranges/psittirostra_psittacea_hypothetical.geojson",
+      "passage": null,
+      "breeding_spots": null,
       "find_spots": null,
       "last_observation": null
     }
@@ -4351,6 +4591,8 @@
       "range_native": null,
       "breeding_native": null,
       "range_hypothetical": null,
+      "passage": null,
+      "breeding_spots": null,
       "find_spots": null,
       "last_observation": null
     }
@@ -4387,6 +4629,8 @@
       "range_native": null,
       "breeding_native": null,
       "range_hypothetical": null,
+      "passage": null,
+      "breeding_spots": null,
       "find_spots": null,
       "last_observation": null
     }
@@ -4423,6 +4667,8 @@
       "range_native": null,
       "breeding_native": null,
       "range_hypothetical": null,
+      "passage": null,
+      "breeding_spots": null,
       "find_spots": null,
       "last_observation": null
     }
@@ -4459,6 +4705,8 @@
       "range_native": null,
       "breeding_native": null,
       "range_hypothetical": null,
+      "passage": null,
+      "breeding_spots": null,
       "find_spots": null,
       "last_observation": null
     }
@@ -4495,6 +4743,8 @@
       "range_native": null,
       "breeding_native": null,
       "range_hypothetical": null,
+      "passage": null,
+      "breeding_spots": null,
       "find_spots": null,
       "last_observation": null
     }
@@ -4531,6 +4781,8 @@
       "range_native": null,
       "breeding_native": null,
       "range_hypothetical": null,
+      "passage": null,
+      "breeding_spots": null,
       "find_spots": null,
       "last_observation": null
     }
@@ -4567,6 +4819,8 @@
       "range_native": null,
       "breeding_native": null,
       "range_hypothetical": null,
+      "passage": null,
+      "breeding_spots": null,
       "find_spots": null,
       "last_observation": null
     }
@@ -4603,6 +4857,8 @@
       "range_native": null,
       "breeding_native": null,
       "range_hypothetical": null,
+      "passage": null,
+      "breeding_spots": null,
       "find_spots": null,
       "last_observation": null
     }
@@ -4639,6 +4895,8 @@
       "range_native": null,
       "breeding_native": null,
       "range_hypothetical": null,
+      "passage": null,
+      "breeding_spots": null,
       "find_spots": null,
       "last_observation": null
     }
@@ -4675,6 +4933,8 @@
       "range_native": null,
       "breeding_native": null,
       "range_hypothetical": null,
+      "passage": null,
+      "breeding_spots": null,
       "find_spots": null,
       "last_observation": null
     }
@@ -4711,6 +4971,8 @@
       "range_native": null,
       "breeding_native": null,
       "range_hypothetical": null,
+      "passage": null,
+      "breeding_spots": null,
       "find_spots": null,
       "last_observation": null
     }
@@ -4747,6 +5009,8 @@
       "range_native": null,
       "breeding_native": null,
       "range_hypothetical": null,
+      "passage": null,
+      "breeding_spots": null,
       "find_spots": null,
       "last_observation": null
     }
@@ -4783,6 +5047,8 @@
       "range_native": null,
       "breeding_native": null,
       "range_hypothetical": null,
+      "passage": null,
+      "breeding_spots": null,
       "find_spots": null,
       "last_observation": null
     }
@@ -4819,6 +5085,8 @@
       "range_native": null,
       "breeding_native": null,
       "range_hypothetical": null,
+      "passage": null,
+      "breeding_spots": null,
       "find_spots": null,
       "last_observation": null
     }
@@ -4855,6 +5123,8 @@
       "range_native": "https://raw.githubusercontent.com/lehmannphilippe-dotcom/webflow-data/refs/heads/main/ranges/Akialoa_obscurus.geojson",
       "breeding_native": null,
       "range_hypothetical": null,
+      "passage": null,
+      "breeding_spots": null,
       "find_spots": null,
       "last_observation": null
     }
@@ -4891,6 +5161,8 @@
       "range_native": "https://raw.githubusercontent.com/lehmannphilippe-dotcom/webflow-data/refs/heads/main/ranges/porzana-sandwichensis.geojson",
       "breeding_native": null,
       "range_hypothetical": null,
+      "passage": null,
+      "breeding_spots": null,
       "find_spots": null,
       "last_observation": null
     }
@@ -4927,6 +5199,8 @@
       "range_native": null,
       "breeding_native": null,
       "range_hypothetical": null,
+      "passage": null,
+      "breeding_spots": null,
       "find_spots": null,
       "last_observation": null
     }
@@ -4963,6 +5237,8 @@
       "range_native": null,
       "breeding_native": null,
       "range_hypothetical": null,
+      "passage": null,
+      "breeding_spots": null,
       "find_spots": null,
       "last_observation": null
     }
@@ -4999,6 +5275,8 @@
       "range_native": null,
       "breeding_native": null,
       "range_hypothetical": null,
+      "passage": null,
+      "breeding_spots": null,
       "find_spots": null,
       "last_observation": null
     }
@@ -5035,6 +5313,8 @@
       "range_native": null,
       "breeding_native": null,
       "range_hypothetical": null,
+      "passage": null,
+      "breeding_spots": null,
       "find_spots": null,
       "last_observation": null
     }
@@ -5071,6 +5351,8 @@
       "range_native": null,
       "breeding_native": null,
       "range_hypothetical": null,
+      "passage": null,
+      "breeding_spots": null,
       "find_spots": null,
       "last_observation": null
     }
@@ -5107,6 +5389,8 @@
       "range_native": null,
       "breeding_native": null,
       "range_hypothetical": null,
+      "passage": null,
+      "breeding_spots": null,
       "find_spots": null,
       "last_observation": null
     }
@@ -5143,6 +5427,8 @@
       "range_native": null,
       "breeding_native": null,
       "range_hypothetical": null,
+      "passage": null,
+      "breeding_spots": null,
       "find_spots": null,
       "last_observation": null
     }
@@ -5179,6 +5465,8 @@
       "range_native": null,
       "breeding_native": null,
       "range_hypothetical": null,
+      "passage": null,
+      "breeding_spots": null,
       "find_spots": null,
       "last_observation": null
     }
@@ -5215,6 +5503,8 @@
       "range_native": null,
       "breeding_native": null,
       "range_hypothetical": null,
+      "passage": null,
+      "breeding_spots": null,
       "find_spots": null,
       "last_observation": null
     }
@@ -5251,6 +5541,8 @@
       "range_native": null,
       "breeding_native": null,
       "range_hypothetical": null,
+      "passage": null,
+      "breeding_spots": null,
       "find_spots": null,
       "last_observation": null
     }
@@ -5287,6 +5579,8 @@
       "range_native": null,
       "breeding_native": null,
       "range_hypothetical": null,
+      "passage": null,
+      "breeding_spots": null,
       "find_spots": null,
       "last_observation": null
     }
@@ -5323,6 +5617,8 @@
       "range_native": null,
       "breeding_native": null,
       "range_hypothetical": null,
+      "passage": null,
+      "breeding_spots": null,
       "find_spots": null,
       "last_observation": null
     }
@@ -5359,6 +5655,8 @@
       "range_native": null,
       "breeding_native": null,
       "range_hypothetical": null,
+      "passage": null,
+      "breeding_spots": null,
       "find_spots": null,
       "last_observation": null
     }
@@ -5395,6 +5693,8 @@
       "range_native": null,
       "breeding_native": null,
       "range_hypothetical": null,
+      "passage": null,
+      "breeding_spots": null,
       "find_spots": null,
       "last_observation": null
     }
@@ -5431,6 +5731,8 @@
       "range_native": "https://raw.githubusercontent.com/lehmannphilippe-dotcom/webflow-data/refs/heads/main/ranges/Akialoa_stejnegeri.geojson",
       "breeding_native": null,
       "range_hypothetical": null,
+      "passage": null,
+      "breeding_spots": null,
       "find_spots": null,
       "last_observation": null
     }
@@ -5467,6 +5769,8 @@
       "range_native": null,
       "breeding_native": null,
       "range_hypothetical": null,
+      "passage": null,
+      "breeding_spots": null,
       "find_spots": null,
       "last_observation": null
     }
@@ -5503,6 +5807,8 @@
       "range_native": null,
       "breeding_native": null,
       "range_hypothetical": null,
+      "passage": null,
+      "breeding_spots": null,
       "find_spots": null,
       "last_observation": null
     }
@@ -5539,6 +5845,8 @@
       "range_native": null,
       "breeding_native": null,
       "range_hypothetical": null,
+      "passage": null,
+      "breeding_spots": null,
       "find_spots": null,
       "last_observation": null
     }
@@ -5575,6 +5883,8 @@
       "range_native": null,
       "breeding_native": null,
       "range_hypothetical": null,
+      "passage": null,
+      "breeding_spots": null,
       "find_spots": null,
       "last_observation": null
     }
@@ -5611,6 +5921,8 @@
       "range_native": null,
       "breeding_native": null,
       "range_hypothetical": null,
+      "passage": null,
+      "breeding_spots": null,
       "find_spots": null,
       "last_observation": null
     }
@@ -5647,6 +5959,8 @@
       "range_native": "https://raw.githubusercontent.com/lehmannphilippe-dotcom/webflow-data/refs/heads/main/ranges/Chloridops_kona.geojson",
       "breeding_native": null,
       "range_hypothetical": null,
+      "passage": null,
+      "breeding_spots": null,
       "find_spots": null,
       "last_observation": null
     }
@@ -5683,6 +5997,8 @@
       "range_native": "https://raw.githubusercontent.com/lehmannphilippe-dotcom/webflow-data/refs/heads/main/ranges/drepanis-pacifica.geojson",
       "breeding_native": null,
       "range_hypothetical": null,
+      "passage": null,
+      "breeding_spots": null,
       "find_spots": null,
       "last_observation": null
     }
@@ -5719,6 +6035,8 @@
       "range_native": null,
       "breeding_native": null,
       "range_hypothetical": null,
+      "passage": null,
+      "breeding_spots": null,
       "find_spots": null,
       "last_observation": null
     }
@@ -5755,6 +6073,8 @@
       "range_native": null,
       "breeding_native": null,
       "range_hypothetical": null,
+      "passage": null,
+      "breeding_spots": null,
       "find_spots": null,
       "last_observation": null
     }
@@ -5791,6 +6111,8 @@
       "range_native": "https://raw.githubusercontent.com/lehmannphilippe-dotcom/webflow-data/refs/heads/main/ranges/moho-apicalis.geojson",
       "breeding_native": null,
       "range_hypothetical": null,
+      "passage": null,
+      "breeding_spots": null,
       "find_spots": null,
       "last_observation": null
     }
@@ -5827,6 +6149,8 @@
       "range_native": null,
       "breeding_native": null,
       "range_hypothetical": null,
+      "passage": null,
+      "breeding_spots": null,
       "find_spots": null,
       "last_observation": null
     }
@@ -5863,6 +6187,8 @@
       "range_native": null,
       "breeding_native": null,
       "range_hypothetical": null,
+      "passage": null,
+      "breeding_spots": null,
       "find_spots": null,
       "last_observation": null
     }
@@ -5899,6 +6225,8 @@
       "range_native": null,
       "breeding_native": null,
       "range_hypothetical": null,
+      "passage": null,
+      "breeding_spots": null,
       "find_spots": null,
       "last_observation": null
     }
@@ -5935,6 +6263,8 @@
       "range_native": null,
       "breeding_native": null,
       "range_hypothetical": null,
+      "passage": null,
+      "breeding_spots": null,
       "find_spots": null,
       "last_observation": null
     }
@@ -5971,6 +6301,8 @@
       "range_native": null,
       "breeding_native": null,
       "range_hypothetical": null,
+      "passage": null,
+      "breeding_spots": null,
       "find_spots": null,
       "last_observation": null
     }
@@ -6007,6 +6339,8 @@
       "range_native": "https://raw.githubusercontent.com/lehmannphilippe-dotcom/webflow-data/refs/heads/main/ranges/Akialoa_lanaiensis_nat.geojson",
       "breeding_native": null,
       "range_hypothetical": "https://raw.githubusercontent.com/lehmannphilippe-dotcom/webflow-data/refs/heads/main/ranges/Akialoa_lanaiensis_hypo.geojson",
+      "passage": null,
+      "breeding_spots": null,
       "find_spots": null,
       "last_observation": null
     }
@@ -6043,6 +6377,8 @@
       "range_native": null,
       "breeding_native": null,
       "range_hypothetical": null,
+      "passage": null,
+      "breeding_spots": null,
       "find_spots": null,
       "last_observation": null
     }
@@ -6079,6 +6415,8 @@
       "range_native": null,
       "breeding_native": null,
       "range_hypothetical": null,
+      "passage": null,
+      "breeding_spots": null,
       "find_spots": null,
       "last_observation": null
     }
@@ -6115,6 +6453,8 @@
       "range_native": null,
       "breeding_native": null,
       "range_hypothetical": null,
+      "passage": null,
+      "breeding_spots": null,
       "find_spots": null,
       "last_observation": null
     }
@@ -6151,6 +6491,8 @@
       "range_native": null,
       "breeding_native": null,
       "range_hypothetical": null,
+      "passage": null,
+      "breeding_spots": null,
       "find_spots": null,
       "last_observation": null
     }
@@ -6187,6 +6529,8 @@
       "range_native": "https://raw.githubusercontent.com/lehmannphilippe-dotcom/webflow-data/refs/heads/main/ranges/Zapornia_palmeri.geojson",
       "breeding_native": null,
       "range_hypothetical": null,
+      "passage": null,
+      "breeding_spots": null,
       "find_spots": null,
       "last_observation": null
     }
@@ -6223,6 +6567,8 @@
       "range_native": "https://raw.githubusercontent.com/lehmannphilippe-dotcom/webflow-data/refs/heads/main/ranges/Zapornia_palmeri.geojson",
       "breeding_native": null,
       "range_hypothetical": null,
+      "passage": null,
+      "breeding_spots": null,
       "find_spots": null,
       "last_observation": null
     }
@@ -6259,6 +6605,8 @@
       "range_native": "https://raw.githubusercontent.com/lehmannphilippe-dotcom/webflow-data/refs/heads/main/ranges/Zapornia_palmeri.geojson",
       "breeding_native": null,
       "range_hypothetical": null,
+      "passage": null,
+      "breeding_spots": null,
       "find_spots": null,
       "last_observation": null
     }
@@ -6295,6 +6643,8 @@
       "range_native": null,
       "breeding_native": null,
       "range_hypothetical": null,
+      "passage": null,
+      "breeding_spots": null,
       "find_spots": null,
       "last_observation": null
     }
@@ -6331,6 +6681,8 @@
       "range_native": null,
       "breeding_native": null,
       "range_hypothetical": null,
+      "passage": null,
+      "breeding_spots": null,
       "find_spots": null,
       "last_observation": null
     }
@@ -6367,6 +6719,8 @@
       "range_native": null,
       "breeding_native": null,
       "range_hypothetical": null,
+      "passage": null,
+      "breeding_spots": null,
       "find_spots": null,
       "last_observation": null
     }
@@ -6403,6 +6757,8 @@
       "range_native": null,
       "breeding_native": null,
       "range_hypothetical": null,
+      "passage": null,
+      "breeding_spots": null,
       "find_spots": null,
       "last_observation": null
     }
@@ -6439,6 +6795,8 @@
       "range_native": null,
       "breeding_native": null,
       "range_hypothetical": null,
+      "passage": null,
+      "breeding_spots": null,
       "find_spots": null,
       "last_observation": null
     }
@@ -6475,6 +6833,8 @@
       "range_native": null,
       "breeding_native": null,
       "range_hypothetical": null,
+      "passage": null,
+      "breeding_spots": null,
       "find_spots": null,
       "last_observation": null
     }
@@ -6511,6 +6871,8 @@
       "range_native": null,
       "breeding_native": null,
       "range_hypothetical": null,
+      "passage": null,
+      "breeding_spots": null,
       "find_spots": null,
       "last_observation": null
     }
@@ -6547,6 +6909,8 @@
       "range_native": null,
       "breeding_native": null,
       "range_hypothetical": null,
+      "passage": null,
+      "breeding_spots": null,
       "find_spots": null,
       "last_observation": null
     }
@@ -6583,6 +6947,8 @@
       "range_native": null,
       "breeding_native": null,
       "range_hypothetical": null,
+      "passage": null,
+      "breeding_spots": null,
       "find_spots": null,
       "last_observation": null
     }
@@ -6619,6 +6985,8 @@
       "range_native": null,
       "breeding_native": null,
       "range_hypothetical": null,
+      "passage": null,
+      "breeding_spots": null,
       "find_spots": null,
       "last_observation": null
     }
@@ -6655,6 +7023,8 @@
       "range_native": null,
       "breeding_native": null,
       "range_hypothetical": null,
+      "passage": null,
+      "breeding_spots": null,
       "find_spots": null,
       "last_observation": null
     }
@@ -6691,6 +7061,8 @@
       "range_native": null,
       "breeding_native": null,
       "range_hypothetical": null,
+      "passage": null,
+      "breeding_spots": null,
       "find_spots": null,
       "last_observation": null
     }
@@ -6727,6 +7099,8 @@
       "range_native": null,
       "breeding_native": null,
       "range_hypothetical": null,
+      "passage": null,
+      "breeding_spots": null,
       "find_spots": null,
       "last_observation": null
     }
@@ -6763,6 +7137,8 @@
       "range_native": null,
       "breeding_native": null,
       "range_hypothetical": null,
+      "passage": null,
+      "breeding_spots": null,
       "find_spots": null,
       "last_observation": null
     }
@@ -6799,6 +7175,8 @@
       "range_native": null,
       "breeding_native": null,
       "range_hypothetical": null,
+      "passage": null,
+      "breeding_spots": null,
       "find_spots": null,
       "last_observation": null
     }
@@ -6835,6 +7213,8 @@
       "range_native": null,
       "breeding_native": null,
       "range_hypothetical": null,
+      "passage": null,
+      "breeding_spots": null,
       "find_spots": null,
       "last_observation": null
     }
@@ -6871,6 +7251,8 @@
       "range_native": null,
       "breeding_native": null,
       "range_hypothetical": null,
+      "passage": null,
+      "breeding_spots": null,
       "find_spots": null,
       "last_observation": null
     }
@@ -6907,6 +7289,8 @@
       "range_native": null,
       "breeding_native": null,
       "range_hypothetical": null,
+      "passage": null,
+      "breeding_spots": null,
       "find_spots": null,
       "last_observation": null
     }
@@ -6943,6 +7327,8 @@
       "range_native": null,
       "breeding_native": null,
       "range_hypothetical": null,
+      "passage": null,
+      "breeding_spots": null,
       "find_spots": null,
       "last_observation": null
     }
@@ -6979,6 +7365,8 @@
       "range_native": null,
       "breeding_native": null,
       "range_hypothetical": null,
+      "passage": null,
+      "breeding_spots": null,
       "find_spots": null,
       "last_observation": null
     }
@@ -7015,6 +7403,8 @@
       "range_native": null,
       "breeding_native": null,
       "range_hypothetical": null,
+      "passage": null,
+      "breeding_spots": null,
       "find_spots": null,
       "last_observation": null
     }
@@ -7051,6 +7441,8 @@
       "range_native": null,
       "breeding_native": null,
       "range_hypothetical": null,
+      "passage": null,
+      "breeding_spots": null,
       "find_spots": null,
       "last_observation": null
     }
@@ -7087,6 +7479,8 @@
       "range_native": null,
       "breeding_native": null,
       "range_hypothetical": null,
+      "passage": null,
+      "breeding_spots": null,
       "find_spots": null,
       "last_observation": null
     }
@@ -7116,13 +7510,15 @@
     "taxonomy": {
       "family": "Kleidervögel (Drepanidini)",
       "genus": "Loxops",
-       "family_key": "drepanidini",
+      "family_key": "drepanidini",
       "genus_key": "loxops"
     },
     "ranges": {
       "range_native": null,
       "breeding_native": null,
       "range_hypothetical": null,
+      "passage": null,
+      "breeding_spots": null,
       "find_spots": null,
       "last_observation": null
     }
@@ -7149,7 +7545,7 @@
       "habitat_text": "",
       "extinction_text": ""
     },
-     "taxonomy": {
+    "taxonomy": {
       "family": "Kleidervögel (Drepanidini)",
       "genus": "Hemignathus",
       "family_key": "drepanidini",
@@ -7159,6 +7555,8 @@
       "range_native": null,
       "breeding_native": null,
       "range_hypothetical": null,
+      "passage": null,
+      "breeding_spots": null,
       "find_spots": null,
       "last_observation": null
     }
@@ -7195,6 +7593,8 @@
       "range_native": null,
       "breeding_native": null,
       "range_hypothetical": null,
+      "passage": null,
+      "breeding_spots": null,
       "find_spots": null,
       "last_observation": null
     }
@@ -7231,6 +7631,8 @@
       "range_native": null,
       "breeding_native": null,
       "range_hypothetical": null,
+      "passage": null,
+      "breeding_spots": null,
       "find_spots": null,
       "last_observation": null
     }
@@ -7267,6 +7669,8 @@
       "range_native": null,
       "breeding_native": null,
       "range_hypothetical": null,
+      "passage": null,
+      "breeding_spots": null,
       "find_spots": null,
       "last_observation": null
     }
@@ -7303,6 +7707,8 @@
       "range_native": null,
       "breeding_native": null,
       "range_hypothetical": null,
+      "passage": null,
+      "breeding_spots": null,
       "find_spots": null,
       "last_observation": null
     }
@@ -7339,6 +7745,8 @@
       "range_native": null,
       "breeding_native": null,
       "range_hypothetical": null,
+      "passage": null,
+      "breeding_spots": null,
       "find_spots": null,
       "last_observation": null
     }
@@ -7375,6 +7783,8 @@
       "range_native": null,
       "breeding_native": null,
       "range_hypothetical": null,
+      "passage": null,
+      "breeding_spots": null,
       "find_spots": null,
       "last_observation": null
     }
@@ -7411,6 +7821,8 @@
       "range_native": null,
       "breeding_native": null,
       "range_hypothetical": null,
+      "passage": null,
+      "breeding_spots": null,
       "find_spots": null,
       "last_observation": null
     }
@@ -7447,6 +7859,8 @@
       "range_native": null,
       "breeding_native": null,
       "range_hypothetical": null,
+      "passage": null,
+      "breeding_spots": null,
       "find_spots": null,
       "last_observation": null
     }
@@ -7483,6 +7897,8 @@
       "range_native": null,
       "breeding_native": null,
       "range_hypothetical": null,
+      "passage": null,
+      "breeding_spots": null,
       "find_spots": null,
       "last_observation": null
     }
@@ -7519,6 +7935,8 @@
       "range_native": null,
       "breeding_native": null,
       "range_hypothetical": null,
+      "passage": null,
+      "breeding_spots": null,
       "find_spots": null,
       "last_observation": null
     }
@@ -7548,13 +7966,15 @@
     "taxonomy": {
       "family": "Kleidervögel (Drepanidini)",
       "genus": "Paroreomyza",
-       "family_key": "drepanidini",
+      "family_key": "drepanidini",
       "genus_key": "paroreomyza"
     },
     "ranges": {
       "range_native": null,
       "breeding_native": null,
       "range_hypothetical": null,
+      "passage": null,
+      "breeding_spots": null,
       "find_spots": null,
       "last_observation": null
     }
@@ -7591,6 +8011,8 @@
       "range_native": null,
       "breeding_native": null,
       "range_hypothetical": null,
+      "passage": null,
+      "breeding_spots": null,
       "find_spots": null,
       "last_observation": null
     }
@@ -7627,6 +8049,8 @@
       "range_native": null,
       "breeding_native": null,
       "range_hypothetical": null,
+      "passage": null,
+      "breeding_spots": null,
       "find_spots": null,
       "last_observation": null
     }
@@ -7663,6 +8087,8 @@
       "range_native": null,
       "breeding_native": null,
       "range_hypothetical": null,
+      "passage": null,
+      "breeding_spots": null,
       "find_spots": null,
       "last_observation": null
     }
@@ -7699,6 +8125,8 @@
       "range_native": null,
       "breeding_native": null,
       "range_hypothetical": null,
+      "passage": null,
+      "breeding_spots": null,
       "find_spots": null,
       "last_observation": null
     }
@@ -7735,6 +8163,8 @@
       "range_native": null,
       "breeding_native": null,
       "range_hypothetical": null,
+      "passage": null,
+      "breeding_spots": null,
       "find_spots": null,
       "last_observation": null
     }
@@ -7771,6 +8201,8 @@
       "range_native": null,
       "breeding_native": null,
       "range_hypothetical": null,
+      "passage": null,
+      "breeding_spots": null,
       "find_spots": null,
       "last_observation": null
     }
@@ -7807,6 +8239,8 @@
       "range_native": null,
       "breeding_native": null,
       "range_hypothetical": null,
+      "passage": null,
+      "breeding_spots": null,
       "find_spots": null,
       "last_observation": null
     }
@@ -7843,6 +8277,8 @@
       "range_native": null,
       "breeding_native": null,
       "range_hypothetical": null,
+      "passage": null,
+      "breeding_spots": null,
       "find_spots": null,
       "last_observation": null
     }
@@ -7879,6 +8315,8 @@
       "range_native": null,
       "breeding_native": null,
       "range_hypothetical": null,
+      "passage": null,
+      "breeding_spots": null,
       "find_spots": null,
       "last_observation": null
     }
@@ -7915,6 +8353,8 @@
       "range_native": null,
       "breeding_native": null,
       "range_hypothetical": null,
+      "passage": null,
+      "breeding_spots": null,
       "find_spots": null,
       "last_observation": null
     }
@@ -7951,6 +8391,8 @@
       "range_native": null,
       "breeding_native": null,
       "range_hypothetical": null,
+      "passage": null,
+      "breeding_spots": null,
       "find_spots": null,
       "last_observation": null
     }
@@ -7987,6 +8429,8 @@
       "range_native": null,
       "breeding_native": null,
       "range_hypothetical": null,
+      "passage": null,
+      "breeding_spots": null,
       "find_spots": null,
       "last_observation": null
     }
@@ -8023,6 +8467,8 @@
       "range_native": null,
       "breeding_native": null,
       "range_hypothetical": null,
+      "passage": null,
+      "breeding_spots": null,
       "find_spots": null,
       "last_observation": null
     }
@@ -8059,6 +8505,8 @@
       "range_native": null,
       "breeding_native": null,
       "range_hypothetical": null,
+      "passage": null,
+      "breeding_spots": null,
       "find_spots": null,
       "last_observation": null
     }
@@ -8095,6 +8543,8 @@
       "range_native": null,
       "breeding_native": null,
       "range_hypothetical": null,
+      "passage": null,
+      "breeding_spots": null,
       "find_spots": null,
       "last_observation": null
     }
@@ -8131,6 +8581,8 @@
       "range_native": null,
       "breeding_native": null,
       "range_hypothetical": null,
+      "passage": null,
+      "breeding_spots": null,
       "find_spots": null,
       "last_observation": null
     }
@@ -8167,6 +8619,8 @@
       "range_native": null,
       "breeding_native": null,
       "range_hypothetical": null,
+      "passage": null,
+      "breeding_spots": null,
       "find_spots": null,
       "last_observation": null
     }
@@ -8203,6 +8657,8 @@
       "range_native": null,
       "breeding_native": null,
       "range_hypothetical": null,
+      "passage": null,
+      "breeding_spots": null,
       "find_spots": null,
       "last_observation": null
     }
@@ -8239,6 +8695,8 @@
       "range_native": null,
       "breeding_native": null,
       "range_hypothetical": null,
+      "passage": null,
+      "breeding_spots": null,
       "find_spots": null,
       "last_observation": null
     }
@@ -8275,6 +8733,8 @@
       "range_native": "https://raw.githubusercontent.com/lehmannphilippe-dotcom/webflow-data/refs/heads/main/ranges/Akialoa_ellisianus.geojson",
       "breeding_native": null,
       "range_hypothetical": "https://raw.githubusercontent.com/lehmannphilippe-dotcom/webflow-data/refs/heads/main/ranges/Akialoa_ellisianus_hypo.geojson",
+      "passage": null,
+      "breeding_spots": null,
       "find_spots": null,
       "last_observation": null
     }
@@ -8301,16 +8761,18 @@
       "habitat_text": "",
       "extinction_text": ""
     },
-     "taxonomy": {
+    "taxonomy": {
       "family": "Kleidervögel (Drepanidini)",
       "genus": "Paroreomyza",
-       "family_key": "drepanidini",
+      "family_key": "drepanidini",
       "genus_key": "paroreomyza"
     },
     "ranges": {
       "range_native": null,
       "breeding_native": null,
       "range_hypothetical": null,
+      "passage": null,
+      "breeding_spots": null,
       "find_spots": null,
       "last_observation": null
     }
@@ -8347,6 +8809,8 @@
       "range_native": null,
       "breeding_native": null,
       "range_hypothetical": null,
+      "passage": null,
+      "breeding_spots": null,
       "find_spots": null,
       "last_observation": null
     }
@@ -8383,6 +8847,8 @@
       "range_native": null,
       "breeding_native": null,
       "range_hypothetical": null,
+      "passage": null,
+      "breeding_spots": null,
       "find_spots": null,
       "last_observation": null
     }
@@ -8419,6 +8885,8 @@
       "range_native": "https://raw.githubusercontent.com/lehmannphilippe-dotcom/webflow-data/refs/heads/main/ranges/moho-bishopi.geojson",
       "breeding_native": null,
       "range_hypothetical": null,
+      "passage": null,
+      "breeding_spots": null,
       "find_spots": null,
       "last_observation": null
     }
@@ -8455,6 +8923,8 @@
       "range_native": null,
       "breeding_native": null,
       "range_hypothetical": null,
+      "passage": null,
+      "breeding_spots": null,
       "find_spots": null,
       "last_observation": null
     }
@@ -8491,6 +8961,8 @@
       "range_native": null,
       "breeding_native": null,
       "range_hypothetical": null,
+      "passage": null,
+      "breeding_spots": null,
       "find_spots": null,
       "last_observation": null
     }
@@ -8527,6 +8999,8 @@
       "range_native": null,
       "breeding_native": null,
       "range_hypothetical": null,
+      "passage": null,
+      "breeding_spots": null,
       "find_spots": null,
       "last_observation": null
     }
@@ -8563,6 +9037,8 @@
       "range_native": null,
       "breeding_native": null,
       "range_hypothetical": null,
+      "passage": null,
+      "breeding_spots": null,
       "find_spots": null,
       "last_observation": null
     }
@@ -8599,6 +9075,8 @@
       "range_native": null,
       "breeding_native": null,
       "range_hypothetical": null,
+      "passage": null,
+      "breeding_spots": null,
       "find_spots": null,
       "last_observation": null
     }
@@ -8635,6 +9113,8 @@
       "range_native": null,
       "breeding_native": null,
       "range_hypothetical": null,
+      "passage": null,
+      "breeding_spots": null,
       "find_spots": null,
       "last_observation": null
     }
@@ -8671,6 +9151,8 @@
       "range_native": null,
       "breeding_native": null,
       "range_hypothetical": null,
+      "passage": null,
+      "breeding_spots": null,
       "find_spots": null,
       "last_observation": null
     }
@@ -8707,6 +9189,8 @@
       "range_native": null,
       "breeding_native": null,
       "range_hypothetical": null,
+      "passage": null,
+      "breeding_spots": null,
       "find_spots": null,
       "last_observation": null
     }
@@ -8743,6 +9227,8 @@
       "range_native": null,
       "breeding_native": null,
       "range_hypothetical": null,
+      "passage": null,
+      "breeding_spots": null,
       "find_spots": null,
       "last_observation": null
     }
@@ -8779,6 +9265,8 @@
       "range_native": null,
       "breeding_native": null,
       "range_hypothetical": null,
+      "passage": null,
+      "breeding_spots": null,
       "find_spots": null,
       "last_observation": null
     }
@@ -8815,6 +9303,8 @@
       "range_native": null,
       "breeding_native": null,
       "range_hypothetical": null,
+      "passage": null,
+      "breeding_spots": null,
       "find_spots": null,
       "last_observation": null
     }
@@ -8851,6 +9341,8 @@
       "range_native": null,
       "breeding_native": null,
       "range_hypothetical": null,
+      "passage": null,
+      "breeding_spots": null,
       "find_spots": null,
       "last_observation": null
     }
@@ -8887,6 +9379,8 @@
       "range_native": null,
       "breeding_native": null,
       "range_hypothetical": null,
+      "passage": null,
+      "breeding_spots": null,
       "find_spots": null,
       "last_observation": null
     }
@@ -8923,6 +9417,8 @@
       "range_native": null,
       "breeding_native": null,
       "range_hypothetical": null,
+      "passage": null,
+      "breeding_spots": null,
       "find_spots": null,
       "last_observation": null
     }
@@ -8959,6 +9455,8 @@
       "range_native": null,
       "breeding_native": null,
       "range_hypothetical": null,
+      "passage": null,
+      "breeding_spots": null,
       "find_spots": null,
       "last_observation": null
     }
@@ -8995,6 +9493,8 @@
       "range_native": null,
       "breeding_native": null,
       "range_hypothetical": null,
+      "passage": null,
+      "breeding_spots": null,
       "find_spots": null,
       "last_observation": null
     }
@@ -9031,6 +9531,8 @@
       "range_native": null,
       "breeding_native": null,
       "range_hypothetical": null,
+      "passage": null,
+      "breeding_spots": null,
       "find_spots": null,
       "last_observation": null
     }
@@ -9067,6 +9569,8 @@
       "range_native": null,
       "breeding_native": null,
       "range_hypothetical": null,
+      "passage": null,
+      "breeding_spots": null,
       "find_spots": null,
       "last_observation": null
     }
@@ -9103,6 +9607,8 @@
       "range_native": null,
       "breeding_native": null,
       "range_hypothetical": null,
+      "passage": null,
+      "breeding_spots": null,
       "find_spots": null,
       "last_observation": null
     }
@@ -9139,6 +9645,8 @@
       "range_native": null,
       "breeding_native": null,
       "range_hypothetical": null,
+      "passage": null,
+      "breeding_spots": null,
       "find_spots": null,
       "last_observation": null
     }
@@ -9175,6 +9683,8 @@
       "range_native": null,
       "breeding_native": null,
       "range_hypothetical": null,
+      "passage": null,
+      "breeding_spots": null,
       "find_spots": null,
       "last_observation": null
     }
@@ -9211,6 +9721,8 @@
       "range_native": null,
       "breeding_native": null,
       "range_hypothetical": null,
+      "passage": null,
+      "breeding_spots": null,
       "find_spots": null,
       "last_observation": null
     }
@@ -9247,6 +9759,8 @@
       "range_native": null,
       "breeding_native": null,
       "range_hypothetical": null,
+      "passage": null,
+      "breeding_spots": null,
       "find_spots": null,
       "last_observation": null
     }
@@ -9283,6 +9797,8 @@
       "range_native": null,
       "breeding_native": null,
       "range_hypothetical": null,
+      "passage": null,
+      "breeding_spots": null,
       "find_spots": null,
       "last_observation": null
     }
@@ -9319,6 +9835,8 @@
       "range_native": null,
       "breeding_native": null,
       "range_hypothetical": null,
+      "passage": null,
+      "breeding_spots": null,
       "find_spots": null,
       "last_observation": null
     }
@@ -9355,6 +9873,8 @@
       "range_native": null,
       "breeding_native": null,
       "range_hypothetical": null,
+      "passage": null,
+      "breeding_spots": null,
       "find_spots": null,
       "last_observation": null
     }
@@ -9391,6 +9911,8 @@
       "range_native": null,
       "breeding_native": null,
       "range_hypothetical": null,
+      "passage": null,
+      "breeding_spots": null,
       "find_spots": null,
       "last_observation": null
     }
@@ -9427,6 +9949,8 @@
       "range_native": null,
       "breeding_native": null,
       "range_hypothetical": null,
+      "passage": null,
+      "breeding_spots": null,
       "find_spots": null,
       "last_observation": null
     }
@@ -9463,6 +9987,8 @@
       "range_native": null,
       "breeding_native": null,
       "range_hypothetical": null,
+      "passage": null,
+      "breeding_spots": null,
       "find_spots": null,
       "last_observation": null
     }
@@ -9499,6 +10025,8 @@
       "range_native": null,
       "breeding_native": null,
       "range_hypothetical": null,
+      "passage": null,
+      "breeding_spots": null,
       "find_spots": null,
       "last_observation": null
     }
@@ -9535,6 +10063,8 @@
       "range_native": null,
       "breeding_native": null,
       "range_hypothetical": null,
+      "passage": null,
+      "breeding_spots": null,
       "find_spots": null,
       "last_observation": null
     }
@@ -9571,6 +10101,8 @@
       "range_native": null,
       "breeding_native": null,
       "range_hypothetical": null,
+      "passage": null,
+      "breeding_spots": null,
       "find_spots": null,
       "last_observation": null
     }
@@ -9607,6 +10139,8 @@
       "range_native": null,
       "breeding_native": null,
       "range_hypothetical": null,
+      "passage": null,
+      "breeding_spots": null,
       "find_spots": null,
       "last_observation": null
     }
@@ -9643,6 +10177,8 @@
       "range_native": null,
       "breeding_native": null,
       "range_hypothetical": null,
+      "passage": null,
+      "breeding_spots": null,
       "find_spots": null,
       "last_observation": null
     }
@@ -9679,6 +10215,8 @@
       "range_native": null,
       "breeding_native": null,
       "range_hypothetical": null,
+      "passage": null,
+      "breeding_spots": null,
       "find_spots": null,
       "last_observation": null
     }
@@ -9715,6 +10253,8 @@
       "range_native": null,
       "breeding_native": null,
       "range_hypothetical": null,
+      "passage": null,
+      "breeding_spots": null,
       "find_spots": null,
       "last_observation": null
     }
@@ -9751,6 +10291,8 @@
       "range_native": null,
       "breeding_native": null,
       "range_hypothetical": null,
+      "passage": null,
+      "breeding_spots": null,
       "find_spots": null,
       "last_observation": null
     }
@@ -9787,6 +10329,8 @@
       "range_native": null,
       "breeding_native": null,
       "range_hypothetical": null,
+      "passage": null,
+      "breeding_spots": null,
       "find_spots": null,
       "last_observation": null
     }
@@ -9823,6 +10367,8 @@
       "range_native": null,
       "breeding_native": null,
       "range_hypothetical": null,
+      "passage": null,
+      "breeding_spots": null,
       "find_spots": null,
       "last_observation": null
     }
@@ -9859,6 +10405,8 @@
       "range_native": null,
       "breeding_native": null,
       "range_hypothetical": null,
+      "passage": null,
+      "breeding_spots": null,
       "find_spots": null,
       "last_observation": null
     }
@@ -9895,6 +10443,8 @@
       "range_native": null,
       "breeding_native": null,
       "range_hypothetical": null,
+      "passage": null,
+      "breeding_spots": null,
       "find_spots": null,
       "last_observation": null
     }
@@ -9931,6 +10481,8 @@
       "range_native": null,
       "breeding_native": null,
       "range_hypothetical": null,
+      "passage": null,
+      "breeding_spots": null,
       "find_spots": null,
       "last_observation": null
     }
@@ -9967,6 +10519,8 @@
       "range_native": null,
       "breeding_native": null,
       "range_hypothetical": null,
+      "passage": null,
+      "breeding_spots": null,
       "find_spots": null,
       "last_observation": null
     }
@@ -10003,6 +10557,8 @@
       "range_native": null,
       "breeding_native": null,
       "range_hypothetical": null,
+      "passage": null,
+      "breeding_spots": null,
       "find_spots": null,
       "last_observation": null
     }
@@ -10039,6 +10595,8 @@
       "range_native": null,
       "breeding_native": null,
       "range_hypothetical": null,
+      "passage": null,
+      "breeding_spots": null,
       "find_spots": null,
       "last_observation": null
     }
@@ -10075,6 +10633,8 @@
       "range_native": null,
       "breeding_native": null,
       "range_hypothetical": null,
+      "passage": null,
+      "breeding_spots": null,
       "find_spots": null,
       "last_observation": null
     }
@@ -10111,6 +10671,8 @@
       "range_native": null,
       "breeding_native": null,
       "range_hypothetical": null,
+      "passage": null,
+      "breeding_spots": null,
       "find_spots": null,
       "last_observation": null
     }
@@ -10147,6 +10709,8 @@
       "range_native": null,
       "breeding_native": null,
       "range_hypothetical": null,
+      "passage": null,
+      "breeding_spots": null,
       "find_spots": null,
       "last_observation": null
     }
@@ -10183,6 +10747,8 @@
       "range_native": null,
       "breeding_native": null,
       "range_hypothetical": null,
+      "passage": null,
+      "breeding_spots": null,
       "find_spots": null,
       "last_observation": null
     }
@@ -10219,6 +10785,8 @@
       "range_native": null,
       "breeding_native": null,
       "range_hypothetical": null,
+      "passage": null,
+      "breeding_spots": null,
       "find_spots": null,
       "last_observation": null
     }
@@ -10255,6 +10823,8 @@
       "range_native": null,
       "breeding_native": null,
       "range_hypothetical": null,
+      "passage": null,
+      "breeding_spots": null,
       "find_spots": null,
       "last_observation": null
     }
@@ -10291,6 +10861,8 @@
       "range_native": null,
       "breeding_native": null,
       "range_hypothetical": null,
+      "passage": null,
+      "breeding_spots": null,
       "find_spots": null,
       "last_observation": null
     }
@@ -10327,6 +10899,8 @@
       "range_native": null,
       "breeding_native": null,
       "range_hypothetical": null,
+      "passage": null,
+      "breeding_spots": null,
       "find_spots": null,
       "last_observation": null
     }
@@ -10363,6 +10937,8 @@
       "range_native": null,
       "breeding_native": null,
       "range_hypothetical": null,
+      "passage": null,
+      "breeding_spots": null,
       "find_spots": null,
       "last_observation": null
     }
@@ -10399,6 +10975,8 @@
       "range_native": null,
       "breeding_native": null,
       "range_hypothetical": null,
+      "passage": null,
+      "breeding_spots": null,
       "find_spots": null,
       "last_observation": null
     }
@@ -10435,6 +11013,8 @@
       "range_native": null,
       "breeding_native": null,
       "range_hypothetical": null,
+      "passage": null,
+      "breeding_spots": null,
       "find_spots": null,
       "last_observation": null
     }
@@ -10471,6 +11051,8 @@
       "range_native": null,
       "breeding_native": null,
       "range_hypothetical": null,
+      "passage": null,
+      "breeding_spots": null,
       "find_spots": null,
       "last_observation": null
     }
@@ -10507,6 +11089,8 @@
       "range_native": null,
       "breeding_native": null,
       "range_hypothetical": null,
+      "passage": null,
+      "breeding_spots": null,
       "find_spots": null,
       "last_observation": null
     }
@@ -10543,6 +11127,8 @@
       "range_native": null,
       "breeding_native": null,
       "range_hypothetical": null,
+      "passage": null,
+      "breeding_spots": null,
       "find_spots": null,
       "last_observation": null
     }
@@ -10579,6 +11165,8 @@
       "range_native": null,
       "breeding_native": null,
       "range_hypothetical": null,
+      "passage": null,
+      "breeding_spots": null,
       "find_spots": null,
       "last_observation": null
     }
@@ -10615,6 +11203,8 @@
       "range_native": null,
       "breeding_native": null,
       "range_hypothetical": null,
+      "passage": null,
+      "breeding_spots": null,
       "find_spots": null,
       "last_observation": null
     }
@@ -10651,6 +11241,8 @@
       "range_native": null,
       "breeding_native": null,
       "range_hypothetical": null,
+      "passage": null,
+      "breeding_spots": null,
       "find_spots": null,
       "last_observation": null
     }
@@ -10687,6 +11279,8 @@
       "range_native": null,
       "breeding_native": null,
       "range_hypothetical": null,
+      "passage": null,
+      "breeding_spots": null,
       "find_spots": null,
       "last_observation": null
     }
@@ -10723,6 +11317,8 @@
       "range_native": null,
       "breeding_native": null,
       "range_hypothetical": null,
+      "passage": null,
+      "breeding_spots": null,
       "find_spots": null,
       "last_observation": null
     }
@@ -10759,6 +11355,8 @@
       "range_native": null,
       "breeding_native": null,
       "range_hypothetical": null,
+      "passage": null,
+      "breeding_spots": null,
       "find_spots": null,
       "last_observation": null
     }
@@ -10795,6 +11393,8 @@
       "range_native": null,
       "breeding_native": null,
       "range_hypothetical": null,
+      "passage": null,
+      "breeding_spots": null,
       "find_spots": null,
       "last_observation": null
     }
@@ -10831,6 +11431,8 @@
       "range_native": null,
       "breeding_native": null,
       "range_hypothetical": null,
+      "passage": null,
+      "breeding_spots": null,
       "find_spots": null,
       "last_observation": null
     }
@@ -10867,6 +11469,8 @@
       "range_native": null,
       "breeding_native": null,
       "range_hypothetical": null,
+      "passage": null,
+      "breeding_spots": null,
       "find_spots": null,
       "last_observation": null
     }
@@ -10903,6 +11507,8 @@
       "range_native": null,
       "breeding_native": null,
       "range_hypothetical": null,
+      "passage": null,
+      "breeding_spots": null,
       "find_spots": null,
       "last_observation": null
     }
@@ -10939,6 +11545,8 @@
       "range_native": null,
       "breeding_native": null,
       "range_hypothetical": null,
+      "passage": null,
+      "breeding_spots": null,
       "find_spots": null,
       "last_observation": null
     }
@@ -10975,6 +11583,8 @@
       "range_native": null,
       "breeding_native": null,
       "range_hypothetical": null,
+      "passage": null,
+      "breeding_spots": null,
       "find_spots": null,
       "last_observation": null
     }
@@ -11011,6 +11621,8 @@
       "range_native": null,
       "breeding_native": null,
       "range_hypothetical": null,
+      "passage": null,
+      "breeding_spots": null,
       "find_spots": null,
       "last_observation": null
     }
@@ -11047,6 +11659,8 @@
       "range_native": null,
       "breeding_native": null,
       "range_hypothetical": null,
+      "passage": null,
+      "breeding_spots": null,
       "find_spots": null,
       "last_observation": null
     }
@@ -11083,6 +11697,8 @@
       "range_native": null,
       "breeding_native": null,
       "range_hypothetical": null,
+      "passage": null,
+      "breeding_spots": null,
       "find_spots": null,
       "last_observation": null
     }
@@ -11119,6 +11735,8 @@
       "range_native": null,
       "breeding_native": null,
       "range_hypothetical": null,
+      "passage": null,
+      "breeding_spots": null,
       "find_spots": null,
       "last_observation": null
     }
@@ -11155,6 +11773,8 @@
       "range_native": null,
       "breeding_native": null,
       "range_hypothetical": null,
+      "passage": null,
+      "breeding_spots": null,
       "find_spots": null,
       "last_observation": null
     }
@@ -11191,6 +11811,8 @@
       "range_native": null,
       "breeding_native": null,
       "range_hypothetical": null,
+      "passage": null,
+      "breeding_spots": null,
       "find_spots": null,
       "last_observation": null
     }
@@ -11227,6 +11849,8 @@
       "range_native": null,
       "breeding_native": null,
       "range_hypothetical": null,
+      "passage": null,
+      "breeding_spots": null,
       "find_spots": null,
       "last_observation": null
     }
@@ -11263,6 +11887,8 @@
       "range_native": null,
       "breeding_native": null,
       "range_hypothetical": null,
+      "passage": null,
+      "breeding_spots": null,
       "find_spots": null,
       "last_observation": null
     }
@@ -11299,6 +11925,8 @@
       "range_native": null,
       "breeding_native": null,
       "range_hypothetical": null,
+      "passage": null,
+      "breeding_spots": null,
       "find_spots": null,
       "last_observation": null
     }
@@ -11335,6 +11963,8 @@
       "range_native": null,
       "breeding_native": null,
       "range_hypothetical": null,
+      "passage": null,
+      "breeding_spots": null,
       "find_spots": null,
       "last_observation": null
     }
@@ -11371,6 +12001,8 @@
       "range_native": null,
       "breeding_native": null,
       "range_hypothetical": null,
+      "passage": null,
+      "breeding_spots": null,
       "find_spots": null,
       "last_observation": null
     }
@@ -11407,6 +12039,8 @@
       "range_native": null,
       "breeding_native": null,
       "range_hypothetical": null,
+      "passage": null,
+      "breeding_spots": null,
       "find_spots": null,
       "last_observation": null
     }
@@ -11443,6 +12077,8 @@
       "range_native": null,
       "breeding_native": null,
       "range_hypothetical": null,
+      "passage": null,
+      "breeding_spots": null,
       "find_spots": null,
       "last_observation": null
     }
@@ -11479,6 +12115,8 @@
       "range_native": "https://raw.githubusercontent.com/lehmannphilippe-dotcom/webflow-data/refs/heads/main/ranges/black-mamo.json",
       "breeding_native": null,
       "range_hypothetical": null,
+      "passage": null,
+      "breeding_spots": null,
       "find_spots": null,
       "last_observation": null
     }
@@ -11515,6 +12153,8 @@
       "range_native": null,
       "breeding_native": null,
       "range_hypothetical": null,
+      "passage": null,
+      "breeding_spots": null,
       "find_spots": null,
       "last_observation": null
     }
@@ -11551,6 +12191,8 @@
       "range_native": null,
       "breeding_native": null,
       "range_hypothetical": null,
+      "passage": null,
+      "breeding_spots": null,
       "find_spots": null,
       "last_observation": null
     }
@@ -11587,6 +12229,8 @@
       "range_native": null,
       "breeding_native": null,
       "range_hypothetical": null,
+      "passage": null,
+      "breeding_spots": null,
       "find_spots": null,
       "last_observation": null
     }
@@ -11623,6 +12267,8 @@
       "range_native": null,
       "breeding_native": null,
       "range_hypothetical": null,
+      "passage": null,
+      "breeding_spots": null,
       "find_spots": null,
       "last_observation": null
     }
@@ -11659,6 +12305,8 @@
       "range_native": null,
       "breeding_native": null,
       "range_hypothetical": null,
+      "passage": null,
+      "breeding_spots": null,
       "find_spots": null,
       "last_observation": null
     }
@@ -11695,6 +12343,8 @@
       "range_native": null,
       "breeding_native": null,
       "range_hypothetical": null,
+      "passage": null,
+      "breeding_spots": null,
       "find_spots": null,
       "last_observation": null
     }
@@ -11731,6 +12381,8 @@
       "range_native": null,
       "breeding_native": null,
       "range_hypothetical": null,
+      "passage": null,
+      "breeding_spots": null,
       "find_spots": null,
       "last_observation": null
     }
@@ -11767,6 +12419,8 @@
       "range_native": null,
       "breeding_native": null,
       "range_hypothetical": null,
+      "passage": null,
+      "breeding_spots": null,
       "find_spots": null,
       "last_observation": null
     }
@@ -11803,6 +12457,8 @@
       "range_native": null,
       "breeding_native": null,
       "range_hypothetical": null,
+      "passage": null,
+      "breeding_spots": null,
       "find_spots": null,
       "last_observation": null
     }
@@ -11839,6 +12495,8 @@
       "range_native": null,
       "breeding_native": null,
       "range_hypothetical": null,
+      "passage": null,
+      "breeding_spots": null,
       "find_spots": null,
       "last_observation": null
     }
@@ -11875,6 +12533,8 @@
       "range_native": null,
       "breeding_native": null,
       "range_hypothetical": null,
+      "passage": null,
+      "breeding_spots": null,
       "find_spots": null,
       "last_observation": null
     }
@@ -11911,6 +12571,8 @@
       "range_native": null,
       "breeding_native": null,
       "range_hypothetical": null,
+      "passage": null,
+      "breeding_spots": null,
       "find_spots": null,
       "last_observation": null
     }
@@ -11947,6 +12609,8 @@
       "range_native": null,
       "breeding_native": null,
       "range_hypothetical": null,
+      "passage": null,
+      "breeding_spots": null,
       "find_spots": null,
       "last_observation": null
     }
@@ -11983,6 +12647,8 @@
       "range_native": null,
       "breeding_native": null,
       "range_hypothetical": null,
+      "passage": null,
+      "breeding_spots": null,
       "find_spots": null,
       "last_observation": null
     }
@@ -12019,6 +12685,8 @@
       "range_native": null,
       "breeding_native": null,
       "range_hypothetical": null,
+      "passage": null,
+      "breeding_spots": null,
       "find_spots": null,
       "last_observation": null
     }
@@ -12055,6 +12723,8 @@
       "range_native": null,
       "breeding_native": null,
       "range_hypothetical": null,
+      "passage": null,
+      "breeding_spots": null,
       "find_spots": null,
       "last_observation": null
     }
@@ -12091,6 +12761,8 @@
       "range_native": null,
       "breeding_native": null,
       "range_hypothetical": null,
+      "passage": null,
+      "breeding_spots": null,
       "find_spots": null,
       "last_observation": null
     }
@@ -12127,6 +12799,8 @@
       "range_native": "https://raw.githubusercontent.com/lehmannphilippe-dotcom/webflow-data/refs/heads/main/ranges/moho-braccatus.geojson",
       "breeding_native": null,
       "range_hypothetical": null,
+      "passage": null,
+      "breeding_spots": null,
       "find_spots": null,
       "last_observation": null
     }
@@ -12163,6 +12837,8 @@
       "range_native": null,
       "breeding_native": null,
       "range_hypothetical": null,
+      "passage": null,
+      "breeding_spots": null,
       "find_spots": null,
       "last_observation": null
     }
@@ -12199,6 +12875,8 @@
       "range_native": null,
       "breeding_native": null,
       "range_hypothetical": null,
+      "passage": null,
+      "breeding_spots": null,
       "find_spots": null,
       "last_observation": null
     }
@@ -12235,6 +12913,8 @@
       "range_native": null,
       "breeding_native": null,
       "range_hypothetical": null,
+      "passage": null,
+      "breeding_spots": null,
       "find_spots": null,
       "last_observation": null
     }
@@ -12271,6 +12951,8 @@
       "range_native": null,
       "breeding_native": null,
       "range_hypothetical": null,
+      "passage": null,
+      "breeding_spots": null,
       "find_spots": null,
       "last_observation": null
     }
@@ -12307,6 +12989,8 @@
       "range_native": null,
       "breeding_native": null,
       "range_hypothetical": null,
+      "passage": null,
+      "breeding_spots": null,
       "find_spots": null,
       "last_observation": null
     }
@@ -12343,6 +13027,8 @@
       "range_native": null,
       "breeding_native": null,
       "range_hypothetical": null,
+      "passage": null,
+      "breeding_spots": null,
       "find_spots": null,
       "last_observation": null
     }
@@ -12379,6 +13065,8 @@
       "range_native": null,
       "breeding_native": null,
       "range_hypothetical": null,
+      "passage": null,
+      "breeding_spots": null,
       "find_spots": null,
       "last_observation": null
     }
@@ -12415,6 +13103,8 @@
       "range_native": null,
       "breeding_native": null,
       "range_hypothetical": null,
+      "passage": null,
+      "breeding_spots": null,
       "find_spots": null,
       "last_observation": null
     }
@@ -12451,6 +13141,8 @@
       "range_native": null,
       "breeding_native": null,
       "range_hypothetical": null,
+      "passage": null,
+      "breeding_spots": null,
       "find_spots": null,
       "last_observation": null
     }
@@ -12487,6 +13179,8 @@
       "range_native": null,
       "breeding_native": null,
       "range_hypothetical": null,
+      "passage": null,
+      "breeding_spots": null,
       "find_spots": null,
       "last_observation": null
     }
@@ -12523,6 +13217,8 @@
       "range_native": null,
       "breeding_native": null,
       "range_hypothetical": null,
+      "passage": null,
+      "breeding_spots": null,
       "find_spots": null,
       "last_observation": null
     }
@@ -12559,6 +13255,8 @@
       "range_native": null,
       "breeding_native": null,
       "range_hypothetical": null,
+      "passage": null,
+      "breeding_spots": null,
       "find_spots": null,
       "last_observation": null
     }
@@ -12595,6 +13293,8 @@
       "range_native": null,
       "breeding_native": null,
       "range_hypothetical": null,
+      "passage": null,
+      "breeding_spots": null,
       "find_spots": null,
       "last_observation": null
     }
@@ -12631,6 +13331,8 @@
       "range_native": null,
       "breeding_native": null,
       "range_hypothetical": null,
+      "passage": null,
+      "breeding_spots": null,
       "find_spots": null,
       "last_observation": null
     }
@@ -12667,6 +13369,8 @@
       "range_native": null,
       "breeding_native": null,
       "range_hypothetical": null,
+      "passage": null,
+      "breeding_spots": null,
       "find_spots": null,
       "last_observation": null
     }
@@ -12703,6 +13407,8 @@
       "range_native": null,
       "breeding_native": null,
       "range_hypothetical": null,
+      "passage": null,
+      "breeding_spots": null,
       "find_spots": null,
       "last_observation": null
     }
@@ -12739,6 +13445,8 @@
       "range_native": null,
       "breeding_native": null,
       "range_hypothetical": null,
+      "passage": null,
+      "breeding_spots": null,
       "find_spots": null,
       "last_observation": null
     }
@@ -12775,6 +13483,8 @@
       "range_native": null,
       "breeding_native": null,
       "range_hypothetical": null,
+      "passage": null,
+      "breeding_spots": null,
       "find_spots": null,
       "last_observation": null
     }
@@ -12811,6 +13521,8 @@
       "range_native": null,
       "breeding_native": null,
       "range_hypothetical": null,
+      "passage": null,
+      "breeding_spots": null,
       "find_spots": null,
       "last_observation": null
     }
@@ -12847,6 +13559,8 @@
       "range_native": null,
       "breeding_native": null,
       "range_hypothetical": null,
+      "passage": null,
+      "breeding_spots": null,
       "find_spots": null,
       "last_observation": null
     }
@@ -12883,6 +13597,8 @@
       "range_native": null,
       "breeding_native": null,
       "range_hypothetical": null,
+      "passage": null,
+      "breeding_spots": null,
       "find_spots": null,
       "last_observation": null
     }
@@ -12912,13 +13628,15 @@
     "taxonomy": {
       "family": "Kleidervögel (Drepanidini)",
       "genus": "Loxops",
-       "family_key": "drepanidini",
+      "family_key": "drepanidini",
       "genus_key": "loxops"
     },
     "ranges": {
       "range_native": null,
       "breeding_native": null,
       "range_hypothetical": null,
+      "passage": null,
+      "breeding_spots": null,
       "find_spots": null,
       "last_observation": null
     }
@@ -12955,6 +13673,8 @@
       "range_native": null,
       "breeding_native": null,
       "range_hypothetical": null,
+      "passage": null,
+      "breeding_spots": null,
       "find_spots": null,
       "last_observation": null
     }
@@ -12991,6 +13711,8 @@
       "range_native": null,
       "breeding_native": null,
       "range_hypothetical": null,
+      "passage": null,
+      "breeding_spots": null,
       "find_spots": null,
       "last_observation": null
     }
@@ -13027,6 +13749,8 @@
       "range_native": null,
       "breeding_native": null,
       "range_hypothetical": null,
+      "passage": null,
+      "breeding_spots": null,
       "find_spots": null,
       "last_observation": null
     }
@@ -13063,6 +13787,8 @@
       "range_native": null,
       "breeding_native": null,
       "range_hypothetical": null,
+      "passage": null,
+      "breeding_spots": null,
       "find_spots": null,
       "last_observation": null
     }
@@ -13099,6 +13825,8 @@
       "range_native": null,
       "breeding_native": null,
       "range_hypothetical": null,
+      "passage": null,
+      "breeding_spots": null,
       "find_spots": null,
       "last_observation": null
     }
@@ -13135,6 +13863,8 @@
       "range_native": null,
       "breeding_native": null,
       "range_hypothetical": null,
+      "passage": null,
+      "breeding_spots": null,
       "find_spots": null,
       "last_observation": null
     }
@@ -13171,6 +13901,8 @@
       "range_native": null,
       "breeding_native": null,
       "range_hypothetical": null,
+      "passage": null,
+      "breeding_spots": null,
       "find_spots": null,
       "last_observation": null
     }
@@ -13207,6 +13939,8 @@
       "range_native": null,
       "breeding_native": null,
       "range_hypothetical": null,
+      "passage": null,
+      "breeding_spots": null,
       "find_spots": null,
       "last_observation": null
     }
@@ -13243,6 +13977,8 @@
       "range_native": null,
       "breeding_native": null,
       "range_hypothetical": null,
+      "passage": null,
+      "breeding_spots": null,
       "find_spots": null,
       "last_observation": null
     }
@@ -13279,6 +14015,8 @@
       "range_native": null,
       "breeding_native": null,
       "range_hypothetical": null,
+      "passage": null,
+      "breeding_spots": null,
       "find_spots": null,
       "last_observation": null
     }
@@ -13315,6 +14053,8 @@
       "range_native": null,
       "breeding_native": null,
       "range_hypothetical": null,
+      "passage": null,
+      "breeding_spots": null,
       "find_spots": null,
       "last_observation": null
     }
@@ -13351,6 +14091,8 @@
       "range_native": null,
       "breeding_native": null,
       "range_hypothetical": null,
+      "passage": null,
+      "breeding_spots": null,
       "find_spots": null,
       "last_observation": null
     }
@@ -13387,6 +14129,8 @@
       "range_native": null,
       "breeding_native": null,
       "range_hypothetical": null,
+      "passage": null,
+      "breeding_spots": null,
       "find_spots": null,
       "last_observation": null
     }
@@ -13423,6 +14167,8 @@
       "range_native": null,
       "breeding_native": null,
       "range_hypothetical": null,
+      "passage": null,
+      "breeding_spots": null,
       "find_spots": null,
       "last_observation": null
     }
@@ -13459,6 +14205,8 @@
       "range_native": null,
       "breeding_native": null,
       "range_hypothetical": null,
+      "passage": null,
+      "breeding_spots": null,
       "find_spots": null,
       "last_observation": null
     }
@@ -13495,6 +14243,8 @@
       "range_native": null,
       "breeding_native": null,
       "range_hypothetical": null,
+      "passage": null,
+      "breeding_spots": null,
       "find_spots": null,
       "last_observation": null
     }
@@ -13531,6 +14281,8 @@
       "range_native": null,
       "breeding_native": null,
       "range_hypothetical": null,
+      "passage": null,
+      "breeding_spots": null,
       "find_spots": null,
       "last_observation": null
     }
@@ -13567,6 +14319,8 @@
       "range_native": null,
       "breeding_native": null,
       "range_hypothetical": null,
+      "passage": null,
+      "breeding_spots": null,
       "find_spots": null,
       "last_observation": null
     }
@@ -13603,6 +14357,8 @@
       "range_native": null,
       "breeding_native": null,
       "range_hypothetical": null,
+      "passage": null,
+      "breeding_spots": null,
       "find_spots": null,
       "last_observation": null
     }
@@ -13639,6 +14395,8 @@
       "range_native": null,
       "breeding_native": null,
       "range_hypothetical": null,
+      "passage": null,
+      "breeding_spots": null,
       "find_spots": null,
       "last_observation": null
     }
@@ -13675,6 +14433,8 @@
       "range_native": null,
       "breeding_native": null,
       "range_hypothetical": null,
+      "passage": null,
+      "breeding_spots": null,
       "find_spots": null,
       "last_observation": null
     }
@@ -13711,6 +14471,8 @@
       "range_native": null,
       "breeding_native": null,
       "range_hypothetical": null,
+      "passage": null,
+      "breeding_spots": null,
       "find_spots": null,
       "last_observation": null
     }
@@ -13747,6 +14509,8 @@
       "range_native": null,
       "breeding_native": null,
       "range_hypothetical": null,
+      "passage": null,
+      "breeding_spots": null,
       "find_spots": null,
       "last_observation": null
     }
@@ -13783,6 +14547,8 @@
       "range_native": null,
       "breeding_native": null,
       "range_hypothetical": null,
+      "passage": null,
+      "breeding_spots": null,
       "find_spots": null,
       "last_observation": null
     }
@@ -13819,6 +14585,8 @@
       "range_native": null,
       "breeding_native": null,
       "range_hypothetical": null,
+      "passage": null,
+      "breeding_spots": null,
       "find_spots": null,
       "last_observation": null
     }
@@ -13855,6 +14623,8 @@
       "range_native": null,
       "breeding_native": null,
       "range_hypothetical": null,
+      "passage": null,
+      "breeding_spots": null,
       "find_spots": null,
       "last_observation": null
     }
@@ -13891,6 +14661,8 @@
       "range_native": null,
       "breeding_native": null,
       "range_hypothetical": null,
+      "passage": null,
+      "breeding_spots": null,
       "find_spots": null,
       "last_observation": null
     }
@@ -13927,6 +14699,8 @@
       "range_native": null,
       "breeding_native": null,
       "range_hypothetical": null,
+      "passage": null,
+      "breeding_spots": null,
       "find_spots": null,
       "last_observation": null
     }
@@ -13963,6 +14737,8 @@
       "range_native": null,
       "breeding_native": null,
       "range_hypothetical": null,
+      "passage": null,
+      "breeding_spots": null,
       "find_spots": null,
       "last_observation": null
     }
@@ -13999,6 +14775,8 @@
       "range_native": null,
       "breeding_native": null,
       "range_hypothetical": null,
+      "passage": null,
+      "breeding_spots": null,
       "find_spots": null,
       "last_observation": null
     }
@@ -14035,6 +14813,8 @@
       "range_native": null,
       "breeding_native": null,
       "range_hypothetical": null,
+      "passage": null,
+      "breeding_spots": null,
       "find_spots": null,
       "last_observation": null
     }
@@ -14071,6 +14851,8 @@
       "range_native": null,
       "breeding_native": null,
       "range_hypothetical": null,
+      "passage": null,
+      "breeding_spots": null,
       "find_spots": null,
       "last_observation": null
     }
@@ -14107,6 +14889,8 @@
       "range_native": null,
       "breeding_native": null,
       "range_hypothetical": null,
+      "passage": null,
+      "breeding_spots": null,
       "find_spots": null,
       "last_observation": null
     }
@@ -14143,6 +14927,8 @@
       "range_native": null,
       "breeding_native": null,
       "range_hypothetical": null,
+      "passage": null,
+      "breeding_spots": null,
       "find_spots": null,
       "last_observation": null
     }
@@ -14179,6 +14965,8 @@
       "range_native": null,
       "breeding_native": null,
       "range_hypothetical": null,
+      "passage": null,
+      "breeding_spots": null,
       "find_spots": null,
       "last_observation": null
     }
@@ -14215,6 +15003,8 @@
       "range_native": null,
       "breeding_native": null,
       "range_hypothetical": null,
+      "passage": null,
+      "breeding_spots": null,
       "find_spots": null,
       "last_observation": null
     }
@@ -14251,6 +15041,8 @@
       "range_native": null,
       "breeding_native": null,
       "range_hypothetical": null,
+      "passage": null,
+      "breeding_spots": null,
       "find_spots": null,
       "last_observation": null
     }
@@ -14287,6 +15079,8 @@
       "range_native": null,
       "breeding_native": null,
       "range_hypothetical": null,
+      "passage": null,
+      "breeding_spots": null,
       "find_spots": null,
       "last_observation": null
     }
@@ -14323,6 +15117,8 @@
       "range_native": null,
       "breeding_native": null,
       "range_hypothetical": null,
+      "passage": null,
+      "breeding_spots": null,
       "find_spots": null,
       "last_observation": null
     }
@@ -14359,6 +15155,8 @@
       "range_native": null,
       "breeding_native": null,
       "range_hypothetical": null,
+      "passage": null,
+      "breeding_spots": null,
       "find_spots": null,
       "last_observation": null
     }
@@ -14395,6 +15193,8 @@
       "range_native": null,
       "breeding_native": null,
       "range_hypothetical": null,
+      "passage": null,
+      "breeding_spots": null,
       "find_spots": null,
       "last_observation": null
     }
@@ -14431,6 +15231,8 @@
       "range_native": null,
       "breeding_native": null,
       "range_hypothetical": null,
+      "passage": null,
+      "breeding_spots": null,
       "find_spots": null,
       "last_observation": null
     }
