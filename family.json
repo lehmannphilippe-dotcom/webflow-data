@@ -9,7 +9,17 @@
     "extinction_date": null,
     "panel": {
       "description": ""
-    }
+    },
+    "references": [
+      {
+        "label": "Test BirdLife Schweiz",
+        "url": "https://www.birdlife.ch/"
+      },
+      {
+        "label": "Test BirdLife Schweiz",
+        "url": "https://www.birdlife.ch/"
+      }
+    ]
   },
   {
     "id": "procellariidae",
@@ -21,7 +31,17 @@
     "extinction_date": null,
     "panel": {
       "description": ""
-    }
+    },
+    "references": [
+      {
+        "label": "Test BirdLife Schweiz",
+        "url": "https://www.birdlife.ch/"
+      },
+      {
+        "label": "Test BirdLife Schweiz",
+        "url": "https://www.birdlife.ch/"
+      }
+    ]
   },
   {
     "id": "threskiornithidae",
@@ -33,7 +53,17 @@
     "extinction_date": null,
     "panel": {
       "description": ""
-    }
+    },
+    "references": [
+      {
+        "label": "Test BirdLife Schweiz",
+        "url": "https://www.birdlife.ch/"
+      },
+      {
+        "label": "Test BirdLife Schweiz",
+        "url": "https://www.birdlife.ch/"
+      }
+    ]
   },
   {
     "id": "anserinae",
@@ -45,7 +75,17 @@
     "extinction_date": null,
     "panel": {
       "description": ""
-    }
+    },
+    "references": [
+      {
+        "label": "Test BirdLife Schweiz",
+        "url": "https://www.birdlife.ch/"
+      },
+      {
+        "label": "Test BirdLife Schweiz",
+        "url": "https://www.birdlife.ch/"
+      }
+    ]
   },
   {
     "id": "buteoninae",
@@ -57,7 +97,17 @@
     "extinction_date": null,
     "panel": {
       "description": ""
-    }
+    },
+    "references": [
+      {
+        "label": "Test BirdLife Schweiz",
+        "url": "https://www.birdlife.ch/"
+      },
+      {
+        "label": "Test BirdLife Schweiz",
+        "url": "https://www.birdlife.ch/"
+      }
+    ]
   },
   {
     "id": "rallidae",
@@ -69,7 +119,17 @@
     "extinction_date": null,
     "panel": {
       "description": ""
-    }
+    },
+    "references": [
+      {
+        "label": "Test BirdLife Schweiz",
+        "url": "https://www.birdlife.ch/"
+      },
+      {
+        "label": "Test BirdLife Schweiz",
+        "url": "https://www.birdlife.ch/"
+      }
+    ]
   },
   {
     "id": "strigidae",
@@ -81,7 +141,17 @@
     "extinction_date": null,
     "panel": {
       "description": ""
-    }
+    },
+    "references": [
+      {
+        "label": "Test BirdLife Schweiz",
+        "url": "https://www.birdlife.ch/"
+      },
+      {
+        "label": "Test BirdLife Schweiz",
+        "url": "https://www.birdlife.ch/"
+      }
+    ]
   },
   {
     "id": "corvidae",
@@ -93,7 +163,17 @@
     "extinction_date": null,
     "panel": {
       "description": ""
-    }
+    },
+    "references": [
+      {
+        "label": "Test BirdLife Schweiz",
+        "url": "https://www.birdlife.ch/"
+      },
+      {
+        "label": "Test BirdLife Schweiz",
+        "url": "https://www.birdlife.ch/"
+      }
+    ]
   },
   {
     "id": "fringillidae",
@@ -105,7 +185,17 @@
     "extinction_date": null,
     "panel": {
       "description": ""
-    }
+    },
+    "references": [
+      {
+        "label": "Test BirdLife Schweiz",
+        "url": "https://www.birdlife.ch/"
+      },
+      {
+        "label": "Test BirdLife Schweiz",
+        "url": "https://www.birdlife.ch/"
+      }
+    ]
   },
   {
     "id": "accipitridae",
@@ -117,7 +207,17 @@
     "extinction_date": null,
     "panel": {
       "description": ""
-    }
+    },
+    "references": [
+      {
+        "label": "Test BirdLife Schweiz",
+        "url": "https://www.birdlife.ch/"
+      },
+      {
+        "label": "Test BirdLife Schweiz",
+        "url": "https://www.birdlife.ch/"
+      }
+    ]
   },
   {
     "id": "thambetochenini",
@@ -129,7 +229,17 @@
     "extinction_date": null,
     "panel": {
       "description": ""
-    }
+    },
+    "references": [
+      {
+        "label": "Test BirdLife Schweiz",
+        "url": "https://www.birdlife.ch/"
+      },
+      {
+        "label": "Test BirdLife Schweiz",
+        "url": "https://www.birdlife.ch/"
+      }
+    ]
   },
   {
     "id": "alcidae",
@@ -141,7 +251,17 @@
     "extinction_date": null,
     "panel": {
       "description": ""
-    }
+    },
+    "references": [
+      {
+        "label": "Test BirdLife Schweiz",
+        "url": "https://www.birdlife.ch/"
+      },
+      {
+        "label": "Test BirdLife Schweiz",
+        "url": "https://www.birdlife.ch/"
+      }
+    ]
   },
   {
     "id": "mohoidae",
@@ -153,6 +273,16 @@
     "extinction_date": null,
     "panel": {
       "description": ""
-    }
+    },
+    "references": [
+      {
+        "label": "Test BirdLife Schweiz",
+        "url": "https://www.birdlife.ch/"
+      },
+      {
+        "label": "Test BirdLife Schweiz",
+        "url": "https://www.birdlife.ch/"
+      }
+    ]
   }
 ]

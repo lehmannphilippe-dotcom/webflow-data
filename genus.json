@@ -1,8 +1,7 @@
 [
-
-          {
+  {
     "id": "paroreomyza",
-     "family": "Kleidervögel (Drepanidini)",
+    "family": "Kleidervögel (Drepanidini)",
     "family_key": "drepanidini",
     "name": {
       "de": "Paroreomyza",
@@ -12,11 +11,21 @@
     "extinction_date": "1860",
     "panel": {
       "description": ""
-    }
-  },
+    },
+    "references": [
       {
+        "label": "Test BirdLife Schweiz",
+        "url": "https://www.birdlife.ch/"
+      },
+      {
+        "label": "Test BirdLife Schweiz",
+        "url": "https://www.birdlife.ch/"
+      }
+    ]
+  },
+  {
     "id": "himatione",
-     "family": "Kleidervögel (Drepanidini)",
+    "family": "Kleidervögel (Drepanidini)",
     "family_key": "drepanidini",
     "name": {
       "de": "Himatione",
@@ -26,11 +35,21 @@
     "extinction_date": "1860",
     "panel": {
       "description": ""
-    }
-  },
+    },
+    "references": [
       {
+        "label": "Test BirdLife Schweiz",
+        "url": "https://www.birdlife.ch/"
+      },
+      {
+        "label": "Test BirdLife Schweiz",
+        "url": "https://www.birdlife.ch/"
+      }
+    ]
+  },
+  {
     "id": "psittirostra",
-     "family": "Kleidervögel (Drepanidini)",
+    "family": "Kleidervögel (Drepanidini)",
     "family_key": "drepanidini",
     "name": {
       "de": "Psittirostra",
@@ -40,11 +59,21 @@
     "extinction_date": "1860",
     "panel": {
       "description": ""
-    }
+    },
+    "references": [
+      {
+        "label": "Test BirdLife Schweiz",
+        "url": "https://www.birdlife.ch/"
+      },
+      {
+        "label": "Test BirdLife Schweiz",
+        "url": "https://www.birdlife.ch/"
+      }
+    ]
   },
-    {
+  {
     "id": "loxops",
-     "family": "Kleidervögel (Drepanidini)",
+    "family": "Kleidervögel (Drepanidini)",
     "family_key": "drepanidini",
     "name": {
       "de": "Loxops",
@@ -54,7 +83,17 @@
     "extinction_date": "1860",
     "panel": {
       "description": ""
-    }
+    },
+    "references": [
+      {
+        "label": "Test BirdLife Schweiz",
+        "url": "https://www.birdlife.ch/"
+      },
+      {
+        "label": "Test BirdLife Schweiz",
+        "url": "https://www.birdlife.ch/"
+      }
+    ]
   },
   {
     "id": "chaetoptila",
@@ -68,7 +107,17 @@
     "extinction_date": "1860",
     "panel": {
       "description": ""
-    }
+    },
+    "references": [
+      {
+        "label": "Test BirdLife Schweiz",
+        "url": "https://www.birdlife.ch/"
+      },
+      {
+        "label": "Test BirdLife Schweiz",
+        "url": "https://www.birdlife.ch/"
+      }
+    ]
   },
   {
     "id": "aidemedia",
@@ -82,7 +131,17 @@
     "extinction_date": "",
     "panel": {
       "description": ""
-    }
+    },
+    "references": [
+      {
+        "label": "Test BirdLife Schweiz",
+        "url": "https://www.birdlife.ch/"
+      },
+      {
+        "label": "Test BirdLife Schweiz",
+        "url": "https://www.birdlife.ch/"
+      }
+    ]
   },
   {
     "id": "apteribis",
@@ -96,7 +155,17 @@
     "extinction_date": "1300",
     "panel": {
       "description": "<p>Über den Maui-Hochlandibis ist nur wenig bekannt. Die Art wurde 1991 von Storrs L. Olson (1944–2021) und Helen F. James (*1956) anhand weniger subfossiler Knochen beschrieben.</p><p>Wie alle Arten der Gattung Apteribis war auch der Maui-Hochlandibis flugunfähig. Er besass verkürzte, kräftige Beine, die ihm vermutlich eine wendige und agile Fortbewegung am Waldboden ermöglichten. Zudem waren die visuellen Strukturen im Schädel stark zurückgebildet. Dies betrifft die Augen, den Sehnerv sowie den Bereich des Tectum opticum, in dem visuelle Reize im Gehirn verarbeitet werden.</p><p>Diese stark reduzierten Sehstrukturen deuten darauf hin, dass der Maui-Hochlandibis nur über ein eingeschränktes Sehvermögen verfügte und wahrscheinlich nachtaktiv war – ein Zustand, der unter den Ibissen bislang nur für die ausgestorbene Gattung Apteribis aus Hawai bekannt ist. Vermutlich stützte sich die Art vor allem auf taktile Reize, die sie mit ihrem Schnabel wahrnahm, um Beutetiere wie Landschnecken oder flugunfähige Grillen aufzuspüren. Ihre Lebensweise ähnelte damit wahrscheinlich jener der heutigen Kiwis in Neuseeland.</p>"
-    }
+    },
+    "references": [
+      {
+        "label": "Test BirdLife Schweiz",
+        "url": "https://www.birdlife.ch/"
+      },
+      {
+        "label": "Test BirdLife Schweiz",
+        "url": "https://www.birdlife.ch/"
+      }
+    ]
   },
   {
     "id": "branta",
@@ -110,7 +179,17 @@
     "extinction_date": "",
     "panel": {
       "description": ""
-    }
+    },
+    "references": [
+      {
+        "label": "Test BirdLife Schweiz",
+        "url": "https://www.birdlife.ch/"
+      },
+      {
+        "label": "Test BirdLife Schweiz",
+        "url": "https://www.birdlife.ch/"
+      }
+    ]
   },
   {
     "id": "chelychelynechen",
@@ -124,7 +203,17 @@
     "extinction_date": "",
     "panel": {
       "description": ""
-    }
+    },
+    "references": [
+      {
+        "label": "Test BirdLife Schweiz",
+        "url": "https://www.birdlife.ch/"
+      },
+      {
+        "label": "Test BirdLife Schweiz",
+        "url": "https://www.birdlife.ch/"
+      }
+    ]
   },
   {
     "id": "chloridops",
@@ -138,7 +227,17 @@
     "extinction_date": "",
     "panel": {
       "description": ""
-    }
+    },
+    "references": [
+      {
+        "label": "Test BirdLife Schweiz",
+        "url": "https://www.birdlife.ch/"
+      },
+      {
+        "label": "Test BirdLife Schweiz",
+        "url": "https://www.birdlife.ch/"
+      }
+    ]
   },
   {
     "id": "circus",
@@ -152,7 +251,17 @@
     "extinction_date": "",
     "panel": {
       "description": ""
-    }
+    },
+    "references": [
+      {
+        "label": "Test BirdLife Schweiz",
+        "url": "https://www.birdlife.ch/"
+      },
+      {
+        "label": "Test BirdLife Schweiz",
+        "url": "https://www.birdlife.ch/"
+      }
+    ]
   },
   {
     "id": "ciridops",
@@ -166,7 +275,17 @@
     "extinction_date": "",
     "panel": {
       "description": ""
-    }
+    },
+    "references": [
+      {
+        "label": "Test BirdLife Schweiz",
+        "url": "https://www.birdlife.ch/"
+      },
+      {
+        "label": "Test BirdLife Schweiz",
+        "url": "https://www.birdlife.ch/"
+      }
+    ]
   },
   {
     "id": "corvus",
@@ -180,7 +299,17 @@
     "extinction_date": "",
     "panel": {
       "description": ""
-    }
+    },
+    "references": [
+      {
+        "label": "Test BirdLife Schweiz",
+        "url": "https://www.birdlife.ch/"
+      },
+      {
+        "label": "Test BirdLife Schweiz",
+        "url": "https://www.birdlife.ch/"
+      }
+    ]
   },
   {
     "id": "drepanis",
@@ -194,7 +323,17 @@
     "extinction_date": "",
     "panel": {
       "description": ""
-    }
+    },
+    "references": [
+      {
+        "label": "Test BirdLife Schweiz",
+        "url": "https://www.birdlife.ch/"
+      },
+      {
+        "label": "Test BirdLife Schweiz",
+        "url": "https://www.birdlife.ch/"
+      }
+    ]
   },
   {
     "id": "dysmorodrepanis",
@@ -208,7 +347,17 @@
     "extinction_date": "",
     "panel": {
       "description": ""
-    }
+    },
+    "references": [
+      {
+        "label": "Test BirdLife Schweiz",
+        "url": "https://www.birdlife.ch/"
+      },
+      {
+        "label": "Test BirdLife Schweiz",
+        "url": "https://www.birdlife.ch/"
+      }
+    ]
   },
   {
     "id": "grallistrix",
@@ -222,7 +371,17 @@
     "extinction_date": "",
     "panel": {
       "description": ""
-    }
+    },
+    "references": [
+      {
+        "label": "Test BirdLife Schweiz",
+        "url": "https://www.birdlife.ch/"
+      },
+      {
+        "label": "Test BirdLife Schweiz",
+        "url": "https://www.birdlife.ch/"
+      }
+    ]
   },
   {
     "id": "haliaeetus",
@@ -236,7 +395,17 @@
     "extinction_date": "",
     "panel": {
       "description": ""
-    }
+    },
+    "references": [
+      {
+        "label": "Test BirdLife Schweiz",
+        "url": "https://www.birdlife.ch/"
+      },
+      {
+        "label": "Test BirdLife Schweiz",
+        "url": "https://www.birdlife.ch/"
+      }
+    ]
   },
   {
     "id": "hemignathus",
@@ -250,7 +419,17 @@
     "extinction_date": "",
     "panel": {
       "description": ""
-    }
+    },
+    "references": [
+      {
+        "label": "Test BirdLife Schweiz",
+        "url": "https://www.birdlife.ch/"
+      },
+      {
+        "label": "Test BirdLife Schweiz",
+        "url": "https://www.birdlife.ch/"
+      }
+    ]
   },
   {
     "id": "hemignathus_akialoa",
@@ -264,7 +443,17 @@
     "extinction_date": "",
     "panel": {
       "description": ""
-    }
+    },
+    "references": [
+      {
+        "label": "Test BirdLife Schweiz",
+        "url": "https://www.birdlife.ch/"
+      },
+      {
+        "label": "Test BirdLife Schweiz",
+        "url": "https://www.birdlife.ch/"
+      }
+    ]
   },
   {
     "id": "loxioides",
@@ -278,7 +467,17 @@
     "extinction_date": "",
     "panel": {
       "description": ""
-    }
+    },
+    "references": [
+      {
+        "label": "Test BirdLife Schweiz",
+        "url": "https://www.birdlife.ch/"
+      },
+      {
+        "label": "Test BirdLife Schweiz",
+        "url": "https://www.birdlife.ch/"
+      }
+    ]
   },
   {
     "id": "melamprosops",
@@ -292,7 +491,17 @@
     "extinction_date": "",
     "panel": {
       "description": ""
-    }
+    },
+    "references": [
+      {
+        "label": "Test BirdLife Schweiz",
+        "url": "https://www.birdlife.ch/"
+      },
+      {
+        "label": "Test BirdLife Schweiz",
+        "url": "https://www.birdlife.ch/"
+      }
+    ]
   },
   {
     "id": "moho",
@@ -306,7 +515,17 @@
     "extinction_date": "",
     "panel": {
       "description": ""
-    }
+    },
+    "references": [
+      {
+        "label": "Test BirdLife Schweiz",
+        "url": "https://www.birdlife.ch/"
+      },
+      {
+        "label": "Test BirdLife Schweiz",
+        "url": "https://www.birdlife.ch/"
+      }
+    ]
   },
   {
     "id": "pinguinus",
@@ -320,7 +539,17 @@
     "extinction_date": "",
     "panel": {
       "description": ""
-    }
+    },
+    "references": [
+      {
+        "label": "Test BirdLife Schweiz",
+        "url": "https://www.birdlife.ch/"
+      },
+      {
+        "label": "Test BirdLife Schweiz",
+        "url": "https://www.birdlife.ch/"
+      }
+    ]
   },
   {
     "id": "porzana",
@@ -334,7 +563,17 @@
     "extinction_date": "",
     "panel": {
       "description": ""
-    }
+    },
+    "references": [
+      {
+        "label": "Test BirdLife Schweiz",
+        "url": "https://www.birdlife.ch/"
+      },
+      {
+        "label": "Test BirdLife Schweiz",
+        "url": "https://www.birdlife.ch/"
+      }
+    ]
   },
   {
     "id": "pterodroma",
@@ -348,7 +587,17 @@
     "extinction_date": "",
     "panel": {
       "description": ""
-    }
+    },
+    "references": [
+      {
+        "label": "Test BirdLife Schweiz",
+        "url": "https://www.birdlife.ch/"
+      },
+      {
+        "label": "Test BirdLife Schweiz",
+        "url": "https://www.birdlife.ch/"
+      }
+    ]
   },
   {
     "id": "rhodacanthis",
@@ -362,7 +611,17 @@
     "extinction_date": "1896",
     "panel": {
       "description": ""
-    }
+    },
+    "references": [
+      {
+        "label": "Test BirdLife Schweiz",
+        "url": "https://www.birdlife.ch/"
+      },
+      {
+        "label": "Test BirdLife Schweiz",
+        "url": "https://www.birdlife.ch/"
+      }
+    ]
   },
   {
     "id": "telespiza",
@@ -376,7 +635,17 @@
     "extinction_date": "",
     "panel": {
       "description": ""
-    }
+    },
+    "references": [
+      {
+        "label": "Test BirdLife Schweiz",
+        "url": "https://www.birdlife.ch/"
+      },
+      {
+        "label": "Test BirdLife Schweiz",
+        "url": "https://www.birdlife.ch/"
+      }
+    ]
   },
   {
     "id": "vangulifer",
@@ -390,7 +659,17 @@
     "extinction_date": "",
     "panel": {
       "description": ""
-    }
+    },
+    "references": [
+      {
+        "label": "Test BirdLife Schweiz",
+        "url": "https://www.birdlife.ch/"
+      },
+      {
+        "label": "Test BirdLife Schweiz",
+        "url": "https://www.birdlife.ch/"
+      }
+    ]
   },
   {
     "id": "xestospiza",
@@ -404,7 +683,17 @@
     "extinction_date": "",
     "panel": {
       "description": ""
-    }
+    },
+    "references": [
+      {
+        "label": "Test BirdLife Schweiz",
+        "url": "https://www.birdlife.ch/"
+      },
+      {
+        "label": "Test BirdLife Schweiz",
+        "url": "https://www.birdlife.ch/"
+      }
+    ]
   },
   {
     "id": "zapornia",
@@ -418,6 +707,16 @@
     "extinction_date": "",
     "panel": {
       "description": ""
-    }
+    },
+    "references": [
+      {
+        "label": "Test BirdLife Schweiz",
+        "url": "https://www.birdlife.ch/"
+      },
+      {
+        "label": "Test BirdLife Schweiz",
+        "url": "https://www.birdlife.ch/"
+      }
+    ]
   }
 ]
