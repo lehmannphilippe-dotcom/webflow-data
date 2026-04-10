@@ -6298,13 +6298,13 @@
       "genus_key": ""
     },
     "ranges": {
-      "range_native": null,
-      "breeding_native": null,
-      "range_hypothetical": null,
-      "passage": null,
-      "breeding_spots": null,
-      "find_spots": null,
-      "last_observation": null
+      "range_native": "https://raw.githubusercontent.com/lehmannphilippe-dotcom/webflow-data/refs/heads/main/ranges/labrador_duck_range_native.geojson",
+      "breeding_native": "https://raw.githubusercontent.com/lehmannphilippe-dotcom/webflow-data/refs/heads/main/ranges/labrador_duck_breeding_native.geojson",
+      "range_hypothetical": "https://raw.githubusercontent.com/lehmannphilippe-dotcom/webflow-data/refs/heads/main/ranges/labrador_duck_range_hypothetical.geojson",
+      "passage": "https://raw.githubusercontent.com/lehmannphilippe-dotcom/webflow-data/refs/heads/main/ranges/lanbrador_duck_passage.geojson",
+      "breeding_spots": "https://raw.githubusercontent.com/lehmannphilippe-dotcom/webflow-data/refs/heads/main/ranges/labrador_duck_breeding_spots.geojson",
+      "find_spots": "https://raw.githubusercontent.com/lehmannphilippe-dotcom/webflow-data/refs/heads/main/ranges/labrador_duck_find_spots.geojson",
+      "last_observation": "https://raw.githubusercontent.com/lehmannphilippe-dotcom/webflow-data/refs/heads/main/ranges/labrador_duck_last_seen.geojson"
     }
   },
   {
