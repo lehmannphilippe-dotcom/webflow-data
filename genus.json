@@ -488,18 +488,18 @@
       "lat": "Melamprosops",
       "en": "Melamprosops"
     },
-    "extinction_date": "",
+    "extinction_date": "2004",
     "panel": {
-      "description": ""
+      "description": "<p>Melamprosops war eine monotypische Gattung hawaiischer Kleidervögel, die ausschliesslich durch den Weisswangen-Kleidervogel (Melamprosops phaeosoma) vertreten war. Die Gattung war zuletzt auf Maui beschränkt, nahm innerhalb der hawaiischen Drepanidinae jedoch eine besondere Stellung ein. Phylogenetische Untersuchungen zeigten, dass Melamprosops zu den ältesten noch bis in die Neuzeit überlieferten Entwicklungslinien der hawaiischen Kleidervögel gehörte.</p><p>Ihre Stammlinie trennte sich bereits vor rund 5,8 Millionen Jahren im späten Miozän von jener der übrigen Drepanidinae. Da Maui damals noch nicht existierte, entwickelte sich die frühe Linie der Gattung vermutlich zunächst auf älteren Inseln wie Kauai und/oder Niihau. Erst später gelangte sie in den damals noch zusammenhängenden Inselkomplex Maui Nui. Mit der Erwärmung des Klimas nach der letzten Eiszeit und dem damit verbundenen Anstieg des Meeresspiegels zerfiel dieser Grossinselkomplex in die heutigen Inseln Maui, Molokai, Lanai und Kahoolawe. Die damit verbundenen ökologischen Veränderungen führten zum Rückgang oder Aussterben zahlreicher Tier- und Pflanzenarten. Wahrscheinlich wirkte sich dieser Wandel auch auf Melamprosops aus, bis die Gattung schliesslich nur noch auf Maui überdauerte.</p>"
     },
     "references": [
       {
-        "label": "Test BirdLife Schweiz",
-        "url": "https://www.birdlife.ch/"
+        "label": "VanderWerf, Eric A.; Groombridge, Jim J.; Fretz, J. Scott; Swinnerton, Kirsty J. (2006). "Decision analysis to guide recovery of the poʻouli, a critically endangered Hawaiian honeycreeper"",
+        "url": "https://www.cell.com/current-biology/fulltext/S0960-9822(11)01078-5?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS0960982211010785%3Fshowall%3Dtrue"
       },
       {
-        "label": "Test BirdLife Schweiz",
-        "url": "https://www.birdlife.ch/"
+        "label": "Wikipedia. Poʻouli. English Wikipedia.",
+        "url": "https://en.wikipedia.org/wiki/Po%CA%BBouli"
       }
     ]
   },
