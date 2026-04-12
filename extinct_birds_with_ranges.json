@@ -13286,6 +13286,10 @@
         "label": "Duffy, D. C. (2019). Ghosts in the Ohiʻa: Is the Poʻouli Extinct and Does It Matter? ʻElepaio, 79(5), 36–37.",
         "url": "https://www.researchgate.net/publication/372783385_Ghosts_in_the_Ohia_Is_the_Poouli_Extinct_and_Does_It_Matter)"
       },
+       {
+        "label": "BirdLife International 2019. Melamprosops phaeosoma. The IUCN Red List of Threatened Species. Version 2019-3. Downloaded on 12 April 2026.",
+        "url": "https://www.iucnredlist.org/species/22720863/153774712"
+      },
       {
         "label": "Wikipedia. Weisswangen-Kleidervogel. Deutsche Wikipedia.",
         "url": "https://de.wikipedia.org/wiki/Wei%C3%9Fwangen-Kleidervogel"
@@ -13302,7 +13306,7 @@
       "genus_key": "melamprosops"
     },
     "ranges": {
-      "range_native": null,
+      "range_native": "https://raw.githubusercontent.com/lehmannphilippe-dotcom/webflow-data/refs/heads/main/ranges/Melamprosops_phaeosoma_nat.geojson",
       "breeding_native": null,
       "range_hypothetical": null,
       "passage": null,
