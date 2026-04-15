@@ -549,29 +549,37 @@
       "lat": 20.879917,
       "lng": -156.953077
     },
-    "habitat": "Lanai",
+    "habitat": "Insel Lanai (Hawaii-Archipel)",
     "images": {
       "tooltip": "",
       "panel": "https://cdn.prod.website-files.com/69a2957c566333eb83d17d8c/69c19f575d22d5245b99e4ac_Ibiss_default.jpg"
     },
     "panel": {
-      "description": "<p>Von dieser bislang unbeschriebenen Form ist bis heute nur ein einziger Fund bekannt. Zwar handelt es sich dabei um ein nahezu vollständiges Skelett mit sogar gut erhaltenen Konturfedern, doch reicht dieser aussergewöhnliche Einzelfund bislang nicht aus, um die Form als eigenständige Art sicher zu definieren und eindeutig von anderen Maui-Nui-Ibissen wie etwa dem Molokai-Ibis (Apteribis glenos) abzugrenzen.</p><p>Die erhaltenen Federn deuten auf eine Färbung mit braun-schwarzen sowie elfenbein-beigen bis hellbraunen Partien hin. Wie alle Arten der Gattung Apteribis war auch diese Form flugunfähig und mit verkürzten, kräftigen Beinen an ein Leben am Boden angepasst. Aufgrund ihres eingeschränkten Sehvermögens war auch diese Form wahrscheinlich vorwiegend nachtaktiv und ernährte sich von Wirbellosen wie Landschnecken und flugunfähigen Grillen.</p>",
-      "habitat_text": "<p>Falls es sich bei dieser Form tatsächlich um eine eigenständige Art handelte, war sie vermutlich auf Lānaʻi beschränkt und somit endemisch. Ob sie vorwiegend trockene Niederungen, Waldhabitate oder ein breiteres Spektrum unterschiedlicher Lebensräume nutzte, lässt sich aufgrund der bislang sehr begrenzten Funde jedoch nicht sicher bestimmen.</p>",
-      "extinction_text": "<p>Ob der flugunfähige Maui-Nui-Ibis von Lānaʻi bereits vor der Ankunft der ersten Menschen ausstarb, lässt sich heute nicht eindeutig klären. Die bisher bekannten Knochenfunde stammen ausschliesslich aus einer Zeit vor der Besiedlung durch den Menschen.</p><p>Falls die Form bei der Ankunft der ersten Siedler noch existierte, dürfte sie aufgrund ihrer fehlenden Fluchtmöglichkeiten gegenüber eingeschleppten Raubtieren sowie durch den Verlust ihres Lebensraums rasch verschwunden sein. Möglich ist jedoch auch, dass die Form bereits zuvor, während des Übergangs vom Pleistozän zum Holozän und den damit verbundenen klimatischen Veränderungen, ausstarb.</p>"
+      "description": "<p>Von dieser bislang unbeschriebenen Form ist bis heute nur ein einziger Fund bekannt. Zwar handelt es sich dabei um ein nahezu vollständiges Skelett mit sogar gut erhaltenen Konturfedern, doch reicht dieser aussergewöhnliche Einzelfund bislang nicht aus, um die Form als eigenständige Art sicher zu definieren und eindeutig von dem Molokai-Ibis (Apteribis glenos) abzugrenzen.</p><p>Die erhaltenen Federn deuten auf eine Färbung mit braun-schwarzen sowie elfenbein-beigen bis hellbraunen Partien hin. Wie alle Arten der Gattung Apteribis war auch diese Form flugunfähig und mit verkürzten, kräftigen Beinen an ein Leben am Boden angepasst. Aufgrund ihres eingeschränkten Sehvermögens war auch diese Form wahrscheinlich vorwiegend nachtaktiv und ernährte sich von Wirbellosen wie Landschnecken und Insekten.</p>",
+      "habitat_text": "<p>Falls es sich bei dieser Form tatsächlich um eine eigenständige Art handelte, war sie vermutlich auf Lanai beschränkt und somit endemisch. Ob sie vorwiegend trockene Niederungen, Waldhabitate oder ein breiteres Spektrum unterschiedlicher Lebensräume nutzte, lässt sich aufgrund der bislang sehr begrenzten Funde nicht sicher bestimmen.</p>",
+      "extinction_text": "<p>Ob diese Form bereits vor der Ankunft der ersten Menschen ausstarb, lässt sich heute nicht eindeutig klären. Die bisher bekannten Knochenfunde stammen ausschliesslich aus einer Zeit vor der Besiedlung durch den Menschen. Falls die Form bei der Ankunft der ersten Siedler noch existierte, dürfte sie durch Jagd und aufgrund ihrer fehlenden Fluchtmöglichkeiten gegenüber eingeschleppten Raubtieren und durch den Verlust ihres Lebensraums rasch verschwunden sein. Möglich ist jedoch auch, dass die Form bereits mehrere Jahrhunderte zuvor infolge natürlicher klimatischer Veränderungen ausstarb.</p>"
     },
-    "references": [
+     "references": [
       {
-        "label": "Test BirdLife Schweiz",
-        "url": "https://www.birdlife.ch/"
+        "label": "Helen F. James, Thomas W. Stafford, David W. Steadman, Storrs L. Olson, Paul S. Martin, A. J. T. Jull, and Patrick C. McCoy: Radiocarbon Dates on Bones of Extinct Birds from Hawaii.",
+        "url": "https://www.researchgate.net/publication/242013278_Descriptions_of_Thirty-Two_New_Species_of_Birds_from_the_Hawaiian_Islands_Part_II_Passeriformes"
+      },
+       {
+        "label": "Sara Citron, Aubrey Keirnan, Vera Weisbecker, Helen James, Andrew N Iwaniuk, Comparative Anatomy Supports the Evolution of Nocturnality in the Extinct Hawaiian Ibis Apteribis, Integrative and Comparative Biology, Volume 66, 2026, icaf159,",
+        "url": "https://doi.org/10.1093/icb/icaf159"
       },
       {
-        "label": "Test BirdLife Schweiz",
-        "url": "https://www.birdlife.ch/"
+        "label": "Wikipedia. Maui-Nui-Ibisse. Deutsche Wikipedia.",
+        "url": "https://de.wikipedia.org/wiki/Maui-Nui-Ibisse"
+      },
+      {
+        "label": "Wikipedia. Apteribis. English Wikipedia.",
+        "url": "https://en.wikipedia.org/wiki/Apteribis"
       }
     ],
     "taxonomy": {
       "family": "Ibisse und Löffler (Threskiornithidae)",
-      "genus": "Maui-Nui-Ibisse (Apteribis)",
+      "genus": "Apteribis",
       "family_key": "threskiornithidae",
       "genus_key": "apteribis"
     },
@@ -597,29 +605,37 @@
       "lat": 20.875351,
       "lng": -156.386158
     },
-    "habitat": "Maui",
+    "habitat": "Insel Maui (Hawaii-Archipel)",
     "images": {
       "tooltip": "",
       "panel": "https://cdn.prod.website-files.com/69a2957c566333eb83d17d8c/69c19f575d22d5245b99e4ac_Ibiss_default.jpg"
     },
     "panel": {
-      "description": "<p>Von dieser bislang unbeschriebenen Form sind bis heute nur sehr fragmentarische Überreste bekannt. Obwohl sich die Funde in ihrer Grösse klar vom Maui-Hochlandibis unterscheiden und heute mehrheitlich angenommen wird, dass es sich bei dieser Form um eine eigenständige Art handelt, ist die Datengrundlage bislang zu schmal, um sie eindeutig vom Molokai-Ibis (Apteribis glenos) abzugrenzen.</p><p>Wie alle Arten der Gattung Apteribis war auch diese Form flugunfähig und mit verkürzten, kräftigen Beinen an ein Leben am Boden angepasst. Aufgrund ihres eingeschränkten Sehvermögens war auch diese Art wahrscheinlich vorwiegend nachtaktiv und ernährte sich von Wirbellosen wie Landschnecken und flugunfähigen Grillen. Ihre Lebensweise ähnelte damit vermutlich jener der heutigen Kiwis in Neuseeland.</p>",
-      "habitat_text": "<p>Neben dem Maui-Hochlandibis bewohnte diese Form vermutlich vor allem offene Graslandschaften und Waldgebiete in tieferen Lagen der Insel Maui. Aufgrund des begrenzten Fossilmaterials lässt sich das ursprüngliche Verbreitungsgebiet heute jedoch nicht mehr genau bestimmen.</p>",
-      "extinction_text": "<p>Ob diese Form bereits vor der Ankunft der ersten Menschen ausstarb, lässt sich heute nicht eindeutig klären. Die bisher bekannten Knochenfunde stammen ausschliesslich aus einer Zeit vor der Besiedlung durch den Menschen.</p><p>Falls die Form bei der Ankunft der ersten Siedler noch existierte, dürfte sie aufgrund ihrer fehlenden Fluchtmöglichkeiten gegenüber eingeschleppten Raubtieren sowie durch den Verlust ihres Lebensraums rasch verschwunden sein. Möglich ist jedoch auch, dass die Form bereits zuvor, während des Übergangs vom Pleistozän zum Holozän und den damit verbundenen klimatischen Veränderungen, ausstarb.</p>"
+     "description": "<p>Von dieser bislang unbeschriebenen Form sind bis heute nur sehr fragmentarische Überreste bekannt. Obwohl sich die Funde in ihrer Grösse klar vom Maui-Hochlandibis unterscheiden und heute mehrheitlich angenommen wird, dass es sich bei dieser Form um eine eigenständige Art handelt, ist die Datengrundlage bislang zu schmal, um sie eindeutig vom Molokai-Ibis (Apteribis glenos) abzugrenzen.</p><p>Wie alle Arten der Gattung Apteribis war auch diese Form flugunfähig und mit verkürzten, kräftigen Beinen an ein Leben am Boden angepasst. Aufgrund ihres eingeschränkten Sehvermögens war auch diese Art wahrscheinlich vorwiegend nachtaktiv und ernährte sich wie die anderen Apteribis-Arten von Wirbellosen wie Landschnecken und Insekten.</p>",
+    "habitat_text": "<p>Im Gegensatz zum Maui-Hochlandibis bewohnte diese Form vermutlich vor allem offene Graslandschaften und Waldgebiete in tieferen Lagen der Insel Maui. Aufgrund des begrenzten Fossilmaterials lässt sich das ursprüngliche Verbreitungsgebiet heute jedoch nicht mehr genau bestimmen.</p>",
+    "extinction_text": "<p>Ob diese Form bereits vor der Ankunft der ersten Menschen ausstarb, lässt sich heute nicht eindeutig klären. Die bisher bekannten Knochenfunde stammen ausschliesslich aus einer Zeit vor der Besiedlung durch den Menschen. Falls die Form bei der Ankunft der ersten Siedler noch existierte, dürfte sie durch Jagd und aufgrund ihrer fehlenden Fluchtmöglichkeiten gegenüber eingeschleppten Raubtieren und durch den Verlust ihres Lebensraums rasch verschwunden sein. Möglich ist jedoch auch, dass die Form bereits mehrere Jahrhunderte zuvor infolge natürlicher klimatischer Veränderungen ausstarb.</p>"
     },
-    "references": [
+     "references": [
       {
-        "label": "Test BirdLife Schweiz",
-        "url": "https://www.birdlife.ch/"
+        "label": "Helen F. James, Thomas W. Stafford, David W. Steadman, Storrs L. Olson, Paul S. Martin, A. J. T. Jull, and Patrick C. McCoy: Radiocarbon Dates on Bones of Extinct Birds from Hawaii.",
+        "url": "https://www.researchgate.net/publication/242013278_Descriptions_of_Thirty-Two_New_Species_of_Birds_from_the_Hawaiian_Islands_Part_II_Passeriformes"
+      },
+       {
+        "label": "Sara Citron, Aubrey Keirnan, Vera Weisbecker, Helen James, Andrew N Iwaniuk, Comparative Anatomy Supports the Evolution of Nocturnality in the Extinct Hawaiian Ibis Apteribis, Integrative and Comparative Biology, Volume 66, 2026, icaf159,",
+        "url": "https://doi.org/10.1093/icb/icaf159"
       },
       {
-        "label": "Test BirdLife Schweiz",
-        "url": "https://www.birdlife.ch/"
+        "label": "Wikipedia. Maui-Nui-Ibisse. Deutsche Wikipedia.",
+        "url": "https://de.wikipedia.org/wiki/Maui-Nui-Ibisse"
+      },
+      {
+        "label": "Wikipedia. Apteribis. English Wikipedia.",
+        "url": "https://en.wikipedia.org/wiki/Apteribis"
       }
     ],
     "taxonomy": {
       "family": "Ibisse und Löffler (Threskiornithidae)",
-      "genus": "Maui-Nui-Ibisse (Apteribis)",
+      "genus": "Apteribis",
       "family_key": "threskiornithidae",
       "genus_key": "apteribis"
     },
