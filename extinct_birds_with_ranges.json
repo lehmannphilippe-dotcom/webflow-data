@@ -491,7 +491,7 @@
       "lat": 21.171733,
       "lng": -157.093588
     },
-    "habitat": "Insel Molokai (Hawaii-Archipel)",
+    "habitat": "Molokai (Hawaii)",
     "images": {
       "tooltip": "",
       "panel": "https://cdn.prod.website-files.com/69a2957c566333eb83d17d8c/69c6d12f50ebb4e0fed5b331_Apteribis_glenos.jpg"
@@ -547,7 +547,7 @@
       "lat": 20.879917,
       "lng": -156.953077
     },
-    "habitat": "Insel Lanai (Hawaii-Archipel)",
+    "habitat": "Lanai (Hawaii)",
     "images": {
       "tooltip": "",
       "panel": "https://cdn.prod.website-files.com/69a2957c566333eb83d17d8c/69c19f575d22d5245b99e4ac_Ibiss_default.jpg"
@@ -603,7 +603,7 @@
       "lat": 20.875351,
       "lng": -156.386158
     },
-    "habitat": "Insel Maui (Hawaii-Archipel)",
+    "habitat": "Maui (Hawaii)",
     "images": {
       "tooltip": "",
       "panel": "https://cdn.prod.website-files.com/69a2957c566333eb83d17d8c/69c19f575d22d5245b99e4ac_Ibiss_default.jpg"
@@ -1667,7 +1667,7 @@
       "lat": 20.6569,
       "lng": -156.0733
     },
-    "habitat": "Insel Maui (Hawaii-Archipel)",
+    "habitat": "Maui (Hawaii)",
     "images": {
       "tooltip": "",
       "panel": "https://cdn.prod.website-files.com/69a2957c566333eb83d17d8c/69c19f69b0df795a24a1b053_Apteribis_brevis.jpg"
@@ -13291,7 +13291,7 @@
       "lat": 20.746201,
       "lng": -156.114629
     },
-    "habitat": "Insel Maui (Hawaii-Archipel)",
+    "habitat": "Maui (Hawaii)",
     "images": {
       "tooltip": "",
       "panel": "https://cdn.prod.website-files.com/6950eb029163bef776e18cfd/698fa9b7835200dfec6008e0_melamprosops_phaeosoma.jpg"
