@@ -11592,7 +11592,7 @@
     "ranges": {
       "range_native": null,
       "breeding_native": null,
-      "range_hypothetical": null,
+      "range_hypothetical": "https://raw.githubusercontent.com/lehmannphilippe-dotcom/webflow-data/refs/heads/main/ranges/Moho_nobilis_hypo.geojson",
       "passage": null,
       "breeding_spots": null,
       "find_spots": null,
