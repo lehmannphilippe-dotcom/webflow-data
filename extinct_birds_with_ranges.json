@@ -1,4 +1,48 @@
 [
+   {
+    "id": "ciridops_sp.",
+    "name": {
+      "de": "Ciridops sp.",
+      "lat": "Ciridops sp.",
+      "en": "Ciridops sp."
+    },
+    "last_seen": "1200",
+    "location": {
+      "lat": 21.327998,
+      "lng": -158.075177
+    },
+    "habitat": "Oahu (Hawaii)",
+    "images": {
+      "tooltip": "",
+      "panel": "https://cdn.prod.website-files.com/69cfebf5eff673dfd4242f2e/69e27c4cc7350a1c7a8e1b2b_Fink_default.jpg"
+    },
+    "panel": {
+      "description": "",
+      "habitat_text": "",
+      "extinction_text": ""
+    },
+    "references": [
+      {
+        "label": "Olson, Storrs L. (2012). History, Structure, Evolution, Behavior, Distribution, and Ecology of the Extinct Hawaiian Genus Ciridops (Fringillidae, Carduelini, Drepanidini). The Wilson Journal of Ornithology, 124(4), 651–674.",
+        "url": "https://bioone.org/journals/the-wilson-journal-of-ornithology/volume-124/issue-4/1559-4491-124.4.651/History-Structure-Evolution-Behavior-Distribution-and-Ecology-of-the-Extinct/10.1676/1559-4491-124.4.651.full?tab=ArticleLink"
+      }
+    ],
+    "taxonomy": {
+      "family": "Kleidervögel (Drepanidini)",
+      "genus": "Ciridops",
+      "family_key": "drepanidini",
+      "genus_key": "ciridops"
+    },
+    "ranges": {
+      "range_native": null,
+      "breeding_native": null,
+      "range_hypothetical": null,
+      "passage": null,
+      "breeding_spots": null,
+      "find_spots": null,
+      "last_observation": null
+    }
+  },
   {
     "id": "xestospiza_fastigialis",
     "name": {
