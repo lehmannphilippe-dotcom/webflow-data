@@ -11592,7 +11592,7 @@
     "ranges": {
       "range_native": null,
       "breeding_native": null,
-      "range_hypothetical": "https://raw.githubusercontent.com/lehmannphilippe-dotcom/webflow-data/refs/heads/main/ranges/Moho_nobilis_hypo.geojson",
+      "range_hypothetical": "https://raw.githubusercontent.com/lehmannphilippe-dotcom/webflow-data/refs/heads/main/ranges/moho-nobilis_hypo.geojson",
       "passage": null,
       "breeding_spots": null,
       "find_spots": null,
@@ -16047,7 +16047,7 @@
       "lat": 19.51914,
       "lng": -155.57679
     },
-    "habitat": "Big Island (Hawaii)",
+    "habitat": "Hawaii (Hawaii)",
     "images": {
       "tooltip": "https://cdn.prod.website-files.com/6950eb029163bef776e18cfd/6986ff74c6d2fb52ff829858_Moho_angustipluma.jpg",
       "panel": "https://cdn.prod.website-files.com/6950eb029163bef776e18cfd/6986ff74c6d2fb52ff829858_Moho_angustipluma.jpg"
@@ -16076,7 +16076,7 @@
     "ranges": {
       "range_native": null,
       "breeding_native": null,
-      "range_hypothetical": null,
+      "range_hypothetical": "https://raw.githubusercontent.com/lehmannphilippe-dotcom/webflow-data/refs/heads/main/ranges/chaetoptila-%20angus_hypo.geojson",
       "passage": null,
       "breeding_spots": null,
       "find_spots": null,
