@@ -11560,10 +11560,10 @@
     },
     "last_seen": "1934",
     "location": {
-      "lat": 19.67004,
-      "lng": -155.53106
+      "lat": 19.784801,
+      "lng": -155.220642
     },
-    "habitat": "Big Island (Hawaii)",
+    "habitat": "Hawaii (Hawaii)",
     "images": {
       "tooltip": "",
       "panel": "https://cdn.prod.website-files.com/6950eb029163bef776e18cfd/6980ef16c07a7da8a16899fb_moho_nobilis2.jpg"
@@ -16044,8 +16044,8 @@
     },
     "last_seen": "1860",
     "location": {
-      "lat": 19.51914,
-      "lng": -155.57679
+      "lat": 19.414679,
+      "lng": -155.198815
     },
     "habitat": "Hawaii (Hawaii)",
     "images": {
