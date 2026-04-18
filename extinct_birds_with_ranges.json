@@ -17,11 +17,15 @@
       "panel": "https://cdn.prod.website-files.com/69cfebf5eff673dfd4242f2e/69e27c4cc7350a1c7a8e1b2b_Fink_default.jpg"
     },
     "panel": {
-      "description": "",
-      "habitat_text": "",
-      "extinction_text": ""
+      "description": "<p>Von dieser bislang unbeschriebenen Form sind bis heute nur sehr fragmentarische Überreste bekannt. Obwohl Fragmente verschiedener Individuen aus Ablagerungen vorliegen und sich diese anatomisch durch einen kürzeren Schnabel sowie kürzere Hinterbeinknochen von den anderen Arten unterscheiden, reichen die taxonomischen Befunde nicht aus, um die Form als eigenständige Art zu beschreiben.</p><p>Falls es sich dabei tatsächlich um eine eigenständige Art gehandelt hat, dürfte sie sich ähnlich wie ihre nächsten Verwandten der Gattung Ciridops auf das Sammeln von Insekten und Wirbellosen im Kronendach von Pritchardia-Palmen spezialisiert haben und sich durch die lange Isolation Oahus zu einer dort endemischen Art entwickelt haben.</p>",
+     "habitat_text": "<p>Die vereinzelten Funde stammen alle aus Dolinenablagerungen im südwestlichen Tiefland rund um Barber’s Point. Da sich dieses Gebiet besonders gut zur Fossilisation eignet, lassen sich kaum verlässliche Rückschlüsse auf das tatsächliche Verbreitungsgebiet der Form ziehen.</p>",
+     "extinction_text": "<p>Das Verschwinden der Ciridops-Form von Oahu steht wahrscheinlich im Zusammenhang mit der Ankunft der ersten polynesischen Siedler. Der Verlust geeigneter Lebensräume sowie die Einschleppung fremder Tierarten, insbesondere von Ratten und anderen zuvor auf Hawaii nicht vorkommenden Prädatoren, dürften entscheidend zum Rückgang der Tieflandvegetation beigetragen haben, was für Arten, die hochspezialisierte ökologische Nischen besetzten, besonders schwerwiegende Folgen hatte.</p><p>Möglicherweise setzte der Niedergang der Art jedoch bereits früher ein, ausgelöst durch natürliche ökologische und klimatische Veränderungen, die mit der Ankunft des Menschen nur zusätzlich beschleunigt wurden.</p>"
     },
     "references": [
+        {
+        "label": "Helen F. James, Thomas W. Stafford, David W. Steadman, Storrs L. Olson, Paul S. Martin, A. J. T. Jull, and Patrick C. McCoy: Radiocarbon Dates on Bones of Extinct Birds from Hawaii.",
+        "url": "https://www.researchgate.net/publication/242013278_Descriptions_of_Thirty-Two_New_Species_of_Birds_from_the_Hawaiian_Islands_Part_II_Passeriformes"
+      },
       {
         "label": "Olson, Storrs L. (2012). History, Structure, Evolution, Behavior, Distribution, and Ecology of the Extinct Hawaiian Genus Ciridops (Fringillidae, Carduelini, Drepanidini). The Wilson Journal of Ornithology, 124(4), 651–674.",
         "url": "https://bioone.org/journals/the-wilson-journal-of-ornithology/volume-124/issue-4/1559-4491-124.4.651/History-Structure-Evolution-Behavior-Distribution-and-Ecology-of-the-Extinct/10.1676/1559-4491-124.4.651.full?tab=ArticleLink"
