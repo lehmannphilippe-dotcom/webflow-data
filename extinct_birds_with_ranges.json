@@ -1519,25 +1519,33 @@
       "lat": 21.998349,
       "lng": -159.615332
     },
-    "habitat": "Kauai",
+    "habitat": "Kauai (Hawaii)",
     "images": {
       "tooltip": "",
       "panel": "https://cdn.prod.website-files.com/6950eb029163bef776e18cfd/69998848006fb560ddadd5b5_ciridops_tenax.jpg"
     },
     "panel": {
-      "description": "<p>Der Dickbeinkleidervogel ist ausschliesslich durch subfossile Überreste bekannt. Über sein tatsächliches Aussehen sowie sein Verhalten liegen keine direkten Beobachtungen vor. Aufgrund seiner engen Verwandtschaft mit dem Annakleidervogel von der Hauptinsel Hawaiʻi gehen Fachleute jedoch davon aus, dass beide Arten ein ähnliches äusseres Erscheinungsbild besassen.</p><p>Vermutlich nutzte der Dickbeinkleidervogel seine kräftig ausgebildeten Hinterbeine, um im dichten Laubwerk an der Basis der Blätter endemischer Palmen der Gattung Pritchardia nach Nahrung zu suchen. Dabei dürfte er Ablagerungen aufgewühlt haben, um kleine Wirbellose freizulegen, sowie harte Früchte aufzubrechen, von denen er sich ernährte.</p>",
-      "habitat_text": "<p>Der Hawaii-Dickbeinfink war endemisch auf der Insel Kauaʻi im Hawaii-Archipel. Sein Lebensraum bestand aus palmenreichen Wäldern, die von Arten der Gattung Pritchardia dominiert wurden. Mit diesen Palmen war die Art vermutlich eng ökologisch verbunden.</p>",
-      "extinction_text": "<p>Das Aussterben des Dickbeinkleidervogels steht höchstwahrscheinlich im Zusammenhang mit der Ankunft der ersten polynesischen Siedler im Hawaii-Archipel. Der Verlust geeigneter Lebensräume sowie die Einschleppung fremder Tierarten, insbesondere Ratten und andere zuvor unbekannte Prädatoren, dürften entscheidend zum Rückgang der Population beigetragen haben.</p><p>Möglicherweise setzte der Niedergang der Art jedoch bereits früher ein, ausgelöst durch Klimaveränderungen während des Übergangs vom Pleistozän zum Holozän. Beide Faktoren führten zum Verschwinden zahlreicher Drepanidinenarten auf den hawaiischen Inseln.</p>"
+      "description": "<p>Der Dickbeinkleidervogel (Ciridops tenax) ist ausschliesslich durch subfossile Überreste bekannt. Über sein Aussehen, sein Verhalten und seine Ernährung liegen daher keine direkten Nachweise vor. Aufgrund nur geringfügiger anatomischer Abweichungen wird jedoch angenommen, dass sich die Art nur wenig von ihrem historisch belegten Verwandten, dem Annakleidervogel (Ciridops anna), unterschied.</p><p>Wahrscheinlich nutzte der Dickbeinkleidervogel seine kräftig ausgebildeten Hinterbeine ähnlich wie der Annakleidervogel, um im dichten Laubwerk des Kronendachs von Pritchardia-Palmen nach Nahrung zu suchen. Dabei dürfte er Ablagerungen zwischen den Blattansätzen aufgewühlt haben, um Insekten und andere kleine Wirbellose freizulegen. Ebenso ist anzunehmen, dass er harte Pflanzenreste und Früchte aufbrach und zerkleinerte, von denen er sich zumindest teilweise ernährte.</p>",
+     "habitat_text": "<p>Die Art war auf der Insel Kauai endemisch und möglicherweise in tieferen, Pritchardia-reichen Lagen einst weit verbreitet. Diese Palmen kamen in trockenen bis sehr feuchten Wäldern vor, jedoch nicht oberhalb von etwa 1400 Metern, und prägten früher weite Teile der hawaiischen Tieflandvegetation.</p><p>Aufgrund der wenigen fossilen Funde lässt sich das ursprüngliche Verbreitungsgebiet des Dickbeinkleidervogels auf Kauai heute jedoch nicht mehr genauer rekonstruieren.</p>",
+     "extinction_text": "<p>Das Aussterben des Dickbeinkleidervogels steht höchstwahrscheinlich im Zusammenhang mit der Ankunft der ersten polynesischen Siedler. Der Verlust geeigneter Lebensräume sowie die Einschleppung fremder Tierarten, insbesondere von Ratten und anderen zuvor auf Hawaii nicht vorkommenden Prädatoren, dürften entscheidend zum Rückgang der Tieflandvegetation beigetragen haben, was für Arten, die hochspezialisierte ökologische Nischen besetzten, besonders schwerwiegende Folgen hatte.</p><p>Möglicherweise setzte der Niedergang der Art jedoch bereits früher ein, ausgelöst durch natürliche ökologische und klimatische Veränderungen, die mit der Ankunft des Menschen nur zusätzlich beschleunigt wurden.</p>"
     },
     "references": [
       {
-        "label": "Test BirdLife Schweiz",
-        "url": "https://www.birdlife.ch/"
+        "label": "Helen F. James, Thomas W. Stafford, David W. Steadman, Storrs L. Olson, Paul S. Martin, A. J. T. Jull, and Patrick C. McCoy: Radiocarbon Dates on Bones of Extinct Birds from Hawaii.",
+        "url": "https://www.researchgate.net/publication/242013278_Descriptions_of_Thirty-Two_New_Species_of_Birds_from_the_Hawaiian_Islands_Part_II_Passeriformes"
       },
       {
-        "label": "Test BirdLife Schweiz",
-        "url": "https://www.birdlife.ch/"
-      }
+        "label": "Olson, Storrs L. (2012). History, Structure, Evolution, Behavior, Distribution, and Ecology of the Extinct Hawaiian Genus Ciridops (Fringillidae, Carduelini, Drepanidini). The Wilson Journal of Ornithology, 124(4), 651–674.",
+        "url": "https://bioone.org/journals/the-wilson-journal-of-ornithology/volume-124/issue-4/1559-4491-124.4.651/History-Structure-Evolution-Behavior-Distribution-and-Ecology-of-the-Extinct/10.1676/1559-4491-124.4.651.full?tab=ArticleLink"
+      },
+      {
+        "label": "Wikipedia. ʻStout-legged finch. English Wikipedia.",
+        "url": "https://en.wikipedia.org/wiki/Stout-legged_finch"
+      },
+      {
+        "label": "Wikipedia. Ciridops tenax. Italienische Wikipedia.",
+        "url": "https://it.wikipedia.org/wiki/Ciridops_tenax"
+    }
     ],
     "taxonomy": {
       "family": "Kleidervögel (Drepanidini)",
