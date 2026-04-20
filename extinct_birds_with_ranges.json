@@ -1,4 +1,52 @@
 [
+    {
+    "id": "orthiospiza_howarthi",
+    "name": {
+      "de": "Maui-Hochlandfink",
+      "lat": "Orthiospiza howarthi",
+      "en": "Maui Highland finch"
+    },
+    "last_seen": "1500",
+    "location": {
+      "lat": 20.741195,
+      "lng": -156.132836
+    },
+    "habitat": "Maui (Hawaii)",
+    "images": {
+      "tooltip": "",
+      "panel": ""
+    },
+    "panel": {
+      "description": "",
+      "habitat_text": "",
+      "extinction_text": ""
+    },
+    "references": [
+      {
+        "label": "Test BirdLife Schweiz",
+        "url": "https://www.birdlife.ch/"
+      },
+      {
+        "label": "Test BirdLife Schweiz",
+        "url": "https://www.birdlife.ch/"
+      }
+    ],
+    "taxonomy": {
+      "family": "Kleidervögel (Drepanidini)",
+      "genus": "Orthiospiza",
+      "family_key": "drepanidini",
+      "genus_key": "orthiospiza"
+    },
+    "ranges": {
+      "range_native": null,
+      "breeding_native": null,
+      "range_hypothetical": null,
+      "passage": null,
+      "breeding_spots": null,
+      "find_spots": null,
+      "last_observation": null
+    }
+  },
    {
     "id": "ciridops_sp.",
     "name": {
