@@ -1818,7 +1818,7 @@
   {
     "id": "chloridops_wahi",
     "name": {
-      "de": "Wahi-Papageienschnäbler",
+      "de": "Wahi-Dickschnabel",
       "lat": "Chloridops wahi",
       "en": "wahi Grosbeak"
     },
@@ -1866,7 +1866,7 @@
   {
     "id": "chloridops_regiskongi",
     "name": {
-      "de": "Königs-Papageienschnäbler",
+      "de": "Königs-Dickschnabel",
       "lat": "Chloridops regiskongi",
       "en": "King Kong Grosbeak"
     },
@@ -7634,7 +7634,7 @@
   {
     "id": "chloridops_kona",
     "name": {
-      "de": "Konakleidervogel",
+      "de": "Kona-Dickschnabel",
       "lat": "Chloridops kona",
       "en": "Kona Grosbeak"
     },
