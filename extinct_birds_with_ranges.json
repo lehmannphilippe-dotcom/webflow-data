@@ -1,4 +1,52 @@
 [
+        {
+    "id": "chloridops_sp.",
+    "name": {
+      "de": "Maui-Dickschnabel",
+      "lat": "Chloridops.sp",
+      "en": "Maui Grosbeak"
+    },
+    "last_seen": "1500",
+    "location": {
+      "lat": 20.827035,
+      "lng": -156.477802
+    },
+    "habitat": "Maui (Hawaii)",
+    "images": {
+      "tooltip": "",
+      "panel": "https://cdn.prod.website-files.com/69cfebf5eff673dfd4242f2e/6a05c8da6a440a8843b753c6_kernbeisser_sp.jpg"
+    },
+    "panel": {
+      "description": "",
+      "habitat_text": "",
+      "extinction_text": ""
+    },
+    "references": [
+      {
+        "label": "Test BirdLife Schweiz",
+        "url": "https://www.birdlife.ch/"
+      },
+      {
+        "label": "Test BirdLife Schweiz",
+        "url": "https://www.birdlife.ch/"
+      }
+    ],
+    "taxonomy": {
+      "family": "Kleidervögel (Drepanidini)",
+      "genus": "Chloridops",
+      "family_key": "drepanidini",
+      "genus_key": "chloridops"
+    },
+    "ranges": {
+      "range_native": null,
+      "breeding_native": null,
+      "range_hypothetical": null,
+      "passage": null,
+      "breeding_spots": null,
+      "find_spots": null,
+      "last_observation": null
+    }
+  },
     {
     "id": "orthiospiza_howarthi",
     "name": {
