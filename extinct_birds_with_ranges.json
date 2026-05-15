@@ -17,18 +17,14 @@
       "panel": "https://cdn.prod.website-files.com/69cfebf5eff673dfd4242f2e/6a05c8da6a440a8843b753c6_kernbeisser_sp.jpg"
     },
     "panel": {
-      "description": "",
-      "habitat_text": "",
-      "extinction_text": ""
+      "description": "<p>Die bislang unbeschriebene Form ist bisher ausschliesslich durch einen nahezu vollständig erhaltenen Unterkiefer aus der Puu-Naio-Höhle auf Maui bekannt und wurde wissenschaftlich weder formal beschrieben noch benannt.</p><p>Morphologisch weist die Maui-Form deutliche Ähnlichkeiten mit dem Wahi-Dickschnabel (Chloridops wahi) auf, einer ebenfalls ausgestorbenen Art, die von Kauai, Oahu und Maui bekannt ist. Der bisher bekannte Unterkiefer unterscheidet sich jedoch in mehreren Merkmalen, insbesondere durch seine rund 18 % geringere Grösse. Zudem liegen die Bereiche der Unterkiefer-Symphyse weiter auseinander, was auf eigenständige anatomische Anpassungen hindeutet.</p><p>Aufgrund des sehr begrenzten Fossilmaterials konnten bislang jedoch keine ausreichenden diagnostischen Merkmale definiert werden. Daher lässt sich derzeit nicht eindeutig beurteilen, ob dieser Unterkiefer lediglich eine extreme innerartliche Variation des Wahi-Dickschnabels darstellt oder ob es sich tatsächlich um eine eigenständige Art handelt.</p>",
+      "habitat_text": "<p>Da bislang lediglich ein einzelner Unterkiefer bekannt ist, lassen sich keine belastbaren Rückschlüsse auf das tatsächliche Verbreitungsgebiet dieser Form ziehen.</p><p>Aufgrund der ausgeprägten morphologischen Ähnlichkeiten mit dem Wahi-Dickschnabel (Chloridops wahi) ist jedoch anzunehmen, dass die Maui-Form vergleichbare Lebensräume wie andere Vertreter der Gattung Chloridops besiedelte und vorwiegend trockene bis mesische Tieflandwälder mit einem hohen Angebot an samenreichen Bäumen und Sträuchern bewohnte. Die deutlich geringere Körper- beziehungsweise Schnabelgrösse könnte zudem auf eine Spezialisierung auf bestimmte Pflanzenarten oder kleinere Samen hindeuten, was möglicherweise mit einer stärker eingeschränkten ökologischen Nische und einem entsprechend begrenzten Verbreitungsgebiet verbunden war.</p>",
+      "extinction_text": "<p>Falls es sich bei dieser Form tatsächlich um eine eigenständige Art gehandelt hat, steht ihr Aussterben höchstwahrscheinlich im Zusammenhang mit der Ankunft der ersten polynesischen Siedler auf Hawaii. Der Verlust geeigneter Lebensräume sowie die Einschleppung fremder Tierarten – insbesondere von Ratten und anderen zuvor auf Hawaii nicht vorkommenden Prädatoren – dürften entscheidend zum Rückgang der ursprünglichen Tieflandvegetation beigetragen haben. Für Arten, die hochspezialisierte ökologische Nischen besetzten, hatte dies vermutlich besonders schwerwiegende Folgen.</p>"
     },
     "references": [
       {
-        "label": "Test BirdLife Schweiz",
-        "url": "https://www.birdlife.ch/"
-      },
-      {
-        "label": "Test BirdLife Schweiz",
-        "url": "https://www.birdlife.ch/"
+        "label": "Helen F. James, Thomas W. Stafford, David W. Steadman, Storrs L. Olson, Paul S. Martin, A. J. T. Jull, and Patrick C. McCoy: Radiocarbon Dates on Bones of Extinct Birds from Hawaii.",
+        "url": "https://www.researchgate.net/publication/242013278_Descriptions_of_Thirty-Two_New_Species_of_Birds_from_the_Hawaiian_Islands_Part_II_Passeriformes"
       }
     ],
     "taxonomy": {
