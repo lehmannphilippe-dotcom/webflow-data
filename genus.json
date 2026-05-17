@@ -610,16 +610,20 @@
     },
     "extinction_date": "1896",
     "panel": {
-      "description": ""
+      "description": "<p>Rhodacanthis war eine ausgestorbene Gattung grosser, überwiegend samenfressender hawaiischer Kleidervögel (Drepanidinae), die innerhalb der kernfressenden Linien eng mit anderen spezialisierten «Kernknacker»-Formen wie Chloridops, Telespiza und Loxioides verwandt war. Historisch ist die Gattung nur durch zwei Arten von der Insel Hawaii bekannt. Subfossile Funde zeigen jedoch, dass Rhodacanthis ursprünglich deutlich weiter verbreitet war und auch auf Kauai, Oahu und Maui vorkam.</p><p>Die Gattung war offenbar eng an mesische Koa-Wälder mittlerer Höhenlagen gebunden. Im Zusammenhang mit dieser ökologischen Spezialisierung entwickelten die Arten charakteristische, scharf ausgebildete Schneidekanten an Ober- und Unterkiefer. Diese Anpassungen dürften vor allem dem Aufschneiden der grünen Hülsen der Koa-Akazie (Acacia koa) gedient haben, um anschliessend die darin enthaltenen Samen zu nutzen. Die grossen, vergleichsweise dünnwandigen Mägen unterschieden sich deutlich von jenen nah verwandter Kernknacker-Gattungen und waren vermutlich auf die Verarbeitung grösserer Mengen pflanzlicher Nahrung spezialisiert.</p><p>Fossilnachweise der Gattung liegen bislang erst seit dem Pleistozän vor, wodurch die ursprüngliche Entstehungsinsel von Rhodacanthis unklar bleibt. Der Nachweis mehrerer gleichzeitig vorkommender Arten auf einzelnen Inseln, die offenbar weitgehend dieselben Nahrungsressourcen nutzten, deutet jedoch darauf hin, dass die Gattung aussergewöhnlich erfolgreich in der Besiedlung neuer Inseln war. Vermutlich kam es im Verlauf ihrer Entwicklung mehrfach zu Ausbreitungsereignissen innerhalb des Hawaii-Archipels, gefolgt von wiederholter inselspezifischer Differenzierung.</p><p>Da alle Arten der Gattung hochspezialisierte ökologische Nischen besetzten, reagierten sie vermutlich besonders empfindlich auf Lebensraumveränderungen, die Einführung invasiver Tierarten sowie den Verlust ihrer spezialisierten Nahrungsgrundlagen nach der Ankunft des Menschen auf Hawaii.</p>"
     },
     "references": [
       {
-        "label": "Test BirdLife Schweiz",
-        "url": "https://www.birdlife.ch/"
+        "label": "Helen F. James, Thomas W. Stafford, David W. Steadman, Storrs L. Olson, Paul S. Martin, A. J. T. Jull, and Patrick C. McCoy: Radiocarbon Dates on Bones of Extinct Birds from Hawaii.",
+        "url": "https://www.researchgate.net/publication/242013278_Descriptions_of_Thirty-Two_New_Species_of_Birds_from_the_Hawaiian_Islands_Part_II_Passeriformes"
       },
       {
-        "label": "Test BirdLife Schweiz",
-        "url": "https://www.birdlife.ch/"
+        "label": "James, H.F. & Olson, S.L. (2005): The diversity and biogeography of koa-finches (Drepanidini: Rhodacanthis), with descriptions of two new species. Zoological Journal of the Linnean Society 144(4): 527–541.",
+        "url": "https://www.researchgate.net/publication/227539770_The_diversity_and_biogeography_of_koa-finches_Drepanidini_Rhodacanthis_with_descriptions_of_two_new_species"
+      },
+      {
+        "label": "Olson, Storrs L.; James, Helen F. (1991): Descriptions of Thirty-Two New Species of Birds from the Hawaiian Islands. Part II: Passeriformes. Ornithological Monographs 46.",
+        "url": "https://repository.si.edu/server/api/core/bitstreams/f5de95e9-233e-4c40-bb79-8891db1db8fe/content"
       }
     ]
   },
