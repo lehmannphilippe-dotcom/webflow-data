@@ -487,15 +487,15 @@
       "lat": 21.176309,
       "lng": -157.157665
     },
-    "habitat": "Molokai",
+    "habitat": "Molokai, Maui (Hawaii)",
     "images": {
       "tooltip": "",
       "panel": "https://cdn.prod.website-files.com/69cfebf5eff673dfd4242f2e/6a1c449ace7c60654d5eee54_telespiza-ypsilon.jpg"
     },
     "panel": {
-      "description": "",
-      "habitat_text": "",
-      "extinction_text": ""
+          "description": "<p>Über den Maui-Nui-Finken (Telespiza ypsilon) ist nur wenig bekannt, da bislang lediglich begrenztes subfossiles Material gefunden wurde. Die Art gehörte zu den robust gebauten, samenfressenden Kleidervögeln und besass einen kurzen, tiefen sowie kräftigen Schnabel und Kiefer. Im Vergleich zu den heute noch lebenden Arten der Gattung Telespiza waren diese stärker spezialisiert und massiver ausgebildet. Wahrscheinlich dienten sie dem Aufbrechen harter Samen und Früchte bestimmter Pflanzenarten.</p><p>Da sich die beiden heute lebenden Arten der Gattung Telespiza äusserlich nur geringfügig unterscheiden, wird angenommen, dass auch der Maui-Nui-Fink ein ähnliches Gefieder besass. Vermutlich zeigte die Art wie ihre heutigen Verwandten lediglich einen schwach ausgeprägten Geschlechtsdimorphismus. Wie bei den heute lebenden Arten könnten ältere Weibchen mit zunehmendem Alter eine dem Männchen immer ähnlichere Gefiederfärbung entwickelt haben.</p>",
+          "habitat_text": "<p>Fossilien der Art sind bislang von den Inseln Maui und Molokai bekannt. Dort bewohnte der Maui-Nui-Fink vermutlich vor allem trockene bis saisonal trockene Tieflandgebiete, Buschlandschaften und offene Waldlebensräume. Wahrscheinlich entstand die Art auf Maui Nui, einer grossen prähistorischen Insel, die während der Eiszeiten durch den niedrigeren Meeresspiegel die heutigen Inseln Maui, Molokai, Lanai und Kahoolawe zu einer zusammenhängenden Landmasse vereinte.</p><p>Ob der Maui-Nui-Fink nach dem allmählichen Zerfall von Maui Nui infolge des Meeresspiegelanstiegs weiterhin auf allen neu entstandenen Inseln vorkam oder ob sein Verbreitungsgebiet bereits zuvor auf Maui und Molokai beschränkt war, lässt sich heute nicht mehr eindeutig bestimmen. Aufgrund der bislang bekannten Fossilfunde kann jedoch nicht ausgeschlossen werden, dass die Art einst auf weiten Teilen des ehemaligen Maui-Nui-Komplexes verbreitet war.</p>",
+          "extinction_text": "<p>Das Aussterben des Maui-Nui-Finken steht höchstwahrscheinlich im Zusammenhang mit der Ankunft der ersten polynesischen Siedler auf Hawaii. Die Umwandlung und Zerstörung wichtiger Lebensräume sowie die Einschleppung fremder Tierarten wie Ratten und anderer zuvor auf Hawaii nicht vorkommender Prädatoren dürften den Rückgang der ursprünglichen Tieflandvegetation und der dort lebenden Vogelwelt erheblich beschleunigt haben. Für Arten, die spezialisierte ökologische Nischen bewohnten, hatte diese Entwicklung vermutlich schwerwiegende Folgen.</p><p>Es ist jedoch auch möglich, dass die Art bereits kurz vor der Ankunft des Menschen infolge natürlicher klimatischer oder ökologischer Veränderungen verschwand. Der Zerfall des einst zusammenhängenden Maui-Nui-Inselkomplexes infolge des Meeresspiegelanstiegs führte zur Überflutung grosser Tieflandflächen und zur Fragmentierung wichtiger Lebensräume. Möglicherweise konnte sich der Maui-Nui-Fink langfristig nicht an diese Veränderungen anpassen und starb bereits vor dem direkten Einfluss des Menschen aus.</p>"
     },
     "references": [
       {
