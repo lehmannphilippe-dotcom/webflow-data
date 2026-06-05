@@ -5896,7 +5896,7 @@
     "name": {
       "de": "Gelbkopf-Kleidervogel",
       "lat": "Psittirostra psittacea",
-      "en": "Ou"
+      "en": "ʻŌʻū"
     },
     "last_seen": "2000",
     "location": {
@@ -5915,12 +5915,20 @@
     },
     "references": [
       {
-        "label": "Test BirdLife Schweiz",
-        "url": "https://www.birdlife.ch/"
+        "label": "Banko, W. E. & Banko, P. C. 2009. Historic decline and extinction. In: Pratt, T. K., Atkinson, C. T., Banko, P. C., Jacobi, J. D. & Woodworth, B. L. (eds.), Conservation Biology of Hawaiian Forest Birds: Implications for Island Avifauna, pp. 27–58. Yale University Press, New Haven and London.",
+        "url": "https://ecosphere-documents-production-public.s3.amazonaws.com/sams/public_docs/species_nonpublish/3746.pdf?utm_source=chatgpt.com"
       },
       {
-        "label": "Test BirdLife Schweiz",
-        "url": "https://www.birdlife.ch/"
+        "label": "Banko, W. E. 1986. History of Endemic Hawaiian Birds. Part I. Population Histories—Species Accounts. Forest Birds: Maui Parrotbill, ‘O‘u, Palila, Greater Koa Finch, Lesser Koa Finch, and Grosbeak Finch. CPSU/UH Avian History Report 10: 1–140.",
+        "url": "https://scholarspace.manoa.hawaii.edu/items/363eead1-1ef7-439c-9dd1-13de3ccea994?utm_source=chatgpt.com"
+      },
+      {
+        "label": "Scott, J. M., Mountainspring, S., Ramsey, F. L. & Kepler, C. B. 1986. Forest Bird Communities of the Hawaiian Islands: Their Dynamics, Ecology, and Conservation. Studies in Avian Biology 9. Cooper Ornithological Society, Lawrence, Kansas.",
+        "url": "https://dlnr.hawaii.gov/wildlife/birds/ou-2/?utm_source=chatgpt.com"
+       },
+      {
+        "label": "Cornell Lab of Ornithology. ʻŌʻū Psittirostra psittacea. Birds of the World.",
+        "url": "https://birdsoftheworld.org/bow/historic/bna/ou/2.0/introduction"
       }
     ],
     "taxonomy": {
