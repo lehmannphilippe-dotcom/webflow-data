@@ -356,18 +356,26 @@
       "lat": "Dysmorodrepanis",
       "en": "Dysmorodrepanis"
     },
-    "extinction_date": "",
+    "extinction_date": "1918",
     "panel": {
-      "description": ""
-    },
+      "description": "<p>Dysmorodrepanis war eine monotypische Gattung hawaiischer Kleidervögel und ist ausschliesslich durch den Lanai-Hakenschnabel (Dysmorodrepanis munroi) bekannt. Da bis heute keine fossilen Funde bekannt sind und nur ein einziges gesichertes Museumsexemplar vorliegt, lässt sich die genaue Stellung der Gattung innerhalb der hawaiischen Kleidervögel nur eingeschränkt beurteilen.</p><p>Morphologisch stand Dysmorodrepanis wahrscheinlich dem Gelbkopf-Kleidervogel (Psittirostra psittacea) besonders nahe. In der Fachliteratur wird die Gattung vor allem wegen Ähnlichkeiten in der Form des Oberkiefers als mögliches Schwestertaxon von Psittirostra geführt. Gleichzeitig unterschied sich Dysmorodrepanis deutlich durch den stark spezialisierten Schnabel, den veränderten Kieferapparat, die kürzeren Proportionen einzelner Skelettelemente sowie durch Merkmale des Gefieders. Ob sie aus einer Linie kräftigschnäbliger, eher samen- oder fruchtfressender Kleidervögel hervorging oder eine stärker eigenständige Entwicklungslinie innerhalb der hawaiischen Kleidervögel darstellte, bleibt wegen der geringen Datenlage unsicher.</p><p>Die enge Beziehung zu Psittirostra wird auch durch genetische Hinweise gestützt. Neuere Untersuchungen alter DNA zeigen, dass es vermutlich eine genetische Vermischung zwischen der Lanai-Population des Gelbkopf-Kleidervogels und dem Lanai-Hakenschnabel gab. Eine solche Vermischung könnte entstanden sein, als beide Formen bereits sehr selten waren. Wenn nur noch wenige Vögel derselben Art vorhanden sind, können sich nah verwandte Arten gelegentlich miteinander paaren und hybridisieren.</p><p>Sicher belegt ist Dysmorodrepanis nur von Lanai. Es gibt jedoch keinen zwingenden Grund anzunehmen, dass die natürliche Verbreitung der Gattung immer auf diese Insel beschränkt war. Während tieferer Meeresspiegelstände waren Lanai, Maui, Molokai und Kahoolawe Teil des grösseren Inselkomplexes Maui Nui oder lagen deutlich näher beieinander. Viele hawaiische Vogelarten hatten früher grössere Verbreitungsgebiete, als ihre letzten historischen Nachweise vermuten lassen. Deshalb ist es möglich, dass Dysmorodrepanis einst auch auf benachbarten Inseln vorkam. Da bisher aber keine subfossilen Reste gefunden wurden, bleibt diese Annahme unbewiesen.</p>"
+   },
     "references": [
       {
-        "label": "Test BirdLife Schweiz",
-        "url": "https://www.birdlife.ch/"
+        "label": "Pyle, R.L., and P. Pyle. 2017. The Birds of the Hawaiian Islands: Occurrence, History, Distribution, and Status. B.P. Bishop Museum, Honolulu, HI, U.S.A. Version 2 (1 January 2017) ",
+        "url": "https://hbs.bishopmuseum.org/birds/rlp-monograph/pdfs/08-DREP/LAHO.pdf"
+       },
+      {
+        "label": "James, H. F., Zusi, R. L., & Olson, S. L. (1989). Dysmorodrepanis munroi (Fringillidae: Drepanidini), a valid genus and species of Hawaiian finch. Wilson Bulletin, 101(2), 159–179.",
+        "url": "https://digitalcommons.usf.edu/cgi/viewcontent.cgi?article=9391&context=wilson_bulletin"
       },
       {
-        "label": "Test BirdLife Schweiz",
-        "url": "https://www.birdlife.ch/"
+        "label": "Cornell Lab of Ornithology. Lanai Hookbill Dysmorodrepanis munroi. Birds of the World.",
+        "url": "https://birdsoftheworld.org/bow/historic/bna/lanhoo/2.0/introduction"
+      },
+      {
+        "label": "Pratt, H. D. (2005). The Hawaiian Honeycreepers: Drepanidinae. Oxford University Press, Oxford.",
+        "url": "https://dlnr.hawaii.gov/wildlife/birds/lanai-hookbill/"
       }
     ]
   },
