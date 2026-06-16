@@ -6667,17 +6667,65 @@
       "last_observation": null
     }
   },
-  {
-    "id": "porzana_sandwichensis",
+          {
+    "id": "porzana_millsi",
     "name": {
-      "de": "Hawaiiralle",
-      "lat": "Porzana sandwichensis",
-      "en": "Hawaiian Rail"
+      "de": "Dunkle Hawaiiralle",
+      "lat": "Porzana millsi",
+      "en": "Dark hawaiian Rail"
     },
     "last_seen": "1884",
     "location": {
       "lat": 19.481548,
       "lng": -154.945551
+    },
+    "habitat": "Hawaii (Hawaii)",
+    "images": {
+      "tooltip": "https://cdn.prod.website-files.com/6a2856622c4f26c0e72a657b/6a31c692b9e246f96b08cd97_Porzana-millsi_profile.jpg",
+      "panel": "https://cdn.prod.website-files.com/6a2856622c4f26c0e72a657b/6a31c49fdecb66ba117961ab_Porzana_millsi.jpg"
+    },
+    "panel": {
+      "description": "<p>Die Hawaiiralle war eine kleine Rallenart mit einer Gesamtlänge von etwa 13–15 cm. Sie war flugunfähig, wie es für viele Inselrallen typisch ist.</p><p>Von der Hawaiiralle existierten eine helle und eine dunkle Form. Ob es sich dabei um Unterarten oder sogar um eigenständige Arten gehandelt hat, ist bis heute unklar. Nach aktuellem taxonomischem Verständnis gelten die Formen nicht als getrennte Arten, sondern werden mehrheitlich als intraspezifische Variation interpretiert.</p><p>Über Nahrung und Verhalten ist nur wenig bekannt. Wie bei den meisten Rallenarten handelte es sich wahrscheinlich um einen generalistischen, opportunistischen Allesfresser. Auf Grundlage von Schädel- und Schnabelmerkmalen sowie des Fundkontextes wird angenommen, dass die Hawaiiralle am Waldboden oder in offenen Graslandschaften lebte und sich dabei mehrheitlich von Landschnecken (Gastropoda) ernährte.</p>",
+      "habitat_text": "<p>Die Hawaiiralle war endemisch auf der Insel Hawaii. Sie bewohnte offene Graslandschaften, niedriges Buschland sowie Lichtungen in unterschiedlichen Waldgebieten. Sie war vor allem in den trockeneren Regionen der Insel verbreitet und konnte dort in nahezu allen verfügbaren Habitaten angetroffen werden.</p><p>Ihre subfossilen Überreste wurden in einem Gebiet nachgewiesen, das sich von der Kiholo-Bucht im Norden bis zur Manuka-Bucht im Süden erstreckt und Höhenlagen von bis zu 500 m oberhalb von Makalawena erreichte.</p>",
+      "extinction_text": "<p>Die Ralle war bereits bei der Ankunft der Europäer in den 1780er-Jahren selten und wurde 1884 zuletzt lebend beobachtet. Der genaue Grund für das Aussterben ist unbekannt.</p><p>Die Mangusten, die zeitweise für das Aussterben verantwortlich gemacht wurden, wurden erst 1883 auf Hawaii eingeführt, als die Art bereits nahezu ausgestorben war, und gelten daher als unwahrscheinliche Ursache. Als wahrscheinlichere Gründe für das Aussterben gelten der Verlust des Lebensraums sowie eingeschleppte Ratten, verwilderte Katzen und Hunde.</p><p>Heute existieren nur noch wenige präparierte Museumsexemplare, unter anderem in New York, Leiden, Cambridge, Honolulu und Wien.</p>"
+    },
+    "references": [
+      {
+        "label": "Test BirdLife Schweiz",
+        "url": "https://www.birdlife.ch/"
+      },
+      {
+        "label": "Test BirdLife Schweiz",
+        "url": "https://www.birdlife.ch/"
+      }
+    ],
+    "taxonomy": {
+      "family": "Rallen (Rallidae)",
+      "genus": "Porzana",
+      "family_key": "rallidae",
+      "genus_key": "porzana"
+    },
+    "ranges": {
+      "range_native": "https://raw.githubusercontent.com/lehmannphilippe-dotcom/webflow-data/refs/heads/main/ranges/porzana-sandwichensis.geojson",
+      "breeding_native": null,
+      "range_hypothetical": null,
+      "passage": null,
+      "breeding_spots": null,
+      "find_spots": null,
+      "last_observation": null
+    }
+  },
+  {
+    "id": "porzana_sandwichensis",
+    "name": {
+      "de": "Helle Hawaiiralle",
+      "lat": "Porzana sandwichensis",
+      "en": "Light hawaiian Rail"
+    },
+    "last_seen": "1884",
+    "location": {
+      "lat": 19.559187,
+      "lng": -155.891431
     },
     "habitat": "Hawaii (Hawaii)",
     "images": {
