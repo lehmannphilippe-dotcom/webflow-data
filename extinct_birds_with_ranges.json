@@ -1375,10 +1375,10 @@
       "lat": 20.637279,
       "lng": -156.35039
     },
-    "habitat": "Maui",
+    "habitat": "Maui (Hawaii)",
     "images": {
-      "tooltip": "https://cdn.prod.website-files.com/6a2856622c4f26c0e72a657b/6a2afe647b2195c22b301d34_Porzana-severnsi_profile.jpg",
-      "panel": "https://cdn.prod.website-files.com/6a2856622c4f26c0e72a657b/6a2af9793f6296601608265a_porzana-severnsi.jpg"
+      "tooltip": "https://cdn.prod.website-files.com/6a2856622c4f26c0e72a657b/6a37cbfd5ad0303f4a217b33_porzana-severnsi_profile.jpg",
+      "panel": "https://cdn.prod.website-files.com/6a2856622c4f26c0e72a657b/6a37cd14c7ceaf29c1752d3f_porzana-severnsi.jpg"
     },
     "panel": {
       "description": "<p>Über die Grosse Maui-Ralle ist nur wenig bekannt. Die Art wurde 1991 von Storrs L. Olson (1944–2021) und Helen F. James (*1956) anhand subfossiler Knochen beschrieben, die auf der Insel Maui gefunden wurden.</p><p>Die bekannten Fossilien zeigen, dass es sich um eine mittelgrosse Ralle mit relativ kräftigen Beinen und stark reduzierten Flügeln handelte. Diese Merkmale deuten darauf hin, dass die Art flugunfähig war und überwiegend am Boden lebte. Wie andere hawaiische Rallen war die Grosse Maui-Ralle wahrscheinlich an eine bodenbewohnende Lebensweise in dichter Vegetation angepasst und ernährte sich vermutlich von Wirbellosen sowie von verschiedenen Pflanzenarten.</p>",
@@ -1414,7 +1414,7 @@
   {
     "id": "zapornia_keplerorum",
     "name": {
-      "de": "kepler-Ralle",
+      "de": "Kepler-Ralle",
       "lat": "Zapornia keplerorum",
       "en": "kepler-rail"
     },
@@ -1471,10 +1471,10 @@
       "lat": 21.342573,
       "lng": -158.006605
     },
-    "habitat": "Oahu",
+    "habitat": "Oahu (Hawaii)",
     "images": {
-      "tooltip": "https://cdn.prod.website-files.com/6a2856622c4f26c0e72a657b/6a2afe62489cf64864c276d7_Porzana-ralphorum_profile.jpg",
-      "panel": "https://cdn.prod.website-files.com/6a2856622c4f26c0e72a657b/6a2afb38e50dd951716a5b74_Porzana_ralphorum.jpg"
+      "tooltip": "https://cdn.prod.website-files.com/6a2856622c4f26c0e72a657b/6a37cc024cd0bca6dfba10ff_porzana-ralphorum_profile.jpg",
+      "panel": "https://cdn.prod.website-files.com/6a2856622c4f26c0e72a657b/6a37cd0f276585f22e9f0177_Porzana-ralphorum.jpgg"
     },
     "panel": {
       "description": "<p>Über die grosse Oahu-Ralle ist kaum etwas bekannt. Die Art wurde 1991 von Storrs L. Olson (1944–2021) und Helen F. James (*1956) nur anhand von begrenztem subfossilem Material beschrieben.</p><p>Im Vergleich zu anderen hawaiischen Rallen unterschieden sich die grossen Arten morphologisch deutlich von den anderen Arten der Insel. Diese Unterschiede deuten darauf hin, dass es wohl mehrere unabhängige Kolonisationen des Archipels durch Rallen gegeben hat und dass es zwischen einzelnen Arten bedeutende Unterschiede gab.</p><p>Die grosse Oahu-Ralle war eine grosse, beinahe hühnergrosse Ralle mit stark reduzierten Flügeln, was auf eine flugunfähige, bodenlebende Lebensweise hindeutet. Wie andere Inselrallen bewegte sie sich wahrscheinlich überwiegend laufend durch dichte Bodenvegetation.</p>",
