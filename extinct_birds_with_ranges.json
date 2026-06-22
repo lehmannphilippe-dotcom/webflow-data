@@ -1028,26 +1028,26 @@
     }
   },
   {
-    "id": "porzana_sp.",
+    "id": "zapornia_sp.",
     "name": {
       "de": "Kauai-Ralle",
-      "lat": "Porzana sp.",
-      "en": "Kaui-rail"
+      "lat": "Zapornia sp.",
+      "en": "Kauai-rail"
     },
     "last_seen": "1500",
     "location": {
       "lat": 21.910505,
       "lng": -159.418788
     },
-    "habitat": "Kaui",
+    "habitat": "Kauai (Hawaii)",
     "images": {
       "tooltip": "",
       "panel": "https://cdn.prod.website-files.com/69a2957c566333eb83d17d8c/69bc3996ea203b3341193c84_Ralle_default.jpg"
     },
     "panel": {
-      "description": "",
-      "habitat_text": "",
-      "extinction_text": ""
+    "description": "<p>Von dieser bislang unbeschriebenen mittelgrossen, flugunfähigen Rallenform der Insel Kauai sind nur wenige Knochenfunde bekannt. Das vorhandene Material reicht bisher nicht aus, um sie als eigenständige Art sicher zu beschreiben oder eindeutig von anderen hawaiischen Rallen abzugrenzen. In der Literatur wird sie deshalb nur als Porzana sp. geführt.</p><p>Die erhaltenen Beinknochen zeigen jedoch, dass es sich um eine deutlich kleinere Form als die ebenfalls von Kauai bekannte grosse, unbeschriebene Ralle handelte. Gleichzeitig war sie wahrscheinlich etwas grösser und kräftiger gebaut als die historisch bekannte Hawaiiralle (Zapornia sandwichensis). Möglicherweise gehörte sie zu einer Gruppe kleiner bis mittelgrosser, flugunfähiger hawaiischer Rallen, deren genaue verwandtschaftliche Stellung bislang ungeklärt ist.</p><p>Über Ernährung, Verhalten und Lebensweise ist nichts bekannt. Wie viele andere Rallen war die Form vermutlich bodenlebend und ernährte sich wahrscheinlich opportunistisch von Samen, kleinen Wirbellosen, Insektenlarven und weiteren Pflanzenteilen, die sie im dichten Unterwuchs suchte.</p>",
+    "habitat_text": "<p>Falls es sich bei dieser Form tatsächlich um eine eigenständige Art handelte, war sie vermutlich auf die Insel Kauai beschränkt und somit endemisch. Die bekannten Knochen stammen aus subfossilen Ablagerungen der Makawehi-Dünen an der Südostküste von Kauai. Diese Fundorte zeigen jedoch nicht zwingend das vollständige natürliche Verbreitungsgebiet der Form, da sich Knochen in solchen Ablagerungen nur unter bestimmten Bedingungen erhalten.</p><p>Das ursprüngliche Habitat bleibt deshalb unsicher. Wahrscheinlich bewohnte die Kauai-Ralle tiefere Lagen mit trockenen bis mesischen Küsten-, Busch- oder Waldlandschaften und dichter Bodenvegetation. Da viele flugunfähige Rallen verborgen am Boden lebten, könnte sie auch in dichter Vegetation abseits offener Dünenflächen vorgekommen sein.</p>",
+    "extinction_text": "<p>Der genaue Zeitpunkt des Aussterbens ist unbekannt. Da die Form nur aus Knochenfunden bekannt ist und nicht historisch beobachtet wurde, starb sie vermutlich kurz nach der Ankunft der ersten polynesischen Siedler auf Hawaii aus.</p><p>Flugunfähige Inselrallen waren besonders anfällig gegenüber neuen Säugetieren, Lebensraumveränderungen und direkter oder indirekter menschlicher Einwirkung. Als zentrale Faktoren dürften vor allem die Veränderung tief gelegener Lebensräume sowie das Einschleppen von Ratten, Hunden und Schweinen eine Rolle gespielt haben. Besonders Ratten konnten für bodenbrütende Vögel verheerend sein, da sie Eier, Jungtiere und möglicherweise auch adulte Tiere erbeuteten.</p><p>Es ist aber auch möglich, dass die Form bereits vor der Ankunft des Menschen durch natürliche klimatische oder ökologische Veränderungen ausgestorben ist. Da bislang nur wenige Fossilien bekannt sind, bleiben sowohl der genaue Zeitpunkt als auch die unmittelbaren Ursachen des Aussterbens unsicher.</p>"
     },
     "references": [
       {
@@ -1061,9 +1061,9 @@
     ],
     "taxonomy": {
       "family": "Rallen (Rallidae)",
-      "genus": "Porzana",
+      "genus": "Zapornia",
       "family_key": "rallidae",
-      "genus_key": "porzana"
+      "genus_key": "zapornia"
     },
     "ranges": {
       "range_native": null,
