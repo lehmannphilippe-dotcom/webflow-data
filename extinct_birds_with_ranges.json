@@ -6691,12 +6691,28 @@
     },
     "references": [
       {
-        "label": "Test BirdLife Schweiz",
-        "url": "https://www.birdlife.ch/"
+        "label": "Cornell Lab of Ornithology. Hawaiian Rail. Birds of the World.",
+        "url": "https://birdsoftheworld.org/bow/species/hawrai/1.0/introduction"
       },
       {
-        "label": "Test BirdLife Schweiz",
-        "url": "https://www.birdlife.ch/"
+        "label": "PoB Editorial Team. (2011). Hawaiian Crake (Porzana sandwichensis). Planet of Birds.",
+        "url": "https://planetofbirds.com/gruiformes-rallidae-hawaiian-crake-porzana-sandwichensis/"
+      },
+      {
+      "label": "James, Helen F. & Olson, Storrs L. 1991. Descriptions of thirty-two new species of birds from the Hawaiian Islands: Part II. Passeriformes. Ornithological Monographs 46: 1–88.",
+      "url": "https://www.researchgate.net/publication/242013278_Descriptions_of_Thirty-Two_New_Species_of_Birds_from_the_Hawaiian_Islands_Part_II_Passeriformes"
+      },
+      {
+       "label": "Harmon, Kristen C., Melissa R. Price, and Kawika B. Winter. 2026. “The ‘Regime Shift Extinctions’ Hypothesis and Mass Extinction of Waterbirds in Hawaiʻi.” Ecosphere 17(1): e70445.",
+       "url": "https://esajournals.onlinelibrary.wiley.com/doi/10.1002/ecs2.70445?.com"
+      },
+      {
+      "label": "Sangster, G., Blokland, J. C., Lubbe, P., Scofield, R. P. & Worthy, T. H. (2026). Another case of island gigantism: the extinct Hodgens’ Waterhen (Tribonyx hodgenorum) is a member of Porzana (Aves: Rallidae). Journal of Ornithology, 167, 245–258.",
+       "url": "https://repository.naturalis.nl/pub/801387/Sangster-2025-Another-case-of-island-gigantism-A.pdf"
+      },
+      {
+        "label": "Slikas, Beth (2003). Hawaiian Birds: Lessons From a Rediscovered Avifauna. The Auk, 120(4), 953–960. doi:10.1093/auk/120.4.953",
+        "url": "https://academic.oup.com/auk/article/120/4/953/5562270?login=false"
       }
     ],
     "taxonomy": {
@@ -6739,12 +6755,28 @@
     },
     "references": [
       {
-        "label": "Test BirdLife Schweiz",
-        "url": "https://www.birdlife.ch/"
+        "label": "Cornell Lab of Ornithology. Hawaiian Rail. Birds of the World.",
+        "url": "https://birdsoftheworld.org/bow/species/hawrai/1.0/introduction"
       },
       {
-        "label": "Test BirdLife Schweiz",
-        "url": "https://www.birdlife.ch/"
+        "label": "PoB Editorial Team. (2011). Hawaiian Crake (Porzana sandwichensis). Planet of Birds.",
+        "url": "https://planetofbirds.com/gruiformes-rallidae-hawaiian-crake-porzana-sandwichensis/"
+      },
+      {
+      "label": "James, Helen F. & Olson, Storrs L. 1991. Descriptions of thirty-two new species of birds from the Hawaiian Islands: Part II. Passeriformes. Ornithological Monographs 46: 1–88.",
+      "url": "https://www.researchgate.net/publication/242013278_Descriptions_of_Thirty-Two_New_Species_of_Birds_from_the_Hawaiian_Islands_Part_II_Passeriformes"
+      },
+      {
+       "label": "Harmon, Kristen C., Melissa R. Price, and Kawika B. Winter. 2026. “The ‘Regime Shift Extinctions’ Hypothesis and Mass Extinction of Waterbirds in Hawaiʻi.” Ecosphere 17(1): e70445.",
+       "url": "https://esajournals.onlinelibrary.wiley.com/doi/10.1002/ecs2.70445?.com"
+      },
+      {
+      "label": "Sangster, G., Blokland, J. C., Lubbe, P., Scofield, R. P. & Worthy, T. H. (2026). Another case of island gigantism: the extinct Hodgens’ Waterhen (Tribonyx hodgenorum) is a member of Porzana (Aves: Rallidae). Journal of Ornithology, 167, 245–258.",
+       "url": "https://repository.naturalis.nl/pub/801387/Sangster-2025-Another-case-of-island-gigantism-A.pdf"
+      },
+      {
+        "label": "Slikas, Beth (2003). Hawaiian Birds: Lessons From a Rediscovered Avifauna. The Auk, 120(4), 953–960. doi:10.1093/auk/120.4.953",
+        "url": "https://academic.oup.com/auk/article/120/4/953/5562270?login=false"
       }
     ],
     "taxonomy": {
