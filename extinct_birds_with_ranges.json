@@ -1,5 +1,61 @@
 [
         {
+    "id": "zapornia_sp.",
+    "name": {
+      "de": "Grosse Kauai-Ralle",
+      "lat": "Porzana sp.",
+      "en": "Large Kauai-rail"
+    },
+    "last_seen": "1500",
+    "location": {
+      "lat": 21.992157,
+      "lng": -159.409553
+    },
+    "habitat": "Kauai (Hawaii)",
+    "images": {
+      "tooltip": "",
+      "panel": "https://cdn.prod.website-files.com/69a2957c566333eb83d17d8c/69bc3996ea203b3341193c84_Ralle_default.jpg"
+    },
+    "panel": {
+     "description": "<p>Von dieser bislang unbeschriebenen grossen, flugunfähigen Rallenform der Insel Kauai ist nur sehr wenig subfossiles Material bekannt, um die Form als eigenständige Art sicher zu beschreiben und von anderen Arten abzugrenzen.</p><p>Die Grösse der Knochen entspricht jener der Grossen Oahu-Ralle (Porzana ralphorum) und der Grossen Maui-Ralle (Porzana severnsi). Wahrscheinlich gehörte diese Form daher zu jener Gruppe besonders grosser, flugunfähiger hawaiischer Rallen, deren genaue verwandtschaftliche Stellung bislang nicht vollständig geklärt ist.</p><p>Über Ernährung, Verhalten und Lebensweise ist nichts bekannt. Wie viele andere Rallen war die Form vermutlich bodenlebend und ernährte sich wahrscheinlich opportunistisch von Samen, kleinen Wirbellosen, Insektenlarven und weiteren Pflanzenteilen, die sie im dichten Unterwuchs suchte.</p>",
+     "habitat_text": "<p>Falls es sich bei dieser Form tatsächlich um eine eigenständige Art handelte, war sie vermutlich auf die Insel Kauai beschränkt und somit endemisch. Der bekannte Fund stammt aus den Makawehi-Dünen an der Südostküste von Kauai. Diese Fundstelle enthält zahlreiche subfossile Vogelknochen und gehört zu den wichtigsten Fundorten für die ehemals deutlich vielfältigere Vogelwelt Kauais.</p><p>Die Fundstelle zeigt jedoch nicht zwingend das vollständige natürliche Verbreitungsgebiet der Art. Die Makawehi-Dünen lagen in einem trockenen Küstenraum, doch nahe gelegene Fossil- und Sedimentfunde zeigen, dass die früheren Tiefländer im trockenen Lee-Bereich von Kauai ökologisch vielfältiger waren als die heutigen Küstenlandschaften.</p><p>Das ursprüngliche Habitat der Grossen Kauai-Ralle bleibt deshalb unsicher. Wahrscheinlich bewohnte sie tief gelegene trockene bis mesische Küsten-, Busch- oder Waldlandschaften mit dichter Bodenvegetation. Als grosse, flugunfähige Ralle war sie vermutlich an ein Leben am Boden angepasst und hielt sich wahrscheinlich vor allem in geschützter Vegetation auf.</p>",
+     "extinction_text": "<p>Der genaue Zeitpunkt des Aussterbens ist unbekannt. Da die Form nur aus Knochenfunden bekannt ist und nicht historisch beobachtet wurde, starb sie vermutlich kurz nach der Ankunft der ersten polynesischen Siedler auf Hawaii aus.</p><p>Flugunfähige Inselrallen waren besonders anfällig gegenüber neuen Säugetieren, Lebensraumveränderungen und direkter oder indirekter menschlicher Einwirkung. Als zentrale Faktoren dürften vor allem die Veränderung tief gelegener und trockener Wälder sowie das Einschleppen von Ratten, Hunden und Schweinen eine Rolle gespielt haben.</p><p>Es ist aber auch möglich, dass die Form bereits vor der Ankunft des Menschen durch natürliche klimatische oder ökologische Veränderungen ausgestorben ist. Da bislang nur wenige Fossilien bekannt sind, bleiben sowohl der genaue Zeitpunkt als auch die unmittelbaren Ursachen des Aussterbens unsicher.</p>"
+    },
+     "references": [
+      {
+      "label": "James, Helen F. & Olson, Storrs L. 1991. Descriptions of thirty-two new species of birds from the Hawaiian Islands: Part II. Passeriformes. Ornithological Monographs 46: 1–88.",
+      "url": "https://www.researchgate.net/publication/242013278_Descriptions_of_Thirty-Two_New_Species_of_Birds_from_the_Hawaiian_Islands_Part_II_Passeriformes"
+      },
+      {
+       "label": "Harmon, Kristen C., Melissa R. Price, and Kawika B. Winter. 2026. “The ‘Regime Shift Extinctions’ Hypothesis and Mass Extinction of Waterbirds in Hawaiʻi.” Ecosphere 17(1): e70445.",
+       "url": "https://esajournals.onlinelibrary.wiley.com/doi/10.1002/ecs2.70445?.com"
+      },
+      {
+      "label": "Sangster, G., Blokland, J. C., Lubbe, P., Scofield, R. P. & Worthy, T. H. (2026). Another case of island gigantism: the extinct Hodgens’ Waterhen (Tribonyx hodgenorum) is a member of Porzana (Aves: Rallidae). Journal of Ornithology, 167, 245–258.",
+       "url": "https://repository.naturalis.nl/pub/801387/Sangster-2025-Another-case-of-island-gigantism-A.pdf"
+      },
+      {
+        "label": "Slikas, Beth (2003). Hawaiian Birds: Lessons From a Rediscovered Avifauna. The Auk, 120(4), 953–960. doi:10.1093/auk/120.4.953",
+        "url": "https://academic.oup.com/auk/article/120/4/953/5562270?login=false"
+      }
+    ],
+    "taxonomy": {
+      "family": "Rallen (Rallidae)",
+      "genus": "Porzana",
+      "family_key": "rallidae",
+      "genus_key": "porzana"
+    },
+    "ranges": {
+      "range_native": null,
+      "breeding_native": null,
+      "range_hypothetical": null,
+      "passage": null,
+      "breeding_spots": null,
+      "find_spots": null,
+      "last_observation": null
+    }
+  },
+        {
     "id": "chloridops_sp.",
     "name": {
       "de": "Maui-Dickschnabel",
