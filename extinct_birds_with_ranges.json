@@ -3953,7 +3953,7 @@
     },
     "habitat": "Hawaii (Hawaii)",
     "images": {
-      "tooltip": "",
+      "tooltip": "https://cdn.prod.website-files.com/6a2856622c4f26c0e72a657b/6a5138eb5fb5ebf0565b1f20_Ciridops-anna_profile.jpg",
       "panel": "https://cdn.prod.website-files.com/69cfebf5eff673dfd4242f2e/69e3b3b040147d374a8d7460_ciridops_anna.jpg"
     },
     "panel": {
@@ -6791,7 +6791,7 @@
     "id": "akialoa_obscurus",
     "name": {
       "de": "Hawaii-Akialoa",
-      "lat": "akialoa obscurus",
+      "lat": "Akialoa obscurus",
       "en": "Lesser Akialoa"
     },
     "last_seen": "1940",
@@ -6801,7 +6801,7 @@
     },
     "habitat": "Big Island",
     "images": {
-      "tooltip": "",
+      "tooltip": "https://cdn.prod.website-files.com/6a2856622c4f26c0e72a657b/6a5138e8e9a93ee95b315ed5_Akialoa-obscurus_profile.jpg",
       "panel": "https://cdn.prod.website-files.com/6950eb029163bef776e18cfd/6991b5bef4935373e847d3dc_hemignathus_obscurus.jpg"
     },
     "panel": {
@@ -7657,7 +7657,7 @@
     },
     "habitat": "Kauai (Hawaii)",
     "images": {
-      "tooltip": "",
+      "tooltip": "https://cdn.prod.website-files.com/6a2856622c4f26c0e72a657b/6a5138e3d1fa3fae5ed13287_Akialoa-stejnegeri_profile.jpg",
       "panel": "https://cdn.prod.website-files.com/6950eb029163bef776e18cfd/699ae19070fbf87891fdabd4_hemignathus_stejnegeri.jpg"
     },
     "panel": {
@@ -11469,7 +11469,7 @@
     },
     "habitat": "Oahu (Hawaii)",
     "images": {
-      "tooltip": "",
+      "tooltip": "https://cdn.prod.website-files.com/6a2856622c4f26c0e72a657b/6a5138e57c1cd3ae171711b2_Akialoa-ellisianus_profile.jpg",
       "panel": "https://cdn.prod.website-files.com/6950eb029163bef776e18cfd/699ae425875e0cfad9d0bf24_hemignathus_ellisianus.jpg"
     },
     "panel": {
