@@ -9974,15 +9974,15 @@
       "lat": "Hemignathus affinis",
       "en": "Maui Nukupuu"
     },
-    "last_seen": "1990er-Jahre",
+    "last_seen": "1990",
     "location": {
       "lat": 20.90976,
       "lng": -156.26126
     },
     "habitat": "Maui (Hawaii)",
     "images": {
-      "tooltip": "",
-      "panel": ""
+      "tooltip": "https://cdn.prod.website-files.com/6a2856622c4f26c0e72a657b/6a523b82d070cbd2b36738cb_hemignathus-affinis_profile.jpg",
+      "panel": "https://cdn.prod.website-files.com/6a2856622c4f26c0e72a657b/6a523b76d070cbd2b36737e1_hemignathus-affinis.jpg"
     },
     "panel": {
       "description": "",
