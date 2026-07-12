@@ -11563,7 +11563,7 @@
       "lat": 21.44087,
       "lng": -157.91098
     },
-    "habitat": "Oahu",
+    "habitat": "Oahu (Hawaii)",
     "images": {
       "tooltip": "",
       "panel": ""
@@ -11584,10 +11584,10 @@
       }
     ],
     "taxonomy": {
-      "family": "",
-      "genus": "",
-      "family_key": "",
-      "genus_key": ""
+      "family": "Kleidervögel (Drepanidini)",
+      "genus": "Hemignathus",
+      "family_key": "drepanidini",
+      "genus_key": "hemignathus"
     },
     "ranges": {
       "range_native": null,
