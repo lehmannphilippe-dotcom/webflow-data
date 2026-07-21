@@ -1,5 +1,29 @@
 [
   {
+    "id": "viridonia",
+    "family": "Kleidervögel (Drepanidini)",
+    "family_key": "drepanidini",
+    "name": {
+      "de": "Viridonia",
+      "lat": "Viridonia",
+      "en": "Viridonia"
+    },
+    "extinction_date": "1901",
+    "panel": {
+      "description": ""
+    },
+    "references": [
+      {
+        "label": "Test BirdLife Schweiz",
+        "url": "https://www.birdlife.ch/"
+      },
+      {
+        "label": "Test BirdLife Schweiz",
+        "url": "https://www.birdlife.ch/"
+      }
+    ]
+  },
+  {
     "id": "paroreomyza",
     "family": "Kleidervögel (Drepanidini)",
     "family_key": "drepanidini",
