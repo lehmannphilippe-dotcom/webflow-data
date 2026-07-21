@@ -5768,10 +5768,10 @@
     }
   },
   {
-    "id": "hemignathus_sagittirostris",
+    "id": "viridonia_sagittirostris",
     "name": {
       "de": "Einsiedler-Grünkleidervogel",
-      "lat": "Hemignathus sagittirostris",
+      "lat": "Viridonia sagittirostris",
       "en": "Greater Amakihi"
     },
     "last_seen": "1901",
@@ -5801,9 +5801,9 @@
     ],
     "taxonomy": {
       "family": "Kleidervögel (Drepanidini)",
-      "genus": "Hemignathus",
+      "genus": "Viridonia",
       "family_key": "drepanidini",
-      "genus_key": "hemignathus"
+      "genus_key": "viridonia"
     },
     "ranges": {
       "range_native": null,
