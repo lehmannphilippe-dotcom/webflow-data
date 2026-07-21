@@ -933,9 +933,9 @@
     ],
     "taxonomy": {
       "family": "Kleidervögel (Drepanidini)",
-      "genus": "Hemignathus/Akialoa",
+      "genus": "Akialoa",
       "family_key": "drepanidini",
-      "genus_key": "hemignathus_akialoa"
+      "genus_key": "akialoa"
     },
     "ranges": {
       "range_native": null,
@@ -981,9 +981,9 @@
     ],
     "taxonomy": {
       "family": "Kleidervögel (Drepanidini)",
-      "genus": "Hemignathus/Akialoa",
+      "genus": "Akialoa",
       "family_key": "drepanidini",
-      "genus_key": "hemignathus_akialoa"
+      "genus_key": "akialoa"
     },
     "ranges": {
       "range_native": null,
@@ -6817,9 +6817,9 @@
     ],
     "taxonomy": {
       "family": "Kleidervögel (Drepanidini)",
-      "genus": "Hemignathus/Akialoa",
+      "genus": "Akialoa",
       "family_key": "drepanidini",
-      "genus_key": "hemignathus_akialoa"
+      "genus_key": "akialoa"
     },
     "ranges": {
       "range_native": "https://raw.githubusercontent.com/lehmannphilippe-dotcom/webflow-data/refs/heads/main/ranges/Akialoa_obscurus.geojson",
@@ -7673,9 +7673,9 @@
     ],
     "taxonomy": {
       "family": "Kleidervögel (Drepanidini)",
-      "genus": "Hemignathus/Akialoa",
+      "genus": "Akialoa",
       "family_key": "drepanidini",
-      "genus_key": "hemignathus_akialoa"
+      "genus_key": "akialoa"
     },
     "ranges": {
       "range_native": "https://raw.githubusercontent.com/lehmannphilippe-dotcom/webflow-data/refs/heads/main/ranges/Akialoa_stejnegeri.geojson",
@@ -8441,9 +8441,9 @@
     ],
     "taxonomy": {
       "family": "Kleidervögel (Drepanidini)",
-      "genus": "Hemignathus/Akialoa",
+      "genus": "Akialoa",
       "family_key": "drepanidini",
-      "genus_key": "hemignathus_akialoa"
+      "genus_key": "akialoa"
     },
     "ranges": {
       "range_native": "https://raw.githubusercontent.com/lehmannphilippe-dotcom/webflow-data/refs/heads/main/ranges/Akialoa_lanaiensis_nat.geojson",
@@ -11485,9 +11485,9 @@
     ],
     "taxonomy": {
       "family": "Kleidervögel (Drepanidini)",
-      "genus": "Hemignathus/Akialoa",
+      "genus": "Akialoa",
       "family_key": "drepanidini",
-      "genus_key": "hemignathus_akialoa"
+      "genus_key": "akialoa"
     },
     "ranges": {
       "range_native": "https://raw.githubusercontent.com/lehmannphilippe-dotcom/webflow-data/refs/heads/main/ranges/Akialoa_ellisianus.geojson",
