@@ -484,13 +484,13 @@
     ]
   },
   {
-    "id": "hemignathus_akialoa",
+    "id": "akialoa",
     "family": "Kleidervögel (Drepanidini)",
     "family_key": "drepanidini",
     "name": {
-      "de": "Hemignathus/Akialoa",
-      "lat": "Hemignathus/Akialoa",
-      "en": "Hemignathus/Akialoa"
+      "de": "Akialoa",
+      "lat": "Akialoa",
+      "en": "Akialoa"
     },
     "extinction_date": "",
     "panel": {
