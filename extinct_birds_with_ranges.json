@@ -5776,8 +5776,8 @@
     },
     "last_seen": "1901",
     "location": {
-      "lat": 19.67416,
-      "lng": -155.5161
+      "lat": 19.708152,
+      "lng": -155.209295
     },
     "habitat": "Hawaii (Hawaii)",
     "images": {
@@ -5785,18 +5785,22 @@
       "panel": "https://cdn.prod.website-files.com/6a2856622c4f26c0e72a657b/6a53a69e938a981683ccaf5e_hemignathus-sagittirostris_profile.jpg"
     },
     "panel": {
-      "description": "<p>Der Einsiedler-Grünkleidervogel war ein mittelgrosser Kleidervogel von etwa 17 cm Länge. Über seine Lebensweise ist nur wenig bekannt. Er ernährte sich vorwiegend von Insekten und Spinnen, darunter Grashüpfer der Gattung Panatrigonidium, Käfer und Raupen. Seine Nahrung suchte er in Rindenspalten verschiedener endemischer Baumarten.</p>",
-      "habitat_text": "<p>Das Verbreitungsgebiet des Einsiedler-Grünkleidervogels war auf ein nur wenige Quadratkilometer grosses Gebiet am Wailuku-Fluss im Nordosten der Insel Hawaiʻi beschränkt. Er bewohnte feuchte Regenwälder in Höhenlagen zwischen 600 und 1’200 m.</p>",
-      "extinction_text": "<p>Da der Einsiedler-Grünkleidervogel bereits von Natur aus ein sehr kleines Verbreitungsgebiet hatte, war er selbst den Einheimischen lange nicht bekannt. Der Einsiedler-Grünkleidervogel wurde 1892 erstmals wissenschaftlich beschrieben und galt bereits wenige Jahre später als sehr selten. Um 1900 sammelte der Ornithologe Henry Wetherbee Henshaw nach langer Suche die letzten Exemplare, bevor die Art 1901 als ausgestorben erklärt wurde, da die Wälder in ihrem Verbreitungsgebiet grösstenteils durch die wachsende Zuckerrohrindustrie gerodet worden waren.</p>"
+     "description": "<p>Der Einsiedler-Grünkleidervogel (Viridonia sagittirostris) war ein mittelgrosser Kleidervogel mit einer Körperlänge von etwa 16 bis 17 cm. Über seine Lebensweise ist nur wenig bekannt. Vereinzelte historische Beobachtungen deuten darauf hin, dass der Einsiedler-Grünkleidervogel sich vorwiegend von Insekten und Spinnen, darunter Grashüpfer der Gattung Panatrigonidium, Käfer und Raupen, ernährte. Besonders häufig wurde die Art dabei bei der Nahrungssuche in Ōhia-Bäumen (Metrosideros polymorpha) beobachtet.</p><p>Männchen und Weibchen unterschieden sich offenbar kaum voneinander. Einzelne Weibchen wurden mit etwas matterem Gefieder beschrieben, doch könnte es sich dabei um jüngere Tiere gehandelt haben; andere adulte Weibchen waren in der Färbung nicht von den Männchen zu unterscheiden.</p>",
+    "habitat_text": "<p>Das bekannte Verbreitungsgebiet war aussergewöhnlich klein und auf ein begrenztes Waldgebiet oberhalb von Hilo im Nordosten der Insel Hawaii konzentriert. Historische Beobachtungen stammen vor allem aus dichten Wäldern entlang und beiderseits des Wailuku River. Nach heutigen Zusammenstellungen wurde die Art zwischen etwa 370 und 1.200 Metern Höhe nachgewiesen.</p><p>Die wenigen Beobachtungen sprechen für eine enge Bindung an ursprüngliche, feuchte Wälder mit Ōhia-Baumbeständen. Ob das historisch bekannte Gebiet tatsächlich das einst gesamte natürliche Verbreitungsgebiet der Art darstellte, lässt sich heute nicht mehr sicher rekonstruieren.</p>",
+    "extinction_text": "<p>Bereits bei seiner Entdeckung gegen Ende des 19. Jahrhunderts besass der Einsiedler-Grünkleidervogel offenbar nur noch eine sehr kleine und räumlich stark begrenzte Population. Die letzten gesicherten Nachweise stammen vom Ornithologen Henry Wetherbee Henshaw, der nach langer Suche die letzten Exemplare sammelte. Bereits 1901, nur neun Jahre nach seiner Entdeckung, wurde der Einsiedler-Grünkleidervogel für ausgestorben erklärt.</p><p>Die genaue Ursache des Aussterbens lässt sich nicht eindeutig bestimmen. Besonders schwer dürfte jedoch die grossflächige Rodung der Tiefland- und Bergwälder im Raum Hilo für die wachsende Zuckerrohrindustrie gewogen haben. Zusätzliche Faktoren könnten eingeschleppte Säugetiere sowie durch Stechmücken übertragene Vogelkrankheiten gewesen sein.</p><p>Von der Art wurden insgesamt mindestens 35 Exemplare gesammelt und als wissenschaftliche Belegexemplare präpariert.</p>"
     },
     "references": [
       {
-        "label": "Test BirdLife Schweiz",
-        "url": "https://www.birdlife.ch/"
+        "label": "Pyle, R. L. & Pyle, P. – Birds of the Hawaiian Islands: Occurrence, History, Distribution, and Status. Greater ʻAmakihi – Viridonia sagittirostris. Bernice Pauahi Bishop Museum.",
+        "url": "https://hbs.bishopmuseum.org/birds/rlp-monograph/pdfs/08-DREP/GRAM.pdf"
       },
       {
-        "label": "Test BirdLife Schweiz",
-        "url": "https://www.birdlife.ch/"
+        "label": "BirdLife International. Greater Amakihi (Viridonia sagittirostris) Species factsheet. BirdLife DataZone.",
+        "url": "https://birdsoftheworld.org/bow/species/greama/cur/introduction"
+      },
+      {
+        "label": "Lindsey, G. D., VanderWerf, E. A., Baker, H. & Baker, P. E. (1998). Hawaiʻi ʻAmakihi (Hemignathus virens), Kauaʻi ʻAmakihi (H. kauaiensis), Oʻahu ʻAmakihi (H. chloris), and Greater ʻAmakihi (H. sagittirostris). The Birds of North America, No. 360.",
+        "url": "https://datazone.birdlife.org/species/factsheet/greater-amakihi-viridonia-sagittirostris?utm_source=chatgpt.com"
       }
     ],
     "taxonomy": {
@@ -5808,7 +5812,7 @@
     "ranges": {
       "range_native": null,
       "breeding_native": null,
-      "range_hypothetical": null,
+      "range_hypothetical": "https://raw.githubusercontent.com/lehmannphilippe-dotcom/webflow-data/refs/heads/main/ranges/Viridonia_sagittirostris_hypo.geojson",
       "passage": null,
       "breeding_spots": null,
       "find_spots": null,
