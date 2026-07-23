@@ -1,0 +1,147 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "place": "Kaumaikeʻohu water-supply tunnel, above Pāhala (Kaʻū, Hawaiʻi)",
+        "description": "Typusfundstelle von Branta rhuax (ursprünglich als Geochen rhuax beschrieben). Die Knochen wurden in einem Wasserstollen rund 305 m östlich der Schulter von Kaumaikeʻohu oberhalb von Pāhala gefunden. Olson publizierte für die Fundstelle 19°13.000′ N, 155°32.667′ W; diese Koordinate wird hier direkt übernommen.",
+        "references": [
+          "Wetmore 1943",
+          "Olson 2013"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -155.54445,
+          19.216667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place": "Umiʻi Manu Cave, Puʻu Waʻawaʻa (North Kona, Hawaiʻi)",
+        "description": "Wissenschaftlich dokumentierte Fundstelle eines flugunfähigen Riesengans-Individuums, das heute Branta rhuax zugeordnet wird. 1992 wurde Skelettmaterial aus der Höhle für eine AMS-Radiokarbondatierung entnommen; die Probe ergab 510 ± 60 Radiokohlenstoffjahre BP. Umiʻi Manu ist ein ausgedehntes Lavaröhrensystem zwischen Kīleo und der östlichen Grenze des Puʻu-Waʻawaʻa-Ahupuaʻa. Da keine exakte Fundkoordinate des Gänseskeletts publiziert ist, markiert der Punkt näherungsweise den Bereich des Höhlensystems und nicht einen bestimmten Eingang.",
+        "references": [
+          "Giffin 2003",
+          "Paxinos et al. 2002",
+          "Olson 2013"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -155.83,
+          19.72
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place": "Delissea Cave, Puʻu Waʻawaʻa (North Kona, Hawaiʻi)",
+        "description": "Aus Delissea Cave stammt ein wissenschaftlich dokumentiertes Skelett einer flugunfähigen Riesengans, die Branta rhuax zugeordnet wird. 1992 wurden Femur und Tibiotarsus für eine AMS-Radiokarbondatierung verwendet; die Probe ergab 900 ± 60 Radiokohlenstoffjahre BP. Die Koordinate bezeichnet den öffentlich kartierten Bereich des Delissea-Höhlensystems; der genaue Fundpunkt innerhalb des weitläufigen Lavaröhrensystems ist nicht publiziert.",
+        "references": [
+          "Giffin 2003",
+          "Paxinos et al. 2002",
+          "Olson 2013"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -155.97026,
+          19.77753
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place": "Ambigua Cave, Puʻu Waʻawaʻa Forest Bird Sanctuary (Hawaiʻi)",
+        "description": "Giffins biologische Bestandsaufnahme von Puʻu Waʻawaʻa dokumentiert aus Ambigua Cave einen Schädel einer flugunfähigen Gans und bildet ihn im Vergleich mit einem subfossilen Nēnē-Schädel ab. Damit ist die Höhle als Fundstelle von Branta rhuax belegt. Eine exakte Fund- oder Eingangskoordinate ist in der verwendeten wissenschaftlichen Dokumentation nicht veröffentlicht; der Punkt kennzeichnet deshalb näherungsweise den Bereich des Puʻu Waʻawaʻa Forest Bird Sanctuary.",
+        "references": [
+          "Giffin 2003"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -155.8828,
+          19.7225
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place": "Branta Rhuax Cave, HETF Puʻu Waʻawaʻa Mauka Subunit (Hawaiʻi)",
+        "description": "2013 wurde in einer neu dokumentierten Lavaröhre ein nahezu vollständig artikuliertes Skelett der ausgestorbenen Hawaiʻi-Riesengans gefunden und von Helen James anhand von Fotografien als Branta rhuax identifiziert. Der Bericht lokalisiert die Höhle rund 2.000 Fuss makai, also meerwärts, von Puʻu Iki. Die hier verwendete Koordinate ist daraus angenähert und stellt ausdrücklich keine publizierte exakte Höhleneingangskoordinate dar.",
+        "references": [
+          "Hawaiʻi Experimental Tropical Forest Annual Report 2013"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -155.8533,
+          19.7622
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place": "Additional Puʻu Waʻawaʻa lava-tube deposits (Hawaiʻi)",
+        "description": "Zusammengefasster Gebietspunkt für weitere, in der Bestandsaufnahme nicht einzeln benannte Lavaröhren von Puʻu Waʻawaʻa mit Resten flugunfähiger Riesengänse. Giffin berichtet von Überresten von mehr als 100 Individuen aus Lavaröhren in Höhenlagen von etwa 3.000 bis 6.000 Fuss. Die separat benannten Fundstellen Umiʻi Manu Cave, Delissea Cave und Ambigua Cave sind als eigene Punkte erfasst; dieser Punkt repräsentiert nur die zusätzlich dokumentierten, nicht einzeln lokalisierten Höhlenfundstellen.",
+        "references": [
+          "Giffin 2003",
+          "Olson 2013"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -155.86,
+          19.75
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place": "Honomalino, ca. 4,000 ft elevation (South Kona, Hawaiʻi)",
+        "description": "Giffin dokumentiert subfossile Knochen einer flugunfähigen Gans aus Honomalino in etwa 4.000 Fuss Höhe. Da in der Quelle keine genauere Fundstelle oder Höhlenbezeichnung angegeben wird, ist die Koordinate nur ein angenäherter Gebietspunkt für Honomalino und nicht als exakte Fossilfundkoordinate zu verstehen.",
+        "references": [
+          "Giffin 2003"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -155.8431,
+          19.1822
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place": "Manukā Natural Area Reserve, ca. 2,500 ft elevation (Hawaiʻi)",
+        "description": "Giffin dokumentiert subfossile Knochen einer flugunfähigen Gans aus der Manukā Natural Area Reserve in etwa 2.500 Fuss Höhe. Eine exakte Fundstelle innerhalb des grossen Schutzgebiets wird nicht genannt. Die Koordinate dient daher nur als angenäherter Gebietspunkt für die Manukā Natural Area Reserve und nicht als präzise Fossilfundkoordinate.",
+        "references": [
+          "Giffin 2003"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -155.83466,
+          19.10042
+        ]
+      }
+    }
+  ]
+}
