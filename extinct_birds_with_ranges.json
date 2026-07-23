@@ -5810,9 +5810,9 @@
       "genus_key": "viridonia"
     },
     "ranges": {
-      "range_native": null,
+      "range_native": "https://raw.githubusercontent.com/lehmannphilippe-dotcom/webflow-data/refs/heads/main/ranges/Viridonia_sagittirostris_hypo.geojson",
       "breeding_native": null,
-      "range_hypothetical": "https://raw.githubusercontent.com/lehmannphilippe-dotcom/webflow-data/refs/heads/main/ranges/Viridonia_sagittirostris_hypo.geojson",
+      "range_hypothetical": null,
       "passage": null,
       "breeding_spots": null,
       "find_spots": null,
