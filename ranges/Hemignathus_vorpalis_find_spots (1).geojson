@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "place": "Petrel Cave, Puʻu Waʻawaʻa, Hualālai (Hawaiʻi)",
+        "description": "Einzige bekannte Fundstelle und Typuslokalität von Hemignathus vorpalis. Der Holotypus, ein partiell assoziiertes Skelett eines einzelnen Individuums, wurde am 8. Januar 1993 in der Lavaröhre auf etwa 1.200 m Höhe gefunden. Die Erstbeschreibung gibt die Verbreitung ausdrücklich als nur von dieser Typuslokalität bekannt an. Die Höhle entstand durch einen Lavastrom vor geschätzt 3.000 bis 1.500 Jahren; der Holotypus ist jünger als die Höhle.",
+        "references": [
+          "James & Olson 2003"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -155.85,
+          19.741667
+        ]
+      }
+    }
+  ]
+}
