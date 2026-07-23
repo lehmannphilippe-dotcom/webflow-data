@@ -10,16 +10,20 @@
     },
     "extinction_date": "1901",
     "panel": {
-      "description": ""
+      "description": "<p>Viridonia war eine auf der Insel Hawaii endemische, monotypische Gattung hawaiischer Kleidervögel, die ausschliesslich durch den Einsiedler-Grünkleidervogel (Viridonia sagittirostris) vertreten war.</p><p>Die taxonomische Stellung der Gattung wurde im Laufe des 20. Jahrhunderts mehrfach verändert. Die einzige bekannte Art wurde zeitweise der Gattung Loxops und später der weit gefassten Gattung Hemignathus zugeordnet. Neuere Untersuchungen zur Evolution der hawaiischen Kleidervögel zeigten jedoch, dass diese traditionelle Auffassung von Hemignathus keine natürliche monophyletische Gruppe bildete. Im Rahmen einer umfassenden taxonomischen Neuordnung wurde Viridonia deshalb 2015 wieder als eigenständige Gattung anerkannt.</p><p>Äusserlich ähnelte Viridonia den Amakihi der heutigen Gattung Chlorodrepanis, weshalb diese Formen lange gemeinsam klassifiziert wurden. Diese morphologische Ähnlichkeit bedeutet jedoch nicht zwingend, dass Chlorodrepanis tatsächlich die nächste Verwandtschaftsgruppe von Viridonia darstellt. Als mögliche nahe Verwandte kommen nach heutigem Kenntnisstand insbesondere Linien um Chlorodrepanis, Loxops und Magumma, möglicherweise aber auch der Zweig um Hemignathus und Pseudonestor, infrage. Da bislang keine eindeutigen molekularen Daten des Einsiedler-Grünkleidervogels vorliegen, bleibt die genaue phylogenetische Stellung der Gattung innerhalb der hawaiischen Kleidervögel ungeklärt.</p>"
     },
     "references": [
       {
-        "label": "Test BirdLife Schweiz",
-        "url": "https://www.birdlife.ch/"
+        "label": "Pyle, R. L. & Pyle, P. – Birds of the Hawaiian Islands: Occurrence, History, Distribution, and Status. Greater ʻAmakihi – Viridonia sagittirostris. Bernice Pauahi Bishop Museum.",
+        "url": "https://hbs.bishopmuseum.org/birds/rlp-monograph/pdfs/08-DREP/GRAM.pdf"
       },
       {
-        "label": "Test BirdLife Schweiz",
-        "url": "https://www.birdlife.ch/"
+        "label": "Lindsey, G. D., VanderWerf, E. A., Baker, H. & Baker, P. E. (1998). Hawaiʻi ʻAmakihi (Hemignathus virens), Kauaʻi ʻAmakihi (H. kauaiensis), Oʻahu ʻAmakihi (H. chloris), and Greater ʻAmakihi (H. sagittirostris). The Birds of North America, No. 360.",
+        "url": "https://datazone.birdlife.org/species/factsheet/greater-amakihi-viridonia-sagittirostris?utm_source=chatgpt.com"
+      },
+      {
+        "label": "BirdLife International. Greater Amakihi (Viridonia sagittirostris) Species factsheet. BirdLife DataZone.",
+        "url": "https://birdsoftheworld.org/bow/species/greama/cur/introduction"
       }
     ]
   },
