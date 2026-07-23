@@ -2172,8 +2172,8 @@
     },
     "last_seen": "1200",
     "location": {
-      "lat": 19.4,
-      "lng": -155.4667
+      "lat": 19.741667,
+      "lng": -155.85
     },
     "habitat": "Hawaii (Hawaii)",
     "images": {
@@ -2203,7 +2203,7 @@
       "range_hypothetical": null,
       "passage": null,
       "breeding_spots": null,
-      "find_spots": null,
+      "find_spots": "https://raw.githubusercontent.com/lehmannphilippe-dotcom/webflow-data/refs/heads/main/ranges/Hemignathus_vorpalis_find_spots%20(1).geojson",
       "last_observation": null
     }
   },
