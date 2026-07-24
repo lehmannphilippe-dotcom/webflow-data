@@ -2240,10 +2240,10 @@
       }
     ],
     "taxonomy": {
-      "family": "",
-      "genus": "",
-      "family_key": "",
-      "genus_key": ""
+       "family": "Gänse (Anserinae)",
+      "genus": "Meergänse (Branta)",
+      "family_key": "anserinae",
+      "genus_key": "branta"
     },
     "ranges": {
       "range_native": null,
