@@ -51,7 +51,7 @@
       "range_hypothetical": null,
       "passage": null,
       "breeding_spots": null,
-      "find_spots": null,
+      "find_spots": "https://raw.githubusercontent.com/lehmannphilippe-dotcom/webflow-data/refs/heads/main/ranges/Porzana_sp_kleine_Hawaiiralle_spots.geojson",
       "last_observation": null
     }
   },
@@ -1143,7 +1143,7 @@
       "range_hypothetical": null,
       "passage": null,
       "breeding_spots": null,
-      "find_spots": null,
+      "find_spots": "https://raw.githubusercontent.com/lehmannphilippe-dotcom/webflow-data/refs/heads/main/ranges/Porzana_sp_Grosse-Hawaiiralle_spots.geojson",
       "last_observation": null
     }
   },
