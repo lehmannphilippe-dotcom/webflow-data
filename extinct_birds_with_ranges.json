@@ -6902,7 +6902,7 @@
       "genus_key": "zapornia"
     },
     "ranges": {
-      "range_native": "https://raw.githubusercontent.com/lehmannphilippe-dotcom/webflow-data/refs/heads/main/ranges/porzana-sandwichensis.geojson",
+      "range_native": "https://raw.githubusercontent.com/lehmannphilippe-dotcom/webflow-data/refs/heads/main/ranges/zapornia-millsi.geojson",
       "breeding_native": null,
       "range_hypothetical": null,
       "passage": null,
@@ -6970,7 +6970,7 @@
       "genus_key": "zapornia"
     },
     "ranges": {
-      "range_native": "https://raw.githubusercontent.com/lehmannphilippe-dotcom/webflow-data/refs/heads/main/ranges/porzana-sandwichensis.geojson",
+      "range_native": "https://raw.githubusercontent.com/lehmannphilippe-dotcom/webflow-data/refs/heads/main/ranges/zapornia-sandwichensis.geojson",
       "breeding_native": null,
       "range_hypothetical": null,
       "passage": null,
