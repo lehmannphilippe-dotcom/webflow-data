@@ -1,0 +1,40 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "place": "Mauna Kea Adze Quarry Complex (Hawaiʻi Island)",
+        "description": "Einige Knochen aus dem archäologischen Basaltbeil-Steinbruchkomplex am Mauna Kea stammen von einer Ralle, die deutlich grösser war als die historische Hawaiiralle (Porzana sandwichensis). Olson und James führten diese unbeschriebene Form informell als «Larger Hawaii rail». Da der Steinbruchkomplex ein ausgedehntes Areal umfasst, bezeichnet die Koordinate einen repräsentativen Punkt innerhalb des Fundgebiets.",
+        "references": [
+          "Olson & James 1982"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -155.4678,
+          19.8003
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place": "Puʻu Waʻawaʻa lava-tube fossil area, northern Hualālai (Hawaiʻi Island)",
+        "description": "Subfossile Rallenknochen aus den Lavaröhren des Puʻu-Waʻawaʻa-Gebiets wurden anhand ihrer Grösse drei Formen zugeordnet: gross, mittel und sehr klein. Die grosse Form wurde als prähistorisch ausgestorbene, unbeschriebene Porzana-Art geführt. Der publizierte Gebietsbericht ordnet die grosse Form keiner einzelnen Höhle eindeutig zu; der Punkt kennzeichnet deshalb repräsentativ das umfassendere Fundgebiet und keinen exakten Höhleneingang.",
+        "references": [
+          "Giffin 1993",
+          "Giffin, Pu‘u Wa‘awa‘a Biological Assessment (aktualisierte Fassung)"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -155.8345,
+          19.7694
+        ]
+      }
+    }
+  ]
+}
