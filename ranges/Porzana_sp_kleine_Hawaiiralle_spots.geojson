@@ -1,0 +1,24 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "place": "Henahena lava-tube complex, Puʻu Waʻawaʻa (Hawaiʻi Island)",
+        "description": "In den Lavaröhren des Henahena-Gebiets innerhalb von Puʻu Waʻawaʻa wurden subfossile Knochen mehrerer flugunfähiger Rallen entdeckt. Grössenvergleiche unterscheiden dort eine grosse, eine mittelgrosse und eine sehr kleine Form. Die kleinste Form wird in den Fundlisten ausdrücklich als unbeschriebene «tiny Hawaiian rail» (Porzana sp.) geführt und gilt als bereits in prähistorischer Zeit ausgestorben. Da die publizierten Berichte die Knochen keiner öffentlich bezeichneten Einzelhöhle eindeutig zuordnen und das Gebiet mehr als 100 Höhleneingänge umfasst, bezeichnet die Koordinate einen repräsentativen Mittelpunkt des Henahena-Lavaröhrenkomplexes und keinen exakten Höhleneingang.",
+        "references": [
+          "Giffin 1993",
+          "Giffin 2009, Puʻu Waʻawaʻa Biological Assessment",
+          "Giffin 2013, Henahena Conservation Unit Management Plan"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -155.852,
+          19.746
+        ]
+      }
+    }
+  ]
+}
