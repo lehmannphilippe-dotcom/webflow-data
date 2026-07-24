@@ -2465,18 +2465,26 @@
       "panel": "https://cdn.prod.website-files.com/6950eb029163bef776e18cfd/698f578c3704447cd781b0f4_%20Branta_rhuax.jpg"
     },
     "panel": {
-     "description": "<p>Über die Hawaii-Riesengans (Branta rhuax) ist nur wenig bekannt, da die Art ausschliesslich durch subfossile und teils stark fragmentierte Knochenreste überliefert ist. Molekulargenetische Untersuchungen fossiler DNA zeigen, dass sie zur hawaiischen Radiation der Branta-Gänse gehörte und eng mit der heute noch lebenden Hawaiigans (Branta sandvicensis) verwandt war.</p><p>Mit einem geschätzten durchschnittlichen Körpergewicht von etwa 8,6 kg war die Hawaii-Riesengans mehr als viermal so schwer wie die heutige Hawaiigans. Die Art besass einen massigen Körperbau, einen auffallend grossen und kräftigen Schädel sowie im Verhältnis zum Körper stark reduzierte Flügel. Untersuchungen der Skelettproportionen bestätigen, dass sie vollständig flugunfähig war, während die kräftig entwickelten Beine auf eine ausschliesslich terrestrische Fortbewegung hinweisen.</p><p>Wie bei der heutigen Hawaiigans wird angenommen, dass auch Branta rhuax weitgehend an ein Leben an Land angepasst war. Möglicherweise waren die Schwimmhäute zwischen den Zehen daher ebenfalls stark reduziert. Über die genaue Lebensweise, das Verhalten und die Färbung des Gefieders ist jedoch nichts bekannt, da von der Art keine Weichteile oder historischen Beobachtungen überliefert sind.</p>",
+     "description": "<p>Über die Hawaii-Riesengans (Branta rhuax) ist nur wenig bekannt, da die Art ausschliesslich durch subfossile und teils stark fragmentierte Knochenreste überliefert ist. Molekulargenetische Untersuchungen fossiler DNA zeigen, dass sie zur hawaiischen Radiation der Branta-Gänse gehörte und eng mit der heute noch lebenden Hawaiigans (Branta sandvicensis) verwandt war.</p><p>Mit einem geschätzten durchschnittlichen Körpergewicht von etwa 8,6 kg war die Hawaii-Riesengans mehr als viermal so schwer wie die heutige Hawaiigans. Die Art besass einen massigen Körperbau, einen auffallend grossen und kräftigen Schädel sowie im Verhältnis zum Körper stark reduzierte Flügel. Untersuchungen der Skelettproportionen bestätigen, dass sie vollständig flugunfähig war, während die kräftig entwickelten Beine auf eine ausschliesslich terrestrische Fortbewegung hinweisen.</p><p>Wie bei der heutigen Hawaiigans wird angenommen, dass auch die Hawaii-Riesengans weitgehend an ein Leben an Land angepasst war. Möglicherweise waren die Schwimmhäute zwischen den Zehen daher ebenfalls stark reduziert. Über die genaue Lebensweise, das Verhalten und die Färbung des Gefieders ist jedoch nichts bekannt, da von der Art keine Weichteile oder historischen Beobachtungen überliefert sind.</p>",
      "habitat_text": "<p>Das bekannte Verbreitungsgebiet war auf die Insel Hawaii beschränkt. Knochenfunde sind von mehreren Fundstellen im westlichen und südlichen Teil der Insel bekannt, darunter aus Lavaröhren und Höhlensystemen. Das ursprüngliche Typusmaterial stammt aus der Gegend oberhalb von Pahala im Distrikt Kaʻū, wo die Knochen unter einem prähistorischen Lavastrom entdeckt wurden.</p><p>Der schwere Körperbau und die vollständige Flugunfähigkeit zeigen, dass die Hawaii-Riesengans stark an ein Leben am Boden angepasst war. Wahrscheinlich bewohnte sie terrestrische, vegetationsreiche Lebensräume und ernährte sich überwiegend von pflanzlicher Nahrung.</p><p>Ob die Art tatsächlich auf bestimmte Regionen der Insel beschränkt war oder ursprünglich ein deutlich grösseres Verbreitungsgebiet besass, lässt sich anhand der bislang bekannten Fossilfunde nicht eindeutig bestimmen.</p>",
      "extinction_text": "<p>Der genaue Zeitpunkt des Aussterbens ist nicht abschliessend geklärt. Die meisten bekannten Funde stammen aus der Zeit vor der ersten menschlichen Besiedlung Hawaiis oder lassen sich nur ungenau datieren.</p><p>Sollte die Hawaii-Riesengans bis zur Ankunft der ersten polynesischen Siedler überlebt haben, könnte sie aufgrund ihrer Grösse und Flugunfähigkeit eine leicht zugängliche Nahrungsquelle für Fleisch und Eier dargestellt haben. Da die Art vor der Besiedlung Hawaiis durch den Menschen wahrscheinlich kaum natürliche Feinde hatte, sich langsam und schwerfällig bewegte und pro Jahr nur wenige Eier legte, dürfte die Population durch Jagd rasch zurückgegangen sein.</p><p>Ob der Jagddruck allein zum Aussterben führte, lässt sich heute nicht eindeutig bestimmen. Neuere Untersuchungen deuten darauf hin, dass selbst das Aussterben grosser, bodenbewohnender Vogelarten Hawaiis nicht allein durch Jagd erklärt werden kann. Wahrscheinlicher war ein Zusammenspiel unterschiedlicher Faktoren, die direkt oder indirekt auf den Menschen zurückzuführen waren, darunter Jagd, Lebensraumveränderungen und die Einführung gebietsfremder Säugetiere.</p>"
     },
     "references": [
       {
-        "label": "Test BirdLife Schweiz",
-        "url": "https://www.birdlife.ch/"
+        "label": "Chatterji, R. M., Williams, S. & Buckner, J. C. (2026). Geometric morphometrics enables accurate predictions of palaeoecology and reveals unique adaptations to an expanded niche space in extinct waterfowl. Evolutionary Ecology, 40, Article 40. DOI: 10.1007/s10682-026-10405-3.",
+        "url": "https://link.springer.com/article/10.1007/s10682-026-10405-3"
       },
-      {
-        "label": "Test BirdLife Schweiz",
-        "url": "https://www.birdlife.ch/"
+       {
+        "label": "Paxinos, E. E., James, H. F., Olson, S. L., Sorenson, M. D., Jackson, J., & Fleischer, R. C. (2002). mtDNA from fossils reveals a radiation of Hawaiian geese recently derived from the Canada goose (Branta canadensis). Proceedings of the National Academy of Sciences, 99(3), 1399–1404. DOI: 10.1073/pnas.032166399.",
+        "url": "https://www.pnas.org/doi/10.1073/pnas.032166399?"
+      },
+       {
+        "label": "Wetmore, A. (1943). An Extinct Goose from the Island of Hawaii. The Condor, 45(4), 146–148. DOI: 10.2307/1364496.",
+        "url": "https://academic.oup.com/condor/article-abstract/45/4/146/5251470?login=false"
+      },
+       {
+        "label": "Olson, S. L. & James, H. F. (1991). Descriptions of thirty-two new species of birds from the Hawaiian Islands: Part I. Non-Passeriformes. Ornithological Monographs, 45, 1–88.",
+        "url": "https://repository.si.edu/items/e437e5a4-323b-4ab7-868f-911d00725096"
       }
     ],
     "taxonomy": {
