@@ -359,10 +359,10 @@
       "lat": 20.981429,
       "lng": -156.636267
     },
-    "habitat": "Maui",
+    "habitat": "Maui (Hawaii)",
     "images": {
-      "tooltip": "",
-      "panel": ""
+      "tooltip": "https://cdn.prod.website-files.com/6a2856622c4f26c0e72a657b/6a65daee2e5ac369094cf0e2_vangulifer-neophasis_profile.jpg",
+      "panel": "https://cdn.prod.website-files.com/6a2856622c4f26c0e72a657b/6a65d966741c1f9622975a32_%20Vangulifer-neophasis.jpg"
     },
     "panel": {
       "description": "",
@@ -407,10 +407,10 @@
       "lat": 20.786478,
       "lng": -156.069171
     },
-    "habitat": "Maui",
+    "habitat": "Maui (Hawaii)",
     "images": {
-      "tooltip": "",
-      "panel": ""
+      "tooltip": "https://cdn.prod.website-files.com/6a2856622c4f26c0e72a657b/6a65dae8673ade8eaa6236f6_vangulifer-mirandus_profile.jpg",
+      "panel": "https://cdn.prod.website-files.com/6a2856622c4f26c0e72a657b/6a65d963743c623848706f9f_Vangulifer-mirandus.jpg"
     },
     "panel": {
       "description": "",
