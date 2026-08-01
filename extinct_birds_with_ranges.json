@@ -361,8 +361,8 @@
     },
     "habitat": "Maui (Hawaii)",
     "images": {
-      "tooltip": "https://cdn.prod.website-files.com/6a2856622c4f26c0e72a657b/6a65daee2e5ac369094cf0e2_vangulifer-neophasis_profile.jpg",
-      "panel": "https://cdn.prod.website-files.com/6a2856622c4f26c0e72a657b/6a65d966741c1f9622975a32_%20Vangulifer-neophasis.jpg"
+      "tooltip": "https://cdn.prod.website-files.com/6a2856622c4f26c0e72a657b/6a6da1db56d8da3ef4c40513_vangulifer-neophasis_profile.jpg",
+      "panel": "https://cdn.prod.website-files.com/6a2856622c4f26c0e72a657b/6a6da1ff00db30d38bd2dece_%20Vangulifer-neophasis.jpg"
     },
     "panel": {
       "description": "",
@@ -410,7 +410,7 @@
     "habitat": "Maui (Hawaii)",
     "images": {
       "tooltip": "https://cdn.prod.website-files.com/6a2856622c4f26c0e72a657b/6a65dae8673ade8eaa6236f6_vangulifer-mirandus_profile.jpg",
-      "panel": "https://cdn.prod.website-files.com/6a2856622c4f26c0e72a657b/6a65d963743c623848706f9f_Vangulifer-mirandus.jpg"
+      "panel": "https://cdn.prod.website-files.com/6a2856622c4f26c0e72a657b/6a6da1eaf189fb8db41343c4_Vangulifer-mirandus.jpg"
     },
     "panel": {
       "description": "",
@@ -455,10 +455,10 @@
       "lat": 21.302271,
       "lng": -157.782514
     },
-    "habitat": "Oahu",
+    "habitat": "Oahu (Hauwaii)",
     "images": {
-      "tooltip": "",
-      "panel": ""
+      "tooltip": "https://cdn.prod.website-files.com/6a2856622c4f26c0e72a657b/6a6da03f30444439032d434b_Aidemedia-zanclops_profile.jpg",
+      "panel": "https://cdn.prod.website-files.com/6a2856622c4f26c0e72a657b/6a6da054b1c5e307a78656be_Aidemedia-zanclops.jpg"
     },
     "panel": {
       "description": "",
@@ -503,10 +503,10 @@
       "lat": 21.385259,
       "lng": -157.804119
     },
-    "habitat": "Oahu",
+    "habitat": "Oahu (Hawaii)",
     "images": {
-      "tooltip": "",
-      "panel": ""
+      "tooltip": "https://cdn.prod.website-files.com/6a2856622c4f26c0e72a657b/6a6da03d1dc5d24d049d6ecf_Aidemedia-chascax_profile.jpg",
+      "panel": "https://cdn.prod.website-files.com/6a2856622c4f26c0e72a657b/6a6da0584e094bf501fb28b3_Aidemedia-chascax.jpg"
     },
     "panel": {
       "description": "",
@@ -551,10 +551,10 @@
       "lat": 20.831011,
       "lng": -156.191565
     },
-    "habitat": "Maui/Molokai",
+    "habitat": "Maui, Molokai (Hawaii)",
     "images": {
-      "tooltip": "",
-      "panel": ""
+      "tooltip": "https://cdn.prod.website-files.com/6a2856622c4f26c0e72a657b/6a6da043a794283734f2f5d8_Aidemedia-lutetia_profile.jpg",
+      "panel": "https://cdn.prod.website-files.com/6a2856622c4f26c0e72a657b/6a6da05b669054aa407b9ecf_Aidemedia%20-lutetiae%20.jpg"
     },
     "panel": {
       "description": "",
