@@ -263,10 +263,10 @@
       "lat": 21.14601,
       "lng": -156.84402
     },
-    "habitat": "Maui ,Molokai, Oahu",
+    "habitat": "Maui ,Molokai, Oahu (Haiwaii)",
     "images": {
       "tooltip": "",
-      "panel": ""
+      "panel": "https://cdn.prod.website-files.com/6a2856622c4f26c0e72a657b/6a6f502e197e117f7d73313e_Xestospiza-fastigialis.jpg"
     },
     "panel": {
       "description": "",
@@ -311,10 +311,10 @@
       "lat": 21.990481,
       "lng": -159.747698
     },
-    "habitat": "Kauai",
+    "habitat": "Kauai (Hawaii)",
     "images": {
       "tooltip": "",
-      "panel": ""
+      "panel": "https://cdn.prod.website-files.com/6a2856622c4f26c0e72a657b/6a6f503313f05253e2d96ab2_Xestospiza%20conica.jpg"
     },
     "panel": {
       "description": "",
@@ -2315,10 +2315,10 @@
       "lat": 21.1770223,
       "lng": -157.2186283
     },
-    "habitat": "Hawaii",
+    "habitat": "Molokai (Hawaii)",
     "images": {
       "tooltip": "",
-      "panel": ""
+      "panel": "https://cdn.prod.website-files.com/6a2856622c4f26c0e72a657b/6a6f50570b6b45baecb4b947_Thambetochen-chauliodous.jpg"
     },
     "panel": {
       "description": "",
