@@ -601,8 +601,8 @@
     },
     "habitat": "Molokai, Maui (Hawaii)",
     "images": {
-      "tooltip": "",
-      "panel": "https://cdn.prod.website-files.com/69cfebf5eff673dfd4242f2e/6a1c449ace7c60654d5eee54_telespiza-ypsilon.jpg"
+      "tooltip": "https://cdn.prod.website-files.com/6a2856622c4f26c0e72a657b/6a7216bed1fa9bb0b0a4e297_Telespiza-ypsilon_profile.jpg",
+      "panel": "https://cdn.prod.website-files.com/6a2856622c4f26c0e72a657b/6a7216a1703266a4b49bfd05_Telespiza%20ypsilon.jpg"
     },
     "panel": {
            "description": "<p>Über den Maui-Nui-Finken (Telespiza ypsilon) ist nur wenig bekannt, da bislang nur begrenztes subfossiles Material vorliegt. Die Art gehörte zu den samenfressenden Kleidervögeln und besass, wie alle Vertreter der Gattung Telespiza, einen kurzen, tiefen und kräftigen Schnabel. In Schnabelform und Anatomie ähnelte der Maui-Nui-Fink den heute lebenden Arten stark, war jedoch deutlich kleiner und möglicherweise stärker auf bestimmte Pflanzenarten oder Nahrungstypen spezialisiert.</p><p>Da sich die beiden heute lebenden Arten der Gattung Telespiza äusserlich nur geringfügig unterscheiden, wird angenommen, dass auch der Maui-Nui-Fink ein ähnliches Gefieder besass. Vermutlich zeigte die Art wie ihre heutigen Verwandten lediglich einen schwach ausgeprägten Geschlechtsdimorphismus. Wie bei den heute lebenden Arten könnten ältere Weibchen mit zunehmendem Alter eine dem Männchen immer ähnlichere Gefiederfärbung entwickelt haben.</p>",
@@ -610,13 +610,13 @@
           "extinction_text": "<p>Das Aussterben des Maui-Nui-Finken steht höchstwahrscheinlich im Zusammenhang mit der Ankunft der ersten polynesischen Siedler auf Hawaii. Die Umwandlung und Zerstörung wichtiger Lebensräume sowie die Einschleppung fremder Tierarten wie Ratten und anderer zuvor auf Hawaii nicht vorkommender Prädatoren führten zu einem drastischen Rückgang der ursprünglichen Tieflandvegetation, was für Arten, die spezialisierte ökologische Nischen nutzten, schwerwiegende Folgen hatte.</p><p>Es ist jedoch auch möglich, dass die Art infolge natürlicher klimatischer oder ökologischer Veränderungen verschwand oder dadurch erheblich geschwächt war. Der Zerfall des einst zusammenhängenden Maui-Nui-Inselkomplexes infolge des Meeresspiegelanstiegs führte zur Überflutung grosser Tieflandflächen und zur Fragmentierung wichtiger Lebensräume. Möglicherweise konnte sich der Maui-Nui-Fink langfristig nicht an diese Veränderungen anpassen und starb bereits vor dem direkten Einfluss des Menschen aus.</p>"
     },
     "references": [
-      {
-        "label": "Test BirdLife Schweiz",
-        "url": "https://www.birdlife.ch/"
+     {
+        "label": "James, Helen F. & Olson, Storrs L. 1991. Descriptions of thirty-two new species of birds from the Hawaiian Islands: Part II. Passeriformes. Ornithological Monographs 46: 1–88.",
+        "url": "https://repository.si.edu/items/bbb3cb1a-0f17-48d4-a449-7d5d4f6e126e"
       },
       {
-        "label": "Test BirdLife Schweiz",
-        "url": "https://www.birdlife.ch/"
+        "label": "Burney, David A., James, Helen F., Burney, Lida Pigott, Olson, Storrs L., Kikuchi, William, Wagner, Warren L., Burney, Mara, McCloskey, Deirdre, Kikuchi, Delores, Grady, Frederick V., Gage, Reginald II & Nishek, Robert. 2001. Fossil evidence for a diverse biota from Kauaʻi and its transformation since human arrival. Ecological Monographs 71(4): 615–641.",
+        "url": "https://georgehbalazs.com/wp-content/uploads/2019/10/Burney_et_al..pdf"
       }
     ],
     "taxonomy": {
