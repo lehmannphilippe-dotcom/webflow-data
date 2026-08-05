@@ -27,6 +27,30 @@
       }
     ]
   },
+    {
+    "id": "orthiospiza",
+    "family": "Kleidervögel (Drepanidini)",
+    "family_key": "drepanidini",
+    "name": {
+      "de": "Orthiospiza",
+      "lat": "Orthiospiza",
+      "en": "Orthiospiza"
+    },
+    "extinction_date": "1500",
+    "panel": {
+      "description": ""
+    },
+    "references": [
+      {
+        "label": "Test BirdLife Schweiz",
+        "url": "https://www.birdlife.ch/"
+      },
+      {
+        "label": "Test BirdLife Schweiz",
+        "url": "https://www.birdlife.ch/"
+      }
+    ]
+  },
   {
     "id": "paroreomyza",
     "family": "Kleidervögel (Drepanidini)",
