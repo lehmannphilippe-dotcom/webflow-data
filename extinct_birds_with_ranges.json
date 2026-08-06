@@ -313,18 +313,14 @@
       "panel": "https://cdn.prod.website-files.com/6a2856622c4f26c0e72a657b/6a72ce1bef1bb7f853a6a252_Xestospiza%20conica.jpg"
     },
     "panel": {
-      "description": "",
-      "habitat_text": "",
-      "extinction_text": ""
+      "description": "<p>Über den Kegelschnabelfinken ist nur wenig bekannt, da bislang lediglich subfossiles Material in Form von Schnabel- und Kieferknochen gefunden wurde.</p><p>Wie für die gesamte Gattung Xestospiza charakteristisch, besass auch der Kegelschnabelfink einen kegelförmigen Schnabel mit nahezu gerade verlaufendem Oberkiefer. Diese besondere Schnabelform deutet auf eine eigenständige ökologische Spezialisierung innerhalb der hawaiischen Kleidervogel-Radiation hin.</p><p>Welche konkrete Funktion der Schnabel bei der Nahrungssuche erfüllte, lässt sich anhand der erhaltenen Knochen jedoch nicht sicher bestimmen. Vermutlich ernährte sich die Art von einer Mischung aus Wirbellosen, Früchten und anderen pflanzlichen Bestandteilen. Möglicherweise nutzte sie ihren kegelförmigen Schnabel, um Nahrung aus Früchten, Pflanzenmaterial oder unterschiedlichen Substraten herauszulösen. Direkte Nachweise für diese Ernährungsweise liegen allerdings nicht vor. Über die Gefiederfärbung und das Sozialverhalten des Kegelschnabelfinken ist nichts bekannt.</p><p>In fossilen Gewöllen der ebenfalls ausgestorbenen Kauai-Langbeineule (Grallistrix auceps) wurden mehrere Gelenkenden von Unterkiefern gefunden, die möglicherweise zum Kegelschnabelfinken gehören. Das Material ist jedoch zu fragmentarisch, um bestimmen zu können, ob die Überreste tatsächlich dieser Art oder einer anderen, bislang unbeschriebenen Art finkenähnlicher Kleidervögel zuzuordnen sind.</p>",
+      "habitat_text": "<p>Die Art war wahrscheinlich auf Kauai endemisch. Die einzigen bekannten Fossilfunde stammen aus den Makawehi-Dünen im Süden der Insel. Aufgrund des begrenzten Fundmaterials ist ihr ursprüngliches Verbreitungsgebiet unbekannt. Ebenso bleibt unklar, ob die Art vorwiegend trockene, tiefer gelegene Lebensräume oder feuchtere Waldgebiete nutzte.</p>",
+      "extinction_text": "<p>Der genaue Zeitpunkt und die Ursachen des Aussterbens lassen sich heute nicht mehr sicher rekonstruieren. Wahrscheinlich überlebte die Art bis kurz vor oder möglicherweise noch bis nach der Ankunft der ersten polynesischen Siedler auf den Hawaii-Inseln. Ob ihr Verschwinden auf direkte oder indirekte menschliche Einwirkungen zurückzuführen ist oder ob natürliche ökologische Veränderungen zum Aussterben führten, lässt sich anhand der bislang bekannten Fossilfunde nicht eindeutig klären.</p>"
     },
     "references": [
       {
-        "label": "Test BirdLife Schweiz",
-        "url": "https://www.birdlife.ch/"
-      },
-      {
-        "label": "Test BirdLife Schweiz",
-        "url": "https://www.birdlife.ch/"
+        "label": "James, Helen F. & Olson, Storrs L. 1991. Descriptions of thirty-two new species of birds from the Hawaiian Islands: Part II. Passeriformes. Ornithological Monographs 46: 1–88.",
+        "url": "https://www.researchgate.net/publication/242013278_Descriptions_of_Thirty-Two_New_Species_of_Birds_from_the_Hawaiian_Islands_Part_II_Passeriformes"
       }
     ],
     "taxonomy": {
