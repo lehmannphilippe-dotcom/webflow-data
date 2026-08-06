@@ -263,24 +263,20 @@
       "lat": 21.14601,
       "lng": -156.84402
     },
-    "habitat": "Maui ,Molokai, Oahu (Haiwaii)",
+    "habitat": "Oahu, Molokai, Maui (Hawaii)",
     "images": {
       "tooltip": "https://cdn.prod.website-files.com/6a2856622c4f26c0e72a657b/6a72c7665c05ae60cceaa476_Xestospiza-fastigalis_profile.jpg",
       "panel": "https://cdn.prod.website-files.com/6a2856622c4f26c0e72a657b/6a717faa108c711c58ff394c_Xestospiza-fastigialis.jpg"
     },
     "panel": {
-      "description": "",
-      "habitat_text": "",
-      "extinction_text": ""
+        "description": "<p>Der Rückenschnabelfink war eine kleine, finkenähnliche Art aus der Gattung Xestospiza. Über die Art ist nur wenig bekannt, da sie ausschliesslich durch unvollständiges subfossiles Knochenmaterial belegt ist. Neben einzelnen Schädel-, Schnabel- und Kieferknochen wurden jedoch auch Teile des übrigen Skeletts gefunden, wodurch sich zumindest ihre ungefähre Körpergrösse und einige anatomische Merkmale rekonstruieren lassen.</p><p>Charakteristisch für die ganze Gattung Xestospiza war auch beim Rückenschnabelfinken der kegelförmige Schnabel mit nahezu gerade verlaufendem Oberkiefer. Diese besondere Schnabelform deutet auf eine eigenständige ökologische Spezialisierung innerhalb der hawaiischen Kleidervogel-Radiation hin. Welche konkrete Funktion der Schnabel bei der Nahrungssuche erfüllte, lässt sich anhand der erhaltenen Knochen jedoch nicht sicher bestimmen.</p><p>Vermutlich ernährte sich die Art von einer Mischung aus Wirbellosen, Früchten und anderen pflanzlichen Bestandteilen. Möglicherweise nutzte sie ihren kegelförmigen Schnabel, um Nahrung aus Früchten, Pflanzenmaterial oder unterschiedlichen Substraten herauszulösen. Direkte Nachweise für diese Ernährungsweise liegen allerdings nicht vor. Über die Gefiederfärbung sowie das Sozialverhalten des Rückenschnabelfinken ist nichts bekannt.</p>",
+        "habitat_text": "<p>Fossilfunde belegen das ehemalige Vorkommen des Rückenschnabelfinken auf Oahu, Molokai und Maui. Ob es sich dabei um Unterarten handelte oder ob die Art über alle Inseln hinweg einheitlich monotypisch ausgebildet war, lässt sich anhand des fragmentierten Materials nicht sicher bestimmen.</p><p>Sofern die Art über eine gute Flugfähigkeit verfügte, könnte sie bei vorübergehendem Nahrungsmangel möglicherweise auch zwischen benachbarten Inseln gewechselt haben. Denkbar ist daher, dass sie ein relativ grosses Verbreitungsgebiet besass und auf den einzelnen Inseln je nach Nahrungsangebot unterschiedliche Höhenstufen und Lebensräume nutzte. Gesicherte Aussagen hierzu sind aufgrund der unvollständigen Fossilüberlieferung jedoch nicht möglich.</p>",
+        "extinction_text": "<p>Der genaue Zeitpunkt und die Ursachen des Aussterbens lassen sich heute nicht mehr sicher rekonstruieren. Wahrscheinlich überlebte die Art bis kurz vor oder möglicherweise noch bis nach der Ankunft der ersten polynesischen Siedler auf den Hawaii-Inseln. Ob ihr Verschwinden auf direkte oder indirekte menschliche Einwirkungen zurückzuführen ist oder ob natürliche ökologische Veränderungen zum Aussterben führten, lässt sich anhand der bislang bekannten Fossilfunde nicht eindeutig klären.</p>"
     },
     "references": [
       {
-        "label": "Test BirdLife Schweiz",
-        "url": "https://www.birdlife.ch/"
-      },
-      {
-        "label": "Test BirdLife Schweiz",
-        "url": "https://www.birdlife.ch/"
+        "label": "James, Helen F. & Olson, Storrs L. 1991. Descriptions of thirty-two new species of birds from the Hawaiian Islands: Part II. Passeriformes. Ornithological Monographs 46: 1–88.",
+        "url": "https://www.researchgate.net/publication/242013278_Descriptions_of_Thirty-Two_New_Species_of_Birds_from_the_Hawaiian_Islands_Part_II_Passeriformes"
       }
     ],
     "taxonomy": {
