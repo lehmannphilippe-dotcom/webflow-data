@@ -7694,7 +7694,7 @@
   {
     "id": "loxioides_kikuchi",
     "name": {
-      "de": "Kauaʻi-Palila",
+      "de": "Kauai-Palila",
       "lat": "Loxioides kikuchi",
       "en": "Kauai Palila"
     },
@@ -7705,13 +7705,13 @@
     },
     "habitat": "Kauai (Hawaii)",
     "images": {
-      "tooltip": "",
-      "panel": "https://cdn.prod.website-files.com/6950eb029163bef776e18cfd/6999c10bdb0af633bc3b4ba5_Loxioides_kikuchi.jpg"
+      "tooltip": "https://cdn.prod.website-files.com/6a2856622c4f26c0e72a657b/6a756cac81a5c08d6bb67dbf_Loxioides-kikuchi_profile.jpg",
+      "panel": "https://cdn.prod.website-files.com/6a2856622c4f26c0e72a657b/6a756cc4da2a2dc911f14bf0_Loxioides%20kikuchi.jpg"
     },
     "panel": {
-      "description": "<p>Der Kauaʻi-Palila ist ausschliesslich durch zwei Oberkiefer bekannt, die im Dezember 1997 sowie im August 1998 in der Makauwahi Cave im Kōloa-Quadrangle auf Kauaʻi geborgen wurden. Weitere Fossilfunde liegen bislang nicht vor.</p><p>Über das äussere Erscheinungsbild und das Verhalten der Art ist nichts direkt bekannt. Der Kauaʻi-Palila war grösser als sein heute noch lebender Verwandter von der Insel Hawaiʻi. Zudem besass er keinen hakenförmig gebogenen Schnabel, was darauf hindeutet, dass er eine andere Nahrung nutzte als der Palila (Loxioides bailleui). Abgesehen von diesen Unterschieden wird angenommen, dass sich beide Arten in ihrem allgemeinen Körperbau und Erscheinungsbild weitgehend ähnelten.</p>",
-      "habitat_text": "<p>Der Lebensraum des Kauaʻi-Palila waren vermutlich die tropischen Trockenwälder auf der Insel Kauaʻi.</p>",
-      "extinction_text": "<p>Die amerikanischen Paläontologen Storrs Lovejoy Olson (1944–2021) und Helen Frances James (geb. 1956), die die Art im Jahr 2006 erstmals wissenschaftlich beschrieben, gehen davon aus, dass der Kauaʻi-Palila möglicherweise bis ins späte 18. oder sogar bis ins frühe 19. Jahrhundert überlebt hat. Demnach könnte sein Aussterben erst im Zuge der europäischen Besiedlung Kauaʻis erfolgt sein.</p><p>Auffällig ist, dass der Vogel weder von den polynesischen Ureinwohnern überliefert noch im Rahmen früher Expeditionen dokumentiert wurde. Selbst während der europäischen Besiedlung der Insel blieb die Art offenbar unentdeckt.</p><p>Das Aussterben des Kauaʻi-Palila wird auf tiefgreifende Umweltveränderungen zurückgeführt, die durch die Ausbreitung der Landwirtschaft verursacht wurden. Grossflächige Rodungen führten zum Verlust der Trockenwälder, während die zunehmende Bewässerung über Bäche das Gebiet stark veränderte. Infolge dieser Eingriffe wurde das Ökosystem deutlich feuchter, wodurch entscheidende Nahrungsquellen für den Kauaʻi-Palila versiegten und die Art schliesslich ausstarb.</p>"
+      "description": "<p>Der Kauai-Palila ist ausschliesslich durch zwei Oberkiefer bekannt, die im Dezember 1997 sowie im August 1998 in der Makauwahi Cave im Kōloa-Quadrangle auf Kauai geborgen wurden. Weitere Fossilfunde liegen bislang nicht vor.</p><p>Über das äussere Erscheinungsbild und das Verhalten der Art ist nichts direkt bekannt. Der Kauai-Palila war grösser als sein heute noch lebender Verwandter von der Insel Hawaii. Zudem besass er keinen hakenförmig gebogenen Schnabel, was darauf hindeutet, dass er eine andere Nahrung nutzte als der Palila (Loxioides bailleui). Abgesehen von diesen Unterschieden wird angenommen, dass sich beide Arten in ihrem allgemeinen Körperbau und Erscheinungsbild weitgehend ähnelten.</p>",
+      "habitat_text": "<p>Der Lebensraum des Kauai-Palila waren vermutlich die tropischen Trockenwälder auf der Insel Kauai.</p>",
+      "extinction_text": "<p>Die amerikanischen Paläontologen Storrs Lovejoy Olson (1944–2021) und Helen Frances James (geb. 1956), die die Art im Jahr 2006 erstmals wissenschaftlich beschrieben, gehen davon aus, dass der Kauaʻi-Palila möglicherweise bis ins späte 18. oder sogar bis ins frühe 19. Jahrhundert überlebt hat. Demnach könnte sein Aussterben erst im Zuge der europäischen Besiedlung Kauaʻis erfolgt sein.</p><p>Auffällig ist, dass der Vogel weder von den polynesischen Ureinwohnern überliefert noch im Rahmen früher Expeditionen dokumentiert wurde. Selbst während der europäischen Besiedlung der Insel blieb die Art offenbar unentdeckt.</p><p>Das Aussterben des Kauai-Palila wird auf tiefgreifende Umweltveränderungen zurückgeführt, die durch die Ausbreitung der Landwirtschaft verursacht wurden. Grossflächige Rodungen führten zum Verlust der Trockenwälder, während die zunehmende Bewässerung über Bäche das Gebiet stark veränderte. Infolge dieser Eingriffe wurde das Ökosystem deutlich feuchter, wodurch entscheidende Nahrungsquellen für den Kauai-Palila versiegten und die Art schliesslich ausstarb.</p>"
     },
     "references": [
       {
