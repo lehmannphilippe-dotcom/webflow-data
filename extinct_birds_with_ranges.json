@@ -11514,11 +11514,11 @@
   {
     "id": "paroreomyza_maculata",
     "name": {
-      "de": "Oahu-Astläufer",
+      "de": "Oahuastläufer",
       "lat": "Paroreomyza maculata",
       "en": "Oahu Creeper"
     },
-    "last_seen": "1990er-Jahre",
+    "last_seen": "1990",
     "location": {
       "lat": 21.35965,
       "lng": -158.02
@@ -11529,18 +11529,26 @@
       "panel": "https://cdn.prod.website-files.com/6a2856622c4f26c0e72a657b/6a76d0d06a155020f1a14d53_Paroreomyza-maculata.jpg"
     },
     "panel": {
-      "description": "",
-      "habitat_text": "",
-      "extinction_text": ""
+      "description": "<p>Der Oahuastläufer (Paroreomyza maculata) war mit einer Körperlänge von ungefähr 11 cm ein kleiner Vertreter der hawaiischen Kleidervögel. Die Art zeigte einen deutlichen Geschlechtsdimorphismus. Adulte Männchen waren auf der Oberseite überwiegend olivgrün gefärbt, während Unterseite, Stirn und ein deutlich ausgeprägter Überaugenstreif leuchtend gelb bis goldgelb erschienen.</p><p>Weibchen und Jungvögel waren wesentlich unauffälliger gefärbt. Ihre Oberseite war grau bis graugrün, die Unterseite gelblichweiss. Äusserlich glich der Oahuastläufer dem noch heute auf Oahu vorkommenden Oahu-ʻAmakihi (Chlorodrepanis flava).</p><p>Der Oahuastläufer ernährte sich überwiegend von Wirbellosen. Bei der Nahrungssuche bewegten sich die Vögel systematisch über stärkere Äste und Baumstämme und untersuchten Rinde, Spalten und abgestorbenes Holz nach Insekten und deren Larven. Historische Beobachtungen zeigen, dass sich die Tiere ausserhalb der Brutzeit teilweise zu grösseren Nahrungstrupps von mehreren Dutzend Vögeln zusammenschlossen.</p>",
+      "habitat_text": "<p>Der Oahuastläufer war auf Oahu endemisch. Fossil- und Subfossilfunde zeigen, dass die Art ursprünglich wesentlich weiter verbreitet war als während der historischen Zeit. Knochenfunde reichen bis in die tieferen und teilweise trockeneren Regionen Oahus, darunter die Ewa Plain; die Art kam somit wahrscheinlich ursprünglich auch in Tieflagen bis nahe an den Meeresspiegel vor.</p><p>Zur Zeit der wissenschaftlichen Beobachtung war das Verbreitungsgebiet bereits stark eingeschränkt. Nachweise existierten sowohl aus den Waiʻanae Mountains als auch aus den Koʻolau Mountains. Die letzten bekannten Populationen bewohnten vor allem feuchte bis mesische Wälder mittlerer Höhenlagen. Besonders typisch waren Mischwälder aus Ōhia (Metrosideros polymorpha) und Koa (Acacia koa). Die letzten gesicherten Beobachtungen stammten überwiegend aus Wäldern in etwa 300–600 m Höhe.</p>",
+      "extinction_text": "<p>Um die Jahrhundertwende galt die Art noch als vergleichsweise häufig, wurde anschliessend jedoch innerhalb eines sehr kurzen Zeitraums zunehmend seltener. Umfangreiche Untersuchungen der noch vorhandenen Waldgebiete Oahus fanden später keine stabilen Populationen mehr.</p><p>Das letzte erhaltene Belegexemplar wurde 1968 am Poamoho Trail gesammelt. Am 12. Dezember 1985 wurden dort während des Waipiʻo Christmas Bird Count nochmals zwei Individuen beobachtet; diese Beobachtung gilt allgemein als die letzte gut dokumentierte Sichtung. Spätere Meldungen, darunter einzelne Berichte aus den späten 1980er- und frühen 1990er-Jahren, konnten nicht bestätigt werden. Eine zusätzliche Schwierigkeit bestand darin, dass Weibchen und Jungvögel leicht mit dem Oahu-ʻAmakihi verwechselt werden können.</p><p>Eine einzelne Ursache für das Verschwinden lässt sich nicht eindeutig nachweisen. Als wahrscheinlich gilt eine Kombination aus Lebensraumverlust und -degradation, eingeschleppten Säugetieren sowie eingeschleppten Vogelkrankheiten. Besonders Krankheiten dürften eine entscheidende Rolle gespielt haben. Auf Oahu fehlen ausgedehnte Hochlagen oberhalb von etwa 1.250 m, in denen andere hawaiische Kleidervögel zeitweise dem hohen Infektionsdruck durch von Stechmücken übertragene Krankheiten entgehen konnten. Das Verschwinden aus niedrigeren Lagen und die zunehmende Beschränkung auf höher gelegene Wälder entsprechen dem bei zahlreichen anderen hawaiischen Waldvögeln beobachteten Muster.</p><p>Der Bundesstaat Hawaii führt den Oahuastläufer inzwischen als «presumed extinct», während die IUCN ihn weiterhin als Critically Endangered (Possibly Extinct) einstuft. Der U.S. Fish and Wildlife Service ging 2026 einen Schritt weiter: Die Behörde leitete ein Verfahren ein, die Art aufgrund ihres Aussterbens aus der US-amerikanischen Liste gefährdeter Arten zu streichen. Als Grundlage werden jahrzehntelange erfolglose Suchmassnahmen sowie die dokumentierte langfristige Abnahme der Art genannt. Eine endgültige Entscheidung ist im Rahmen dieses Verfahrens erst nach Begutachtung und öffentlicher Kommentierung vorgesehen.</p>"
     },
     "references": [
       {
-        "label": "Test BirdLife Schweiz",
-        "url": "https://www.birdlife.ch/"
+        "label": "U.S. Fish and Wildlife Service. 2006. Revised Recovery Plan for Hawaiian Forest Birds. Region 1, Portland, OR. 622 pp.",
+        "url": "https://www.govinfo.gov/content/pkg/GOVPUB-I49-PURL-LPS77664/pdf/GOVPUB-I49-PURL-LPS77664.pdf?"
       },
       {
-        "label": "Test BirdLife Schweiz",
-        "url": "https://www.birdlife.ch/"
+        "label": "Hawaiʻi Department of Land and Natural Resources (2015): Oʻahu ʻAlauahio (Paroreomyza maculata). In: Hawaiʻi’s State Wildlife Action Plan. Prepared by H. T. Harvey & Associates, Ecological Consultants. Division of Forestry and Wildlife, Honolulu, Hawaiʻi. 2 S.",
+        "url": "https://dlnr.hawaii.gov/wildlife/files/2019/03/SWAP-2015-Oahu-alauahio-Final.pdf"
+        },
+      {
+        "label": "Baker, P. E. & Baker, H. (2000): Kākāwahie (Paroreomyza flammea) and Oʻahu ʻAlauahio (Paroreomyza maculata). The Birds of North America 503.",
+        "url": "https://dlnr.hawaii.gov/wildlife/birds/oahu-alauahio/"
+        },
+      {
+        "label": "U.S. Fish and Wildlife Service (2026): Proposed Delisting of 2 Hawaiian Creepers Due to Extinction – Peer Review Plan.",
+        "url": "https://hiaudubon.org/wp-content/uploads/2021/12/Elepaio23.12.pdf"
       }
     ],
     "taxonomy": {
