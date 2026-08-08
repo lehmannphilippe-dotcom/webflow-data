@@ -60,18 +60,14 @@
       "lat": "Paroreomyza",
       "en": "Paroreomyza"
     },
-    "extinction_date": "1860",
+    "extinction_date": "",
     "panel": {
-      "description": ""
+     "description": "<p>Paroreomyza ist eine auf den Hawaii-Inseln endemische Gattung der Kleidervögel mit drei bekannten Arten, von denen zwei ausgestorben sind. Der Maui-ʻAlauahio (Paroreomyza montana) ist die letzte noch erhaltene Art. Sie war sowohl auf Maui als auch auf Lanai verbreitet und wird traditionell in die noch lebende Unterart P. m. newtoni auf Maui und die ausgestorbene Nominatform P. m. montana auf Lanai unterteilt. Von der ehemals über mehrere Inseln verbreiteten Gattung hat damit bis heute nur die Maui-Linie in kleinen Restpopulationen überlebt.</p><p>Alle Arten der Gattung waren kleine, überwiegend insektenfressende Vögel mit relativ kurzen, geraden bis leicht gebogenen Schnäbeln. Charakteristisch war zudem ein ausgeprägter Geschlechtsdimorphismus. In Körperbau und Lebensweise ähnelten die Vertreter von Paroreomyza anderen kleinen, insektenfressenden Kleidervögeln Hawaiis, unterschieden sich von diesen jedoch in mehreren anatomischen Merkmalen.</p><p>Molekulargenetische Untersuchungen ordneten die Gattung Paroreomyza einer sehr frühen Entwicklungslinie der hawaiischen Kleidervögel zu. Nach phylogenetischen Rekonstruktionen bildet Paroreomyza zusammen mit der heute monotypischen Gattung Oreomystis eine der frühesten Abspaltungen innerhalb der Kleidervögel. Die gemeinsame Stammlinie dieser beiden Gattungen trennte sich vor ungefähr 4,7 Millionen Jahren von den übrigen Entwicklungslinien. Lediglich die Stammlinie der heute ebenfalls monotypischen Gattung Melamprosops spaltete sich wahrscheinlich noch früher ab. Damit reicht die evolutionäre Geschichte der Vorfahren von Paroreomyza bis in das frühe Pliozän zurück.</p><p>Zu diesem Zeitpunkt existierten die jüngeren Inseln des Hawaii-Archipels noch nicht in ihrer heutigen Form. Oahu entstand erst vor etwa 4,0 bis 3,7 Millionen Jahren, während Maui, Molokai und Lanai noch deutlich jünger sind. Die frühe Entwicklung der gemeinsamen Stammlinie von Paroreomyza und Oreomystis muss daher auf älteren Inseln stattgefunden haben, wahrscheinlich im Bereich von Kauai und Niihau oder auf heute weitgehend erodierten, älteren Inseln des nordwestlichen Archipels. Erst mit der fortschreitenden Entstehung neuer Vulkaninseln konnten sich Vertreter dieser Entwicklungslinie schrittweise nach Südosten ausbreiten. Wo und wann sich die eigentliche Gattung Paroreomyza von Oreomystis abspaltete, lässt sich anhand der bisher verfügbaren genetischen Daten jedoch nicht eindeutig rekonstruieren.</p>"
     },
     "references": [
       {
-        "label": "Test BirdLife Schweiz",
-        "url": "https://www.birdlife.ch/"
-      },
-      {
-        "label": "Test BirdLife Schweiz",
-        "url": "https://www.birdlife.ch/"
+        "label": "Pratt, H. D. (1992): Systematics of the Hawaiian “Creepers” Oreomystis and Paroreomyza. The Condor 94(4): 836–846.",
+        "url": "https://academic.oup.com/condor/article-abstract/94/4/836/5189451?redirectedFrom=PDF&login=false"
       }
     ]
   },
