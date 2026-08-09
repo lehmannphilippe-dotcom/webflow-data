@@ -10542,7 +10542,7 @@
       "genus_key": "paroreomyza"
     },
     "ranges": {
-      "range_native": null,
+      "range_native": "https://raw.githubusercontent.com/lehmannphilippe-dotcom/webflow-data/refs/heads/main/ranges/Paroreomyza-flammea.geojson",
       "breeding_native": null,
       "range_hypothetical": null,
       "passage": null,
@@ -11558,7 +11558,7 @@
       "genus_key": "paroreomyza"
     },
     "ranges": {
-      "range_native": null,
+      "range_native": "https://raw.githubusercontent.com/lehmannphilippe-dotcom/webflow-data/refs/heads/main/ranges/Paroreomyza-maculata.geojson",
       "breeding_native": null,
       "range_hypothetical": null,
       "passage": null,
