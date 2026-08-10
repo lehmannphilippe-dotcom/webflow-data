@@ -8506,7 +8506,7 @@
       "genus_key": "dysmorodrepanis"
     },
     "ranges": {
-      "range_native": null,
+      "range_native": "https://raw.githubusercontent.com/lehmannphilippe-dotcom/webflow-data/refs/heads/main/ranges/Dysmorodrepanis%20munroi.geojson",
       "breeding_native": null,
       "range_hypothetical": null,
       "passage": null,
