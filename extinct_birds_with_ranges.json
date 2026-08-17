@@ -8809,25 +8809,41 @@
       "panel": "https://cdn.prod.website-files.com/6a2856622c4f26c0e72a657b/6a74fc86e794e487420dcb9f_Acrocephalus%20familiaris.jpg"
     },
     "panel": {
-      "description": "",
-      "habitat_text": "",
-      "extinction_text": ""
+      "description": "<p>Mit einer Körperlänge von ungefähr 13–14 cm war der Laysan-Rohrsänger (Acrocephalus familiaris familiaris) ein kleiner, unscheinbar gefärbter Singvogel und eine ausschliesslich auf der nordwesthawaiischen Insel Laysan vorkommende Unterart des Hawaii-Rohrsängers (Acrocephalus familiaris). Die Laysan-Population wird als Nominatform A. f. familiaris von der noch lebenden Nihoa-Unterart A. f. kingi unterschieden. Die beiden Populationen waren jedoch deutlich differenziert; genetische Untersuchungen ergaben eine mitochondriale Sequenzdivergenz von rund 1,7–1,9 %, weshalb bis heute wiederholt diskutiert wird, ob es sich dabei um zwei eigenständige Arten handelt.</p><p>Die Art war ein ausgesprochen aktiver Insektenfresser. Historische Beobachter beschrieben, wie die Vögel zwischen Gräsern und niedrigen Sträuchern nach Wirbellosen suchten. Besonders häufig erbeuteten sie grosse Nachtfalter, die auf Laysan als «millers» bezeichnet wurden und dem Vogel seinen englischen Namen «Millerbird» gaben. Dazu gehörte vermutlich auch der ebenfalls ausgestorbene, auf Laysan endemische Eulenfalter Agrotis laysanensis. Die Vögel waren gegenüber Menschen aussergewöhnlich zutraulich und drangen teilweise sogar in Gebäude ein, um dort nach Faltern zu suchen. Ihr Gesang beziehungsweise Ruf wurde als für einen so kleinen Vogel auffallend tief und rau beschrieben.</p><p>Die Nester wurden innerhalb dichter Grasbüschel angelegt. Sie bestanden aus einem tiefen, napfförmigen Geflecht aus feinen Wurzeln und Pflanzenmaterial sowie Federn und Dunen von Seevögeln. Historische Beobachtungen nennen gewöhnlich drei Eier pro Gelege.</p>",
+      "habitat_text": "<p>Das gesamte Verbreitungsgebiet des Laysan-Rohrsängers beschränkte sich auf die kleine, flache Koralleninsel Laysan. Da das Zentrum der Insel von einem rund 40 Hektar grossen hypersalinen See eingenommen wird, standen terrestrischen Arten insgesamt weniger als 2,5 km² Landfläche zur Verfügung.</p><p>Innerhalb dieses sehr begrenzten Verbreitungsgebiets bewohnte der Laysan-Rohrsänger vor allem die niedrige, offene Vegetation der Insel. Er hielt sich in Grasbeständen, zwischen niedrigen Sträuchern und in dichterer krautiger Vegetation auf, wo er nach Insekten suchte und seine Nester anlegte. Besonders wichtig waren offenbar dichte und höhere Grasbestände, die sowohl Nahrung als auch geschützte Brutplätze boten.</p>",
+      "extinction_text": "<p>Noch gegen Ende des 19. Jahrhunderts galt der Laysan-Rohrsänger als häufig. Der entscheidende ökologische Einschnitt erfolgte, nachdem Max Schlemmer (1856–1935), ein deutscher Einwanderer und Unternehmer, der als «König von Laysan» bekannt war, im Jahr 1903 Kaninchen auf der Insel einführte, um einen Markt für Kaninchenfleisch aufzubauen. Dieses Geschäft erwies sich jedoch als unrentabel. Durch die rasche und unkontrollierte Vermehrung der zurückgelassenen Kaninchen wurde innerhalb weniger Jahre nahezu die gesamte Vegetation der Insel abgefressen. Damit gingen sowohl die Gras- und Strauchbestände verloren, in denen die Rohrsänger nisteten und Nahrung suchten, als auch zahlreiche Pflanzen, von denen ihre Beuteinsekten abhängig waren.</p><p>Der Zusammenbruch der Population erfolgte offenbar sehr schnell. Während die Art vor der Einführung der Kaninchen noch als häufig beschrieben worden war, fanden die beiden amerikanischen Zoologen Homer Ray Dill (1877–1945) und William Alanson Bryan (1875–1942) im Jahr 1911 nur noch wenige Individuen. Berichte deuten darauf hin, dass zumindest bis etwa 1915 noch eine Restpopulation existierte. Als die Tanager-Expedition, deren Ziel unter anderem die Ausrottung der ausgesetzten Kaninchen war, 1923 Laysan untersuchte, konnte jedoch kein Laysan-Rohrsänger mehr sicher nachgewiesen werden. Das genaue Jahr des Aussterbens lässt sich deshalb nicht bestimmen; wahrscheinlich verschwand die Unterart irgendwann in der zweiten Hälfte der 1910er Jahre, spätestens jedoch bis 1923.</p><p>Als Hauptursache gilt die durch die Kaninchen ausgelöste nahezu vollständige Zerstörung des Lebensraums, verbunden mit einem starken Rückgang der Insektenfauna und dem Verlust geeigneter Brutplätze. Vogelfang und die intensive Ausbeutung Laysans zu Beginn des 20. Jahrhunderts könnten zusätzlichen Druck ausgeübt haben, lassen sich für den Laysan-Rohrsänger jedoch wesentlich schlechter quantifizieren.</p><p>Zwischen 2011 und 2012 wurden insgesamt 50 Nihoa-Rohrsänger von Nihoa nach Laysan umgesiedelt, wo sich inzwischen wieder eine Population etabliert hat. Dabei handelt es sich jedoch nicht um die ausgestorbene Nominatform, sondern um die genetisch und morphologisch unterscheidbare Nihoa-Unterart.</p>"
     },
     "references": [
       {
-        "label": "Test BirdLife Schweiz",
-        "url": "https://www.birdlife.ch/"
-      },
+        "label": "Fleischer, R. C., Slikas, B., Beadell, J., Atkins, C., McIntosh, C. E. & Conant, S. (2007).",
+        "url": "https://bioone.org/journals/the-condor/volume-109/issue-4/0010-5422_2007_109_954_GVATSO_2.0.CO_2/GENETIC-VARIABILITY-AND-TAXONOMIC-STATUS-OF-THE-NIHOA-AND-LAYSAN/10.1650/0010-5422%282007%29109%5B954%3AGVATSO%5D2.0.CO%3B2.short"
+           },
       {
-        "label": "Test BirdLife Schweiz",
-        "url": "https://www.birdlife.ch/"
+        "label": "Fisher, W. K. (1903). Notes on the Birds Peculiar to Laysan Island, Hawaiian Group. The Auk 20(4): 384–397.",
+        "url": "https://repository.si.edu/server/api/core/bitstreams/41b9187b-4515-4fba-bac6-700fd7465b3a/content"
+           },
+      {
+        "label": "Butler, G. D., Jr. & Usinger, R. L. (1963). Insects and Other Invertebrates from Laysan Island. Atoll Research Bulletin 98: 1–30. DOI: 10.5479/si.00775630.98.1.",
+        "url": "https://repository.si.edu/items/04b9aa31-84d5-4086-ae99-e0a5c2db42e0"
+           },
+      {
+        "label": "Pyle, R. L. & Pyle, P. (2017). The Birds of the Hawaiian Islands: Occurrence, History, Distribution, and Status. Version 2. B. P. Bishop Museum, Honolulu.",
+        "url": "https://hbs.bishopmuseum.org/birds/rlp-monograph/pdfs/06-PTER-TIMA/MILL.pdf"
+           },
+      {
+        "label": "Freifeld, H. B., Plentovich, S., Farmer, C., Kohley, C. R., Luscomb, P., Work, T. M., Tsukayama, D., Wallace, G. E., MacDonald, M. A. & Conant, S. (2016). Long-distance translocations to create a second millerbird population and reduce extinction risk. Biological Conservation 199: 146–156. DOI: 10.1016/j.biocon.2016.05.006.",
+        "url": "https://www.sciencedirect.com/science/article/abs/pii/S0006320716301872"
+           },
+      {
+        "label": "Cornell Lab of Ornithology. Millerbird Acrocephalus familiaris. Birds of the World.",
+        "url": "https://birdsoftheworld.org/bow/species/miller/cur/introduction"
       }
     ],
     "taxonomy": {
-      "family": "",
-      "genus": "",
-      "family_key": "",
-      "genus_key": ""
+      "family": "Rohrsängerartige (Acrocephalidae)",
+      "genus": "Rohrsänger (Acrocephalus)",
+      "family_key": "acrocephalidae",
+      "genus_key": "acrocephalus"
     },
     "ranges": {
       "range_native": "https://raw.githubusercontent.com/lehmannphilippe-dotcom/webflow-data/refs/heads/main/ranges/Zapornia_palmeri.geojson",
