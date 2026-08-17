@@ -8677,18 +8677,42 @@
       "panel": "https://cdn.prod.website-files.com/6a2856622c4f26c0e72a657b/6a74d313a4c6e30d1f8fb52a_Himatione%20fraithii.jpg"
     },
     "panel": {
-      "description": "",
-      "habitat_text": "",
-      "extinction_text": ""
+      "description": "<p>Mit einer Körperlänge von etwa 13–15 cm war der Laysan-Apapane (Himatione fraithii) ein kleiner und schlank gebauter Kleidervogel. Adulte Männchen besassen ein überwiegend zinnober- bis scharlachrotes Gefieder. Weibchen ähnelten den Männchen, waren insgesamt jedoch etwas blasser gefärbt. Jungvögel besassen zunächst ein überwiegend bräunliches Gefieder.</p><p>Da sich die Art äusserlich nur wenig vom noch heute lebenden ʻApapane (Himatione sanguinea) unterschied, wurde der Laysan-Apapane lange Zeit als dessen Unterart betrachtet. Aufgrund osteologischer, morphologischer und verhaltensbiologischer Unterschiede wird er heute jedoch klar als eigenständige Art abgegrenzt.</p><p>Im Gegensatz zum ʻApapane der hawaiischen Hauptinseln besass der Laysan-Apapane ein blasseres Federkleid. Diese Färbung war wahrscheinlich zumindest teilweise nicht genetisch bedingt, sondern entstand durch die fehlenden Wälder und die starke, ungehinderte Sonneneinstrahlung auf Laysan. Grundsätzlich war bei den Landvögeln Laysans aufgrund der besonders exponierten Umweltbedingungen der flachen, weitgehend offenen Insel ein stärkeres Ausbleichen des Gefieders bekannt.</p><p>Die Art ernährte sich sowohl von Nektar als auch von Insekten. Historische Beobachter beschrieben, wie die Vögel Blüten verschiedener einheimischer Pflanzen zur Nektaraufnahme aufsuchten und daneben Raupen, Motten und andere kleine Wirbellose erbeuteten. Im Gegensatz zum ʻApapane der Hauptinseln suchte der Laysan-Apapane regelmässig auch am Boden nach Nahrung – vermutlich eine Anpassung an die weitgehend baumlose Vegetation Laysans. Die Nester wurden vor allem in dichten Grasbüscheln und niedrigen Sträuchern angelegt. Ein vollständiges Gelege bestand vermutlich aus vier Eiern.</p>",
+      "habitat_text": "<p>Das gesamte Verbreitungsgebiet des Laysan-Apapane beschränkte sich auf das kleine, flache Korallenatoll Laysan. Da das Zentrum der Insel von einem etwa 40 Hektar grossen hypersalinen See eingenommen wird, verbleiben für terrestrische Arten weniger als 2,5 km² nutzbare Landfläche.</p><p>Durch dieses äusserst begrenzte Verbreitungsgebiet kam der Laysan-Apapane auf der gesamten Insel vor. Besonders häufig war die Art jedoch im Inselinneren zwischen hohen Gräsern und niedrigem Buschwerk nahe der zentralen Lagune anzutreffen.</p><p>Laysan besass keine ausgedehnten Wälder wie die hohen Hauptinseln Hawaiis. Die ursprüngliche Vegetation bestand unter anderem aus dichten Grasbeständen, niedrigen Sträuchern sowie sukkulenten Pflanzen wie Portulaca und Sesuvium. Der Laysan-Apapane war daher an einen wesentlich offeneren und bodennäheren Lebensraum angepasst als der auf den hawaiischen Hauptinseln lebende ʻApapane.</p>",
+      "extinction_text": "<p>Die entscheidende Ursache für das Aussterben war die massive Zerstörung der Vegetation Laysans durch eingeführte Kaninchen. Diese wurden von Max Schlemmer (1856–1935), einem deutschen Einwanderer und Unternehmer, der als «König von Laysan» bekannt war, im Jahr 1904 auf der Insel eingeführt, um einen Markt für Kaninchenfleisch aufzubauen. Dieses Geschäft rentierte sich jedoch nicht. Durch die rasche und unkontrollierte Vermehrung der verbleibenden Kaninchen wurde innerhalb weniger Jahre nahezu die gesamte Vegetation der Insel abgefressen. Die Landschaft verwandelte sich dadurch in eine weitgehend vegetationslose, wüstenartige Fläche.</p><p>Als 1923 die Tanager-Expedition, deren Ziel unter anderem die Ausrottung der ausgesetzten Kaninchen war, Laysan erreichte, war die ehemals dicht bewachsene Insel durch den jahrelangen Verbiss bereits weitgehend zu einer offenen Sandlandschaft geworden. Zu diesem Zeitpunkt wurden offenbar nur noch drei Laysan-Apapane festgestellt. Nach den später veröffentlichten Aufzeichnungen Alexander Wetmores (1886–1978), eines US-amerikanischen Ornithologen und Paläontologen sowie wissenschaftlichen Leiters der Expedition, verschwanden diese letzten Individuen während eines schweren, dreitägigen Sturms im April 1923, bei dem auf der vegetationsarmen Insel grosse Mengen Sand aufgewirbelt wurden. Die Vögel wurden danach trotz weiterer Nachsuchen nie wieder gefunden.</p><p>Der Sturm war damit wahrscheinlich nur der unmittelbare letzte Auslöser des Aussterbens. Entscheidend war zuvor die fast vollständige Vernichtung des Lebensraums durch die unkontrollierte Einführung und Vermehrung der Kaninchen, wodurch die winzige Restpopulation gegenüber extremen Wetterereignissen kaum noch geschützt war.</p><p>Von der Art sind heute noch über 100 Museumsexemplare erhalten beziehungsweise historisch dokumentiert. Mindestens 105 Individuen wurden zwischen 1892 und 1913 gesammelt; etwa 103 davon lassen sich heute noch in Museumssammlungen nachweisen.</p>"
     },
     "references": [
       {
-        "label": "Test BirdLife Schweiz",
-        "url": "https://www.birdlife.ch/"
+        "label": "Rothschild, W. (1892). Descriptions of seven new species of birds from the Sandwich Islands. Annals and Magazine of Natural History, Series 6, 10: 108–112.",
+        "url": "https://www.birdpop.org/docs/pubs/Pyle_2011_Nomenclature_of_the_LAHC.pdf"
       },
       {
-        "label": "Test BirdLife Schweiz",
-        "url": "https://www.birdlife.ch/"
+        "label": "Fisher, W. K. (1903). Notes on the Birds Peculiar to Laysan Island, Hawaiian Group. The Auk 20(4): 384–397.",
+        "url": "https://digitalcommons.usf.edu/cgi/viewcontent.cgi?article=4776&context=auk&utm.com"
+      },
+      {
+        "label": "Amadon, D. (1950). The Hawaiian honeycreepers (Aves, Drepaniidae). Bulletin of the American Museum of Natural History 95: 155–262.",
+        "url": "https://digitallibrary.amnh.org/items/8aec6ab1-f428-4984-b1d7-092c51bf0d60"
+      },
+      {
+        "label": "Olson, S. L. & Ziegler, A. C. (1995). Remains of land birds from Lisianski Island, with observations on the terrestrial avifauna of the Northwestern Hawaiian Islands. Pacific Science 49(2): 111–125.",
+        "url": "https://repository.si.edu/items/306f3514-bdb6-4d03-8ed7-b6fdc1151a99"
+      },
+      {
+        "label": "Chesser, R. T., Banks, R. C., Burns, K. J., Cicero, C., Dunn, J. L., Kratter, A. W., Lovette, I. J., Rasmussen, P. C., Remsen, J. V. Jr., Rising, J. D., Stotz, D. F. & Winker, K. (2015). Fifty-sixth Supplement to the American Ornithologists’ Union Check-list of North American Birds. The Auk 132(3): 748–764.",
+        "url": "https://academic.oup.com/auk/article/132/3/748/5149071"
+      },
+      {
+        "label": "Ely, C. A. & Clapp, R. B. (1973). The natural history of Laysan Island, Northwestern Hawaiian Islands. Atoll Research Bulletin 171: 1–361.",
+        "url": "https://repository.si.edu/items/e26899c0-c0ce-4cad-be2e-9930ba3575dc"
+       },
+      {
+        "label": "Olson, S. L. (1996). History and ornithological journals of the Tanager expedition of 1923 to the Northwestern Hawaiian Islands, Johnston and Wake Islands. Atoll Research Bulletin 433: 1–210.",
+        "url": "https://repository.si.edu/items/4bd5f376-b8f3-40d9-94b5-cea31f2efa29"
+      },
+      {
+        "label": "Cornell Lab of Ornithology. Laysan Honeycreeper. Birds of the World.",
+        "url": "https://birdsoftheworld.org/bow/species/apapan2/cur/introduction"
       }
     ],
     "taxonomy": {
