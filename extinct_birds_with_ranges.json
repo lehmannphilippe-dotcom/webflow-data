@@ -1822,7 +1822,7 @@
   {
     "id": "rhodacanthis_litotes",
     "name": {
-      "de": "Oahu Koa-Fink",
+      "de": "Oahu-Koa-Fink",
       "lat": "Rhodacanthis litotes",
       "en": "Oahu koa finch"
     },
@@ -1837,18 +1837,30 @@
       "panel": "https://cdn.prod.website-files.com/6a2856622c4f26c0e72a657b/6a81693d12dc249ddef34ab4_Rhodacanthis-litotes.jpg"
     },
     "panel": {
-      "description": "<p>Der Oahu-Koa-Fink war eine kleine bis mittelgrosse Art innerhalb der Koa-Finken. Die Art ist ausschliesslich von subfossilen Überresten des Schädels und der Kiefer bekannt, die jedoch eine klare Abgrenzung zu anderen Arten der Gattung Rhodacanthis erlauben.</p><p>Über das äussere Erscheinungsbild, die Färbung sowie das Verhalten des Oahu-Koa-Finken ist nichts bekannt, da keinerlei zeitgenössische Beschreibungen oder Beobachtungen aus der Zeit seines Bestehens überliefert sind. Obwohl die Art vermutlich noch mehrere Jahrhunderte nach dem ersten Eintreffen des Menschen auf Hawaii existierte, wurde sie offenbar nie bewusst wahrgenommen.</p>",
-      "habitat_text": "<p>Der Oahu Koa-Fink war auf den Inseln Oahu und Maui verbreitet und war früher bis gegen Ende des Pleistozän mit Ausnahme der Hauptinsel Hawaii auch auf weiteren Inseln des hawaiischen Archipels vertreten.</p><p>Wie alle Arten der Koa-Finken war auch der Ohau Koa-Finkt eng an Waldökosysteme mit hohem Bestand an Koa-Akazien gebunden. Diese Wälder bildeten sowohl den Lebensraum als auch die wichtigste Nahrungsgrundlage der Art.</p>",
-      "extinction_text": "<p>Der Oahu-Koa-Fink wurde vermutlich bereits durch die polynesischen Ureinwohner indirekt beeinträchtigt, insbesondere durch die Rodung und Umgestaltung grosser Waldgebiete.</p><p>Nach dem Eintreffen der ersten Europäer in den 1780er-Jahren verstärkten sich dieser Prozess. Die fortschreitende Zerstörung der Tieflandwälder zwang die Art vermutlich dazu, sich in höher gelegene, zunehmend isolierte Waldgebiete zurückzuziehen. Es ist möglich, dass der Oahu-Koa-Fink dort noch bis gegen Mitte oder Ende des 19. Jahrhunderts unentdeckt überlebte.</p><p>Das endgültige Aussterben erfolgte wahrscheinlich durch eine Kombination aus eingeschleppten Ratten, verwilderten Haustieren wie Katzen und Schweinen sowie weiterem Lebensraumverlust.</p>"
+       "description": "<p>Der Oahu-Koa-Fink war eine kleine Art innerhalb der Koa-Finken. Die Art ist erst seit 2005 durch subfossile Teile des Ober- und Unterschnabels bekannt. Sie erreichte hinsichtlich der Schädel- und Schnabeldimensionen ungefähr die Grösse des Kleinen Koa-Finken (Rhodacanthis flaviceps). Da eine Ähnlichkeit zum Kleinen Koa-Finken bestand, wurden die Knochen zunächst dieser Art zugerechnet. Neuere wissenschaftliche Untersuchungen zeigten jedoch, dass es sich dabei um eine eigenständige Art handelte.</p><p>Auch die bekannten Fossilien von Oahu und Maui unterscheiden sich leicht in der Form der Nasenöffnung des Oberkiefers. Dieser Unterschied könnte bei umfangreicherem Fossilmaterial dazu führen, dass die beiden Populationen sogar als getrennte Arten eingestuft werden.</p><p>Wie bei den anderen Koa-Finken dürfte der Schnabel vor allem dazu gedient haben, grüne Hülsen von Hülsenfrüchtlern aufzuschneiden und an deren Samen zu gelangen. Welche Pflanzen der Oahu-Koa-Fink tatsächlich bevorzugte, lässt sich jedoch nicht direkt nachweisen. Aufgrund der rekonstruierten Vegetation seiner Lebensräume kommen neben Koa und Koaiʻa wahrscheinlich auch die Hülsen von Kanaloa als Nahrung infrage.</p><p>Über das äussere Erscheinungsbild und das Verhalten des Oahu-Koa-Finken ist nichts bekannt, da weder historische Beobachtungen noch erhaltene Bälge existieren.</p>",
+      "habitat_text": "<p>Der Oahu-Koa-Fink war auf den Inseln Oahu und Maui verbreitet. Aufgrund dieser räumlich getrennten Funde wird vermutet, dass die Art ursprünglich auch auf den dazwischenliegenden Inseln wie Molokai und Lanai des hawaiischen Archipels verbreitet war.</p><p>Die Fossilfunde zeigen, dass die Art keineswegs ausschliesslich an hoch gelegene Koa-Wälder gebunden war, sondern ein breites Spektrum unterschiedlicher Vegetationszonen nutzte. Einige Fundstellen liegen nur etwa 15 m über dem heutigen Meeresspiegel. Pollenanalysen weisen dort auf trockene Tieflandwälder mit Pritchardia-Palmen, ʻAʻaliʻi (Dodonaea) und dem Hülsenfrüchtler Kanaloa hin; Koa war dagegen nur in geringen Mengen vorhanden. Wahrscheinlich besiedelte die Art auch Landschaften mit einer Mischung aus Tieflandwald, Buschland sowie offenen Gras- und Krautflächen.</p><p>Insgesamt sprechen die Fossilfunde dafür, dass der Oahu-Koa-Fink ein wesentlich breiteres Spektrum trockener bis mesischer Lebensräume nutzte als die beiden historisch beschriebenen Koa-Finken, die gegen Ende des 19. Jahrhundert auf der Hauptinsel Hawaii ausstarben.</p>",
+      "extinction_text": "<p>Wann der Oahu-Koa-Fink endgültig ausstarb, lässt sich heute nicht genau bestimmen. Besonders bemerkenswert ist die lange Existenz der Population auf Oahu. Ein Fossil von Ulupaʻu Head ist mehrere Hunderttausend Jahre alt, während weitere Überreste aus dem mittleren Holozän stammen. Die morphologisch sehr ähnlichen Schnäbel zeigen, dass die Population grosse klimatische Veränderungen und mindestens zwei Eiszeitzyklen unverändert überstand. Deshalb werden Klimaveränderungen nicht als überzeugende Erklärung für das spätere Aussterben angesehen.</p><p>Stattdessen sprechen die paläontologischen und ökologischen Daten für Veränderungen, die mit der menschlichen Besiedlung Hawaiis einsetzten. Tieflandwälder wurden durch Rodung, Landwirtschaft und Siedlungen stark verändert. Gleichzeitig gelangte mit den polynesischen Siedlern die Pazifische Ratte (Rattus exulans) auf die Inseln, die sowohl Vögel und deren Nester als auch Samen und Keimlinge einheimischer Pflanzen beeinträchtigte. Dadurch verschwanden wahrscheinlich grosse Teile jener Tieflandlebensräume, die für stabile Populationen des Oahu-Koa-Finken besonders wichtig waren.</p><p>Für Oahu deutet die Fossilüberlieferung darauf hin, dass die Art im mittleren bis späten Holozän verschwand. Auf Maui könnte eine Population nach dem Verlust der Tieflandlebensräume möglicherweise länger in höher gelegenen Gebieten überlebt haben, möglicherweise sogar bis Anfang oder Mitte des 19. Jahrhunderts. Dafür gibt es jedoch keinen direkten Nachweis, da sämtliche bestätigten Funde von Maui aus älteren fossilen Ablagerungen in niedrigeren Höhenlagen stammen.</p>"
     },
     "references": [
       {
-        "label": "Test BirdLife Schweiz",
-        "url": "https://www.birdlife.ch/"
+        "label": "James, H. F. & Olson, S. L. (2005). The diversity and biogeography of koa-finches (Drepanidini: Rhodacanthis), with descriptions of two new species. Zoological Journal of the Linnean Society, 144, 527–541.z",
+        "url": "https://repository.si.edu/items/3048b9bd-ce7d-4e1c-b69e-7db0b60a9454"
       },
       {
-        "label": "Test BirdLife Schweiz",
-        "url": "https://www.birdlife.ch/"
+        "label": "James, H. F. & Price, J. P. (2008). Integration of palaeontological, historical, and geographical data on the extinction of koa-finches. Diversity and Distributions, 14, 441–451.",
+        "url": "https://repository.si.edu/server/api/core/bitstreams/e9c79da2-fd76-4627-bad6-6119b58823d0/content"
+      },
+      {
+        "label": "Hearty, P. J., James, H. F. & Olson, S. L. (2005). The geological context of Middle Pleistocene crater lake deposits and fossil birds at Ulupau Head, Oahu, Hawaiian Islands. In J. A. Alcover & P. Bover (Hrsg.), Proceedings of the International Symposium Insular Vertebrate Evolution: The Palaeontological Approach, Monografies de la Societat d’Història Natural de les Balears 12, 113–128.",
+        "url": "https://ro.uow.edu.au/articles/conference_contribution/The_geological_context_of_middle_Pleistocene_crater_lake_deposits_and_fossil_birds_at_Ulupau_Head_Oahu_Hawaiian_Islands/27794859?file=50564085"
+      },
+      {
+        "label": "Athens, J. S., Tuggle, H. D., Ward, J. V. & Welch, D. J. (2002). Avifaunal extinctions, vegetation change, and Polynesian impacts in prehistoric Hawaiʻi. Archaeology in Oceania, 37(2), 57–78.",
+        "url": "https://onlinelibrary.wiley.com/doi/10.1002/j.1834-4453.2002.tb00507.x"
+      },
+      {
+        "label": "Olson, Storrs L.; James, Helen F. (1991): Descriptions of Thirty-Two New Species of Birds from the Hawaiian Islands. Part II: Passeriformes. Ornithological Monographs 46.",
+        "url": "https://repository.si.edu/server/api/core/bitstreams/f5de95e9-233e-4c40-bb79-8891db1db8fe/content"
       }
     ],
     "taxonomy": {
