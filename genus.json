@@ -740,18 +740,22 @@
       "lat": "Vangulifer",
       "en": "Vangulifer"
     },
-    "extinction_date": "",
+    "extinction_date": "1500",
     "panel": {
-      "description": ""
+       "description": "<p>Vangulifer ist eine ausgestorbene Gattung hawaiianischer Kleidervögel, die nur anhand subfossiler Schnabel- und Kieferknochen bekannt ist.</p><p>Charakteristisch für die Gattung war ein unter den Kleidervögeln aussergewöhnlicher Schnabel. Er war lang und vergleichsweise filigran gebaut, gleichzeitig jedoch breit und relativ tief und endete in einer sehr stumpfen, abgerundeten, leicht spatelförmigen Spitze. Auf diese ungewöhnliche Form bezieht sich auch der Gattungsname Vangulifer, der sinngemäss «Träger einer kleinen Schaufel» bedeutet. Für diese Schnabelform ist keine vergleichbare heute lebende Vogelart bekannt.</p><p>Welche Nahrung Vangulifer mit diesem ungewöhnlichen Schnabel aufnahm, ist unbekannt. Der Schnabel erschien zu lang und zu schwach zum Knacken von Samen, zu breit und tief zum Stochern in Rinde und zu stumpf für einen Nektarfresser. Als mögliche Ernährungsweise wurde das Fangen fliegender Insekten diskutiert. Vor allem Vangulifer mirandus zeigte mehrere Merkmale, die an fluginsektenfressende Vögel erinnern. Die gebogene Form seines Schnabels passt jedoch nicht zu einem Vogel, der ausschliesslich Insekten im Flug erbeutete. Die tatsächliche Funktion des ungewöhnlichen Schnabels bleibt deshalb ungeklärt.</p><p>Die Gattung umfasst zwei bekannte Arten, die auf Maui zumindest teilweise sympatrisch vorkamen. Aufgrund des begrenzten Fossilmaterials ist unbekannt, ob die Gattung ausschliesslich auf Maui existierte oder auch auf anderen Inseln Hawaiis verbreitet war.</p><p>Nach osteologischen Analysen gehört Vangulifer nicht zu den basal stehenden, kräftig finkenschnäbligen Formen der Kleidervögel. Die Gattung steht vielmehr an der Basis einer grossen Gruppe, deren Vertreter überwiegend lange und dünne Schnäbel entwickelten. Die genaue phylogenetische Stellung von Vangulifer und der Verlauf ihrer Abspaltung innerhalb der Kleidervögel lassen sich aufgrund des begrenzten Fossilmaterials nicht eindeutig bestimmen. Da selbst die beiden Arten der Gattung grosse morphologische Unterschiede aufweisen, bleibt unklar, ob es sich bei ihnen möglicherweise sogar um zwei eigenständige, aber nahe verwandte Gattungen handeln könnte.</p><p>Ob die Gattung durch das Einwirken der ersten polynesischen Siedler verschwand oder bereits früher durch ökologische und klimatische Veränderungen ausgestorben ist, lässt sich heute nicht mehr rekonstruieren. Die subfossilen Funde der Gattung stammen aus holozänen Ablagerungen auf Maui, die teilweise bis etwa 8'000 Jahre zurückreichen.</p>"
     },
     "references": [
       {
-        "label": "Test BirdLife Schweiz",
-        "url": "https://www.birdlife.ch/"
+        "label": "James, H. F. & Olson, S. L. (1991). Descriptions of Thirty-Two New Species of Birds from the Hawaiian Islands: Part II. Passeriformes. Ornithological Monographs, 46, 1–88.",
+        "url": "https://www.researchgate.net/publication/242013278_Descriptions_of_Thirty-Two_New_Species_of_Birds_from_the_Hawaiian_Islands_Part_II_Passeriformes"
+         },
+      {
+        "label": "James, H. F. (2004). The osteology and phylogeny of the Hawaiian finch radiation (Fringillidae: Drepanidini), including extinct taxa. Zoological Journal of the Linnean Society, 141, 207–255.",
+        "url": "https://www.researchgate.net/publication/227527513_The_osteology_and_phylogeny_of_the_Hawaiian_finch_radiation_Fringillidae_Drepanidini_including_extinct_taxa"
       },
       {
-        "label": "Test BirdLife Schweiz",
-        "url": "https://www.birdlife.ch/"
+        "label": "James, H. F., Stafford, T. W. Jr., Steadman, D. W., Olson, S. L., Martin, P. S., Jull, A. J. T. & McCoy, P. C. (1987). Radiocarbon dates on bones of extinct birds from Hawaii. Proceedings of the National Academy of Sciences, 84(8), 2350–2354.",
+        "url": "https://www.pnas.org/doi/abs/10.1073/pnas.84.8.2350"
       }
     ]
   },
