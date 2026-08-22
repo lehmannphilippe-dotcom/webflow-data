@@ -357,18 +357,22 @@
       "panel": "https://cdn.prod.website-files.com/6a2856622c4f26c0e72a657b/6a6da1ff00db30d38bd2dece_%20Vangulifer-neophasis.jpg"
     },
     "panel": {
-      "description": "",
-      "habitat_text": "",
-      "extinction_text": ""
+      "description": "<p>Vangulifer neophasis ist eine ausgestorbene Art der hawaiianischen Kleidervögel. Die Art wurde nur anhand weniger subfossiler Schnabel- und Kieferknochen wissenschaftlich beschrieben. Vollständige oder zusammenhängende Skelette sind nicht bekannt, weshalb Körpergrösse und äusseres Erscheinungsbild nicht zuverlässig rekonstruiert werden können.</p><p>Das auffälligste Merkmal war der aussergewöhnlich geformte Schnabel. Er war relativ lang und fein gebaut, gleichzeitig jedoch ungewöhnlich breit und endete in einer sehr stumpfen, abgerundeten, leicht spatelförmigen Spitze. Auf diese ungewöhnliche Form bezieht sich auch der Gattungsname Vangulifer, der sinngemäss «Träger einer kleinen Schaufel» bedeutet. Welche Funktion der ungewöhnliche Schnabel bei der Nahrungssuche hatte, ist unbekannt. Für die Gattung wurde zwar das Fangen fliegender Insekten als mögliche Ernährungsweise diskutiert, Vangulifer neophasis zeigte jedoch weniger Ähnlichkeiten mit fluginsektenfressenden Vögeln als Vangulifer mirandus. Ein überzeugendes Gegenstück zu dieser Schnabelform unter heute lebenden Vögeln ist nicht bekannt.</p>",
+      "habitat_text": "<p>Bislang ist die Art ausschliesslich von Maui bekannt. Fossilien wurden in Höhlen an den südlichen und südwestlichen Hängen des Vulkans Haleakalā gefunden. Die Fundstellen liegen auf etwa 305 bis 1’463 m Höhe, womit Vangulifer neophasis aus einem deutlich grösseren Höhenbereich bekannt ist als Vangulifer mirandus. Die Funde belegen damit zumindest eine Verbreitung in den tieferen bis mittleren Höhenlagen des südlichen Maui. Ob beide Arten der Gattung Vangulifer in ähnlichen Habitaten koexistierten, lässt sich aufgrund der begrenzten Datenlage nicht bestimmen.</p><p>Diese Gebiete waren damals von trockenem Tieflandwald und Buschland geprägt. Dazu gehörten heute stark zurückgedrängte Pflanzengemeinschaften mit zahlreichen einheimischen Arten. Ob Vangulifer neophasis darüber hinaus auch in anderen Waldtypen oder sogar auf weiteren Inseln des Hawaii-Archipels verbreitet war, lässt sich anhand der wenigen Fossilien nicht bestimmen.</p>",
+      "extinction_text": "<p>Der genaue Zeitpunkt des Aussterbens von Vangulifer neophasis ist unbekannt. Das bekannte Fossilmaterial stammt aus dem Holozän. Die Sedimentfolge der Puu Naio Cave reicht bis etwa 8’000 Jahre zurück und dokumentiert das Verschwinden zahlreicher endemischer Vogelarten im Verlauf des späteren Holozäns.</p><p>Ob das Aussterben von Vangulifer neophasis direkt mit der menschlichen Besiedlung Hawaiis zusammenhing, lässt sich nicht eindeutig bestimmen. Zwar veränderte und zerstörte der Mensch die ursprünglichen Waldökosysteme nach seiner Ankunft zunehmend, doch bleibt unklar, ob dies zum Verschwinden der Art führte oder ob sie bereits zuvor infolge natürlicher klimatischer und ökologischer Veränderungen ausgestorben war.</p>"
     },
-    "references": [
+      "references": [
       {
-        "label": "Test BirdLife Schweiz",
-        "url": "https://www.birdlife.ch/"
+        "label": "James, H. F. & Olson, S. L. (1991). Descriptions of Thirty-Two New Species of Birds from the Hawaiian Islands: Part II. Passeriformes. Ornithological Monographs, 46, 1–88.",
+        "url": "https://www.researchgate.net/publication/242013278_Descriptions_of_Thirty-Two_New_Species_of_Birds_from_the_Hawaiian_Islands_Part_II_Passeriformes"
+         },
+      {
+        "label": "James, H. F. (2004). The osteology and phylogeny of the Hawaiian finch radiation (Fringillidae: Drepanidini), including extinct taxa. Zoological Journal of the Linnean Society, 141, 207–255.",
+        "url": "https://www.researchgate.net/publication/227527513_The_osteology_and_phylogeny_of_the_Hawaiian_finch_radiation_Fringillidae_Drepanidini_including_extinct_taxa"
       },
       {
-        "label": "Test BirdLife Schweiz",
-        "url": "https://www.birdlife.ch/"
+        "label": "James, H. F., Stafford, T. W. Jr., Steadman, D. W., Olson, S. L., Martin, P. S., Jull, A. J. T. & McCoy, P. C. (1987). Radiocarbon dates on bones of extinct birds from Hawaii. Proceedings of the National Academy of Sciences, 84(8), 2350–2354.",
+        "url": "https://www.pnas.org/doi/abs/10.1073/pnas.84.8.2350"
       }
     ],
     "taxonomy": {
