@@ -11674,7 +11674,7 @@
       "lat": "Myadestes woahensis",
       "en": "Oahu Thrush"
     },
-    "last_seen": "1850",
+    "last_seen": "1830",
     "location": {
       "lat": 21.45101,
       "lng": -157.98851
@@ -11685,18 +11685,18 @@
       "panel": ""
     },
     "panel": {
-      "description": "",
-      "habitat_text": "",
-      "extinction_text": ""
+     "description": "<p>Die Oahu-Drossel (Myadestes woahensis), auch ʻĀmaui genannt, wurde lange Zeit als Unterart der Lanai-Drossel (Myadestes lanaiensis) geführt. Der IOC (International Ornithologists’ Union) erkannte sie jedoch 2025 wieder als eigenständige Art an. Die taxonomische Abgrenzung ist dennoch vergleichsweise schlecht untersucht, da lediglich zwei historische Belegexemplare bekannt sind.</p><p>Die Art war ein eher unauffälliger Waldvogel und unterschied sich optisch kaum von der Lanai-Drossel. Es handelte sich um eine mittelgrosse hawaiianische Drossel mit einer Körpergrösse von ungefähr 18–20 cm. Ein Geschlechtsdimorphismus war nicht erkennbar. Das Gefieder ähnelte weitgehend dem anderer Arten der Gattung Myadestes. Jungvögel besassen, wie bei vielen Drosseln, ein geflecktes Gefieder.</p><p>Über die Nahrung und das Sozialverhalten ist kaum etwas bekannt. Es wird angenommen, dass die Art ein ähnliches Nahrungsspektrum wie die anderen Myadestes-Arten nutzte, das hauptsächlich aus Früchten, ergänzt durch Insekten und Landschnecken, bestand.</p>",
+    "habitat_text": "<p>Die einzigen sicher dokumentierten historischen Exemplare stammen vom Nuʻuanu Trail beziehungsweise aus dem Nuʻuanu Valley bei Honolulu auf Oahu.</p><p>Konkrete Angaben zur Vegetation, zur Höhenverbreitung oder zur Habitatwahl wurden nicht dokumentiert. Aufgrund des Fundortes und der Lebensweise verwandter hawaiianischer Drosseln wird angenommen, dass die Art vor allem mesische bis feuchte einheimische Wälder bewohnte.</p>",
+    "extinction_text": "<p>Der erste und zugleich letzte gesicherte Nachweis der Oahu-Drossel stammt vom 14. Mai 1825, als der britische Geistliche und Naturforscher Andrew Bloxam (1801–1878) die beiden heute bekannten Exemplare sammelte. Bereits 1837 konnten im Nuʻuanu Valley keine Drosseln mehr festgestellt werden. Auch sämtliche späteren ornithologischen Untersuchungen auf Oahu erbrachten keinen weiteren glaubwürdigen Nachweis. Die Population muss daher zwischen 1825 und 1837 entweder bereits vollständig verschwunden oder zumindest auf einen sehr kleinen Restbestand zurückgegangen sein.</p><p>Die Ursache des Aussterbens ist unbekannt. Als mögliche Faktoren werden vor allem die zunehmende Zerstörung und Veränderung der einheimischen Wälder sowie die Auswirkungen eingeführter Säugetiere diskutiert. Auch von eingeschleppten Stechmücken übertragene Vogelkrankheiten könnten später eine Rolle gespielt haben. Allerdings lässt sich ihr tatsächlicher Einfluss auf diese bereits sehr früh verschwundene Art nicht nachweisen. Die heute verfügbaren Quellen betonen deshalb, dass keiner dieser Faktoren als gesicherte alleinige Aussterbeursache gelten kann.</p><p>Die Oahu-Drossel gehörte zu den ersten historisch dokumentierten endemischen Waldvögeln Hawaiis, die nach dem europäischen Kontakt ausgestorben sind. Dass bereits zwölf Jahre nach Bloxams Besuch keine Tiere mehr gefunden wurden, macht eine genaue Rekonstruktion des Rückgangs heute kaum mehr möglich.</p>"
     },
     "references": [
       {
-        "label": "Test BirdLife Schweiz",
-        "url": "https://www.birdlife.ch/"
+        "label": "Van der Vliet & Jansen (2025), The only two known museum specimens of ʻĀmaui (Oʻahu Olomaʻo) Myadestes (lanaiensis) woahensis; Olson (1996), The contribution of the voyage of H.M.S. Blonde (1825) to Hawaiian ornithology; Pyle & Pyle (2017), The Birds of the Hawaiian Islands; IOC World Bird List v15.1/15.2.",
+        "url": "https://www.researchgate.net/publication/391370583_The_only_two_known_museum_specimens_of_Amaui_Oahu_Olomao_Myadestes_lanaiensis_woahensis"
       },
       {
-        "label": "Test BirdLife Schweiz",
-        "url": "https://www.birdlife.ch/"
+        "label": "Wakelee, K. M. & Fancy, S. G. (1999/2020): Amaui Myadestes woahensis. Birds of North America / Birds of the World.",
+        "url": "https://birdsoftheworld.org/bow/species/amaui/cur/introduction"
       }
     ],
      "taxonomy": {
