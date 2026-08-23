@@ -98,6 +98,30 @@
         "url": "https://www.birdlife.ch/"
       }
     ]
+     },
+  {
+    "id": "myadestes",
+    "family": "Drosseln (Turdidae)",
+    "family_key": "drepanidini",
+    "name": {
+      "de": "Myadestes",
+      "lat": "Myadestes",
+      "en": "Myadestes"
+    },
+    "extinction_date": "",
+    "panel": {
+      "description": ""
+    },
+    "references": [
+      {
+        "label": "Test BirdLife Schweiz",
+        "url": "https://www.birdlife.ch/"
+      },
+      {
+        "label": "Test BirdLife Schweiz",
+        "url": "https://www.birdlife.ch/"
+      }
+    ]
   },
   {
     "id": "psittirostra",
