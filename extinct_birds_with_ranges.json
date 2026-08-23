@@ -2148,54 +2148,6 @@
     }
   },
   {
-    "id": "myadestes_lanaiensis_rutha",
-    "name": {
-      "de": "Molokai-Drossel",
-      "lat": "Myadestes lanaiensis rutha",
-      "en": "Molokaʻi thrush"
-    },
-    "last_seen": "1980",
-    "location": {
-      "lat": 21.123282,
-      "lng": -157.121167
-    },
-    "habitat": "Molokai",
-    "images": {
-      "tooltip": "",
-      "panel": ""
-    },
-    "panel": {
-      "description": "",
-      "habitat_text": "",
-      "extinction_text": ""
-    },
-    "references": [
-      {
-        "label": "Test BirdLife Schweiz",
-        "url": "https://www.birdlife.ch/"
-      },
-      {
-        "label": "Test BirdLife Schweiz",
-        "url": "https://www.birdlife.ch/"
-      }
-    ],
-    "taxonomy": {
-      "family": "",
-      "genus": "",
-      "family_key": "",
-      "genus_key": ""
-    },
-    "ranges": {
-      "range_native": null,
-      "breeding_native": null,
-      "range_hypothetical": null,
-      "passage": null,
-      "breeding_spots": null,
-      "find_spots": null,
-      "last_observation": null
-    }
-  },
-  {
     "id": "hemignathus_vorpalis",
     "name": {
       "de": "Riesen-Sichelkleidervogel",
@@ -8572,13 +8524,13 @@
     }
   },
   {
-    "id": "myadestes_lanaiensis_lanaiensis",
+    "id": "myadestes_lanaiensis",
     "name": {
       "de": "Lanai-Drossel",
-      "lat": "Myadestes lanaiensis lanaiensis",
+      "lat": "Myadestes lanaiensis",
       "en": "Lānaʻi thrush"
     },
-    "last_seen": "1933",
+    "last_seen": "1995",
     "location": {
       "lat": 20.798875,
       "lng": -156.88109
@@ -8589,18 +8541,22 @@
       "panel": ""
     },
     "panel": {
-      "description": "",
-      "habitat_text": "",
-      "extinction_text": ""
+     "description": "<p>Die Lanai-Drossel (Myadestes lanaiensis), auch Olomaʻo genannt, war eine mittelgrosse hawaiianische Drossel mit einer Körpergrösse von ungefähr 18–21 cm. Ein Geschlechtsdimorphismus war nicht erkennbar. Das Gefieder ähnelte weitgehend dem anderer Arten der Gattung Myadestes. Jungvögel besassen, wie bei vielen Drosseln, ein geflecktes Gefieder.</p><p>Traditionell werden zwei Unterarten unterschieden: M. l. lanaiensis von Lanai und M. l. rutha von Molokai. Die Molokai-Population wurde aufgrund einer angeblich etwas graueren Färbung von Kehle und Brust abgetrennt. Untersuchungen von Museumsexemplaren konnten jedoch keine durchgehend zuverlässigen morphologischen Unterschiede zwischen den beiden Populationen feststellen, weshalb die Berechtigung dieser Unterteilung wiederholt diskutiert wurde. Aktuelle internationale Checklisten führen die beiden Formen weiterhin als getrennte Unterarten.</p><p>Die Lanai-Drossel war ein eher unauffälliger Waldvogel, der sich häufig unterhalb des Kronendachs aufhielt und eine ausgeprägte Standorttreue zeigte. Wie andere hawaiianische Drosseln liess sie im Sitzen gelegentlich die Flügel zittern. Besonders auffällig war ihr Gesang. Für die Molokai-Population wird ein melodischer, kräftiger Drosselgesang beschrieben, der teilweise bis in die Nacht hinein zu hören war; ausserdem wurden Singflüge beobachtet. Historische Berichte deuten dagegen darauf hin, dass die Vögel auf Lanai einen wesentlich schwächeren Gesang besassen.</p><p>Die Nahrung bestand überwiegend aus Früchten, ergänzt durch Insekten und Landschnecken. Die Tiere suchten ihre Nahrung hauptsächlich innerhalb und unterhalb des Waldkronendachs. Über die Fortpflanzung ist nur wenig bekannt. Einige der Art zugeschriebene Nester befanden sich mehrere Meter hoch in Ōhia- oder Kōlea-Bäumen; die übrige Brutbiologie dürfte derjenigen der noch heute existierenden, nah verwandten Hawaii-Drossel (Myadestes obscurus) geähnelt haben.</p>",
+    "habitat_text": "<p>Das historische Verbreitungsgebiet umfasste die einheimischen Wälder von Lanai und Molokai. Subfossile Funde auf Maui zeigen zudem, dass eine Myadestes-Drossel, die sehr wahrscheinlich eine weitere Unterart der Lanai-Drossel darstellte, auch dort vorkam. Von Maui existieren allerdings keine gesicherten historischen Beobachtungen lebender Tiere. Damit war die Art ursprünglich über einen grossen Teil des ehemaligen Inselkomplexes Maui Nui verbreitet.</p><p>Die Art bewohnte ursprünglich geschlossene mesische und feuchte einheimische Wälder über einen relativ grossen Höhenbereich. Besonders wichtig waren Ōhia-Wälder (Metrosideros polymorpha). Auf Molokai kam die Art im 19. Jahrhundert sowohl in tiefer als auch in höher gelegenen Wäldern vor. Mit fortschreitender Veränderung der tiefer gelegenen Wälder beschränkten sich spätere Beobachtungen zunehmend auf weitgehend intakte Bergwälder oberhalb von etwa 1'000 m, insbesondere auf dem Olokui-Plateau und in angrenzenden Gebieten. Dort bestanden die Wälder aus einem geschlossenen Ōhia-Kronendach mit zahlreichen Epiphyten sowie einem Unterwuchs aus ʻŌlapa, Pilo, Pūkiawe und Baumfarnen.</p>",
+    "extinction_text": "<p>Auf Maui verschwand die Art offenbar bereits in der zweiten Hälfte des 19. Jahrhunderts. Nach einer von Robert Cyril Layton Perkins (1866–1955), einem britischen Entomologen und Zoologen, überlieferten Aussage eines einheimischen Informanten sollen die Vögel im ʻĪao Valley noch in den 1860er-Jahren häufig gewesen sein. Bei späteren ornithologischen Untersuchungen ab dem späten 19. Jahrhundert konnte die Art jedoch nicht mehr nachgewiesen werden.</p><p>Auf Lanai konnte die Art gegen Ende des 19. und zu Beginn des 20. Jahrhunderts noch häufig beobachtet werden. Zwischen 1923 und 1934 brach die Population jedoch stark zusammen. Die letzten Berichte stammen aus den frühen 1930er-Jahren; statistische Auswertungen der historischen Nachweise legen ein Aussterben um 1933–1934 nahe. Das schnelle Verschwinden der Art wird unter anderem mit der zunehmenden Besiedlung im Umfeld von Lanai City sowie mit Vogelkrankheiten in Verbindung gebracht, die durch eingeführtes Geflügel eingeschleppt und durch Moskitos in die Wälder übertragen worden sein könnten.</p><p>Auf Molokai verlief der Rückgang etwas langsamer. Die Art war zwischen 1888 und 1907 noch weit verbreitet, wurde aber bereits in den 1930er-Jahren sehr selten. Nachdem sie zeitweise als ausgestorben galt, wurden 1963 beziehungsweise 1964 erneut Vögel entdeckt. Weitere bestätigte Beobachtungen erfolgten 1975, 1979 und schliesslich 1980 auf dem abgelegenen Olokui-Plateau. Bei der hawaiianischen Waldvogel-Erhebung von 1980 wurde die Restpopulation auf nur noch etwa 19 Tiere geschätzt, wobei diese Schätzung mit einer sehr grossen statistischen Unsicherheit verbunden war.</p><p>Spätere Berichte aus den Jahren 1988, 1994 und 2005 konnten nicht bestätigt werden. Als wichtigste Ursachen des Rückgangs gelten die Zerstörung und Veränderung der einheimischen Wälder, Schäden durch eingeführte Huftiere sowie wahrscheinlich durch Moskitos übertragene Vogelkrankheiten wie die Vogelmalaria. Eingeführte Ratten und Katzen sowie die Konkurrenz durch nicht einheimische Vogelarten könnten den Rückgang zusätzlich verstärkt haben.</p><p>Seit 1980 existiert kein allgemein anerkannter bestätigter Nachweis mehr. Die hawaiianischen Behörden und verschiedene Fachautoren gehen inzwischen davon aus, dass die Lanai-Drossel wahrscheinlich gegen Ende des 20. Jahrhunderts ausgestorben ist.</p>"
     },
     "references": [
       {
-        "label": "Test BirdLife Schweiz",
-        "url": "https://www.birdlife.ch/"
+        "label": "Wakelee, K. M. & Fancy, S. G. (1999/2020): Olomao (Myadestes lanaiensis). Birds of North America / Birds of the World.",
+        "url": "https://birdsoftheworld.org/bow/species/olomao/cur/introduction?media=audio&printable=&utm"
+        },
+      {
+        "label": "Scott, J. M., Mountainspring, S., Ramsey, F. L. & Kepler, C. B. (1986): Forest Bird Communities of the Hawaiian Islands: Their Dynamics, Ecology, and Conservation. Studies in Avian Biology 9. U.S. Fish and Wildlife Service (2006): Revised Recovery Plan for Hawaiian Forest Birds",
+        "url": "https://www.govinfo.gov/content/pkg/GOVPUB-I49-PURL-LPS77664/pdf/GOVPUB-I49-PURL-LPS77664.pdf"
       },
       {
-        "label": "Test BirdLife Schweiz",
-        "url": "https://www.birdlife.ch/"
+        "label": "Pyle, R. L. & Pyle, P. (2017): The Birds of the Hawaiian Islands: Occurrence, History, Distribution, and Status. B. P. Bishop Museum.",
+        "url": "https://hbs.bishopmuseum.org/birds/rlp-monograph/pdfs/06-PTER-TIMA/OLOM.pdf"
       }
     ],
      "taxonomy": {
