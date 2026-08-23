@@ -169,22 +169,26 @@
     },
     "habitat": "Maui (Hawaii)",
     "images": {
-      "tooltip": "https://cdn.prod.website-files.com/6a2856622c4f26c0e72a657b/6a72c8137e8b2ee88c2091fb_Orthospiza-howarthi_profile.jpg",
-      "panel": "https://cdn.prod.website-files.com/6a2856622c4f26c0e72a657b/6a72ce3c447ea70825e2e954_Orthiospiza%20howarthi.jpg"
+      "tooltip": "https://cdn.prod.website-files.com/6a2856622c4f26c0e72a657b/6a8aa4300df595767a6477ff_Orthiospiza-howarthi_profile.jpg",
+      "panel": "https://cdn.prod.website-files.com/6a2856622c4f26c0e72a657b/6a8aa3525e4e8ed96d0b5486_Orthiospiza%20howarthi.jpg"
     },
     "panel": {
-      "description": "",
-      "habitat_text": "",
-      "extinction_text": ""
+     "description": "<p>Der Maui-Hochlandfink (Orthiospiza howarthi) war eine grosse, ausgestorbene Finkenart, die ausschliesslich durch subfossile Knochenfunde bekannt ist. Hinsichtlich seiner Körpergrösse war er ungefähr mit dem Grossen Koa-Finken (Rhodacanthis palmeri) vergleichbar und gehörte damit zu den grösseren finkenartigen Vögeln Hawaiis.</p><p>Besonders charakteristisch war der grosse, kräftige und deutlich gewölbte Schnabel. Der Oberschnabel war breit und nach vorne zugespitzt, während der Unterschnabel tief und robust gebaut war. Auffällig waren zudem die für einen derart grossschnäbligen Finken ungewöhnlich grossen, annähernd runden Nasenöffnungen. Die Ansatzstellen am Schädel und Unterkiefer zeigen, dass die Muskulatur zum Schliessen des Schnabels kräftig entwickelt war. Im Gegensatz dazu waren Teile des Gaumens sowie einige Verbindungen innerhalb des Schnabelapparates vergleichsweise schwach ausgebildet. Diese ungewöhnliche Kombination unterscheidet den Maui-Hochlandfinken deutlich von anderen kräftigschnäbligen hawaiianischen Finken.</p>",
+    "habitat_text": "<p>Die Art ist bislang ausschliesslich von Maui bekannt. Da Fossilien bisher nur in Höhenlagen von etwa 1'145 bis 1'830 m gefunden wurden und sie in den reichen Fossillagerstätten tieferer Lagen vollständig fehlt, wird angenommen, dass der Maui-Hochlandfink zu den wenigen hawaiischen Vogelarten gehörte, die auf montane Lebensräume beschränkt waren. Dort bewohnte die Art möglicherweise feuchtere Hochlandwälder an den Hängen des Vulkans Haleakalā.</p><p>Da mehrere Jungvögel in Höhlen gefunden wurden und offenbar nicht von Raubvögeln dorthin eingetragen worden waren, könnte dies auf ein artspezifisches Verhalten hindeuten – etwa auf das Nisten in Höhlen oder Hohlräumen oder auf eine ausgeprägte Erkundungs- und Nahrungssuche junger Vögel.</p>",
+    "extinction_text": "<p>Der genaue Zeitpunkt und die unmittelbare Ursache des Aussterbens des Maui-Hochlandfinken sind unbekannt. Paläontologische und archäologische Untersuchungen zeigen jedoch, dass nach der polynesischen Besiedlung Hawaiis zahlreiche endemische Vogelarten verschwanden. Als Ursachen gelten vor allem Veränderungen der ursprünglichen Vegetation, die zunehmende menschliche Nutzung der Landschaft sowie die Auswirkungen eingeführter Tiere.</p><p>Diese Veränderungen trafen zunächst vor allem Arten der tieferen Lagen, während Populationen in höheren und schwerer zugänglichen Gebieten dem menschlichen Einfluss länger standhalten konnten. Gleichzeitig zogen sich einige ursprünglich auch in tieferen Lagen verbreitete Vogelarten zunehmend in höher gelegene Lebensräume zurück. Dadurch könnten dort Konkurrenz um Nahrung und andere Ressourcen zugenommen und sich die Lebensbedingungen für bereits auf das Hochland spezialisierte Arten zusätzlich verschlechtert haben.</p><p>Ob der Maui-Hochlandfink infolge verschiedener Auswirkungen der menschlichen Besiedlung Hawaiis oder überwiegend aufgrund natürlicher klimatischer und ökologischer Veränderungen ausstarb, lässt sich heute nicht mehr eindeutig rekonstruieren.</p>"
     },
     "references": [
       {
-        "label": "Test BirdLife Schweiz",
-        "url": "https://www.birdlife.ch/"
+        "label": "James, H. F. & Olson, S. L. (1991). Descriptions of Thirty-Two New Species of Birds from the Hawaiian Islands: Part II. Passeriformes. Ornithological Monographs, 46, 1–88.",
+        "url": "https://www.researchgate.net/publication/242013278_Descriptions_of_Thirty-Two_New_Species_of_Birds_from_the_Hawaiian_Islands_Part_II_Passeriformes"
       },
       {
-        "label": "Test BirdLife Schweiz",
-        "url": "https://www.birdlife.ch/"
+        "label": "James, H. F. (2004). The osteology and phylogeny of the Hawaiian finch radiation (Fringillidae: Drepanidini), including extinct taxa. Zoological Journal of the Linnean Society, 141, 207–255.",
+        "url": "https://www.researchgate.net/publication/227527513_The_osteology_and_phylogeny_of_the_Hawaiian_finch_radiation_Fringillidae_Drepanidini_including_extinct_taxa"
+      },
+      {
+        "label": "James, H. F., Stafford, T. W. Jr., Steadman, D. W., Olson, S. L., Martin, P. S., Jull, A. J. T. & McCoy, P. C. (1987). Radiocarbon dates on bones of extinct birds from Hawaii. Proceedings of the National Academy of Sciences, 84(8), 2350–2354.",
+        "url": "https://www.pnas.org/doi/abs/10.1073/pnas.84.8.2350"
       }
     ],
     "taxonomy": {
