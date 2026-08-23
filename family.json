@@ -22,6 +22,28 @@
     ]
   },
   {
+    "id": "incertae sedis",
+    "name": {
+      "de": "Incertae sedis",
+      "lat": "Incertae sedis",
+      "en": "Incertae sedis"
+    },
+    "extinction_date": null,
+    "panel": {
+      "description": ""
+    },
+    "references": [
+      {
+        "label": "Test BirdLife Schweiz",
+        "url": "https://www.birdlife.ch/"
+      },
+      {
+        "label": "Test BirdLife Schweiz",
+        "url": "https://www.birdlife.ch/"
+      }
+    ]
+  },
+  {
     "id": "procellariidae",
     "name": {
       "de": "Sturmvögel",
