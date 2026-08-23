@@ -1050,33 +1050,37 @@
   {
     "id": "haliaeetus_sp.",
     "name": {
-      "de": "Hawai-Seeadler",
+      "de": "Hawaii-Seeadler",
       "lat": "Haliaeetus sp.",
-      "en": "Hawai-eagle"
+      "en": "Hawaii-eagle"
     },
     "last_seen": "1200",
     "location": {
       "lat": 20.8395,
       "lng": -156.284435
     },
-    "habitat": "Maui",
+    "habitat": "Oahu, Molokai, Maui (Hawaii)",
     "images": {
       "tooltip": "",
       "panel": "https://cdn.prod.website-files.com/69a2957c566333eb83d17d8c/69bc399617ebe7d549f0ab33_Adler_default.jpg"
     },
     "panel": {
-      "description": "<p>Der Hawai-Seeadler war vermutlich der grösste Raubvogel des hawaiianischen Archipels und nahm die Rolle eines ökologischen Spitzenprädators ein. Seine Nahrung bestand wahrscheinlich vor allem aus Fischen sowie aus grossen Vogelarten, die heute alle ausgestorben sind.</p><p>Der taxonomische Status dieser Form ist bis heute nicht eindeutig geklärt. Häufig wird angenommen, dass sich der Hawai-Seeadler bereits im mittleren Pleistozän von der paläarktischen Linie abspaltete und über mehr als 100’000 Jahre isoliert als eigenständige Art existierte. Diese Interpretation stützt sich vor allem auf die geographische Isolation Hawaiis.</p><p>Trotz des Fundes eines nahezu vollständigen Skeletts liess sich jedoch keine eindeutige Artabgrenzung vornehmen. Zwar schliessen Grösse und Proportionen die meisten Arten der Gattung Haliaeetus aus, doch fehlen bislang klare osteologische Merkmale, die eine sichere Unterscheidung vom Altwelt-Seeadler (Haliaeetus albicilla) erlauben. Deshalb bleibt unklar, ob es sich beim Hawai-Seeadler um eine eigenständige Art, eine Unterart oder möglicherweise lediglich um wiederholte Besuche einzelner Individuen handelt.</p>",
-      "habitat_text": "<p>Subfossile Überreste sind von Molokai, Oahu und Maui bekannt. Die Fundlage deutet auf eine Nutzung küstennaher Lebensräume sowie von Binnengewässern hin, vergleichbar mit heutigen Seeadlern. Aufgrund der Flugfähigkeit und der Zugehörigkeit zur Gattung Haliaeetus ist es wahrscheinlich, dass diese Seeadlerform in der Lage war, zwischen den einzelnen Inseln des Archipels zu wechseln und nicht strikt an einzelne Inseln gebunden war.</p>",
+      "description": "<p>Der Hawaii-Seeadler (Haliaeetus sp.) war vermutlich der grösste Raubvogel des hawaiianischen Archipels und nahm die Rolle eines ökologischen Spitzenprädators ein. Seine Nahrung bestand wahrscheinlich vor allem aus Fischen sowie aus grossen Vogelarten, die heute alle ausgestorben sind.</p><p>Der taxonomische Status dieser Form ist bis heute nicht eindeutig geklärt. Häufig wird angenommen, dass sich der Hawaii-Seeadler bereits im mittleren Pleistozän von der paläarktischen Linie abspaltete und über mehr als 100’000 Jahre isoliert als eigenständige Art existierte. Diese Interpretation stützt sich vor allem auf die geographische Isolation Hawaiis.</p><p>Trotz des Fundes eines nahezu vollständigen Skeletts liess sich jedoch keine eindeutige Artabgrenzung vornehmen. Zwar schliessen Grösse und Proportionen die meisten Arten der Gattung Haliaeetus aus, doch fehlen bislang klare osteologische Merkmale, die eine sichere Unterscheidung vom Altwelt-Seeadler (Haliaeetus albicilla) erlauben. Deshalb bleibt unklar, ob es sich beim Hawaii-Seeadler um eine eigenständige Art, eine Unterart oder möglicherweise lediglich um wiederholte Besuche einzelner Individuen handelt.</p>",
+      "habitat_text": "<p>Subfossile Überreste sind von Oahu, Molokai und Maui bekannt. Die Fundlage deutet auf eine Nutzung küstennaher Lebensräume sowie von Binnengewässern hin, vergleichbar mit heutigen Seeadlern. Aufgrund der Flugfähigkeit und der Zugehörigkeit zur Gattung Haliaeetus ist es wahrscheinlich, dass diese Seeadlerform in der Lage war, zwischen den einzelnen Inseln des Archipels zu wechseln und nicht strikt an einzelne Inseln gebunden war.</p>",
       "extinction_text": "<p>Die bekannten Überreste sind rund 3’500 Jahre alt und stammen aus der Zeit vor der menschlichen Besiedlung Hawaiis, was eine direkte zeitliche Zuordnung erschwert.</p><p>Der Zeitpunkt und die Ursachen des Aussterbens sind daher nicht eindeutig rekonstruierbar. Falls es sich um eine dauerhaft etablierte Population handelte, könnte sie bis zur Ankunft der ersten polynesischen Siedler überlebt haben. Mit der menschlichen Besiedlung brach die hawaiianische Grossvogelfauna rasch zusammen, wodurch ein wesentlicher Teil der Nahrungsbasis entfiel und das Verschwinden der Seeadlerform begünstigt wurde.</p><p>Alternativ wird in der Fachliteratur diskutiert, dass diese Seeadlerform bereits vor der menschlichen Besiedlung ausstarb oder nie eine stabile Population bildete, etwa infolge klimatischer Schwankungen oder langfristiger Veränderungen der Küsten- und Feuchtgebiete. Aufgrund der unsicheren taxonomischen Einordnung bleibt offen, ob hier tatsächlich das Aussterben einer endemischen Art vorliegt oder lediglich das Ausbleiben seltener Einwanderungen grosser Seeadler aus dem pazifischen Raum.</p>"
     },
     "references": [
       {
-        "label": "Test BirdLife Schweiz",
-        "url": "https://www.birdlife.ch/"
+        "label": "Hailer, F., James, H. F., Olson, S. L. & Fleischer, R. C. (2015). Distinct and extinct: Genetic differentiation of the Hawaiian eagle. Molecular Phylogenetics and Evolution, 83, 40–43.",
+        "url": "https://orca.cardiff.ac.uk/id/eprint/71249/1/Hailer%20et%20al%20%202015%20MPE%20-%20Hawaiian%20eagle%20-%20postprint.pdf"
       },
       {
-        "label": "Test BirdLife Schweiz",
-        "url": "https://www.birdlife.ch/"
+        "label": "Fleischer, R. C., Olson, S. L., James, H. F. & Cooper, A. C. (2000): Identification of the Extinct Hawaiian Eagle (Haliaeetus) by mtDNA Sequence Analysis. The Auk 117(4): 1051–1056.",
+        "url": "https://www.researchgate.net/publication/335660544_Identification_of_the_Extinct_Hawaiian_Eagle_Haliaeetus_by_mtDNA_Sequence_Analysis"
+      },
+      {
+        "label": "Olson, S. L. & James, H. F. (1991): Descriptions of Thirty-two New Species of Birds from the Hawaiian Islands: Part I. Non-Passeriformes. Ornithological Monographs 45: 1–88.",
+        "url": "https://academic.oup.com/auk/article/120/4/953/5562270"
       }
     ],
     "taxonomy": {
