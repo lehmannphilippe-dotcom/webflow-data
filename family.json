@@ -21,6 +21,28 @@
       }
     ]
   },
+   {
+    "id": "turdidae",
+    "name": {
+      "de": "Drosseln (Turdidae)",
+      "lat": "Turdidae",
+      "en": "Thrush (turdidae) "
+    },
+    "extinction_date": null,
+    "panel": {
+      "description": ""
+    },
+    "references": [
+      {
+        "label": "Test BirdLife Schweiz",
+        "url": "https://www.birdlife.ch/"
+      },
+      {
+        "label": "Test BirdLife Schweiz",
+        "url": "https://www.birdlife.ch/"
+      }
+    ]
+  },
   {
     "id": "incertae sedis",
     "name": {
