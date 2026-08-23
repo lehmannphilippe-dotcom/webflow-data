@@ -29,8 +29,8 @@
   },
     {
     "id": "orthiospiza",
-    "family": "Kleidervögel (Drepanidini)",
-    "family_key": "drepanidini",
+    "family": "Incertae sedis",
+    "family_key": "incertae sedis",
     "name": {
       "de": "Orthiospiza",
       "lat": "Orthiospiza",
@@ -38,16 +38,20 @@
     },
     "extinction_date": "1500",
     "panel": {
-      "description": ""
+     "description": "<p>Orthiospiza ist eine ausgestorbene, bislang ausschliesslich von Maui bekannte Gattung finkenartiger Singvögel. Sie umfasst nur eine bekannte Art, den Maui-Hochlandfinken (Orthiospiza howarthi), und ist ausschliesslich durch subfossile Knochenfunde belegt. Hinsichtlich der Körpergrösse war Orthiospiza ungefähr mit dem Grossen Koa-Finken (Rhodacanthis palmeri) vergleichbar und gehörte damit zu den grösseren finkenartigen Vögeln Hawaiis.</p><p>Die systematische Stellung der Gattung ist bis heute nicht eindeutig geklärt. Orthiospiza wurde ursprünglich den hawaiianischen Kleidervögeln (Drepanidini) zugeordnet. Eine umfassende osteologische Analyse zeigte jedoch mehrere anatomische Besonderheiten und platzierte die Gattung ausserhalb der eigentlichen Kleidervogel-Radiation, möglicherweise in die Nähe der Gimpel der Gattung Pyrrhula. Statistisch liess sich eine Zugehörigkeit zu den Drepanidini allerdings nicht ausschliessen. Orthiospiza wird deshalb hinsichtlich ihrer genaueren Stellung innerhalb der Finken als incertae sedis geführt, was bedeutet, dass ihre verwandtschaftliche Zuordnung derzeit nicht mit ausreichender Sicherheit bestimmt werden kann.</p><p>Sollte Orthiospiza tatsächlich näher mit den Gimpeln oder anderen Stieglitzartigen (Carduelinae) verwandt gewesen sein als mit den hawaiianischen Kleidervögeln, würde dies auf eine eigenständige Besiedlung Hawaiis durch eine weitere Finkenlinie hindeuten. Wann eine solche Linie die Inselgruppe erreicht hätte, von welcher Ausgangspopulation sie abstammte und wie ihre weitere Entwicklung auf Hawaii verlief, ist jedoch unbekannt. Die osteologische Untersuchung liefert hierzu keine näheren Hinweise.</p>"
     },
     "references": [
       {
-        "label": "Test BirdLife Schweiz",
-        "url": "https://www.birdlife.ch/"
+        "label": "James, H. F. & Olson, S. L. (1991). Descriptions of Thirty-Two New Species of Birds from the Hawaiian Islands: Part II. Passeriformes. Ornithological Monographs, 46, 1–88.",
+        "url": "https://www.researchgate.net/publication/242013278_Descriptions_of_Thirty-Two_New_Species_of_Birds_from_the_Hawaiian_Islands_Part_II_Passeriformes"
       },
       {
-        "label": "Test BirdLife Schweiz",
-        "url": "https://www.birdlife.ch/"
+        "label": "James, H. F. (2004). The osteology and phylogeny of the Hawaiian finch radiation (Fringillidae: Drepanidini), including extinct taxa. Zoological Journal of the Linnean Society, 141, 207–255.",
+        "url": "https://www.researchgate.net/publication/227527513_The_osteology_and_phylogeny_of_the_Hawaiian_finch_radiation_Fringillidae_Drepanidini_including_extinct_taxa"
+      },
+      {
+        "label": "James, H. F., Stafford, T. W. Jr., Steadman, D. W., Olson, S. L., Martin, P. S., Jull, A. J. T. & McCoy, P. C. (1987). Radiocarbon dates on bones of extinct birds from Hawaii. Proceedings of the National Academy of Sciences, 84(8), 2350–2354.",
+        "url": "https://www.pnas.org/doi/abs/10.1073/pnas.84.8.2350"
       }
     ]
   },
