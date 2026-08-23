@@ -7842,7 +7842,7 @@
       "lat": "Myadestes myadestinus",
       "en": "Large Kauai Thrush"
     },
-    "last_seen": "1993/1996",
+    "last_seen": "1999",
     "location": {
       "lat": 22.08182,
       "lng": -159.52177
@@ -7853,25 +7853,33 @@
       "panel": ""
     },
     "panel": {
-      "description": "",
-      "habitat_text": "",
-      "extinction_text": ""
+       "description": "<p>Die Grosse Kauai-Drossel (Myadestes myadestinus), auch Kāmaʻo genannt, war eine etwa 20 cm grosse Drossel von Kauai. Besonders charakteristisch war ihr komplexer und melodischer Gesang, der als flötenartig beschrieben wurde und vor allem vor Sonnenaufgang und nach Sonnenuntergang zu hören war. Beobachter beschrieben ausserdem ein auffälliges Verhalten, bei dem der Vogel aus der Vegetation aufstieg, einige kräftige Gesangsnoten von sich gab und anschliessend rasch wieder in den Unterwuchs hinabflog.</p><p>Ein Geschlechtsdimorphismus war nicht erkennbar. Das Gefieder ähnelte weitgehend dem anderer Arten der Gattung Myadestes. Jungvögel besassen, wie bei vielen Drosseln, ein geflecktes Gefieder. Im Gegensatz zur Kleinen Kauai-Drossel (Myadestes palmeri) fehlten der Grossen Kauai-Drossel der auffällige weisse Augenring und die rosafarbenen Beine.</p><p>Über die Fortpflanzungsbiologie ist nur wenig bekannt. Vermutlich lag die Hauptbrutzeit zwischen April und Juli. Die Gelege bestanden aus einem oder zwei grauweissen, rotbraun gefleckten Eiern.</p><p>Die Art ernährte sich überwiegend von Früchten und Beeren. Besonders häufig wird ʻieʻie (Freycinetia arborea) als Nahrungspflanze genannt. Daneben frass sie auch Insekten und Schnecken. Als relativ grosser fruchtfressender Vogel dürfte sie zudem eine wichtige Rolle bei der Verbreitung der Samen einheimischer Pflanzen gespielt haben.</p>",
+      "habitat_text": "<p>Ursprünglich war die Grosse Kauai-Drossel offenbar über einen grossen Teil Kauais verbreitet. Im späten 19. Jahrhundert wurde sie sowohl in feuchten Wäldern nahe dem Meeresspiegel an der Nordseite der Insel als auch in den Bergwäldern des Inselinneren als sehr häufig beschrieben. Zeitweise galt die Art sogar als einer der häufigsten einheimischen Landvögel Kauais.</p><p>Während des 20. Jahrhunderts zog sich ihr Verbreitungsgebiet zunehmend in höher gelegene Wälder zurück. Ab den 1920er-Jahren wurde die Art in tieferen Lagen immer seltener; die letzten Populationen überlebten schliesslich weitgehend im Gebiet des Alakaʻi-Plateaus. In den letzten Jahrzehnten ihres Vorkommens wurde die Grosse Kauai-Drossel praktisch nicht mehr unterhalb von etwa 1'100 m beobachtet.</p><p>Besonders geeignet waren feuchte, einheimische Wälder mit dichtem Unterwuchs und vielen fruchttragenden Pflanzen. Dazu gehörten unter anderem ʻŌhiʻa, ʻŌlapa, Baumfarne sowie verschiedene Sträucher und Kletterpflanzen.</p><p>Die hoch gelegenen Wälder des Alakaʻi waren wahrscheinlich nicht der ursprüngliche Hauptlebensraum der Grossen Kauai-Drossel. Vielmehr dienten sie der Art zuletzt als Rückzugsgebiet, nachdem sie aus den tieferen Lagen verschwunden war.</p>",
+      "extinction_text": "<p>Noch gegen Ende des 19. Jahrhunderts wurde die Art als sehr häufig und weit verbreitet beschrieben. Bereits in den ersten Jahrzehnten des 20. Jahrhunderts brachen die Bestände jedoch ein. Zwischen 1968 und 1973 wurde die verbliebene Population auf nur noch etwa 337 Individuen geschätzt. Bei Erhebungen im Jahr 1981 wurden in einem Teil des zuvor untersuchten Gebietes nur noch ungefähr 24 Vögel festgestellt.</p><p>Als wichtigste Ursache des Rückgangs gelten eingeschleppte Vogelkrankheiten, insbesondere Vogelmalaria (Plasmodium relictum) und Vogelpocken, die durch eingeführte Stechmücken übertragen wurden. Weitere Belastungen waren die Zerstörung und Veränderung der einheimischen Wälder, eingeführte Ratten und vermutlich verwilderte Katzen als Prädatoren sowie Schweine und andere Huftiere, welche die Waldvegetation und den Unterwuchs veränderten. Zusätzlich könnte die Konkurrenz durch eingeführte nicht einheimische Vögel, insbesondere ökologisch ähnliche Arten wie die Schamadrossel (Copsychus malabaricus), zum Rückgang der Art beigetragen haben.</p><p>Letzte gesicherte Beobachtungen reichen bis 1987 zurück. Intensive Nachsuchen in den 1990er-Jahren blieben erfolglos. Eine statistische Untersuchung schätzte, dass die Art wahrscheinlich um 1991, spätestens jedoch bis 1999, ausgestorben war.</p>"
     },
     "references": [
       {
-        "label": "Test BirdLife Schweiz",
-        "url": "https://www.birdlife.ch/"
+        "label": "Wakelee, K. M. & Fancy, S. G. (1999). ʻŌmaʻo (Myadestes obscurus), Kāmaʻo (Myadestes myadestinus), Olomaʻo (Myadestes lanaiensis), and ʻĀmaui (Myadestes woahensis). The Birds of North America, No. 460. The Academy of Natural Sciences, Philadelphia & The American Ornithologists’ Union, Washington, D.C.",
+        "url": "https://dlnr.hawaii.gov/wildlife/birds/kamao/"
+       },
+      {
+        "label": "U.S. Fish and Wildlife Service (2006). Revised Recovery Plan for Hawaiian Forest Birds. Region 1, Portland, Oregon. Abschnitt Kāmaʻo (Myadestes myadestinus), S. 2-19 ff.",
+        "url": "https://ecos.fws.gov/docs/recovery_plan/HI%20Forest%20Bird%20Rec%20Plan%202006.pdf"
       },
       {
-        "label": "Test BirdLife Schweiz",
-        "url": "https://www.birdlife.ch/"
+        "label": "Scott, J. M., Mountainspring, S., Ramsey, F. L. & Kepler, C. B. (1986). Forest Bird Communities of the Hawaiian Islands: Their Dynamics, Ecology, and Conservation. Studies in Avian Biology No. 9, Cooper Ornithological Society.",
+        "url": "https://dlnr.hawaii.gov/wildlife/birds/kamao/"
+      },
+      {
+        "label": "Foster, J. T., Tweed, E. J., Camp, R. J., Woodworth, B. L., Adler, C. D. & Telfer, T. (2004). Long-term population changes of native and introduced birds in the Alakaʻi Swamp, Kauaʻi. Conservation Biology, 18, 716–725.",
+        "url": "https://dlnr.hawaii.gov/wildlife/birds/kamao/"
       }
     ],
     "taxonomy": {
-      "family": "",
-      "genus": "",
-      "family_key": "",
-      "genus_key": ""
+      "family": "Drosseln (Turdidae)",
+      "genus": "Myadestes",
+      "family_key": "turdidae",
+      "genus_key": "myadestes"
     },
     "ranges": {
       "range_native": null,
