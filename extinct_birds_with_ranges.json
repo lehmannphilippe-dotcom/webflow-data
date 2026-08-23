@@ -8603,11 +8603,11 @@
         "url": "https://www.birdlife.ch/"
       }
     ],
-    "taxonomy": {
-      "family": "",
-      "genus": "",
-      "family_key": "",
-      "genus_key": ""
+     "taxonomy": {
+      "family": "Drosseln (Turdidae)",
+      "genus": "Myadestes",
+      "family_key": "turdidae",
+      "genus_key": "myadestes"
     },
     "ranges": {
       "range_native": null,
@@ -11743,11 +11743,11 @@
         "url": "https://www.birdlife.ch/"
       }
     ],
-    "taxonomy": {
-      "family": "",
-      "genus": "",
-      "family_key": "",
-      "genus_key": ""
+     "taxonomy": {
+      "family": "Drosseln (Turdidae)",
+      "genus": "Myadestes",
+      "family_key": "turdidae",
+      "genus_key": "myadestes"
     },
     "ranges": {
       "range_native": null,
