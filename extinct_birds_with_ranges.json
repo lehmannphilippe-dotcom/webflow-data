@@ -1271,24 +1271,40 @@
       "lat": 21.140332,
       "lng": -156.782892
     },
-    "habitat": "Molokai",
+    "habitat": "Molokai (Hawaii)",
     "images": {
       "tooltip": "",
       "panel": "https://cdn.prod.website-files.com/69a2957c566333eb83d17d8c/69cae2d5d1611e0161b2f6f9_molokai_langbeineule.jpg"
     },
     "panel": {
-      "description": "<p>Über die Molokai-Langbeineule ist nur wenig bekannt. Die Art wurde 1991 von Storrs L. Olson und Helen F. James anhand fossiler Knochenfunde von Molokai beschrieben. Sie gehört zur ausgestorbenen hawaiischen Eulengattung Grallistrix, die mit vier Arten auf Kauai, Oahu, Molokai und Maui vertreten war.</p><p>Die Molokai-Langbeineule war die grösste der vier Grallistrix-Arten. Mit einer Gesamtkörpergrösse von etwa 42 bis 45 Zentimetern entsprach sie ungefähr einer heute mittelgrossen Eule wie dem Waldkauz (Strix aluco). Charakteristisch war – wie bei allen Vertretern der Gattung Grallistrix – ein ungewöhnlicher Körperbau, der eher an einen Sperber oder Habicht erinnerte als an eine rezente Eule. Dazu gehörten kurze, gerundete Flügel, lange, schlanke Beine, sehr kräftige Zehen sowie ein länglicher Schädel mit stärker seitlich ausgerichteten Augen.</p><p>Diese besondere Anatomie stellt eine deutliche Spezialisierung an ihre ökologische Nische dar. Während die meisten heute lebenden Eulen vorwiegend nachtaktive Kleinsäuger jagen, erbeuteten die Grallistrix-Arten vermutlich tagsüber in wendigen Flugmanövern kleinere Vögel. Fossile Gewölle – also unverdauliche Nahrungsreste wie Knochen, Federn oder Haare, die von Eulen wieder ausgewürgt werden – zeigen, dass die Molokai-Langbeineule hauptsächlich dem ausgestorbenen Maui-Nui-Fink (Telespiza ypsilon) sowie der ebenfalls ausgestorbenen Menehune-Ralle (Zapornia menehune) nachstellte.</p>",
-      "habitat_text": "<p>Fossile Nachweise der Molokai-Langbeineule sind bislang ausschliesslich von der Insel Molokai bekannt. Ob die Art früher auch auf benachbarten Inseln vorkam, lässt sich heute nicht mehr mit Sicherheit klären.</p><p>Die Anhäufung von Knochen und Gewöllen deutet darauf hin, dass sich die Molokai-Langbeineule zumindest zeitweise auf offenem Sand oder in niedriger Dünenvegetation aufhielt. Wahrscheinlich besiedelte sie tiefer gelegene Dünenlandschaften, in denen die niedrige Vegetation sowohl ausreichend Nahrung als auch geschützte Bodenbrutplätze bot.</p>",
-      "extinction_text": "<p>Das genaue Aussterbedatum der Molokai-Langbeineule ist unbekannt. Es wird jedoch angenommen, dass die Art wenige Jahrhunderte nach der Besiedlung Hawaiis durch polynesische Siedler verschwand.</p><p>Wie bei vielen anderen bodenbrütenden Vogelarten Hawaiis dürfte ihr Rückgang auf mehrere Faktoren zurückzuführen sein. Die leicht zugänglichen Nistplätze machten Eier und Jungtiere sowohl für den Menschen als auch für eingeschleppte Tiere wie die polynesische Ratte zu einer leicht erreichbaren Nahrungsquelle. Gleichzeitig dürfte auch der Verlust geeigneter Lebensräume zum Niedergang der Art beigetragen haben. Möglicherweise verschlechterte sich zusätzlich ihre Nahrungsgrundlage, da auf Molokai im gleichen Zeitraum auch mehrere ihrer potenziellen Beutetiere verschwanden.</p>"
+      "description": "<p>Die Molokai-Langbeineule (Grallistrix geleches) wurde nur anhand fossiler Knochenfunde von Molokai beschrieben. Sie gehört zur ausgestorbenen hawaiischen Eulengattung Grallistrix, die mit vier Arten auf Kauai, Oahu, Molokai und Maui vertreten war.</p><p>Die Molokai-Langbeineule gehörte zusammen mit der Kauai-Langbeineule (Grallistrix auceps) zu den beiden grösseren Arten der Gattung. Ihre allgemeine Körpergrösse entsprach ungefähr der eines heutigen Waldkauzes (Strix aluco). Charakteristisch war – wie bei allen Vertretern der Gattung Grallistrix – ein ungewöhnlicher Körperbau, der eher an einen Sperber oder Habicht erinnerte als an eine Eule. Dazu gehörten kurze Flügel, lange, schlanke Beine, aussergewöhnlich kräftige Zehen sowie ein schmaler, langgestreckter Schädel und Schnabel.</p><p>Diese besondere Anatomie stellt eine deutliche Spezialisierung an ihre ökologische Nische dar. Während die meisten heute lebenden Eulen vorwiegend nachtaktive Kleinsäuger jagen, erbeutete die Molokai-Langbeineule vermutlich tagsüber in wendigen Flugmanövern kleinere Vögel. Fossile Gewölle – also unverdauliche Nahrungsreste wie Knochen, Federn oder Haare, die von Eulen wieder ausgewürgt werden – zeigen, dass die Molokai-Langbeineule hauptsächlich dem ausgestorbenen Maui-Nui-Fink (Telespiza ypsilon) sowie der ebenfalls ausgestorbenen Molokai-Ralle (Porzana menehune) nachstellte.</p>",
+      "habitat_text": "<p>Fossile Nachweise der Molokai-Langbeineule sind bislang ausschliesslich von Molokai bekannt, insbesondere aus den Dünengebieten von Moomomi und Ilio Point.</p><p>Die Anhäufung von Knochen und Gewöllen deutet darauf hin, dass sich die Molokai-Langbeineule zumindest zeitweise auf offenem Sand oder in niedriger Dünenvegetation aufhielt. Wahrscheinlich besiedelte sie tiefer gelegene Dünenlandschaften, in denen die niedrige Vegetation sowohl ausreichend Nahrung als auch geschützte Bodenbrutplätze bot.</p><p>Ob die Art darüber hinaus weitere Lebensräume auf Molokai nutzte, ist unbekannt. Denkbar ist, dass sie auch angrenzende Busch- und Waldgebiete aufsuchte, doch fehlen bislang fossile Nachweise, die eine breitere Habitatnutzung eindeutig belegen.</p>",
+      "extinction_text": "<p>Der genaue Zeitpunkt des Aussterbens der Molokai-Langbeineule ist unbekannt. Wahrscheinlich verschwand sie wie zahlreiche andere endemische Vogelarten Hawaiis im Zusammenhang mit den tiefgreifenden ökologischen Veränderungen nach der polynesischen Besiedlung des Archipels.</p><p>Als mögliche Ursachen gelten die Einführung neuer Prädatoren, die Veränderung und Zerstörung ursprünglicher Lebensräume sowie der Rückgang einheimischer Vogelarten, die der Eule als Beute dienten. Da die Molokai-Langbeineule möglicherweise am Boden brütete, könnten insbesondere Eier und Jungvögel gegenüber der eingeschleppten Pazifischen Ratte (Rattus exulans) besonders anfällig gewesen sein. Gleichzeitig veränderten Brandrodungen und die zunehmende landwirtschaftliche Nutzung grosse Teile der ursprünglichen Tieflandvegetation. Der Rückgang oder das Aussterben zahlreicher kleiner Vögel und bodenlebender Rallen dürfte zusätzlich ihre Nahrungsgrundlage geschmälert haben. Vermutlich führte somit eine Kombination aus Prädation, Lebensraumverlust und abnehmendem Beuteangebot zum Verschwinden der Art.</p>"
     },
     "references": [
       {
-        "label": "Test BirdLife Schweiz",
-        "url": "https://www.birdlife.ch/"
+        "label": "Olson, S. L. & James, H. F. (1991). Descriptions of Thirty-Two New Species of Birds from the Hawaiian Islands: Part I. Non-Passeriformes. Ornithological Monographs, 45, 1–88.",
+        "url": "https://www.biologicaldiversity.org/campaigns/global_owl_project/descriptions/Fossil_owls/Genus%20Grallistrix%20Olson%20and%20James%201991.pdf"
+           },
+      {
+        "label": "James, H. F. & Olson, S. L. (1991). Descriptions of Thirty-Two New Species of Birds from the Hawaiian Islands: Part II. Passeriformes. Ornithological Monographs, 46, 1–88.",
+        "url": "https://www.researchgate.net/publication/242013278_Descriptions_of_Thirty-Two_New_Species_of_Birds_from_the_Hawaiian_Islands_Part_II_Passeriformes"
+           },
+      {
+        "label": "Slikas, B. (2003): Hawaiian Birds: Lessons From a Rediscovered Avifauna. The Auk 120(4): 953–960.",
+        "url": "https://academic.oup.com/auk/article/120/4/953/5562270?login=false"
+           },
+      {
+        "label": "Olson, S. L. & James, H. F. (1982). Fossil Birds from the Hawaiian Islands: Evidence for Wholesale Extinction by Man Before Western Contact. Science, 217(4560), 633–635.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/17817532/"
+           },
+      {
+        "label": "Olson, S. L. & James, H. F. (1984). The Role of Polynesians in the Extinction of the Avifauna of the Hawaiian Islands. In: Martin, P. S. & Klein, R. G. (Hrsg.), Quaternary Extinctions: A Prehistoric Revolution, S. 768–780. University of Arizona Press.",
+        "url": "https://repository.si.edu/server/api/core/bitstreams/61392219-1cb5-4347-a902-66eb31179907/content"
       },
       {
-        "label": "Test BirdLife Schweiz",
-        "url": "https://www.birdlife.ch/"
+        "label": "Athens, J. S., Tuggle, H. D., Ward, J. V. & Welch, D. J. (2002). Avifaunal Extinctions, Vegetation Change, and Polynesian Impacts in Prehistoric Hawaiʻi. Archaeology in Oceania, 37(2), 57–78.",
+        "url": "https://onlinelibrary.wiley.com/doi/10.1002/j.1834-4453.2002.tb00507.x"
       }
     ],
     "taxonomy": {
