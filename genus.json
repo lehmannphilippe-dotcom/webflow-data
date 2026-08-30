@@ -474,21 +474,21 @@
     },
     "extinction_date": "1500",
     "panel": {
-       "description": "<p>Grallistrix ist eine ausgestorbene Gattung der Eigentlichen Eulen (Strigidae), die mit vier bekannten Arten ausschliesslich auf den Hawaii-Inseln verbreitet war.</p><p>Charakteristisch für Grallistrix waren die stark verlängerten, schlanken Hinterbeine, kräftigen Füsse und vergleichsweise kurzen Flügel. Schädel und Schnabel waren relativ schmal und langgestreckt. Aufgrund ihrer Schädelmerkmale wird angenommen, dass sich Grallistrix aus einer Eule aus dem Verwandtschaftskreis der Waldkäuze (Strix) entwickelte. Wann und aus welcher Region die Stammform Hawaii erreichte, ist unbekannt. Die stark verlängerten Hinterbeine und verkürzten Flügel ähnelten funktionell denen vogelfangender Sperber und Habichte (Accipiter) und werden als Anpassung an die Jagd auf andere Vögel interpretiert, die sich vermutlich erst nach der Besiedlung Hawaiis entwickelte.</p><p>Auffällig ist, dass verlängerte Hintergliedmassen bei Eulen mehrfach unabhängig auf Inseln entstanden sind. Vergleichbare Anpassungen finden sich beispielsweise bei der pleistozänen kubanischen Rieseneule Ornimegalonyx sowie bei mehreren im Holozän ausgestorbenen Eulenarten von Kreta, Sizilien, den Maskarenen und Makaronesien. Diese konvergente Entwicklung wird mit einer stärkeren Bodenorientierung, besonderen Jagdstrategien und den speziellen ökologischen Bedingungen isolierter Inseln in Verbindung gebracht, stellt jedoch keine allgemeine Regel für Insel-Eulen dar.</p><p>Angenommen wird, dass Grallistrix eher bodenorientiert lebte und wahrscheinlich auch am Boden brütete. Da es auf Hawaii bis zur menschlichen Besiedlung kaum bodenlebende Prädatoren gab, könnten die Eulen gegenüber der eingeschleppten Pazifischen Ratte (Rattus exulans) besonders anfällig gewesen sein. Diese dürfte Eier und Jungvögel erbeutet und damit das Aussterben der Gattung beschleunigt haben. Zusätzlich dürften grossflächige Brandrodungen und die landwirtschaftliche Nutzung, durch die grosse Teile der ursprünglichen Tieflandwälder zerstört wurden, eine wichtige Rolle gespielt haben.</p>"
+    "description": "<p>Grallistrix ist eine ausgestorbene Gattung der Eigentlichen Eulen (Strigidae), die mit vier bekannten Arten ausschliesslich auf den Hawaii-Inseln verbreitet war.</p><p>Charakteristisch für Grallistrix waren stark verlängerte, schlanke Hinterbeine, kräftige Füsse und vergleichsweise kurze Flügel sowie ein schmaler, langgestreckter Schädel und Schnabel. Aufgrund ihrer Schädelmerkmale wird angenommen, dass sich Grallistrix aus der Gruppe der Waldkäuze (Strix) entwickelte. Wann und aus welcher Region die Stammform Hawaii erreichte, ist unbekannt. Die ungewöhnliche Anatomie, die eher an Habichte (Accipiter) als an Eulen erinnert, entwickelte sich vermutlich erst nach der Besiedlung Hawaiis und wird als Anpassung an die Jagd auf kleine Singvögel interpretiert.</p><p>Auffällig ist, dass verlängerte Hintergliedmassen bei Eulen mehrfach unabhängig auf Inseln entstanden sind. Vergleichbare Anpassungen finden sich beispielsweise bei der pleistozänen Rieseneule Ornimegalonyx aus Kuba sowie bei mehreren im Holozän ausgestorbenen Eulenarten von Kreta, Sizilien, den Maskarenen und Makaronesien. Diese konvergente Entwicklung wird einerseits mit den besonderen ökologischen Bedingungen isolierter Inseln, andererseits mit speziellen Jagdstrategien und einer eher bodenorientierten Lebensweise in Verbindung gebracht.</p><p>Heute ist die Sumpfohreule (Asio flammeus) die einzige auf Hawaii vorkommende Eulenart. Ihr Verbreitungsgebiet erstreckt sich über weite Teile Nordamerikas und Eurasiens, Teile Südamerikas und Nordafrikas sowie verschiedene ozeanische Inseln. Fossile Funde deuten darauf hin, dass sie sich auf Hawaii vermutlich erst nach der polynesischen Besiedlung erfolgreich etablierte. Die Art bevorzugt offene Landschaften mit einem hohen Angebot an kleinen Säugetieren. Mit grossflächigen Rodungen und der Einführung der Polynesischen Ratte (Rattus exulans) schuf der Mensch geeignete Lebensbedingungen, was eine dauerhafte Besiedlung durch die Sumpfohreule begünstigt haben könnte.</p>"
     },
     "references": [
       {
         "label": "Olson, S. L. & James, H. F. (1991). Descriptions of Thirty-Two New Species of Birds from the Hawaiian Islands: Part I. Non-Passeriformes. Ornithological Monographs, 45, 1–88.",
         "url": "https://www.biologicaldiversity.org/campaigns/global_owl_project/descriptions/Fossil_owls/Genus%20Grallistrix%20Olson%20and%20James%201991.pdf"
-         },
+      },
       {
         "label": "Slikas, B. (2003): Hawaiian Birds: Lessons From a Rediscovered Avifauna. The Auk 120(4): 953–960.",
         "url": "https://academic.oup.com/auk/article/120/4/953/5562270?login=false"
-         },
+      },
       {
         "label": "Louchart, A. (2005). Integrating the Fossil Record in the Study of Insular Body Size Evolution: Example of Owls (Aves, Strigiformes). Monografies de la Societat d’Història Natural de les Balears, 12, 155–174.",
         "url": "https://ibdigital.uib.es/greenstone/collect/monografiesHistoriaNatural/index/assoc/Monograf/iesSHNB_/2005vol0/12p155.dir/MonografiesSHNB_2005vol012p155.pdf"
-         },
+      },
       {
         "label": "Suárez, W. (2020). Remarks on extinct giant owls (Strigidae) from Cuba, with description of a new species of Ornimegalonyx Arredondo. Bulletin of the British Ornithologists’ Club, 140(4), 387–392. DOI: 10.25226/bboc.v140i4.2020.a3.",
         "url": "https://boc-online.org/bulletins/downloads/BBOC1404-PDFa.pdf"
@@ -496,6 +496,18 @@
       {
         "label": "Pavia, M. & Mourer-Chauviré, C. (2002). An overview of the genus Athene in the Pleistocene of the Mediterranean islands, with the description of Athene trinacriae n. sp. (Aves: Strigidae). In: Proceedings of the 5th Symposium of the Society of Avian Paleontology and Evolution, 13–27.",
         "url": "https://www.researchgate.net/publication/283737892_An_overview_of_the_genus_Athene_in_the_Pleistocene_of_the_Mediterranean_islands_with_the_description_of_Athene_trinacriae_n_sp_Aves_Strigidae"
+         },
+      {
+        "label": "COSEWIC (2021).COSEWIC Assessment and Status Report on the Short-eared Owl Asio flammeus in Canada. Committee on the Status of Endangered Wildlife in Canada, Ottawa.",
+        "url": "https://www.canada.ca/en/environment-climate-change/services/species-risk-public-registry/cosewic-assessments-status-reports/short-eared-owl-2021.html"
+      },
+      {
+        "label": "Olson, S. L. & James, H. F. (1982). Prodromus of the Fossil Avifauna of the Hawaiian Islands. Smithsonian Contributions to Zoology 365: 1–59.",
+        "url": "https://repository.si.edu/items/1cb31ebc-b99c-4e8b-b988-13863c9bde09"
+      },
+      {
+        "label": "Hawaiʻi Department of Land and Natural Resources (DLNR). Pueo – Hawaiian Short-eared Owl (Asio flammeus sandwichensis). Division of Forestry and Wildlife.",
+        "url": "https://dlnr.hawaii.gov/wildlife/birds/pueo/"
       }
     ]
   },
