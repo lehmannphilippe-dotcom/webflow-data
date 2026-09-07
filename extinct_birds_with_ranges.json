@@ -2352,10 +2352,10 @@
       }
     ],
     "taxonomy": {
-      "family": "",
-      "genus": "",
-      "family_key": "",
-      "genus_key": ""
+      "family": "Thambetochenini (Moa-Nalos)",
+      "genus": "Thambetochen",
+      "family_key": "thambetochenini",
+      "genus_key": "thambetochen"
     },
     "ranges": {
       "range_native": null,
@@ -2370,16 +2370,16 @@
   {
     "id": "thambetochen_xanion",
     "name": {
-      "de": "O’ahu-Moa-Nola",
+      "de": "Oahu-Moa-Nalo",
       "lat": "Thambetochen xanion",
-      "en": "O’ahu-moa-nola"
+      "en": "O’ahu-moa-nalo"
     },
     "last_seen": "1200",
     "location": {
       "lat": 21.3867,
       "lng": -158.0092
     },
-    "habitat": "Hawaii",
+    "habitat": "Oahu (Hawaii)",
     "images": {
       "tooltip": "",
       "panel": ""
@@ -2400,10 +2400,10 @@
       }
     ],
     "taxonomy": {
-      "family": "",
-      "genus": "",
-      "family_key": "",
-      "genus_key": ""
+      "family": "Thambetochenini (Moa-Nalos)",
+      "genus": "Thambetochen",
+      "family_key": "thambetochenini",
+      "genus_key": "thambetochen"
     },
     "ranges": {
       "range_native": null,
@@ -2427,7 +2427,7 @@
       "lat": 20.777943,
       "lng": -156.144562
     },
-    "habitat": "Hawaii",
+    "habitat": "Maui (Hawaii)",
     "images": {
       "tooltip": "",
       "panel": ""
@@ -2448,10 +2448,10 @@
       }
     ],
     "taxonomy": {
-      "family": "",
-      "genus": "",
-      "family_key": "",
-      "genus_key": ""
+      "family": "Thambetochenini (Moa-Nalos)",
+      "genus": "Ptaiochen",
+      "family_key": "thambetochenini",
+      "genus_key": "ptaiochen"
     },
     "ranges": {
       "range_native": null,
