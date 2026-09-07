@@ -838,16 +838,32 @@
     },
     "extinction_date": "",
     "panel": {
-      "description": ""
+     "description": "<p>Zapornia ist eine Gattung kleiner bis mittelgrosser Vögel aus der Familie der Rallenvögel (Rallidae). Ihr Verbreitungsgebiet reicht von Afrika und Madagaskar über Europa und Asien bis nach Australien, Neuseeland und auf zahlreiche Inseln des Pazifiks.</p><p>Viele Arten wurden früher der Gattung Porzana zugeordnet. Molekulargenetische Untersuchungen zeigten jedoch, dass Porzana in seiner früheren weiten Abgrenzung keine einheitliche Entwicklungslinie bildete. Die betreffenden Arten werden heute zu Zapornia gestellt, die innerhalb der Rallen näher mit Rallina als mit Porzana verwandt ist. Auch mehrere nur subfossil bekannte Inselrallen gelten als mögliche Vertreter von Zapornia, lassen sich mangels genetischer Daten jedoch nicht immer sicher zuordnen.</p><p>Die Arten besitzen einen kompakten Körperbau mit kurzen Flügeln und Schwanz sowie relativ langen Beinen und Zehen. Viele leben verborgen in Feuchtgebieten und dichter Vegetation, einige auch in trockeneren Gras-, Busch- oder Waldlebensräumen. Die Gattung umfasst sowohl weit verbreitete flugfähige Arten als auch spezialisierte Inselendemiten.</p><p>Besonders auffällig ist die wiederholte Besiedlung ozeanischer Inseln. Flugfähige Vorfahren konnten selbst weit abgelegene Inselgruppen erreichen, wo sich unter anderem aufgrund des Fehlens landlebender Prädatoren teilweise innerhalb vergleichsweise kurzer Zeit flugunfähige endemische Arten entwickelten. Dieser Prozess fand offenbar mehrfach und unabhängig voneinander statt, wie das Beispiel Hawaiis zeigt. Mehrere ausgestorbene Arten, die heute der Gattung Zapornia zugeordnet werden, gehen höchstwahrscheinlich nicht auf dieselbe eingewanderte Stammform zurück, sondern entstanden aus unterschiedlichen Besiedlungsereignissen.</p><p>Durch menschliche Eingriffe sind heute alle flugunfähigen Arten bis auf das Hendersonsumpfhuhn (Zapornia atra) ausgestorben.</p>"
     },
     "references": [
       {
-        "label": "Test BirdLife Schweiz",
-        "url": "https://www.birdlife.ch/"
+        "label": "Kirchman, J. J., McInerney, N. R., Giarla, T. C., Olson, S. L., Slikas, E. & Fleischer, R. C. (2021). Phylogeny based on ultra-conserved elements clarifies the evolution of rails and allies (Ralloidea) and is the basis for a revised classification. Ornithology 138(4): ukab042.",
+        "url": "https://academic.oup.com/auk/article/138/4/ukab042/6322858"
+        },
+      {
+        "label": "Garcia-R, J. C., Gibb, G. C. & Trewick, S. A. (2014). Deep global evolutionary radiation in birds: Diversification and trait evolution in the cosmopolitan bird family Rallidae. Molecular Phylogenetics and Evolution 81: 96–108.",
+        "url": "https://www.sciencedirect.com/science/article/abs/pii/S1055790314003200"
+        },
+      {
+        "label": "Garcia-R, J. C., Lemmon, E. M., Lemmon, A. R. & French, N. (2020). Phylogenomic Reconstruction Sheds Light on New Relationships and Timescale of Rails (Aves: Rallidae) Evolution. Diversity 12: 70.",
+        "url": "https://academic.oup.com/auk/article/139/1/ukab065/6412593"
+        },
+      {
+        "label": "Slikas, B., Olson, S. L. & Fleischer, R. C. (2002). Rapid, independent evolution of flightlessness in four species of Pacific Island rails (Rallidae): an analysis based on mitochondrial sequence data. Journal of Avian Biology 33: 5–14.",
+        "url": "https://nsojournals.onlinelibrary.wiley.com/doi/abs/10.1034/j.1600-048X.2002.330103.x"
+        },
+      {
+        "label": "Olson, S. L. & James, H. F. (1991). Descriptions of Thirty-Two New Species of Birds from the Hawaiian Islands: Part I. Non-Passeriformes. Ornithological Monographs, 45, 1–88.",
+        "url": " https://digitalcommons.usf.edu/ornithological_monographs/36/"
       },
       {
-        "label": "Test BirdLife Schweiz",
-        "url": "https://www.birdlife.ch/"
+        "label": "IOC World Bird List – Taxonomic Updates.",
+        "url": "https://www.worldbirdnames.org/new/updates/taxonomy/"
       }
     ]
   }
