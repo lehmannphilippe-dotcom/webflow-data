@@ -10021,18 +10021,30 @@
       "panel": "https://cdn.prod.website-files.com/6a2856622c4f26c0e72a657b/6a757afe8345e7eb3ada0736_Loxops%20ochraceus.jpg"
     },
     "panel": {
-      "description": "",
-      "habitat_text": "",
-      "extinction_text": ""
+     "description": "<p>Der Maui-Akepakleidervogel (Loxops ochraceus) war eine kleine, etwa 10–13 cm grosse Art der Kleidervögel aus der Gattung Loxops.</p><p>Lange Zeit wurde er als Unterart des Hawaii-Akepakleidervogels (Loxops coccineus) geführt. Auf Grundlage molekulargenetischer, morphologischer und verhaltensbiologischer Befunde wurde die Maui-Population 2015 als eigenständige Art anerkannt.</p><p>Wie bei den anderen Arten der Gattung Loxops zeigte der Maui-Akepakleidervogel einen ausgeprägten Geschlechtsdimorphismus. Die Weibchen waren überwiegend matt grünlich-gelb bis gräulich gefärbt, während die Männchen deutlich kräftigere Farbtöne aufwiesen. Unter den adulten Männchen bestand zudem ein Farbdimorphismus, wobei orangefarbene und gelbliche Individuen etwa gleich häufig vorkamen.</p><p>Charakteristisch war zudem der leicht asymmetrische Schnabel. Die Spitze des Unterschnabels war seitlich gebogen, sodass Ober- und Unterschnabel nicht exakt übereinanderlagen. Vermutlich ermöglichte diese besondere Schnabelform dem Vogel, Blatt- und Blütenknospen aufzudrücken und darin verborgene Gliederfüsser zu erreichen. Historische Beobachtungen nennen insbesondere kleine Käfer, Raupen und Spinnen als Nahrung. Daneben nahm die Art gelegentlich Nektar aus den Blüten des Ōhia-Baumes (Metrosideros polymorpha) auf.</p><p>Über die Fortpflanzung ist nur wenig bekannt. Zwar wurde ein Paar beim mutmasslichen Nestbau in einem hohen Ōhia-Baum beobachtet, ein Nest oder Gelege konnte jedoch nie genauer dokumentiert werden.</p>",
+  "habitat_text": "<p>Der Maui-Akepakleidervogel bewohnte vor allem feuchte montane Wälder, insbesondere natürliche Bestände aus Ōhia (Metrosideros polymorpha) und Koa (Acacia koa). Historische Nachweise stammen unter anderem aus Wäldern bei Olinda und Ukulele Camp am nordwestlichen Haleakalā sowie aus dem Kipahulu Valley.</p><p>Bis zum späten 19. Jahrhundert war die Art auf Maui offenbar noch weiter verbreitet und örtlich häufig. Im 20. Jahrhundert zog sich ihr Verbreitungsgebiet zunehmend auf die höher gelegenen, feuchten Wälder der Nord- und Osthänge des Haleakalā zurück. Anfang der 1980er-Jahre wurde sie nur noch in einem etwa 20 km² grossen Gebiet zwischen ungefähr 1'100 und 2'100 m Höhe nachgewiesen. Dies entsprach nur noch rund zwei Prozent ihres vermuteten ursprünglichen Verbreitungsgebietes. Die letzten bestätigten Vögel lebten in den hoch gelegenen Regenwäldern des Hanawi Natural Area Reserve.</p>",
+  "extinction_text": "<p>Der Rückgang des Maui-Akepakleidervogels setzte vermutlich bereits im späten 19. und frühen 20. Jahrhundert ein. Bei gross angelegten Waldvogelzählungen um 1980 wurde der Bestand auf ca. 230 Individuen geschätzt. Diese Schätzung war aufgrund der sehr geringen Zahl tatsächlich beobachteter Vögel jedoch mit grosser Unsicherheit verbunden; während der Erhebung konnten lediglich acht Individuen registriert werden.</p><p>Der letzte bestätigte Nachweis stammt aus dem Jahr 1988 aus dem Hanawi Natural Area Reserve. In den Jahren 1994 und 1995 wurden noch Gesänge gehört, die der Art zugeschrieben wurden. Da ihre Lautäusserungen jedoch mit denen anderer hawaiianischer Waldvögel verwechselt werden konnten und keine Sichtbeobachtung gelang, gelten diese Nachweise als nicht bestätigt. Auch intensive Suchaktionen in den folgenden Jahrzehnten blieben erfolglos. Der U.S. Fish and Wildlife Service erklärte den Maui-Akepakleidervogel daher 2023 offiziell für ausgestorben.</p><p>Eine einzelne Ursache für das Aussterben lässt sich nicht nachweisen. Wahrscheinlich wirkte eine Kombination mehrerer Faktoren. Besonders bedeutsam waren vermutlich eingeschleppte Vogelkrankheiten, insbesondere die durch nicht einheimische Stechmücken übertragene Vogelmalaria, die viele hawaiianische Waldvögel aus tieferen und wärmeren Höhenlagen verdrängte. Hinzu kamen die Zerstörung und Veränderung der Wälder, unter anderem durch verwilderte Schweine und Ziegen, sowie eingeführte Säugetiere als mögliche Prädatoren.</p><p>Obwohl die Art heute verschwunden ist, ist sie durch zahlreiche historische Sammlungsstücke vergleichsweise gut dokumentiert. Vom Maui-Akepakleidervogel sind mindestens 62 Museumsexemplare erhalten.</p>"
     },
     "references": [
       {
-        "label": "Test BirdLife Schweiz",
-        "url": "https://www.birdlife.ch/"
+        "label": "Chesser, R. T. et al. (2015). Fifty-sixth Supplement to the American Ornithologists’ Union Check-list of North American Birds. The Auk 132(3): 748–764.",
+        "url": "https://academic.oup.com/auk/article/132/3/748/5149071"
       },
       {
-        "label": "Test BirdLife Schweiz",
-        "url": "https://www.birdlife.ch/"
+        "label": "Pratt, H. D. (2014). A consensus taxonomy for the Hawaiian honeycreepers. Occasional Papers of the Museum of Natural Science, Louisiana State University 85: 1–21. ",
+        "url": "https://repository.lsu.edu/opmns/vol1/iss85/1/"
+      },
+      {
+        "label": "Pratt, H. D. (1989). Species Limits in Akepas (Drepanidinae: Loxops). The Condor 91(4): 933–940.",
+        "url": "https://academic.oup.com/condor/article-abstract/91/4/933/5189143"
+       },
+      {
+        "label": "U.S. Fish and Wildlife Service (2006). Revised Recovery Plan for Hawaiian Forest Birds. U.S. Fish and Wildlife Service, Portland, Oregon. Besonders S. 2-134–2-137 zum Maui ʻĀkepa.",
+        "url": "https://ecos.fws.gov/docs/recovery_plan/HI%20Forest%20Bird%20Rec%20Plan%202006.pdf"
+      },
+      {
+        "label": "BirdLife International (2026). Species factsheet: Maui Akepa (Loxops ochraceus). BirdLife DataZone.",
+        "url": "https://datazone.birdlife.org/species/factsheet/maui-akepa-loxops-ochraceus"
       }
     ],
     "taxonomy": {
