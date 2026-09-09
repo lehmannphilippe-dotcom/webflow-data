@@ -180,18 +180,30 @@
       "lat": "Loxops",
       "en": "Loxops"
     },
-    "extinction_date": "1860",
+    "extinction_date": "",
     "panel": {
-      "description": ""
+      "description": "<p>Loxops ist eine Gattung der hawaiischen Kleidervögel (Drepanidini) innerhalb der Familie der Finken (Fringillidae). Zu ihr gehören die vier eigentlichen Akepa-Arten von Kauai, Oahu, Maui und Hawaii sowie der morphologisch deutlich abweichende Hawaii-Kleidervogel (Loxops mana).</p><p>Heute sind zwei der fünf Arten ausgestorben. Auch die drei noch lebenden Arten sind bedroht. Besonders kritisch ist die Situation des Kauai-Akepakleidervogels (Loxops caeruleirostris), der von der IUCN als vom Aussterben bedroht (Critically Endangered) geführt wird.</p><p>Zu den wichtigsten Bedrohungen der verbliebenen Arten zählen insbesondere durch Stechmücken übertragene Vogelkrankheiten. Viele der verbliebenen Populationen sind deshalb weitgehend auf höher und kühler gelegene Wälder beschränkt. Durch die fortschreitende Klimaerwärmung finden Stechmücken jedoch zunehmend auch in höheren Lagen günstige Lebensbedingungen.</p><p>Im Stammbaum der Kleidervögel steht Loxops einer Gruppe kleiner, überwiegend insektenfressender Arten besonders nahe. Die engsten Verwandten sind die ʻAmakihis der Gattung Chlorodrepanis. Molekulargenetische Untersuchungen deuten darauf hin, dass sich die beiden Entwicklungslinien vor ungefähr 2,5 Millionen Jahren voneinander trennten.</p><p>Wie vielfältig sich die Arten innerhalb dieser Linie entwickeln konnten, zeigt besonders der Hawaii-Kleidervogel. Molekulare und osteologische Untersuchungen ergaben, dass dieser unscheinbare, baumläuferartig nach Insekten suchende Vogel wesentlich enger mit den Akepas verwandt ist als mit anderen Kleidervögeln, denen er äusserlich deutlich ähnlicher sieht. Diese Ähnlichkeiten entstanden daher unabhängig voneinander durch konvergente Evolution. Die Linie des Hawaii-Kleidervogels trennte sich vor ungefähr 1,9 Millionen Jahren von jener der eigentlichen Akepas.</p><p>Gerade diese enge genetische Verwandtschaft trotz deutlicher äusserer Unterschiede erklärt, weshalb der Hawaii-Kleidervogel in den meisten modernen Checklisten ebenfalls der Gattung Loxops zugeordnet und nicht mehr in der eigenständigen Gattung Manucerthia geführt wird. Seine abweichende Gestalt verdeutlicht zugleich, wie stark sich nahe verwandte Kleidervögel auf Hawaii innerhalb relativ kurzer Zeit an unterschiedliche ökologische Nischen anpassen konnten.</p>"
     },
     "references": [
       {
-        "label": "Test BirdLife Schweiz",
-        "url": "https://www.birdlife.ch/"
+        "label": "Lerner, H. R. L., Meyer, M., James, H. F., Hofreiter, M. & Fleischer, R. C. (2011): Multilocus Resolution of Phylogeny and Timescale in the Extant Adaptive Radiation of Hawaiian Honeycreepers. Current Biology 21(21): 1838–1844. DOI: 10.1016/j.cub.2011.09.039.",
+        "url": "https://www.sciencedirect.com/science/article/pii/S0960982211010785"
+        },
+      {
+        "label": "Reding, D. M., Foster, J. T., James, H. F., Pratt, H. D. & Fleischer, R. C. (2009): Convergent evolution of ‘creepers’ in the Hawaiian honeycreeper radiation. Biology Letters 5(2): 221–224.",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2665804/"
+        },
+      {
+        "label": "Chesser, R. T. et al. (2013): Fifty-Fourth Supplement to the American Ornithologists’ Union Check-list of North American Birds. The Auk 130(3): 558–571.",
+        "url": "https://academic.oup.com/auk/article/130/3/558/5148909"
+        },
+      {
+        "label": "AviList Core Team (2025): AviList: The Global Avian Checklist",
+        "url": "https://avibase.bsc-eoc.org/species.jsp?avibaseid=DD65F272CCEF2C64&lang=EN&utm"
       },
       {
-        "label": "Test BirdLife Schweiz",
-        "url": "https://www.birdlife.ch/"
+        "label": "Campana, M. G. et al. (2026): Reticulated adaptive radiation and phylogenomic diversity loss in the Hawaiian honeycreepers. Proceedings of the National Academy of Sciences 123(32): e2536533123.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42546202/"
       }
     ]
   },
