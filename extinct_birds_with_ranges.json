@@ -17794,7 +17794,7 @@
       "lat": "Loxops wolstenholmei",
       "en": "Oahu akepa"
     },
-    "last_seen": "20. Jhrdt. ?",
+    "last_seen": "1916",
     "location": {
       "lat": 21.60317,
       "lng": -157.96391
@@ -17802,21 +17802,33 @@
     "habitat": "Oahu (Hawaii)",
     "images": {
       "tooltip": "https://cdn.prod.website-files.com/6a2856622c4f26c0e72a657b/6aa083a924217a48daa80d6a_loxops-wolstenholmel_profile.jpg",
-      "panel": "https://cdn.prod.website-files.com/6a2856622c4f26c0e72a657b/6aa081b5687364d206c99bb3_Loxops%20wolstenholmei.jpg"
+      "panel": "https://cdn.prod.website-files.com/6a2856622c4f26c0e72a657b/6aa0f60cb5798227f88196ca_Loxops%20wolstenholmei.jpg"
     },
     "panel": {
-      "description": "",
-      "habitat_text": "",
-      "extinction_text": ""
+      "description": "<p>Der Oahu-Akepakleidervogel (Loxops wolstenholmei), auch ʻAkepeuʻie genannt, war ein kleiner Kleidervogel mit einer Gesamtlänge von etwa 10 cm. Die Art war eng mit dem Hawaii-Akepakleidervogel (Loxops coccineus) und dem Maui-Akepakleidervogel (Loxops ochraceus) verwandt.</p><p>Lange Zeit wurden die Populationen auf Maui und Oahu als Unterarten des Hawaii-Akepakleidervogels geführt. Bereits früh waren jedoch deutliche Unterschiede zwischen den Inselpopulationen bekannt. 2015 erkannte die American Ornithologists’ Union den Oahu-Akepakleidervogel aufgrund von Unterschieden im Gefieder und Verhalten als eigenständige Art an.</p><p>Wie die anderen Akepa-Arten zeigte der Oahu-Akepakleidervogel einen ausgeprägten Geschlechtsdimorphismus. Die bekannten adulten Männchen besassen ein auffälliges ziegelrotes Gefieder, während Weibchen und junge Männchen wesentlich unauffälliger und überwiegend matt olivgrün bis graugrün gefärbt waren. Bei adulten Weibchen konnte die Brust einen schwachen gelblich-orangen Anflug zeigen.</p><p>Charakteristisch war der kurze, graue Schnabel, dessen Spitzen wie bei anderen Akepas leicht gegeneinander versetzt beziehungsweise gekreuzt waren. Im Vergleich zu den anderen Akepa-Arten war der Schnabel des Oahu-Akepakleidervogels besonders kurz und schmal. Diese ungewöhnliche Schnabelform diente dazu, Blatt- und Blütenknospen auseinanderzuhebeln und darin lebende Insekten und andere kleine Wirbellose zu erreichen.</p>",
+      "habitat_text": "<p>Die Art bewohnte die feuchten Bergwälder Oahus, insbesondere einheimische Wälder mit Ōhia (Metrosideros polymorpha) und Koa (Acacia koa). Historische Nachweise stammen unter anderem aus dem Nuʻuanu Valley, dem Gebiet von Wahiawā sowie aus den Bergen des Waialua District.</p><p>Wie gross sein ursprüngliches Verbreitungsgebiet war, lässt sich heute kaum mehr rekonstruieren. Die wenigen erhaltenen Beobachtungen stammen bereits aus einer Zeit, in der grosse Teile der ursprünglichen Wälder Oahus verändert oder zerstört worden waren. 1837 wurde die Art im Nuʻuanu Valley noch vergleichsweise häufig angetroffen; in der zweiten Hälfte des 19. Jahrhunderts galt sie dagegen bereits als selten.</p>",
+      "extinction_text": "<p>Der Bestand des Oahu-Akepakleidervogels brach offenbar während des 19. Jahrhunderts stark ein. Das letzte bekannte Belegexemplar wurde 1893 von Edward (Ted) Basil Wolstenholme (1864–1926), einem Vogelsammler und Präparator sowie Assistenten von Henry Charles Palmer (1866–1920), im Waialua District gesammelt. 1900 oder 1901 beobachtete der Naturforscher Robert Cyril Layton Perkins (1866–1955) noch ein einzelnes Paar in den Wäldern bei Wahiawā. Dies gilt heute als der letzte gesicherte Nachweis der Art.</p><p>Spätere Meldungen aus den 1930er-Jahren und insbesondere eine Beobachtung aus dem Jahr 1976 am Schofield-Waikane Trail konnten nicht bestätigt werden und werden heute nicht als zuverlässige Nachweise gewertet. Eine statistische Analyse der historischen Beobachtungen schätzte den wahrscheinlichsten Zeitpunkt des Aussterbens auf ungefähr 1916, wobei aufgrund der wenigen verfügbaren Daten eine erhebliche Unsicherheit besteht.</p><p>Die genaue Ursache des Aussterbens lässt sich nicht mehr feststellen. Wahrscheinlich wirkten mehrere Faktoren zusammen, darunter die Zerstörung und Veränderung der einheimischen Wälder, eingeführte Säugetiere und eingeschleppte Vogelkrankheiten. Insbesondere Krankheiten werden als wichtiger Faktor angesehen. Der schnelle Rückgang der Akepa-Populationen auf Oahu und Maui sowie das spätere Verschwinden des Hawaii-Akepakleidervogels aus tieferen Höhenlagen sprechen dafür, dass durch eingeschleppte Stechmücken übertragene Krankheiten wesentlich zum Niedergang beigetragen haben könnten.</p><p>In Museumssammlungen sind heute 22 historische Exemplare des Oahu-Akepakleidervogels bekannt.</p>"
     },
     "references": [
       {
-        "label": "Test BirdLife Schweiz",
-        "url": "https://www.birdlife.ch/"
+        "label": "Pyle, R. L. & Pyle, P. (2017): The Birds of the Hawaiian Islands: Occurrence, History, Distribution, and Status – Oʻahu ʻAkepa (Loxops wolstenholmei). B. P. Bishop Museum, Honolulu.",
+        "url": "https://hbs.bishopmuseum.org/birds/rlp-monograph/pdfs/08-drep/oaak.pdf"
       },
       {
-        "label": "Test BirdLife Schweiz",
-        "url": "https://www.birdlife.ch/"
+        "label": "Pratt, H. D. (1989): Species Limits in Akepas (Drepanidinae: Loxops). The Condor 91(4): 933–940.",
+        "url": "https://www.researchgate.net/publication/274429117_Species_Limits_in_Akepas_Drepanidinae_Loxops"
+       },
+      {
+        "label": "Chesser, R. T. et al. (2015): Fifty-sixth Supplement to the American Ornithologists’ Union Check-list of North American Birds. The Auk 132: 748–764.",
+        "url": "https://academic.oup.com/auk/article/132/3/748/5149071"
+       },
+      {
+        "label": "Hawaiʻi Department of Land and Natural Resources – Division of Forestry and Wildlife: ʻAkepeuʻie: Oʻahu ʻAkepa.",
+        "url": "https://dlnr.hawaii.gov/wildlife/birds/akepeuie"
+      },
+      {
+        "label": "BirdLife International (2026). Species factsheet: Maui Akepa (Loxops ochraceus). BirdLife DataZone.",
+        "url": "https://datazone.birdlife.org/species/factsheet/maui-akepa-loxops-ochraceus"
       }
     ],
     "taxonomy": {
