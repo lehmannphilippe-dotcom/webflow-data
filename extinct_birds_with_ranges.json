@@ -7730,7 +7730,7 @@
       "lat": "Loxioides kikuchi",
       "en": "Kauai Palila"
     },
-    "last_seen": "1850",
+    "last_seen": "1820",
     "location": {
       "lat": 22.02452,
       "lng": -159.46578
@@ -7741,18 +7741,22 @@
       "panel": "https://cdn.prod.website-files.com/6a2856622c4f26c0e72a657b/6a756cc4da2a2dc911f14bf0_Loxioides%20kikuchi.jpg"
     },
     "panel": {
-      "description": "<p>Der Kauai-Palila ist ausschliesslich durch zwei Oberkiefer bekannt, die im Dezember 1997 sowie im August 1998 in der Makauwahi Cave im Kōloa-Quadrangle auf Kauai geborgen wurden. Weitere Fossilfunde liegen bislang nicht vor.</p><p>Über das äussere Erscheinungsbild und das Verhalten der Art ist nichts direkt bekannt. Der Kauai-Palila war grösser als sein heute noch lebender Verwandter von der Insel Hawaii. Zudem besass er keinen hakenförmig gebogenen Schnabel, was darauf hindeutet, dass er eine andere Nahrung nutzte als der Palila (Loxioides bailleui). Abgesehen von diesen Unterschieden wird angenommen, dass sich beide Arten in ihrem allgemeinen Körperbau und Erscheinungsbild weitgehend ähnelten.</p>",
-      "habitat_text": "<p>Der Lebensraum des Kauai-Palila waren vermutlich die tropischen Trockenwälder auf der Insel Kauai.</p>",
-      "extinction_text": "<p>Die amerikanischen Paläontologen Storrs Lovejoy Olson (1944–2021) und Helen Frances James (geb. 1956), die die Art im Jahr 2006 erstmals wissenschaftlich beschrieben, gehen davon aus, dass der Kauaʻi-Palila möglicherweise bis ins späte 18. oder sogar bis ins frühe 19. Jahrhundert überlebt hat. Demnach könnte sein Aussterben erst im Zuge der europäischen Besiedlung Kauaʻis erfolgt sein.</p><p>Auffällig ist, dass der Vogel weder von den polynesischen Ureinwohnern überliefert noch im Rahmen früher Expeditionen dokumentiert wurde. Selbst während der europäischen Besiedlung der Insel blieb die Art offenbar unentdeckt.</p><p>Das Aussterben des Kauai-Palila wird auf tiefgreifende Umweltveränderungen zurückgeführt, die durch die Ausbreitung der Landwirtschaft verursacht wurden. Grossflächige Rodungen führten zum Verlust der Trockenwälder, während die zunehmende Bewässerung über Bäche das Gebiet stark veränderte. Infolge dieser Eingriffe wurde das Ökosystem deutlich feuchter, wodurch entscheidende Nahrungsquellen für den Kauai-Palila versiegten und die Art schliesslich ausstarb.</p>"
+     "description": "<p>Der Kauai-Palila (Loxioides kikuchi), auch Pila’s Palila genannt, wurde nur anhand von zwei fossilen Oberkiefern wissenschaftlich beschrieben. Vollständige oder zusammenhängende Skelette sind nicht bekannt, weshalb Körpergrösse und äusseres Erscheinungsbild nicht rekonstruiert werden können.</p><p>Aufgrund charakteristischer Merkmale des Schnabels war die Art eng mit dem heute noch lebenden Palila (Loxioides bailleui) von Hawaii verwandt. Der Schnabel war jedoch deutlich grösser und kräftiger gebaut. Er war kurz, breit und stark gewölbt und besass nicht die leicht hakenförmige Spitze des Palila von Hawaii.</p><p>Abgesehen von diesen Unterschieden wird angenommen, dass sich beide Arten in ihrem allgemeinen Körperbau und Erscheinungsbild weitgehend ähnelten.</p><p>Die robuste Schnabelform deutet auf eine Ernährung hin, bei der Samen und andere harte pflanzliche Nahrung eine wichtige Rolle spielten. Aufgrund der engen Verwandtschaft mit dem heutigen Palila wird angenommen, dass der Kauai-Palila möglicherweise ebenfalls auf die Samen beziehungsweise Hülsenfrüchte bestimmter Leguminosen spezialisiert war.</p>",
+    "habitat_text": "<p>Die beiden bekannten Fossilien stammen aus der Makauwahi Cave nahe der Südküste Kauais und damit aus einem Gebiet nahe dem Meeresspiegel. Untersuchungen von Pollen, Samen und anderen Pflanzenresten zeigen, dass die Umgebung im mittleren und späten Holozän wesentlich vielfältiger bewachsen war als heute. Sie bestand aus einem Mosaik aus Tieflandwald, Buschland und Küstenvegetation. Zu den nachgewiesenen Pflanzen gehörten unter anderem Dodonaea, Pritchardia und Zanthoxylum.</p><p>Anders als der heutige Palila, der stark an Māmane-Wälder (Sophora chrysophylla) gebunden ist, scheint der Kauai-Palila zumindest zeitweise in einem vielfältigen Tieflandhabitat gelebt zu haben. Aufgrund der begrenzten Fossilfunde lässt sich das ursprüngliche Verbreitungsgebiet der Art jedoch nicht rekonstruieren.</p>",
+    "extinction_text": "<p>Die Art überlebte offenbar bis weit in das späte Holozän. Besonders bedeutend ist ein Fund, der aus einer Sedimentschicht stammt, die ungefähr auf 1375–1610 n. Chr. datiert ist. Die Schichten wurden allerdings teilweise durch ein Tsunamiereignis gestört, weshalb nicht völlig ausgeschlossen werden kann, dass der Knochen aus älteren Ablagerungen verlagert wurde. Forscher gehen jedoch davon aus, dass die ursprüngliche stratigraphische Zuordnung korrekt ist und die Art damit noch mehrere Jahrhunderte nach der polynesischen Besiedlung Kauais existierte.</p><p>Wann genau die Art ausgestorben ist, lässt sich heute nicht mehr rekonstruieren. Einige Forscher halten es sogar für möglich, dass die Art bis Anfang des 19. Jahrhunderts unbemerkt überlebt haben könnte. Spätestens während der ersten systematischen ornithologischen Erforschungen Kauais des 19. Jahrhunderts scheint die Art jedoch bereits verschwunden gewesen zu sein.</p><p>Als wahrscheinlichste Ursache gelten die tiefgreifenden ökologischen Veränderungen nach der menschlichen Besiedlung. Die Sedimentabfolge der Makauwahi Cave dokumentiert den starken Rückgang der ursprünglichen Tieflandvegetation, die Einführung fremder Arten sowie später Entwaldung, Überweidung, Bodenerosion und landwirtschaftliche Nutzung. Welche Faktoren genau zum Aussterben des Kauai-Palila geführt haben, ist nicht bekannt.</p>"
     },
     "references": [
       {
-        "label": "Test BirdLife Schweiz",
-        "url": "https://www.birdlife.ch/"
-      },
+        "label": "James, H. F. & Olson, S. L. (2006). A New Species of Hawaiian Finch (Drepanidini: Loxioides) From Makauwahi Cave, Kaua‘i. The Auk, 123(2), 335–344. DOI: 10.1093/auk/123.2.335.",
+        "url": "https://academic.oup.com/auk/article/123/2/335/5562567"
+         },
       {
-        "label": "Test BirdLife Schweiz",
-        "url": "https://www.birdlife.ch/"
+        "label": "James, H. F. & Olson, S. L. (1991). Descriptions of Thirty-Two New Species of Birds from the Hawaiian Islands: Part II. Passeriformes. Ornithological Monographs, 46, 1–88.",
+        "url": "https://www.researchgate.net/publication/242013278_Descriptions_of_Thirty-Two_New_Species_of_Birds_from_the_Hawaiian_Islands_Part_II_Passeriformes"
+         },
+      {
+        "label": "Burney, D. A., James, H. F., Burney, L. P., Olson, S. L., Kikuchi, W., Wagner, W. L., Burney, M., McCloskey, D., Kikuchi, D., Grady, F. V., Gage, R. II & Nishek, R. (2001). Fossil evidence for a diverse biota from Kaua‘i and its transformation since human arrival. Ecological Monographs, 71(4), 615–641.",
+        "url": "https://repository.si.edu/items/fb411c36-e179-4687-86ee-585329042f50"
       }
     ],
     "taxonomy": {
