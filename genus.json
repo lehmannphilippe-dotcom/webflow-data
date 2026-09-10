@@ -602,16 +602,40 @@
     },
     "extinction_date": "",
     "panel": {
-      "description": ""
+    "description": "<p>Loxioides ist eine Gattung der hawaiischen Kleidervögel (Drepanidini) innerhalb der Familie der Finken (Fringillidae). Die Gattung umfasst mit dem noch lebenden Palila (Loxioides bailleui) und dem nur durch subfossile Funde bekannten Kauai-Palila (Loxioides kikuchi) zwei beschriebene Arten.</p><p>Innerhalb der hawaiischen Kleidervögel gehört Loxioides zu den Formen mit einem kräftigen, finkenartigen Schnabel, die sich vor allem an pflanzliche Nahrung angepasst haben. Molekulargenetische Untersuchungen zeigen, dass Loxioides besonders eng mit der Gattung Telespiza verwandt ist. Die Entwicklungslinien von Loxioides und Telespiza trennten sich vermutlich vor ungefähr 2,8 Millionen Jahren.</p><p>Charakteristisch für Loxioides ist ein relativ kurzer, breiter und kräftiger Schnabel mit stark gewölbtem Oberschnabel. Beim heute lebenden Palila stellt dieser eine deutliche Anpassung an das Öffnen der zähen Samenhülsen des endemischen Māmane-Baumes (Sophora chrysophylla) dar. Der Palila ernährt sich vor allem von den noch weichen Samen, daneben von Blüten, Knospen und teilweise von Insektenlarven. Er ist damit einer der am stärksten spezialisierten Samenfresser unter den noch heute lebenden hawaiischen Kleidervögeln.</p><p>Heute ist nur noch der Palila in kleinen Restpopulationen in einem begrenzten Bereich der subalpinen Māmane-Wälder am Mauna Kea auf Hawaii erhalten. Der Bestand wurde 2024 auf rund 666 Individuen geschätzt; seit 1998 ist die Population um mehr als 90 % zurückgegangen.</p><p>Fossilfunde zeigen, dass Loxioides früher auch auf Kauai und Oahu verbreitet war. Ein Teil des Materials von Oahu sowie weitere Funde von Kauai lässt sich jedoch keiner der bekannten Arten eindeutig zuordnen. Daher ist nicht ausgeschlossen, dass innerhalb der Gattung früher weitere Arten oder deutlich differenzierte Populationen beziehungsweise Unterarten existierten. Auf Kauai scheinen im Holozän zudem zeitweise mehrere unterschiedliche Loxioides-Formen nebeneinander vorgekommen zu sein.</p>"
     },
     "references": [
       {
-        "label": "Test BirdLife Schweiz",
-        "url": "https://www.birdlife.ch/"
+        "label": "James, H. F. & Olson, S. L. (2006): A New Species of Hawaiian Finch (Drepanidini: Loxioides) From Makauwahi Cave, Kaua‘i. The Auk 123(2): 335–344.",
+        "url": "https://academic.oup.com/auk/article/123/2/335/5562567?login=false"
       },
       {
-        "label": "Test BirdLife Schweiz",
-        "url": "https://www.birdlife.ch/"
+        "label": "Lerner, H. R. L., Meyer, M., James, H. F., Hofreiter, M. & Fleischer, R. C. (2011): Multilocus Resolution of Phylogeny and Timescale in the Extant Adaptive Radiation of Hawaiian Honeycreepers. Current Biology 21(21): 1838–1844.",
+        "url": "linkinghub.elsevier.com/retrieve/pii/S0960982211010785"
+      },
+      {
+        "label": "James, H. F. (2004): The osteology and phylogeny of the Hawaiian finch radiation (Fringillidae: Drepanidini), including extinct taxa. Zoological Journal of the Linnean Society 141: 207–255.",
+        "url": "https://www.researchgate.net/publication/227527513_The_osteology_and_phylogeny_of_the_Hawaiian_finch_radiation_Fringillidae_Drepanidini_including_extinct_taxa"
+      },
+      {
+        "label": "Banko, P. C., Cipollini, M. L., Breton, G. W., Paulk, E., Wink, M. & Izhaki, I. (2002): Seed chemistry of Sophora chrysophylla (māmane) in relation to diet of specialist avian seed predator Loxioides bailleui (palila) in Hawaii. Journal of Chemical Ecology 28(7): 1393–1410.",
+        "url": "https://link.springer.com/article/10.1023/A:1016248502927"
+      },
+      {
+        "label": "Hunt, N., Asing, C. K., Nietmann, L., Banko, P. C. & Camp, R. J. (2025): 2022–2024 Status and trends of the Palila (Loxioides bailleui). Hawaii Cooperative Studies Unit Technical Report HCSU-115. University of Hawai‘i at Hilo.",
+        "url": "https://pubs.usgs.gov/publication/70267293"
+      },
+      {
+        "label": "James, H. F. & Olson, S. L. (1991). Descriptions of Thirty-Two New Species of Birds from the Hawaiian Islands: Part II. Passeriformes. Ornithological Monographs, 46, 1–88.",
+        "url": "https://www.researchgate.net/publication/242013278_Descriptions_of_Thirty-Two_New_Species_of_Birds_from_the_Hawaiian_Islands_Part_II_Passeriformes"
+     },
+      {
+        "label": "Hunt, N. et al. (2025): The continued decline of the Palila (Loxioides bailleui) on Mauna Kea, Island of Hawaiʻi. Avian Conservation and Ecology 20(2): 10.",
+        "url": "https://ace-eco.org/vol20/iss2/art10/"
+      },
+      {
+        "label": "Hawaiʻi Department of Land and Natural Resources (DLNR): Palila – Distribution / Restore Mauna Kea.",
+        "url": "https://dlnr.hawaii.gov/restoremaunakea/palila/distribution"
       }
     ]
   },
