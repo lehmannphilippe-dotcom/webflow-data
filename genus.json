@@ -84,18 +84,46 @@
       "lat": "Himatione",
       "en": "Himatione"
     },
-    "extinction_date": "1860",
+    "extinction_date": "",
     "panel": {
-      "description": ""
+    "description": "<p>Himatione ist eine Gattung der hawaiischen Kleidervögel (Drepanidini) innerhalb der Familie der Finken (Fringillidae). Die Gattung umfasst heute zwei anerkannte Arten: den noch lebenden Apapane (Himatione sanguinea) und den ausgestorbenen Laysan-Apapane (Himatione fraithii). Letzterer wurde lange als Unterart des Apapane betrachtet, 2015 jedoch aufgrund deutlicher Unterschiede in Morphologie, Gesang, Nahrungssuche, Nestbau und Lebensraum wieder als eigenständige Art anerkannt.</p><p>Die Vertreter von Himatione sind beziehungsweise waren kleine, überwiegend nektarfressende Kleidervögel mit relativ schlanken, leicht nach unten gebogenen Schnäbeln. Ihre Schnabelform ist deutlich weniger spezialisiert als die stark verlängerten und gebogenen Schnäbel mancher anderer nektarfressender Kleidervögel.</p><p>Die Gattung war ursprünglich über einen grossen Teil des hawaiischen Archipels verbreitet. Der Apapane kommt heute auf mehreren der grossen Hawaii-Inseln vor und lebt vor allem in einheimischen Berg- und Feuchtwäldern.</p><p>Innerhalb der hawaiischen Kleidervögel gehört Himatione zu den besonders stark an Nektarnahrung angepassten Entwicklungslinien. Morphologische Untersuchungen stellten die Gattung traditionell zusammen mit Palmeria, Vestiaria, Drepanis und Ciridops in die sogenannte melanodrepanine Gruppe, deren Vertreter häufig rote oder schwarze Gefiederfarben und Anpassungen an Nektarnahrung zeigen. Die genaue Verwandtschaft dieser Linien erwies sich durch genetische Untersuchungen jedoch als komplexer als ursprünglich angenommen.</p><p>Von den beiden bekannten Arten der Gattung existiert heute nur noch der Apapane (Himatione sanguinea). Er ist heute der häufigste noch lebende hawaiische Kleidervogel. Die IUCN schätzt seinen Bestand auf etwa 700’000 bis 1,1 Millionen geschlechtsreife Individuen. Besonders grosse Populationen leben auf Hawaii, Maui und Kauai, während die Art auf Oahu deutlich seltener und auf Molokai nur noch vereinzelt vorkommt.</p><p>Ein wichtiger Grund für seinen vergleichsweise grossen Bestand ist seine Fähigkeit, weite Strecken zwischen verschiedenen Waldgebieten zurückzulegen. Dadurch kann er saisonal verfügbare Nahrungsquellen über grosse Gebiete hinweg nutzen und lokal sehr hohe Bestandsdichten erreichen. Zudem scheint der Apapane gegenüber der eingeschleppten Vogelmalaria weniger empfindlich zu sein als die meisten anderen hawaiischen Kleidervögel. Infektionen können zwar auch bei ihm tödlich verlaufen, überlebende Tiere entwickeln jedoch eine Immunität gegen erneute Infektionen. Seine geringere Krankheitsanfälligkeit und seine Fähigkeit, unterschiedliche Waldgebiete zu nutzen, dürften wesentlich dazu beigetragen haben, dass sich die Art in höheren und teilweise auch in mittleren Höhenlagen bis heute halten konnte.</p>"
     },
     "references": [
       {
-        "label": "Test BirdLife Schweiz",
+        "label": "Campana, M. G. et al. (2026): Reticulated adaptive radiation and phylogenomic diversity loss in the Hawaiian honeycreepers. Proceedings of the National Academy of Sciences 123: e2536533123.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42546202/"
+         },
+      {
+        "label": "Chesser, R. T. et al. (2015): Fifty-sixth Supplement to the American Ornithologists' Union Check-list of North American Birds. The Auk 132: 748–764.",
+        "url": "https://www.researchgate.net/publication/227527513_The_osteology_and_phylogeny_of_the_Hawaiian_finch_radiation_Fringillidae_Drepanidini_including_extinct_taxa"
+         },
+      {
+        "label": "James, H. F. (2004): The osteology and phylogeny of the Hawaiian finch radiation (Fringillidae: Drepanidini), including extinct taxa. Zoological Journal of the Linnean Society 141: 207–255.",
         "url": "https://www.birdlife.ch/"
+         },
+      {
+        "label": "Pyle, P. (2011): Nomenclature of the Laysan Honeycreeper Himatione [sanguinea] fraithii. Bulletin of the British Ornithologists’ Club 131: 116–117.",
+        "url": "https://www.birdpop.org/docs/pubs/Pyle_2011_Nomenclature_of_the_LAHC.pdf"
+         },
+      {
+        "label": "Pyle, R. L. & Pyle, P.: The Birds of the Hawaiian Islands: Occurrence, History, Distribution, and Status. Bernice Pauahi Bishop Museum.",
+        "url": "https://hbs.bishopmuseum.org/birds/rlp-monograph/pdfs/08-drep/layh.pdf"
+         },
+      {
+        "label": "BirdLife International (2023): Himatione sanguinea. The IUCN Red List of Threatened Species 2023: e.T103828426A225568137.",
+        "url": "https://www.allaboutbirds.org/guide/Apapane/lifehistory"
+         },
+      {
+        "label": "U.S. Fish & Wildlife Service (2024): ʻApapane (Himatione sanguinea) – Species of the Month, July 2024.",
+        "url": "https://www.fws.gov/sites/default/files/documents/2024-07/sotm-apapane.pdf"
+        },
+      {
+        "label": "Hawaiʻi Department of Land and Natural Resources (DLNR): ʻApapane – Division of Forestry and Wildlife.",
+        "url": "https://dlnr.hawaii.gov/wildlife/birds/apapane/"
       },
       {
-        "label": "Test BirdLife Schweiz",
-        "url": "https://www.birdlife.ch/"
+        "label": "Yorinks, N. & Atkinson, C. T. (2000): Effects of Malaria on Activity Budgets of Experimentally Infected Juvenile Apapane (Himatione sanguinea). The Auk 117(3): 731–738.",
+        "url": "https://academic.oup.com/auk/article-abstract/117/3/731/5561728"
       }
     ]
      },
