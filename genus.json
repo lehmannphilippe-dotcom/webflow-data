@@ -582,16 +582,32 @@
     },
     "extinction_date": "",
     "panel": {
-      "description": ""
+      "description": "<p>Hemignathus ist eine Gattung der hawaiischen Kleidervögel (Drepanidini) innerhalb der Familie der Finken (Fringillidae). Von den fünf bekannten Arten existiert heute nur noch der ʻAkiapōlāʻau (Hemignathus wilsoni), der als stark gefährdet gilt und ausschliesslich in kleinen, voneinander getrennten Restpopulationen auf der Insel Hawaii vorkommt.</p><p>Die heutige Abgrenzung der Gattung ist das Ergebnis einer taxonomischen Neuordnung der hawaiischen Kleidervögel. Früher wurde Hemignathus deutlich weiter gefasst und umfasste unter anderem auch die Amakihi und Akialoa. Genetische und morphologische Untersuchungen zeigten jedoch, dass diese weit gefasste Gruppe keine einheitliche Abstammungslinie bildete. Im Zuge einer Revision wurden die Amakihi daher unter anderem in die Gattung Chlorodrepanis und die Akialoa in die eigenständige Gattung Akialoa überführt.</p><p>Charakteristisch für Hemignathus ist der ungewöhnliche asymmetrische Schnabel, bei dem der Oberkiefer deutlich länger ist als der Unterkiefer. Diese besondere Schnabelform stellt eine hoch spezialisierte Anpassung an die Nahrungssuche an Ästen, Baumstämmen und abgestorbenem Holz dar. Mit dem kurzen und kräftigeren Unterkiefer werden Rinde und Holz bearbeitet, während der lange, gebogene Oberkiefer dazu dient, Insekten, deren Larven und andere Gliederfüsser aus Spalten und Bohrgängen herauszuziehen.</p><p>Die Entwicklungslinie von Hemignathus entstand vermutlich während einer besonders schnellen Phase der adaptiven Radiation der hawaiischen Kleidervögel vor etwa drei bis vier Millionen Jahren. Osteologische und neuere phylogenomische Untersuchungen zeigen eine enge Verwandtschaft mit den ausgestorbenen Akialoa. Eine genaue Datierung der Trennung beider Linien ist jedoch schwierig, da die meisten Arten bereits ausgestorben sind. Für den heute noch lebenden ʻAkiapōlāʻau zeigen molekulare Untersuchungen, dass sich seine Entwicklungslinie vor rund 2,8 Millionen Jahren von jener des Maui-Papageischnabels (Pseudonestor xanthophrys) trennte.</p>"
     },
     "references": [
       {
-        "label": "Test BirdLife Schweiz",
-        "url": "https://www.birdlife.ch/"
-      },
+        "label": "Chesser, R. T. et al. (2015): Fifty-sixth Supplement to the American Ornithologists’ Union Check-list of North American Birds. The Auk 132: 748–764.",
+        "url": "https://academic.oup.com/auk/article/132/3/748/5149071"
+        },
       {
-        "label": "Test BirdLife Schweiz",
-        "url": "https://www.birdlife.ch/"
+        "label": "Lerner, H. R. L. et al. (2011): Multilocus resolution of phylogeny and timescale in the extant adaptive radiation of Hawaiian honeycreepers. Current Biology 21: 1838–1844.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/22018543/"
+        },
+      {
+        "label": "James, H. F. & Olson, S. L. (2003): A Giant New Species of Nukupuu (Fringillidae: Drepanidini: Hemignathus) From the Island of Hawaii. The Auk 120: 970–981.",
+        "url": "https://academic.oup.com/auk/article/120/4/970/5561904"
+        },
+      {
+        "label": "James, H. F. (2004): The osteology and phylogeny of the Hawaiian finch radiation (Fringillidae: Drepanidini), including extinct taxa. Zoological Journal of the Linnean Society 141: 207–255.",
+        "url": "https://www.researchgate.net/publication/227527513_The_osteology_and_phylogeny_of_the_Hawaiian_finch_radiation_Fringillidae_Drepanidini_including_extinct_taxa"
+        },
+      {
+        "label": "BirdLife International: State of the World’s Birds 2025 Update",
+        "url": "https://datazone.birdlife.org/articles/state-of-the-worlds-birds-2025-annual-update"
+        },
+      {
+        "label": "U.S. Fish & Wildlife Service (2023): 21 Species Delisted from the Endangered Species Act due to Extinction.",
+        "url": "https://www.fws.gov/press-release/2023-10/21-species-delisted-endangered-species-act-due-extinction"
       }
     ]
   },
