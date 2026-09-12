@@ -10070,11 +10070,11 @@
   {
     "id": "hemignathus_affinis",
     "name": {
-      "de": "Maui-Sichelkleidervogel",
+      "de": "Maui-Nukupuu",
       "lat": "Hemignathus affinis",
       "en": "Maui Nukupuu"
     },
-    "last_seen": "1990",
+    "last_seen": "1999",
     "location": {
       "lat": 20.90976,
       "lng": -156.26126
@@ -10085,18 +10085,30 @@
       "panel": "https://cdn.prod.website-files.com/6a2856622c4f26c0e72a657b/6a56a8f3bf87fc72259d8e24_hemignathus-affinis.jpg"
     },
     "panel": {
-      "description": "",
-      "habitat_text": "",
-      "extinction_text": ""
+      "description": "<p>Der Maui-Nukupuu (Hemignathus affinis) war ein mittelgrosser hawaiischer Kleidervogel und gehörte zu den Nukupuu-Arten der Gattung Hemignathus. Lange wurde er als Unterart des Oahu-Nukupuu (Hemignathus lucidus) geführt. Seit 2015 wird er aufgrund deutlicher Unterschiede im Gefieder und der geografischen Isolation überwiegend als eigenständige Art behandelt.</p><p>Besonders auffällig war der ungewöhnlich spezialisierte Schnabel. Der Oberschnabel war sehr lang, dünn und deutlich nach unten gebogen, während der Unterschnabel nur ungefähr halb so lang war.</p><p>Der hoch spezialisierte Schnabel diente vor allem der Suche nach Insekten und anderen Gliederfüssern. Die Vögel untersuchten Rinde, Moos, Epiphyten und abgestorbenes Holz. Vermutlich konnte der kräftigere kurze Unterschnabel dazu eingesetzt werden, Rinde oder morsches Holz aufzubrechen, während mit dem langen, dünnen Oberschnabel Beutetiere aus Spalten und Vertiefungen herausgezogen wurden. Gelegentlich dürfte der Maui-Nukupuu auch Nektar aufgenommen haben.</p><p>Die Geschlechter unterschieden sich deutlich in ihrer Färbung. Adulte Männchen waren überwiegend olivgrün und besassen einen kräftig gelben Kopf sowie eine gelbe Kehle und Brust. Weibchen und Jungvögel waren insgesamt matter gefärbt, mit olivgrünem Kopf und gelblich-grauer Unterseite.</p>",
+       "habitat_text": "<p>Der Maui-Nukupuu bewohnte vor allem feuchte montane Wälder an den Hängen des Haleakalā im Osten Mauis. Historische Beobachtungen stammen insbesondere aus Wäldern mit Ōhiʻa (Metrosideros polymorpha) und Koa (Acacia koa) sowie aus feuchten Busch- und Mischwäldern. Die zuletzt gemeldeten Vorkommen lagen ungefähr zwischen 1’100 und 2’100 m Höhe.</p><p>Ursprünglich dürfte die Art jedoch ein breiteres Spektrum an Lebensräumen genutzt und möglicherweise auch trockenere Wälder bewohnt haben. Das historisch dokumentierte Verbreitungsgebiet stellte deshalb vermutlich nur noch einen Rest des ursprünglichen Areals dar.</p><p>Subfossile Knochen eines vermutlich zur Art gehörenden Vogels von Molokai deuten zudem darauf hin, dass der Maui-Nukupuu früher wahrscheinlich auch auf dieser Insel vorkam.</p>",
+      "extinction_text": "<p>Bereits gegen Ende des 19. Jahrhunderts galt der Maui-Nukupuu als selten. Die letzten bekannten Exemplare wurden 1896 gesammelt. Im 20. Jahrhundert folgten einzelne Meldungen möglicher Sichtungen, unter anderem aus den Jahren 1967, 1980 und 1996. Diese späteren Beobachtungen konnten jedoch nicht in allen Fällen zweifelsfrei bestätigt werden.</p><p>Für den Rückgang der Art dürften mehrere Faktoren verantwortlich gewesen sein. Dazu zählen die Zerstörung und Veränderung einheimischer Wälder, eingeführte Säugetiere sowie eingeschleppte Vogelkrankheiten. Besonders der rasche Rückgang der verschiedenen Nukupuu-Arten auf mehreren Hawaii-Inseln deutet darauf hin, dass durch Stechmücken übertragene Krankheiten wie Vogelmalaria und Vogelpocken eine wichtige Rolle gespielt haben könnten. Wie stark die einzelnen Faktoren zum Aussterben beitrugen, lässt sich aufgrund der wenigen historischen Daten heute jedoch nicht mehr genau bestimmen.</p><p>Nach einer erneuten Bewertung der historischen Nachweise und zahlreichen erfolglosen Suchaktionen wurde die Art in der IUCN Red List erst 2024 offiziell als ausgestorben (Extinct) erklärt. Damit gehört der Maui-Nukupuu zu mehreren hawaiischen Waldvogelarten, deren Aussterben erst lange nach ihrem letzten zweifelsfrei bestätigten Nachweis formell anerkannt wurde.</p>"
     },
     "references": [
       {
-        "label": "Test BirdLife Schweiz",
-        "url": "https://www.birdlife.ch/"
+        "label": "U.S. Fish and Wildlife Service (USFWS). 2023. Endangered and Threatened Wildlife and Plants; Removal of 21 Species From the List of Endangered and Threatened Wildlife. Federal Register 88(199): 71644–71682.",
+        "url": "https://www.fws.gov/sites/default/files/federal_register_document/2023-22377.pdf"
       },
       {
-        "label": "Test BirdLife Schweiz",
-        "url": "https://www.birdlife.ch/"
+        "label": "U.S. Fish and Wildlife Service (USFWS). 2006. Revised Recovery Plan for Hawaiian Forest Birds. Region 1, Portland, Oregon.",
+        "url": "https://www.fws.gov/species/maui-nukupuu-hemignathus-affinis"
+      },
+      {
+        "label": "Chesser, R. T., Banks, R. C., Burns, K. J., Cicero, C., Dunn, J. L., Kratter, A. W., Lovette, I. J., Navarro-Sigüenza, A. G., Rasmussen, P. C., Remsen, J. V. Jr., Rising, J. D., Stotz, D. F. & Winker, K. 2015. Fifty-sixth Supplement to the American Ornithologists’ Union Check-list of North American Birds. The Auk 132(3): 748–764.",
+        "url": "https://academic.oup.com/auk/article/132/3/748/5149071"
+      },
+      {
+        "label": "Hawaii Department of Land and Natural Resources (DLNR), Division of Forestry and Wildlife. Maui Nukupuʻu.",
+        "url": "https://dlnr.hawaii.gov/wildlife/birds/maui-nukupuu"
+      },
+      {
+        "label": "BirdLife International. 2024. Maui Nukupuu (Hemignathus affinis). Globally Threatened Bird Forums – 2024 Red List assessment.",
+        "url": "https://forums.birdlife.org/2024-1-maui-nukupuu-hemignathus-affinis"
       }
     ],
     "taxonomy": {
