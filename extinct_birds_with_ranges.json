@@ -11802,7 +11802,7 @@
       "lat": "Moho bishopi",
       "en": "Bishop’s ‚O’o"
     },
-    "last_seen": "1904/1981",
+    "last_seen": "1904",
     "location": {
       "lat": 21.15292,
       "lng": -156.96692
@@ -11813,18 +11813,26 @@
       "panel": "https://cdn.prod.website-files.com/69a2957c566333eb83d17d8c/69a2ead9c372519655b3c31a_moho_bishopi.png"
     },
     "panel": {
-      "description": "<p>Der Ohrbüschelmoho erreichte eine Gesamtlänge von bis zu 29 cm. Über seine Lebensweise ist nur wenig bekannt, da er sehr zurückgezogen in schwer zugänglichen Waldgebieten lebte. Wahrscheinlich ernährte er sich , wie andere Mohos, überwiegend von Blütennektar und Insekten.</p>",
-      "habitat_text": "<p>Der Lebensraum des Ohrbüschelmohos waren die Bergwälder der hawaiianischen Inseln Molokai und Maui. Von Maui existieren keine bestätigten historischen Sichtungen. Subfossile Knochenfunde belegen jedoch, dass die Art dort früher ebenfalls verbreitet war.</p>",
-      "extinction_text": "<p>Die Hauptursache für das Aussterben des Ohrenbüschelmohos war, wie bei den meisten endemischen Vogelarten Hawaiis, die massive Zerstörung seines Lebensraums. Dazu trugen vor allem grossflächige Entwaldungen für Landwirtschaft und Weidewirtschaft bei, ebenso die Einführung von Nutztieren sowie das Einschleppen zuvor unbekannter Raubtiere wie Ratten, Katzen und Mungos. Zusätzlich wurden durch Mücken Krankheiten verbreitet, gegen die die endemischen Vogelarten keine Immunität besassen.</p><p>Der Ohrenbüschelmoho wurde zuletzt 1904 vom Ornithologen George Campbell Munro nachgewiesen. Im Jahr 1915 ging Munro Berichten aus der Gegend des Wailau Trails nach, konnte jedoch keine lebenden Exemplare mehr finden.</p><p>In den 1980er Jahren kam es zu mehreren Sichtungsmeldungen aus dem Koʻolau-Naturreservat auf Maui. Diese beschrieben einen Vogel, der in Aussehen und Rufen dem Ohrenbüschelmoho ähnelte. Die Berichte konnten jedoch nie bestätigt werden.</p><p>Ob die Art tatsächlich bis in die 1980er Jahre in geschützten Regionen überlebt hat oder bereits zu Beginn des 20. Jahrhunderts ausgestorben ist, bleibt daher ungeklärt.</p><p>Vom Ohrbüschelmoho existieren heute nur noch wenige erhaltene Präparate, die auf Museen in den USA und Europa verteilt sind.</p>"
+       "description": "<p>Mit einer Körperlänge von ungefähr 29–31 cm gehörte der Ohrbüschelmoho (Moho bishopi) zu den grösseren Arten der Gattung Moho. Das Gefieder war überwiegend glänzend schwarz. Besonders auffällig waren die leuchtend gelben Federbüschel an den Ohrdecken, unter den Flügeln sowie die gelben Unterschwanzdecken. Ein ausgeprägter Geschlechtsdimorphismus war nicht erkennbar; Männchen und Weibchen ähnelten sich im äusseren Erscheinungsbild weitgehend.</p><p>Die Art ernährte sich hauptsächlich von Nektar und bevorzugte insbesondere die Blüten hawaiischer Lobeliengewächse (Lobelioideae). Untersuchungen von Mageninhalten zeigen, dass die Nahrung je nach Verfügbarkeit durch Insekten und Früchte ergänzt wurde. Da der Ohrbüschelmoho erst 1892 wissenschaftlich entdeckt wurde und bereits wenige Jahre später verschwand, ist über seine Lebensweise nur wenig bekannt.</p>",
+      "habitat_text": "<p>Der Ohrbüschelmoho ist historisch sicher nur von Molokai bekannt. Dort bewohnte er die feuchten einheimischen Wälder im gebirgigen Osten der Insel. Beobachtungen stammen insbesondere aus hoch gelegenen, niederschlagsreichen Bergwäldern mit ʻŌhiʻa-Bäumen (Metrosideros polymorpha), Lobelien und dichter einheimischer Vegetation. Historische Berichte deuten jedoch darauf hin, dass die Art ursprünglich auch tiefer gelegene Wälder nutzte und möglicherweise einen erheblich grösseren Teil der natürlichen Waldgebiete Ost-Molokais besiedelte.</p><p>Subfossile Funde zeigen, dass die Art einst auch auf der benachbarten Insel Maui vorkam. Ob diese Population bis in die 80er-Jahre des 20. Jahrhunderts in schwer zugänglichen Waldgebieten tatsächlich überlebte oder bereits vor der Ankunft der ersten Menschen ausgestorben ist, lässt sich heute nicht eindeutig klären.</p>",
+      "extinction_text": "<p>Bereits gegen Ende des 19. Jahrhunderts scheint der Ohrbüschelmoho auf Molokai stark zurückgegangen zu sein. Der letzte allgemein anerkannte Nachweis auf Molokai stammt aus dem Jahr 1904. Spätere intensive Nachsuchen, darunter Untersuchungen in abgelegenen Waldgebieten wie dem Olokui-Plateau, blieben erfolglos.</p><p>Besondere Aufmerksamkeit erhielt eine Beobachtung des US-amerikanischen Biologen und Ornithologen Stephen R. Sabo vom 10. Mai 1981 im abgelegenen Bergregenwald am nordöstlichen Haleakalā auf Maui. Sabo beschrieb einen schwarzen Vogel mit den für den Ohrbüschelmoho charakteristischen gelben Federbüscheln und berichtete auch von passenden Lautäusserungen. Weitere mögliche akustische Nachweise folgten, doch umfangreiche spätere Untersuchungen konnten dort keine Population bestätigen. Die Beobachtungen gelten deshalb bis heute als unbestätigt.</p><p>Die genauen Ursachen des Aussterbens lassen sich aufgrund der wenigen historischen Daten nicht vollständig rekonstruieren. Als wahrscheinlich gilt eine Kombination aus Verlust und Veränderung der einheimischen Wälder, eingeführten Säugetieren und eingeschleppten Vogelkrankheiten. Besonders relevant könnte die durch Stechmücken übertragene Vogelmalaria gewesen sein. Molokai besitzt kaum hoch gelegene Waldgebiete über etwa 1’250 m, in die sich empfindliche einheimische Vogelarten vor krankheitsübertragenden Stechmücken zurückziehen konnten.</p><p>Vom Ohrbüschelmoho wurden mindestens 31 Exemplare gesammelt, von denen zahlreiche Präparate und Teilpräparate heute in naturhistorischen Sammlungen erhalten sind.</p>"
     },
     "references": [
       {
-        "label": "Test BirdLife Schweiz",
-        "url": "https://www.birdlife.ch/"
-      },
+        "label": "Fleischer, R. C., James, H. F. & Olson, S. L. (2008): Convergent Evolution of Hawaiian and Australo-Pacific Honeyeaters from Distant Songbird Ancestors. Current Biology 18, 1927–1931.",
+        "url": "https://www.sciencedirect.com/science/article/pii/S0960982208014206"
+         },
       {
-        "label": "Test BirdLife Schweiz",
-        "url": "https://www.birdlife.ch/"
+        "label": "Sykes, P. W. Jr., Kepler, A. K., Kepler, C. B. & Scott, J. M. (2020): Kauai Oo (Moho braccatus). Birds of the World",
+        "url": "https://birdsoftheworld.org/bow/species/bisoo/cur/introduction?lang=es"
+         },
+      {
+        "label": "Hawaiʻi Division of Forestry and Wildlife: Bishop’s ʻŌʻō – Moho bishopi.",
+        "url": "https://dlnr.hawaii.gov/wildlife/birds/bishops-oo/"
+         },
+      {
+        "label": "Sabo, S. R. (1982): The Rediscovery of Bishop’s O‘o on Maui. ʻElepaio 42(8).",
+        "url": "https://hiaudubon.org/wp-content/uploads/2021/12/Elepaio42.8.pdf"
       }
     ],
     "taxonomy": {
