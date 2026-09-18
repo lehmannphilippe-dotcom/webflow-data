@@ -11682,11 +11682,11 @@
   {
     "id": "hemignathus_lucidus",
     "name": {
-      "de": "Oahu-Sichelkleidervogel",
+      "de": "Oahu-Nukupuu",
       "lat": "Hemignathus lucidus",
       "en": "Oahu Nukupuu"
     },
-    "last_seen": "19. Jhrdt.",
+    "last_seen": "1880",
     "location": {
       "lat": 21.44087,
       "lng": -157.91098
@@ -11697,18 +11697,30 @@
       "panel": "https://cdn.prod.website-files.com/6a2856622c4f26c0e72a657b/6aac29bb49bdfb346c25662c_hemignathus_lucidus.jpg"
     },
     "panel": {
-      "description": "",
-      "habitat_text": "",
-      "extinction_text": ""
+       "description": "<p>Der Oahu-Nukupuu (Hemignathus lucidus) war ein mittelgrosser hawaiischer Kleidervogel. Lange wurden die Populationen von Oahu, Kauai und Maui als Unterarten einer einzigen Art betrachtet. Seit einer taxonomischen Revision im Jahr 2015 werden sie aufgrund morphologischer Unterschiede und ihrer geografischen Isolation als drei eigenständige Arten geführt.</p><p>Besonders auffällig war der stark spezialisierte asymmetrische Schnabel. Der Oberschnabel war sehr lang, dünn und deutlich nach unten gebogen, während der Unterschnabel wesentlich kürzer und kräftiger ausgebildet war.</p><p>Diese ungewöhnliche Schnabelform war vor allem an die Suche nach Insekten und anderen Gliederfüssern angepasst. Mit dem kräftigeren kurzen Unterschnabel konnte Rinde oder morsches Holz aufgebrochen werden, während der lange, dünne Oberschnabel wie eine Sonde eingesetzt wurde, um Beutetiere aus Spalten und Vertiefungen herauszuziehen.</p><p>Über die genaue Lebensweise des Oahu-Nukupuu ist nur wenig bekannt. Aufgrund seiner engen Verwandtschaft mit den anderen Nukupuu-Arten wird angenommen, dass er eine ähnliche Lebens- und Ernährungsweise besass.</p>",
+      "habitat_text": "<p>Der Oahu-Nukupuu bewohnte wahrscheinlich vor allem feuchte einheimische Wälder mit Ohia (Metrosideros polymorpha) und Koa (Acacia koa). Historische Nachweise stammen unter anderem aus dem Nuuanu Valley und den angrenzenden Bergrücken oberhalb von Honolulu sowie aus Gebieten im nördlichen Oahu. Einige historische Angaben deuten darauf hin, dass die Art nicht ausschliesslich in höheren Bergwäldern lebte, sondern zumindest zeitweise auch Wälder in niedrigeren Höhenlagen nutzte.</p><p>Da grosse Teile der ursprünglichen Tiefland- und Mittelgebirgswälder Oahus bereits im 19. Jahrhundert stark verändert oder zerstört worden waren, lässt sich das ursprüngliche Verbreitungsgebiet heute nur unvollständig rekonstruieren.</p>",
+      "extinction_text": "<p>Die letzten sicher dokumentierten Nachweise des Oahu-Nukupuu stammen aus der ersten Hälfte des 19. Jahrhunderts. Im Jahr 1837 wurden die letzten sicher belegten Exemplare auf Oahu gesammelt.</p><p>Der britische Naturforscher Robert Cyril Layton Perkins (1866–1955) berichtete aufgrund von Informationen einheimischer Bewohner, dass der Oahu-Nukupuu um 1860 noch in geringer Zahl in den tiefer gelegenen Wäldern Oahus vorgekommen sein soll. Als Perkins 1892 intensiv nach der Art suchte, konnte er keinen einzigen Vogel mehr finden. Da auch weitere Nachsuchungen erfolglos blieben, wird angenommen, dass der Oahu-Nukupuu in der zweiten Hälfte des 19. Jahrhunderts, vermutlich um 1880, ausgestorben ist. Von der IUCN (International Union for Conservation of Nature) wurde die Art jedoch erst deutlich später, im Jahr 2016, offiziell als ausgestorben eingestuft.</p><p>Die genaue Ursache seines Aussterbens lässt sich nicht mehr sicher bestimmen. Wahrscheinlich wirkte eine Kombination verschiedener Faktoren, darunter die Zerstörung und Veränderung der ursprünglichen Wälder, eingeschleppte Säugetiere und durch Stechmücken übertragene Vogelkrankheiten, beim Zusammenbruch der Population zusammen.</p><p>Vom Oahu-Nukupuu sind mindestens elf historische Museumsexemplare dokumentiert, darunter neun Vögel, die 1837 auf Oahu gesammelt wurden.</p>"
     },
     "references": [
       {
-        "label": "Test BirdLife Schweiz",
-        "url": "https://www.birdlife.ch/"
+        "label": "Chesser, R. T., Banks, R. C., Burns, K. J., Cicero, C., Dunn, J. L., Kratter, A. W., Lovette, I. J., Navarro-Sigüenza, A. G., Rasmussen, P. C., Remsen, J. V. Jr., Rising, J. D., Stotz, D. F. & Winker, K. 2015. Fifty-sixth Supplement to the American Ornithologists’ Union Check-list of North American Birds. The Auk 132(3): 748–764.",
+        "url": "https://academic.oup.com/auk/article/132/3/748/5149071"
+        },
+      {
+        "label": "Pratt, H. D. & Pratt, T. K. (2001). The interplay of species concepts, taxonomy, and conservation: Lessons from the Hawaiian avifauna. Studies in Avian Biology, 22, 68–80.",
+        "url": "https://www.researchgate.net/publication/307883962_The_interplay_of_species_concepts_taxonomy_and_conservation_lessons_from_the_Hawaiian_avifauna"
+        },
+      {
+        "label": "Pratt, T. K., Fancy, S. G. & Ralph, C. J. (2001). ʻAkiapōlāʻau (Hemignathus munroi) and Nukupuʻu (Hemignathus lucidus). The Birds of North America, No. 600.",
+        "url": "https://academic.oup.com/auk/article/132/3/748/5149071"
+        },
+      {
+        "label": "Perkins, R. C. L. (1903). Vertebrata. In: D. Sharp (Hrsg.), Fauna Hawaiiensis, Vol. 1, Part IV, S. 365–466. Cambridge University Press.",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Fauna_hawaiiensis%3B_%28IA_agk2408.0001.004.umich.edu%29.pdf"
       },
       {
-        "label": "Test BirdLife Schweiz",
-        "url": "https://www.birdlife.ch/"
+        "label": "Hawaii Division of Forestry and Wildlife (DOFAW). Oʻahu Nukupuʻu – Hemignathus lucidus.",
+        "url": "https://dlnr.hawaii.gov/wildlife/birds/oahu-nukupuu"
       }
     ],
     "taxonomy": {
