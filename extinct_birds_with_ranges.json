@@ -7778,11 +7778,11 @@
   {
     "id": "hemignathus_hanapepe",
     "name": {
-      "de": "Kauai-Sichelkleidervogel",
+      "de": "Kauai-Nukupuu",
       "lat": "Hemignathus hanapepe",
       "en": "Kauai Nukupuu"
     },
-    "last_seen": "1990er-Jahre",
+    "last_seen": "1906",
     "location": {
       "lat": 22.07881,
       "lng": -159.50021
@@ -7793,18 +7793,26 @@
       "panel": "https://cdn.prod.website-files.com/6a2856622c4f26c0e72a657b/6aac29b7aa103c33c682c187_hemignathus-hanapepe.jpg"
     },
     "panel": {
-      "description": "",
-      "habitat_text": "",
-      "extinction_text": ""
+      "description": "<p>Der Kauai-Nukupuu (Hemignathus hanapepe) war ein mittelgrosser hawaiischer Kleidervogel. Lange wurden die Populationen von Kauai, Oahu und Maui als Unterarten einer einzigen Art betrachtet. Seit einer taxonomischen Revision im Jahr 2015 werden sie aufgrund morphologischer Unterschiede und ihrer geografischen Isolation als drei eigenständige Arten geführt.</p><p>Besonders auffällig war der stark spezialisierte asymmetrische Schnabel. Der Oberschnabel war sehr lang, dünn und deutlich nach unten gebogen, während der Unterschnabel wesentlich kürzer und kräftiger ausgebildet war.</p><p>Diese ungewöhnliche Schnabelform war vor allem an die Suche nach Insekten und anderen Gliederfüssern angepasst. Mit dem kräftigeren kurzen Unterschnabel konnten Rinde oder morsches Holz aufgebrochen werden, während der lange, dünne Oberschnabel wie eine Sonde eingesetzt wurde, um Beutetiere aus Spalten und Vertiefungen herauszuziehen.</p><p>Optisch konnte der Kauai-Nukupuu gut von den anderen Nukupuu-Arten von Oahu und Maui unterschieden werden. Das Männchen war besonders kräftig gelb, während das Weibchen unter den drei Nukupuu-Arten offenbar die am wenigsten ausgeprägte Gelbfärbung an Brust und Bauch besass.</p><p>Über die genaue Lebensweise des Kauai-Nukupuu ist nur wenig bekannt. Aufgrund seiner engen Verwandtschaft mit den anderen Nukupuu-Arten wird angenommen, dass er eine ähnliche Lebens- und Ernährungsweise besass.</p>",
+      "habitat_text": "<p>Der Kauai-Nukupuu bewohnte die feuchten Bergwälder Kauais, insbesondere Wälder mit Ōhiʻa (Metrosideros polymorpha) und Koa (Acacia koa). Historische Nachweise stammen unter anderem aus den Bergwäldern des Waimea-Canyon-Gebiets und aus dem Gebiet des heutigen Alakaʻi-Plateaus.</p><p>Wie gross das ursprüngliche Verbreitungsgebiet tatsächlich war, lässt sich heute nicht mehr sicher bestimmen, da systematische ornithologische Untersuchungen erst stattfanden, nachdem die Tieflandwälder Kauais bereits stark verändert worden waren. Wahrscheinlich war die Art ursprünglich weiter verbreitet und wurde im Verlauf des 19. Jahrhunderts zunehmend auf höher gelegene, weniger veränderte Wälder zurückgedrängt.</p>",
+      "extinction_text": "<p>Der letzte zweifelsfrei bestätigte Nachweis des Kauai-Nukupuu stammt aus dem Jahr 1899. Danach wurden über mehrere Jahrzehnte immer wieder mögliche Sichtungen gemeldet, insbesondere aus den schwer zugänglichen Wäldern des Alakaʻi-Plateaus.</p><p>Da auch weitere intensive Nachsuchungen in der zweiten Hälfte des 20. Jahrhunderts erfolglos blieben, wird angenommen, dass der Kauai-Nukupuu vermutlich zu Beginn des 20. Jahrhunderts ausgestorben ist. Statistische Analysen der letzten historischen Nachweise von 1899 schätzen, dass die Art wahrscheinlich spätestens um 1906 verschwunden war.</p><p>Eine einzelne Ursache für das Verschwinden lässt sich nicht nachweisen. Wahrscheinlich wirkte eine Kombination verschiedener Faktoren zusammen. Dazu gehörten die Zerstörung und Veränderung der ursprünglichen Wälder, Schäden durch eingeführte Huftiere, Prädation durch eingeschleppte Ratten sowie vermutlich durch Stechmücken übertragene Vogelkrankheiten.</p>"
     },
     "references": [
       {
-        "label": "Test BirdLife Schweiz",
-        "url": "https://www.birdlife.ch/"
-      },
+        "label": "Chesser, R. T., Banks, R. C., Cicero, C., Dunn, J. L., Kratter, A. W., Lovette, I. J., Navarro-Sigüenza, A. G., Rasmussen, P. C., Remsen, J. V., Rising, J. D., Stotz, D. F. & Winker, K. (2015). Fifty-sixth Supplement to the American Ornithologists’ Union Check-list of North American Birds. The Auk 132(3): 748–764.",
+        "url": "https://academic.oup.com/auk/article/132/3/748/5149071"
+         },
       {
-        "label": "Test BirdLife Schweiz",
-        "url": "https://www.birdlife.ch/"
+        "label": "Pyle, R. L. & Pyle, P. (2017). The Birds of the Hawaiian Islands: Occurrence, History, Distribution, and Status – Kauaʻi Nukupuʻu (Hemignathus hanapepe). B. P. Bishop Museum, Honolulu.",
+        "url": "https://hbs.bishopmuseum.org/birds/rlp-monograph/pdfs/08-drep/kanu.pdf"
+         },
+      {
+        "label": "Hawaii Division of Forestry and Wildlife (DLNR): Kauaʻi Nuku Puʻu.",
+        "url": "https://dlnr.hawaii.gov/wildlife/birds/kauai-nuku-puu"
+         },
+      {
+        "label": "U.S. Fish and Wildlife Service (2006). Revised Recovery Plan for Hawaiian Forest Birds. Portland, Oregon.",
+        "url": "https://www.fws.gov/sites/default/files/federal_register_document/2021-21219.pdf"
       }
     ],
     "taxonomy": {
