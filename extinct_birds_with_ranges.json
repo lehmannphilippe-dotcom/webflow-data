@@ -8193,18 +8193,30 @@
       "panel": "https://cdn.prod.website-files.com/6950eb029163bef776e18cfd/698ec8d06679b0e2601ae9b0_Moho%20apicalis.jpg"
     },
     "panel": {
-      "description": "<p>Der Krauschwanzmoho war mit einer Gesamtlänge von bis zu 30 cm eine vergleichsweise grosse Art innerhalb der Gattung Moho. Sein Gefieder entsprach weitgehend dem Erscheinungsbild der übrigen Mohoarten. Charakteristisch waren jedoch die Schwanzfedern, die an ihren Enden deutlich ausgeprägte weisse Spitzen aufwiesen. Zudem ist überliefert, dass der Krauschwanzmoho seinen Schwanz häufig auffächerte, was vermutlich eine wichtige Rolle im Sozial- oder Balzverhalten spielte.</p><p>Da die Art nur selten lebend in freier Wildbahn beobachtet wurde, liegen kaum gesicherte Informationen zu seinem Verhalten und seiner Ernährungsweise vor. Aufgrund seiner systematischen Zugehörigkeit wird jedoch angenommen, dass sich die Art, wie andere Vertreter der Gattung Moho , überwiegend von Nektar sowie von Insekten ernährte.</p>",
-      "habitat_text": "<p>Sein Lebensraum waren die niederschlagsreichen tropischen Bergwälder der Insel Oʻahu. Wahrscheinlich verfügte die Art schon immer über ein sehr begrenztes Verbreitungsgebiet, was sie besonders anfällig für Umweltveränderungen und menschliche Eingriffe machte.</p>",
-      "extinction_text": "<p>Der Krausschwanzmoho wurde erstmals von Andrew Bloxam, einem englischen Geistlichen und Naturforscher, erwähnt. Dieser erwarb während seines Aufenthalts auf den Hawaii-Inseln im Jahr 1825, von Einheimischen lebende Exemplare der Art. Laut seinem Reisebuch war der Krausschwanzmoho bereits damals äusserst selten, was dazu führte das für ein lebendes Exemplar hohe Preise verlangt wurden.</p><p>Als der englische Ornithologe John Gould den Krausschwanzmoho im Jahr 1860 erstmals wissenschaftlich beschrieb, galt die Art bereits als verschollen. Die letzten drei gesicherten Exemplare wurden 1837 vom deutschen Naturforscher Ferdinand Deppe in den Hügeln hinter de Hauptstadt Honolulu erlegt. Dies stellt den letzten gesicherten Nachweis der Art dar. Nach mehreren gescheiterten Suchexpeditionen zwischen 1880 und 1890 wurde der Krausschwanzmoho offiziell für ausgestorben erklärt.</p><p>Als Ursachen für sein endgültiges Aussterben gelten, wie bei vielen hawaiischen Vogelarten, vermutlich Vogelkrankheiten durch eingeschleppte Mücken, die Zerstörung des Lebensraums infolge von Überweidung durch Nutztiere sowie die Abholzung der Wälder. Bis heute ist jedoch unklar, ob diese Faktoren allein ausschlaggebend waren oder ob der Krausschwanzmoho bereits zuvor durch menschlichen Einfluss der Ureinwohner oder durch natürliche Umweltveränderungen stark im Bestand geschwächt war.</p><p>Heute existieren noch sieben erhaltene Exemplare in Museumssammlungen in Berlin, London, New York, Cambridge und Massachusetts.</p>"
+       "description": "<p>Der Krausschwanzmoho (Moho apicalis), auch Oahu-ʻŌʻō genannt, war mit einer Körperlänge von bis zu etwa 30,5 cm eine vergleichsweise grosse Art der Gattung Moho.</p><p>Die Geschlechter unterschieden sich vor allem in der Grösse. Männchen waren ungefähr 20 % grösser als Weibchen. Besonders charakteristisch waren die markanten weissen Spitzen der Schwanzfedern, die in dieser Form bei keiner anderen Art der Gattung Moho vorkamen. Die beiden mittleren Schwanzfedern waren zudem stark verengt und liefen in verlängerte, drahtartig wirkende Spitzen aus.</p><p>Einzelne Exemplare zeigten auffällige gelbe, unbefiederte Augenringe. Da dieses Merkmal nur vereinzelt nachgewiesen wurde, könnte seine Ausprägung unter anderem mit dem Alter, dem Geschlecht oder dem Fortpflanzungszustand zusammengehangen haben.</p><p>Über das Verhalten und die Ernährung des Krausschwanzmohos ist nur sehr wenig bekannt. Direkte Beobachtungen zur Nahrungsaufnahme sind kaum überliefert. Aufgrund seiner engen Verwandtschaft mit den übrigen Mohoarten wird angenommen, dass er sich vor allem von Nektar sowie Insekten und anderen Gliederfüssern ernährte.</p>",
+      "habitat_text": "<p>Der Krausschwanzmoho kam ausschliesslich auf Oahu vor. Die letzten bekannten Exemplare wurden in den Hügel- und Waldgebieten hinter Honolulu im Bereich der Koolau Mountains gesammelt. Genauere Angaben zur bevorzugten Höhenlage oder Vegetationsstruktur sind aufgrund des sehr frühen Verschwindens der Art nicht überliefert. Die verfügbaren historischen Quellen sprechen allgemein für eine Bindung an die ursprünglichen Wälder Oahus.</p>",
+      "extinction_text": "<p>Der Krausschwanzmoho war europäischen Naturforschern bereits im 18. Jahrhundert bekannt. Eine ausführlichere Beschreibung hinterliess jedoch erst der britische Geistliche und Naturforscher Andrew Bloxam (1801–1878), der Oahu 1825 besuchte. Von Einheimischen erhielt er mehrere lebende Exemplare, die er einige Wochen in Gefangenschaft hielt. Bloxam beschrieb die Art bereits damals als sehr selten und berichtete, dass für lebende Vögel hohe Preise verlangt wurden.</p><p>Als der englische Ornithologe John Gould (1804–1881) die Art 1860 wissenschaftlich beschrieb, war sie bereits seit Jahrzehnten nicht mehr sicher nachgewiesen worden. Die letzten gesicherten Belege stammen aus dem Jahr 1837, als im Nuʻuanu Valley hinter Honolulu mehrere Exemplare gesammelt wurden. Danach konnte nie wieder ein Krausschwanzmoho nachgewiesen werden.</p><p>Die genauen Ursachen des Aussterbens sind unbekannt. Als mögliche Faktoren gelten die Zerstörung und Veränderung der Wälder Oahus sowie eingeschleppte Säugetiere. Ob die Nutzung der auffälligen gelben Federn für traditionelle hawaiische Federarbeiten und die damit verbundene Jagd einen zusätzlichen Aussterbefaktor darstellten, ist nicht bekannt.</p><p>Heute sind noch zehn Museumsexemplare des Krausschwanzmohos in Museen in Nordamerika und Europa bekannt.</p>"
     },
     "references": [
       {
-        "label": "Test BirdLife Schweiz",
-        "url": "https://www.birdlife.ch/"
-      },
+        "label": "Lepson, J. K. (1998). Notes on Appearance and Speculated Behavior of the O‘ahu ‘O‘o (Meliphagidae). Pacific Science, 52(3), 210–219.",
+        "url": "https://scholarspace.manoa.hawaii.edu/server/api/core/bitstreams/8a7755b0-35f7-4924-8812-da230e22a5cc/content"
+           },
       {
-        "label": "Test BirdLife Schweiz",
-        "url": "https://www.birdlife.ch/"
+        "label": "Pyle, R. L. & Pyle, P. (2017). The Birds of the Hawaiian Islands: Occurrence, History, Distribution, and Status. Version 2. B. P. Bishop Museum, Honolulu.",
+        "url": "https://hbs.bishopmuseum.org/birds/rlp-monograph/pdfs/07-ZOST-ESTR/OAOO.pdf"
+           },
+      {
+        "label": "Olson, S. L. (1996). The contribution of the voyage of H.M.S. Blonde to Hawaiian ornithology. Archives of Natural History, 23(1), 1–42.",
+        "url": "https://repository.si.edu/server/api/core/bitstreams/4550fce8-e734-41e9-babd-1a1dd3c6a8c6/content"
+           },
+      {
+        "label": "Gould, J. (1860). Description of a New Species of the Genus Moho, of Lesson. The Annals and Magazine of Natural History, Series 3, 5, 148–149.",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/a/ab/The_Annals_and_magazine_of_natural_history%3B_zoology%2C_botany%2C_and_geology_%28IA_annalsmagazineof371861lond%29.pdf"
+           },
+      {
+        "label": "Hawaiʻi Department of Land and Natural Resources, Division of Forestry and Wildlife. Oʻahu ʻŌʻō – Moho apicalis.",
+        "url": "https://dlnr.hawaii.gov/wildlife/birds/oahu-oo"
       }
     ],
     "taxonomy": {
