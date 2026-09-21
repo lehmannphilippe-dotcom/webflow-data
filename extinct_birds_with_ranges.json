@@ -16673,18 +16673,34 @@
       "panel": "https://cdn.prod.website-files.com/6950eb029163bef776e18cfd/6986ff74c6d2fb52ff829858_Moho_angustipluma.jpg"
     },
     "panel": {
-      "description": "<p>Der grünlichbraune Schmalfedermoho, auch Kioea genannt, war mit einer Körperlänge von rund 33 Zentimetern die grösste Art innerhalb der Gattung der Mohos. Er unterschied sich deutlich von den übrigen Arten durch sein helles Federkleid, während diese meist schwarz gefärbt waren und auffällige gelbe Schmuckfedern trugen.</p><p>Wie alle Mohos besass der Schmalfedermoho einen langen, gebogenen Schnabel sowie eine röhrenförmige Zunge. Damit war er an eine spezialisierte Ernährung angepasst. Er lebte überwiegend in den Baumkronen und ernährte sich hauptsächlich von Nektar sowie von Insekten und Raupen.</p>",
-      "habitat_text": "<p>Der Lebensraum des Schmalfedermohos beschränkte sich auf die Bergwälder rund um den Vulkan Kīlauea auf der grössten Insel Hawaiis (Big Island). Fossile Funde deuten jedoch darauf hin, dass die Art oder Unterarten davon vor der Ankunft des Menschen auch auf anderen Inseln des Archipels, darunter Oʻahu und Maui, verbreitet waren.</p>",
-      "extinction_text": "<p>Der Schmalfedermoho war die erste Moho-Art, die von den Hawaii-Inseln verschwand, nachdem Europäer ab 1778 mit der Besiedlung des Archipels begonnen hatten. Die Art blieb lange Zeit unentdeckt und wurde selbst von den polynesischen Ureinwohnern kaum bewusst wahrgenommen. Die Federn fanden weder Verwendung in der traditionellen hawaiianischen Federkunst, noch wird der Vogel in Gesängen, Legenden oder mündlichen Überlieferungen jemals erwähnt.</p><p>Wahrscheinlich war der Schmalfedermoho schon immer äusserst selten und wäre möglicherweise auch ohne direkten menschlichen Einfluss ausgestorben. Dennoch wurde dieser Prozess durch die Zerstörung seines Lebensraums sowie durch die Einschleppung von Ratten, Katzen, Hunde und Schweine deutlich beschleunigt.</p><p>Nur zwanzig Jahre nach der ersten wissenschaftlichen Beschreibung durch die Naturforscher Charles Pickering und Titian Peale wurden 1859 die letzten bekannten Exemplare von dem englischen Vogelsammler James D. Mills erlegt.</p><p>Heute existieren weltweit nur noch vier präparierte Exemplare des Schmalfedermohos. Diese werden in Museen in Cambridge, Honolulu, Washington, D.C., und New York aufbewahrt.</p>"
+      "description": "<p>Der Schmalfedermoho (Chaetoptila angustipluma), auch Kioea genannt, war ein grosser hawaiischer Singvogel und die einzige historisch bekannte Art der Gattung Chaetoptila. Mit einer Körperlänge von ungefähr 33 cm gehörte er zu den grössten Vertretern der ausgestorbenen Familie Mohoidae.</p><p>Über seine Lebensweise ist nur sehr wenig bekannt. Historische Beobachtungen beschreiben den Schmalfedermoho als lebhaften Vogel, der sich häufig in blühenden ʻŌhiʻa-Bäumen aufhielt. Die Schnabelform sowie die Zugehörigkeit zu den Mohoidae lassen ein ähnliches Nahrungsspektrum wie bei den anderen Arten der Familie vermuten, das grösstenteils aus Nektar bestanden haben dürfte.</p>",
+      "habitat_text": "<p>Der Schmalfedermoho war in historischer Zeit nur von der Insel Hawaii sicher bekannt. Die wenigen vorhandenen Exemplare stammen vermutlich aus dem Inneren der Insel. Als mögliche Fundgebiete werden die Wälder am Sattel zwischen Mauna Kea und Mauna Loa sowie Gebiete zwischen Volcano und Hilo genannt. Die genauen Fundorte der meisten Exemplare wurden jedoch nicht ausreichend dokumentiert.</p><p>Aus historischen Angaben und subfossilen Funden wurde später geschlossen, dass die Art neben feuchten Bergwäldern möglicherweise auch trockenere Wälder und Buschlandschaften in Höhenlagen unter 1’500 m nutzte. Die genaue Habitatbindung lässt sich aufgrund der sehr wenigen Beobachtungen jedoch nicht mehr sicher rekonstruieren.</p><p>Subfossile Überreste verwandter Chaetoptila-Formen wurden auch auf Oahu und Maui gefunden. Ob diese Funde Unterarten des Schmalfedermohos oder eigenständige, heute ebenfalls ausgestorbene Arten der Gattung Chaetoptila darstellen, ist nicht abschliessend geklärt.</p>",
+      "extinction_text": "<p>Der Schmalfedermoho scheint bereits selten gewesen zu sein, als er im 19. Jahrhundert erstmals wissenschaftlich beschrieben wurde. Der Naturforscher Titian Ramsay Peale (1799–1885) sammelte während der United States Exploring Expedition im November 1840 das Typusexemplar und bezeichnete die Art bereits damals als selten. Insgesamt sind nur vier historische Museumsexemplare bekannt.</p><p>Der letzte gesicherte Nachweis stammt aus dem Jahr 1859. Bei einem der Exemplare aus der Sammlung des englischen Vogelsammlers James D. Mills (1816–1887) ist auf dem Museumsetikett «ca. 1859» vermerkt. Danach sind keine zuverlässig bestätigten Beobachtungen mehr dokumentiert.</p><p>Die genaue Ursache des Aussterbens ist nicht bekannt. Aufgrund des frühen Verschwindens und der sehr geringen Zahl historischer Beobachtungen lässt sich kein einzelner Faktor eindeutig nachweisen. Als mögliche Ursachen gelten Verlust und Veränderung des Lebensraums, eingeschleppte Säugetiere sowie eingeführte Vogelkrankheiten, die auch zum Verschwinden zahlreicher anderer hawaiischer Vogelarten beigetragen haben.</p>"
     },
     "references": [
       {
-        "label": "Test BirdLife Schweiz",
-        "url": "https://www.birdlife.ch/"
-      },
+        "label": "Pyle, R. L. & Pyle, P. (2017). The Birds of the Hawaiian Islands: Occurrence, History, Distribution, and Status. B. P. Bishop Museum, Honolulu.",
+        "url": "https://hbs.bishopmuseum.org/birds/rlp-monograph/pdfs/07-ZOST-ESTR/KIOE.pdf"
+          },
       {
-        "label": "Test BirdLife Schweiz",
-        "url": "https://www.birdlife.ch/"
+        "label": "Hawaiʻi Department of Land and Natural Resources, Division of Forestry and Wildlife. 	ʻŌlelo Hawaiʻi: Kioea – Chaetoptila angustipluma.",
+        "url": "https://dlnr.hawaii.gov/wildlife/birds/kioea2/"
+          },
+      {
+        "label": "James, H. F. & Olson, S. L. (1991). Descriptions of Thirty-Two New Species of Birds from the Hawaiian Islands: Part II. Passeriformes. Ornithological Monographs, 46, 1–88.",
+        "url": "https://www.researchgate.net/publication/242013278_Descriptions_of_Thirty-Two_New_Species_of_Birds_from_the_Hawaiian_Islands_Part_II_Passeriformes"
+          },
+      {
+        "label": "Peale, T. R. (1848 [publ. 1849]). Mammalia and Ornithology. United States Exploring Expedition during the years 1838–1842, Vol. VIII. C. Sherman, Philadelphia, S. 147.",
+        "url": "https://recentlyextinctspecies.com/passeriformes-passerine-birds/chaetoptila-angustipluma"
+          },
+      {
+        "label": "Fleischer, R. C., James, H. F. & Olson, S. L. (2008). Convergent Evolution of Hawaiian and Australo-Pacific Honeyeaters from Distant Songbird Ancestors. Current Biology 18(24): 1927–1931. DOI: 10.1016/j.cub.2008.10.051.",
+        "url": "https://www.sciencedirect.com/science/article/pii/S0960982208014206"
+          },
+      {
+        "label": "Rothschild, W. (1907). Extinct Birds. Hutchinson & Co., London.",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Extinct_birds_-_an_attempt_to_unite_in_one_volume_a_short_account_of_those_birds_which_have_become_extinct_in_historical_times_-_that_is_%28IA_Extinctbirds00Roth%29.pdf"
       }
     ],
     "taxonomy": {
