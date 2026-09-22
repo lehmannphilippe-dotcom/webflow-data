@@ -46,6 +46,7 @@
       "find_spots": null,
       "last_observation": null
     }
+  },
     {
     "id": "oahu-chaetoptila_sp.",
     "name": {
@@ -93,6 +94,7 @@
       "find_spots": null,
       "last_observation": null
     }
+  },
  {
     "id": "porzana_sp.",
     "name": {
@@ -6261,7 +6263,7 @@
         "url": "https://repository.si.edu/server/api/core/bitstreams/f5de95e9-233e-4c40-bb79-8891db1db8fe/content"
          },
       {
-        "label": "Winston E. Banko: Avian History Report 10. Part 1. Population Histories-Species Accounts, Forest birds.",
+        "label": "Winston E. Banko: Avian History Report 10. Part 1. Population Histories-Species Accounts, Forest birds.",
         "url": "https://scholarspace.manoa.hawaii.edu/server/api/core/bitstreams/e8dc65e5-e3c5-4439-82f3-efedc3a81c3a/content"
          },
       {
@@ -9002,7 +9004,7 @@
       }
     ],
     "taxonomy": {
-      "family": "Rohrsängerartige (Acrocephalidae)",
+      "family": "Rohrsängerartige (Acrocephalidae)",
       "genus": "Rohrsänger (Acrocephalus)",
       "family_key": "acrocephalidae",
       "genus_key": "acrocephalus"
@@ -12033,7 +12035,7 @@
         "url": "https://repository.si.edu/server/api/core/bitstreams/f5de95e9-233e-4c40-bb79-8891db1db8fe/content"
       },
       {
-          "label": "Winston E. Banko: Avian History Report 10. Part 1. Population Histories-Species Accounts, Forest birds.",
+          "label": "Winston E. Banko: Avian History Report 10. Part 1. Population Histories-Species Accounts, Forest birds.",
         "url": "https://scholarspace.manoa.hawaii.edu/server/api/core/bitstreams/e8dc65e5-e3c5-4439-82f3-efedc3a81c3a/content"
       },
       {
@@ -12289,7 +12291,7 @@
         "url": "https://birdsoftheworld.org/bow/species/hawoo/cur/introduction"
         },
       {
-        "label": "Hawaiʻi Department of Land and Natural Resources, Division of Forestry and Wildlife. Hawaiʻi ‘Ō‘ō  – Moho nobilis.",
+        "label": "Hawaiʻi Department of Land and Natural Resources, Division of Forestry and Wildlife. Hawaiʻi ‘Ō‘ō  – Moho nobilis.",
         "url": "https://dlnr.hawaii.gov/wildlife/birds/hawaii-oo/"
       },
       {
@@ -16949,7 +16951,7 @@
         "url": "https://digitalcommons.usf.edu/cgi/viewcontent.cgi?article=10382&context=wilson_bulletin"
       },
       {
-        "label": "Hawaiʻi Department of Land and Natural Resources, Division of Forestry and Wildlife. Kaua‘i ‘ō ‘ō  – Moho braccatus.",
+        "label": "Hawaiʻi Department of Land and Natural Resources, Division of Forestry and Wildlife. Kaua‘i ‘ō ‘ō  – Moho braccatus.",
         "url": "https://dlnr.hawaii.gov/wildlife/birds/kauai-oo/"
       }
     ],
