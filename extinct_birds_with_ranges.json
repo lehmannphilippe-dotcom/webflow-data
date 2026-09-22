@@ -48,13 +48,13 @@
     }
   },
     {
-    "id": "oahu-chaetoptila_sp.",
+    "id": "chaetoptila_sp.",
     "name": {
-      "de": "Oahu-Chaetoptila sp.",
+      "de": "Chaetoptila sp.",
       "lat": "Chaetoptila sp.",
-      "en": "O‘ahu Chaetoptila sp."
+      "en": "Chaetoptila sp."
     },
-    "last_seen": "1500",
+    "last_seen": "1200",
     "location": {
       "lat": 21.391696,
       "lng": -158.069770
@@ -65,18 +65,26 @@
       "panel": "https://cdn.prod.website-files.com/6a2856622c4f26c0e72a657b/6ab213c01822742c36fcb2ca_Chaetopila_sp.jpg"
     },
     "panel": {
-      "description": "",
-      "habitat_text": "",
-      "extinction_text": ""
+       "description": "<p>Von dieser bislang unbeschriebenen Chaetoptila-Form von Oahu sind nur fossile und subfossile Knochenfunde bekannt. Das vorhandene Material reicht bisher nicht aus, um sie formal als eigenständige Art zu beschreiben oder eindeutig vom Schmalfedermoho (Chaetoptila angustipluma) abzugrenzen. In der Literatur wird sie deshalb meist als Chaetoptila sp., Chaetoptila aff. angustipluma oder Chaetoptila cf. angustipluma geführt.</p><p>Über die Lebensweise dieser Form ist nichts bekannt. Aufgrund der nahen Verwandtschaft mit dem Schmalfedermoho und den übrigen Mohoidae ist jedoch eine ähnliche Ernährung plausibel, bei der Nektar und vermutlich auch Wirbellose eine Rolle spielten.</p>",
+      "habitat_text": "<p>Fossilien wurden an mehreren Fundstellen im Südwesten Oahus, insbesondere auf der ʻEwa Plain bei Barber's Point, entdeckt. Dort stammen die Knochen aus natürlichen Kalkstein-Sinklöchern und Höhlensystemen. Diese Fundstellen liegen in niedrigen Höhen nahe der Küste und zeigen, dass die Vögel zumindest zeitweise auch die damaligen Tieflandhabitate nutzten.</p><p>Noch ältere Überreste wurden bei Ulupaʻu Head im Osten Oahus gefunden. Diese Ablagerungen sind mehr als 120'000 Jahre alt und enthalten sowohl Schädel- als auch Körperknochen von Chaetoptila sp. Damit ist die Gattung auf Oahu bereits für das späte Pleistozän belegt und war dort über einen sehr langen Zeitraum vertreten.</p>",
+      "extinction_text": "<p>Ein direkt datierter Knochen zeigt, dass Chaetoptila auf Oahu mindestens bis etwa ins 10. oder frühe 11. Jahrhundert vorkam. Die begrenzte Fossilüberlieferung lässt jedoch offen, ob die Form infolge direkter oder indirekter Auswirkungen der ersten polynesischen Besiedlung verschwand oder ob sie bereits zuvor durch natürliche klimatische oder ökologische Veränderungen selten geworden oder lokal verschwunden war.</p><p>Da bislang nur wenige Fossilien bekannt sind, bleiben sowohl der genaue Zeitpunkt als auch die unmittelbaren Ursachen des Aussterbens unsicher.</p>"
     },
     "references": [
       {
-        "label": "Test BirdLife Schweiz",
-        "url": "https://www.birdlife.ch/"
-      },
+        "label": "Olson, S. L. & James, H. F. (1982). Prodromus of the Fossil Avifauna of the Hawaiian Islands. Smithsonian Contributions to Zoology, 365: 1–59.",
+        "url": "https://repository.si.edu/server/api/core/bitstreams/2f2816a2-71a1-41fb-9c73-11c5ccec301d/content"
+          },
       {
-        "label": "Test BirdLife Schweiz",
-        "url": "https://www.birdlife.ch/"
+        "label": "James, H. F. (1987). A Late Pleistocene Avifauna from the Island of Oahu, Hawaiian Islands. In: Mourer-Chauviré, C. (ed.), L’Évolution des oiseaux d’après le témoignage des fossiles. Documents des Laboratoires de Géologie de Lyon 99: 121–128.",
+        "url": "https://repository.si.edu/server/api/core/bitstreams/bcb2348a-26d4-4bf1-9fcf-cd68a6e6ceb1/content"
+          },
+      {
+        "label": "James, H. F. & Olson, S. L. (1991). Descriptions of Thirty-Two New Species of Birds from the Hawaiian Islands: Part II. Passeriformes. Ornithological Monographs, 46, 1–88.",
+        "url": "https://www.researchgate.net/publication/242013278_Descriptions_of_Thirty-Two_New_Species_of_Birds_from_the_Hawaiian_Islands_Part_II_Passeriformes"
+          },
+      {
+        "label": "Hearty, P. J., James, H. F. & Olson, S. L. (2005). The Geological Context of Middle Pleistocene Crater Lake Deposits and Fossil Birds at Ulupau Head, Oahu, Hawaiian Islands. In: Alcover, J. A. & Bover, P. (eds.), Insular Vertebrate Evolution: The Palaeontological Approach. Monografies de la Societat d’Història Natural de les Balears 12.",
+        "url": "https://repository.si.edu/server/api/core/bitstreams/0e5a0364-d5a9-411b-8adc-d3f9530e90da/content"
       }
     ],
     "taxonomy": {
