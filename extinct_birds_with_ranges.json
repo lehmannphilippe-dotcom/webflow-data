@@ -1,5 +1,99 @@
 [
-              {
+  {
+    "id": "maui-chaetoptila_sp.",
+    "name": {
+      "de": "Mahu-Chaetoptila sp.",
+      "lat": "Chaetoptila sp.",
+      "en": "Maui Chaetoptila sp."
+    },
+    "last_seen": "1500",
+    "location": {
+      "lat": 20.825068,
+      "lng": -156.400922
+    },
+    "habitat": "Maui (Hawaii)",
+    "images": {
+      "tooltip": "",
+      "panel": "https://cdn.prod.website-files.com/6a2856622c4f26c0e72a657b/6ab213c01822742c36fcb2ca_Chaetopila_sp.jpg"
+    },
+    "panel": {
+      "description": "",
+      "habitat_text": "",
+      "extinction_text": ""
+    },
+    "references": [
+      {
+        "label": "Test BirdLife Schweiz",
+        "url": "https://www.birdlife.ch/"
+      },
+      {
+        "label": "Test BirdLife Schweiz",
+        "url": "https://www.birdlife.ch/"
+      }
+    ],
+    "taxonomy": {
+      "family": "Mohoidae",
+      "genus": "Chaetoptila",
+      "family_key": "mohoidae",
+      "genus_key": "chaetoptila"
+    },
+    "ranges": {
+      "range_native": null,
+      "breeding_native": null,
+      "range_hypothetical": null,
+      "passage": null,
+      "breeding_spots": null,
+      "find_spots": null,
+      "last_observation": null
+    }
+    {
+    "id": "oahu-chaetoptila_sp.",
+    "name": {
+      "de": "Oahu-Chaetoptila sp.",
+      "lat": "Chaetoptila sp.",
+      "en": "O‘ahu Chaetoptila sp."
+    },
+    "last_seen": "1500",
+    "location": {
+      "lat": 21.391696,
+      "lng": -158.069770
+    },
+    "habitat": "Oahu (Hawaii)",
+    "images": {
+      "tooltip": "",
+      "panel": "https://cdn.prod.website-files.com/6a2856622c4f26c0e72a657b/6ab213c01822742c36fcb2ca_Chaetopila_sp.jpg"
+    },
+    "panel": {
+      "description": "",
+      "habitat_text": "",
+      "extinction_text": ""
+    },
+    "references": [
+      {
+        "label": "Test BirdLife Schweiz",
+        "url": "https://www.birdlife.ch/"
+      },
+      {
+        "label": "Test BirdLife Schweiz",
+        "url": "https://www.birdlife.ch/"
+      }
+    ],
+    "taxonomy": {
+      "family": "Mohoidae",
+      "genus": "Chaetoptila",
+      "family_key": "mohoidae",
+      "genus_key": "chaetoptila"
+    },
+    "ranges": {
+      "range_native": null,
+      "breeding_native": null,
+      "range_hypothetical": null,
+      "passage": null,
+      "breeding_spots": null,
+      "find_spots": null,
+      "last_observation": null
+    }
+ {
     "id": "porzana_sp.",
     "name": {
       "de": "Kleine Hawaiiralle",
