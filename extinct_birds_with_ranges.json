@@ -1,10 +1,10 @@
 [
   {
-    "id": "maui-chaetoptila_sp.",
+    "id": "cf._chaetoptila_sp.",
     "name": {
-      "de": "Maui-Chaetoptila sp.",
-      "lat": "Chaetoptila sp.",
-      "en": "Maui Chaetoptila sp."
+      "de": "cf. Chaetoptila sp.",
+      "lat": "cf. Chaetoptila sp.",
+      "en": "cf. Chaetoptila sp."
     },
     "last_seen": "1500",
     "location": {
@@ -17,18 +17,22 @@
       "panel": "https://cdn.prod.website-files.com/6a2856622c4f26c0e72a657b/6ab213c01822742c36fcb2ca_Chaetopila_sp.jpg"
     },
     "panel": {
-      "description": "",
-      "habitat_text": "",
-      "extinction_text": ""
+      "description": "<p>Von dieser bislang unbeschriebenen Form von Maui sind ausschliesslich subfossile Überreste bekannt. Aufgrund morphologischer Ähnlichkeiten wurde sie vorläufig in die Nähe der Gattung Chaetoptila gestellt. Auffällig war insbesondere der im Vergleich zum Schmalfedermoho (Chaetoptila angustipluma) deutlich schmalere Schnabel.</p><p>Sowohl die Gattungszuordnung als auch der Artstatus sind jedoch ungeklärt. Es ist daher nicht sicher, ob die Form tatsächlich zur Gattung Chaetoptila gehörte. Aufgrund der morphologischen Unterschiede könnte es sich um eine eigenständige, bislang unbeschriebene Art gehandelt haben. In der wissenschaftlichen Literatur wird sie deshalb vorsichtig als cf. Chaetoptila sp. geführt.</p><p>Über das Aussehen und die Lebensweise dieser Form ist nichts bekannt. Falls die angenommene Verwandtschaft mit Chaetoptila zutrifft, könnte sie eine ähnliche Lebensweise wie der Schmalfedermoho und andere Mohoidae besessen haben. Eine Ernährung mit Nektar und möglicherweise Wirbellosen ist daher denkbar, lässt sich anhand der bislang bekannten Fossilien jedoch nicht direkt nachweisen.</p>",
+      "habitat_text": "<p>Die bislang bekannten Überreste stammen von Maui. Fossilien dieser Form wurden in der Puʻu-Naio-Höhle an der südwestlichen Flanke des Haleakalā gefunden. Die Höhle liegt auf ungefähr 305 Metern Höhe und enthält umfangreiche holozäne Ablagerungen mit zahlreichen ausgestorbenen Vogelarten. Die dortigen Sedimente reichen mindestens etwa 8'000 Jahre zurück.</p><p>Welche Lebensräume die schmalschnäblige Form tatsächlich bevorzugte, lässt sich aus dem Fundort allein nicht sicher ableiten. Die Lage der Puʻu-Naio-Höhle zeigt jedoch, dass sie zumindest im Bereich der tieferen bis mittleren Höhenlagen Mauis vorkam.</p>",
+      "extinction_text": "<p>Wann die schmalschnäblige Form von Maui ausstarb, ist nicht bekannt. Es liegen keine historischen Beobachtungen vor, und die bekannten Fossilien erlauben bislang keine genaue Bestimmung ihres letzten Vorkommens. Sie wird deshalb zu den prähistorisch ausgestorbenen Vögeln Hawaiʻis gerechnet.</p><p>Auch die Ursachen ihres Verschwindens sind unbekannt. Für zahlreiche prähistorisch ausgestorbene hawaiische Vogelarten werden Veränderungen der ursprünglichen Lebensräume sowie direkte und indirekte Auswirkungen der menschlichen Besiedlung als mögliche Faktoren diskutiert. Für die schmalschnäblige cf. Chaetoptila-Form von Maui lässt sich jedoch keine bestimmte Aussterbeursache direkt nachweisen.</p>"
     },
     "references": [
       {
-        "label": "Test BirdLife Schweiz",
-        "url": "https://www.birdlife.ch/"
-      },
+        "label": "James, H. F. & Olson, S. L. (1991). Descriptions of Thirty-Two New Species of Birds from the Hawaiian Islands: Part II. Passeriformes. Ornithological Monographs, 46, 1–88.",
+        "url": "https://www.researchgate.net/publication/242013278_Descriptions_of_Thirty-Two_New_Species_of_Birds_from_the_Hawaiian_Islands_Part_II_Passeriformes"
+         },
       {
-        "label": "Test BirdLife Schweiz",
-        "url": "https://www.birdlife.ch/"
+        "label": "James, H. F., Stafford, T. W. Jr., Steadman, D. W., Olson, S. L., Martin, P. S., Jull, A. J. T. & McCoy, P. C. (1987). Radiocarbon dates on bones of extinct birds from Hawaii. Proceedings of the National Academy of Sciences 84(8): 2350–2354.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/3470800/"
+         },
+      {
+        "label": "Olson, S. L. & James, H. F. (1982). Fossil Birds from the Hawaiian Islands: Evidence for Wholesale Extinction by Man Before Western Contact. Science 217(4560): 633–635.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/17817532/"
       }
     ],
     "taxonomy": {
