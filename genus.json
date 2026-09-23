@@ -246,16 +246,24 @@
     },
     "extinction_date": "1860",
     "panel": {
-      "description": "<p>Über die Gattung Chaetoptila ist nur sehr wenig bekannt, da die einzige historisch sicher nachgewiesene Art sehr selten war und bereits kurze Zeit nach ihrer Entdeckung ausstarb.</p><p>Auch die genaue innerfamiliäre Verwandtschaft sowie der Zeitpunkt der Aufspaltung und evolutionären Entwicklung innerhalb der Mohoidae lassen sich heute nicht mehr zuverlässig rekonstruieren. Die wenigen verfügbaren DNA-Reste aus den erhaltenen Museumsexemplaren sind stark fragmentiert und beschädigt. Diese grossen Datenlücken erhöhen das Risiko phylogenetischer Verzerrungen und erschweren eine belastbare Rekonstruktion der Entwicklungsgeschichte erheblich.</p><p>Auf Grundlage fragmentarischer Fossilfunde wird heute angenommen, dass die Gattung vermutlich nicht monotypisch war, sondern wahrscheinlich mit mehreren Arten oder Inselpopulationen auf verschiedenen Inseln Hawaiis vertreten war. Fossile Überreste sind bislang von Oahu und Maui bekannt. Aufgrund des unvollständigen Materials lassen sich diese Formen taxonomisch jedoch bislang nicht sicher als eigenständige Arten abgrenzen.</p>"
+      "description": "<p>Über die Gattung Chaetoptila ist nur sehr wenig bekannt, da die einzige historisch sicher nachgewiesene Art sehr selten war und bereits kurze Zeit nach ihrer Entdeckung ausstarb.</p><p>Chaetoptila unterschied sich von den Arten der Gattung Moho unter anderem durch den kräftigeren Körperbau, den relativ langen, leicht gebogenen Schnabel und die auffälligen borstenartig verlängerten Federn im Kopf- und Brustbereich.</p><p>Die genaue innerfamiliäre Verwandtschaft sowie der Zeitpunkt der Aufspaltung innerhalb der Mohoidae lassen sich heute nicht mehr zuverlässig rekonstruieren. Die wenigen verfügbaren DNA-Reste aus den erhaltenen Museumsexemplaren sind stark fragmentiert und beschädigt. Diese grossen Datenlücken erhöhen das Risiko phylogenetischer Verzerrungen und erschweren eine belastbare Rekonstruktion der Entwicklungsgeschichte erheblich.</p><p>Fossile und subfossile Funde zeigen, dass Vögel aus dem Umfeld von Chaetoptila früher weiter über die hawaiischen Inseln verbreitet waren als der historisch nur von Hawaii bekannte Schmalfedermoho. Von Oahu und Maui sind Knochen einer Form bekannt, die dem Schmalfedermoho (Chaetoptila angustipluma) ähnlich war. Ob es sich lediglich um weitere Populationen derselben Art, um eine Unterart oder um eine eigenständige Art gehandelt hat, lässt sich heute nicht mehr zuverlässig rekonstruieren.</p><p>Daneben ist von Maui eine weitere subfossile Form mit einem deutlich schmaleren Schnabel bekannt. Sie wird vorsichtig als cf. Chaetoptila sp. beziehungsweise als «narrow-billed» Form bezeichnet. Sowohl ihre Zugehörigkeit zur Gattung Chaetoptila als auch ihr Status als eigenständige Art sind jedoch nicht abschliessend geklärt.</p>"
     },
     "references": [
       {
-        "label": "Test BirdLife Schweiz",
-        "url": "https://www.birdlife.ch/"
-      },
+        "label": "James, H. F. & Olson, S. L. (1991). Descriptions of Thirty-Two New Species of Birds from the Hawaiian Islands: Part II. Passeriformes. Ornithological Monographs, 46, 1–88.",
+        "url": "https://www.researchgate.net/publication/242013278_Descriptions_of_Thirty-Two_New_Species_of_Birds_from_the_Hawaiian_Islands_Part_II_Passeriformes"
+        },
       {
-        "label": "Test BirdLife Schweiz",
-        "url": "https://www.birdlife.ch/"
+        "label": "Fleischer, R. C., James, H. F. & Olson, S. L. (2008): Convergent evolution of Hawaiian and Australo-Pacific honeyeaters from distant songbird ancestors. Current Biology 18(24), 1927–1931. DOI: 10.1016/j.cub.2008.10.051.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/19084408/"
+        },
+      {
+        "label": "Zhao, M., Kimball, R. T. & Braun, E. L. (2026): The Phylogenetic Position of the Extinct Hawaiian Honeyeaters: Overcoming the Limitations of Historical DNA. Zoologica Scripta 55(3), 405–419. DOI: 10.1111/zsc.70047.",
+        "url": "https://onlinelibrary.wiley.com/doi/10.1111/zsc.70047"
+        },
+      {
+        "label": "American Ornithologists’ Union (2009): Fiftieth Supplement to the American Ornithologists’ Union Check-list of North American Birds. The Auk 126(3), 705–714.",
+        "url": "https://www.biodiversitylibrary.org/content/part/AOU/AOU_checklist_suppl_50.pdf"
       }
     ]
   },
@@ -718,16 +726,32 @@
     },
     "extinction_date": "1987",
     "panel": {
-      "description": "<p>Die Krausschwänze (Moho) waren eine auf Hawaii endemische Gattung innerhalb der Mohoidae, für die vier Arten nachgewiesen sind.</p><p>Innerhalb der ursprünglichen hawaiianischen Kultur nahm die Gattung eine bedeutende Stellung ein. Ihre auffällig gelben Schmuckfedern wurden zur Herstellung von Federumhängen und Federhelmen verwendet, die in der streng hierarchisch gegliederten Gesellschaft ausschliesslich dem Adel vorbehalten waren. Obwohl für einen einzelnen Umhang die Federn von mehreren hundert bis tausend Vögeln benötigt wurden, führte diese Praxis offenbar nicht zum Aussterben der Arten. Nach der Federgewinnung wurden die gefangenen Vögel traditionell wieder freigelassen. Erst mit der europäischen Kolonialisierung der Inseln wurde das fragile Gleichgewicht zwischen diesen sogenannten «Königsvögeln» und dem Menschen dauerhaft gestört. In der Folge verschwanden die meisten Arten der Gattung innerhalb vergleichsweise kurzer Zeit infolge von Lebensraumzerstörung und Lebensraumverlust, eingeschleppten Prädatoren wie Ratten, Katzen und Mangusten sowie invasiven Krankheiten, insbesondere Vogelpocken und Vogelmalaria.</p><p>Da alle Arten der Gattung Moho bereits ausgestorben sind, können genetische Untersuchungen heute nur noch auf der Grundlage historischer Museumsexemplare durchgeführt werden. Das verfügbare Erbmaterial ist jedoch stark fragmentiert und beschädigt, weshalb die molekulargenetischen Daten erhebliche Lücken aufweisen. Aus diesem Grund lässt sich bislang nicht eindeutig rekonstruieren, wann und auf welche Weise sich die Gattung Moho entwickelte und in welcher stammesgeschichtlichen Beziehung sie zur zweiten Gattung der Mohoidae, Chaetoptila, stand.</p>"
+      "description": "<p>Die Krausschwänze (Moho) waren eine auf Hawaii endemische Gattung innerhalb der vollständig ausgestorbenen Familie Mohoidae. Historisch sind vier Arten bekannt.</p><p>Die Arten unterschieden sich in Körpergrösse und Gefieder, besassen jedoch einen ähnlichen Grundbau. Charakteristisch waren ein überwiegend dunkles Gefieder, ein relativ langer, leicht gebogener Schnabel und bei mehreren Arten auffällige gelbe Schmuckfedern. Die Nahrung bestand je nach Art in unterschiedlichem Umfang aus Nektar, Früchten sowie Insekten und anderen Wirbellosen. Besonders die grösseren Arten waren stark an die Nutzung nektarreicher Blüten angepasst und dürften als Bestäuber einheimischer Pflanzen eine wichtige ökologische Funktion erfüllt haben.</p><p>In der traditionellen hawaiischen Gesellschaft besassen die ʻŌʻō eine besondere kulturelle Bedeutung. Vor allem ihre seltenen gelben Federn gehörten zu den wertvollsten Materialien der hawaiischen Federkunst und wurden unter anderem für ʻahu ʻula (Federumhänge und -mäntel), mahiole (Federhelme), kāhili (Federstandarten) und weiteren Federschmuck verwendet. Solche aufwendig gefertigten Objekte waren eng mit dem gesellschaftlichen Rang und der religiösen sowie politischen Stellung der aliʻi, der hawaiischen Führungsschicht, verbunden. Obwohl für einzelne Objekte die Federn von mehreren hundert Vögeln benötigt wurden, führte diese Praxis offenbar nicht zum Aussterben der Arten. Nach der Federgewinnung wurden die gefangenen Vögel traditionell wieder freigelassen. Erst mit der europäischen Kolonialisierung der Inseln wurde das fragile Gleichgewicht zwischen den sogenannten «Königsvögeln» und dem Menschen dauerhaft gestört. In der Folge verschwanden die meisten Arten der Gattung innerhalb vergleichsweise kurzer Zeit.</p><p>Da alle Arten der Gattung Moho bereits ausgestorben sind, können genetische Untersuchungen heute nur noch auf der Grundlage historischer Museumsexemplare durchgeführt werden. Das verfügbare Erbmaterial ist jedoch stark fragmentiert und beschädigt, weshalb die molekulargenetischen Daten erhebliche Lücken aufweisen.</p><p>Eine umfassende Untersuchung aus dem Jahr 2026 ergab, dass sich der Schuppenkehlmoho (Moho braccatus) früh von der gemeinsamen Stammlinie der übrigen Mohoidae abzweigte. Die restlichen Arten bildeten dagegen gemeinsam eine Gruppe, deren nächste Verwandte innerhalb der Familie der Schmalfedermoho (Chaetoptila angustipluma) war. Damit ist die traditionell abgegrenzte Gattung Moho nach dieser Analyse nicht monophyletisch, da Chaetoptila innerhalb der von den heutigen Moho-Arten gebildeten Abstammungslinie liegt. Die Autoren schlugen deshalb vor, Chaetoptila aufgrund der Priorität des älteren Gattungsnamens künftig möglicherweise in Moho einzugliedern. Eine entsprechende taxonomische Neuordnung hat sich bislang jedoch nicht allgemein durchgesetzt; aktuelle taxonomische Verzeichnisse führen Moho und Chaetoptila weiterhin als getrennte Gattungen.</p>"
     },
     "references": [
       {
-        "label": "Test BirdLife Schweiz",
-        "url": "https://www.birdlife.ch/"
+        "label": "Zhao, M., Kimball, R. T. & Braun, E. L. (2026): The Phylogenetic Position of the Extinct Hawaiian Honeyeaters: Overcoming the Limitations of Historical DNA. Zoologica Scripta 55(3): 405–419. DOI: 10.1111/zsc.70047.",
+        "url": "https://onlinelibrary.wiley.com/doi/10.1111/zsc.70047"
+        },
+      {
+        "label": "Fleischer, R. C., James, H. F. & Olson, S. L. (2008). Convergent Evolution of Hawaiian and Australo-Pacific Honeyeaters from Distant Songbird Ancestors. Current Biology, 18(24), 1927–1931. DOI: 10.1016/j.cub.2008.10.051.",
+        "url": "https://www.sciencedirect.com/science/article/pii/S0960982208014206"
+        },
+      {
+        "label": "Sykes, P. W. Jr., Kepler, A. K., Kepler, C. B. & Scott, J. M. (2020). Kauai Oo (Moho braccatus), version 1.0. In: A. F. Poole (Hrsg.), Birds of the World. Cornell Lab of Ornithology. DOI: 10.2173/bow.kauoo.01.",
+        "url": "https://birdsoftheworld.org/bow/species/kauoo/cur/introduction?lang=es"
+        },
+      {
+        "label": "Brigham, W. T. (1899). Hawaiian Feather Work: An Essay on Ancient Hawaiian Feather Decoration, with a List of the More Important Remains. Memoirs of the Bernice Pauahi Bishop Museum of Polynesian Ethnology and Natural History, 1(1), 1–84. DOI: 10.5962/p.351942.",
+        "url": "https://www.biodiversitylibrary.org/part/351942"
+        },
+      {
+        "label": "Brigham, W. T. (1903). Additional Notes on Hawaiian Feather Work. Memoirs of the Bernice Pauahi Bishop Museum of Polynesian Ethnology and Natural History, 1(5). DOI: 10.5962/p.351946.",
+        "url": "https://www.biodiversitylibrary.org/part/351946"
       },
       {
-        "label": "Test BirdLife Schweiz",
-        "url": "https://www.birdlife.ch/"
+        "label": "Pérez, M. (2021). The Silent Forest: Impact of Bird Hunting by Prehistoric Polynesians on the Decline and Disappearance of Native Avifauna in Hawaiʻi. Geographies, 1, 192–216.",
+        "url": "https://www.mdpi.com/2673-7086/1/3/12"
       }
     ]
   },
