@@ -562,7 +562,7 @@
       "lat": "Aidemedia zanclops",
       "en": "Aidemedia zanclops"
     },
-    "last_seen": "1500",
+    "last_seen": "1200",
     "location": {
       "lat": 21.302271,
       "lng": -157.782514
@@ -573,18 +573,22 @@
       "panel": "https://cdn.prod.website-files.com/6a2856622c4f26c0e72a657b/6ab643a669d67205ffe2c6b0_Aidemedia%20zanclops.jpg"
     },
     "panel": {
-      "description": "",
-      "habitat_text": "",
-      "extinction_text": ""
+      "description": "<p>Über die Art Aidemedia zanclops ist kaum etwas bekannt, da nur begrenztes subfossiles Material vorliegt.</p><p>Besonders auffällig war der lange, schmale und nach unten gebogene Unterkiefer. Im Vergleich zu den beiden anderen Arten der Gattung Aidemedia war er graziler und besass eine deutlich stärker gebogene Symphyse. Die Krümmung war jedoch weniger ausgeprägt als bei anderen langschnäbligen hawaiischen Kleidervögeln.</p><p>Wie bei den anderen Arten der Gattung deutet die Kiefermorphologie darauf hin, dass Aidemedia zanclops den Schnabel möglicherweise zur kräftigen Spreizbewegung bei der Nahrungssuche einsetzte. Wahrscheinlich steckten sie den geschlossenen Schnabel in Pflanzenmaterial, Rinde, Früchte, Blüten oder andere Substrate und öffneten ihn anschliessend, um darin verborgene Nahrung freizulegen. Ein vergleichbares «Gape-feeding» ist von verschiedenen heute lebenden Singvögeln bekannt, darunter von nordamerikanischen Stärlingen der Gattung Sturnella.</p><p>Auf Oahu existierte neben Aidemedia zanclops mit Aidemedia chascax eine weitere Art der Gattung Aidemedia, die wahrscheinlich ähnliche Habitate bewohnte. Obwohl sich die beiden Arten vermutlich stark ähnelten, unterschieden sie sich deutlich in ihrer Schnabelform. Theoretisch könnten diese Unterschiede auf einen ausgeprägten Geschlechtsdimorphismus innerhalb einer einzigen Art zurückgehen, wie er etwa beim ausgestorbenen Huia (Heteralocha acutirostris) aus Neuseeland bekannt ist. Ein derart extremer Geschlechtsdimorphismus ist bei Vögeln jedoch sehr selten. Daher wird davon ausgegangen, dass es sich um zwei eigenständige Arten handelte, die unterschiedliche ökologische Nischen besetzten.</p>",
+      "habitat_text": "<p>Sicher nachgewiesen ist Aidemedia zanclops bislang nur von einem Fundort am Barbers Point im Südwesten von Oahu. Fragmentarische Fossilien aus Ulupau Head im Osten Oahus könnten ebenfalls zu dieser Art gehören, ihre genaue Zuordnung ist jedoch unsicher.</p><p>Die fossilen Ablagerungen von Barbers Point befinden sich in mit Sediment gefüllten Karstsenken eines angehobenen Kalksteinriffs. Radiokarbondatierungen verschiedener Ablagerungen aus diesem Gebiet fallen überwiegend in die zweite Hälfte des Holozäns. Aus dem Fundort selbst lässt sich jedoch nicht zuverlässig ableiten, welchen Lebensraum Aidemedia zanclops bevorzugte.</p>",
+      "extinction_text": "<p>Der genaue Zeitpunkt und die unmittelbaren Ursachen des Aussterbens sind nicht bekannt. Ihr Verschwinden wird gewöhnlich mit der umfassenden Veränderung der hawaiischen Ökosysteme nach der polynesischen Besiedlung in Verbindung gebracht. Dazu gehörten die Umgestaltung und Rodung von Lebensräumen sowie die Einführung gebietsfremder Tiere, insbesondere der Pazifischen Ratte (Rattus exulans).</p><p>Die Art könnte aber auch bereits früher, durch natürliche klimatische oder ökologische Veränderungen, ausgestorben sein.</p>"
     },
     "references": [
       {
-        "label": "Test BirdLife Schweiz",
-        "url": "https://www.birdlife.ch/"
-      },
+        "label": "James, H. F. & Olson, S. L. (1991). Descriptions of Thirty-Two New Species of Birds from the Hawaiian Islands: Part II. Passeriformes. Ornithological Monographs, 46, 1–88.",
+        "url": "https://www.researchgate.net/publication/242013278_Descriptions_of_Thirty-Two_New_Species_of_Birds_from_the_Hawaiian_Islands_Part_II_Passeriformes"
+         },
       {
-        "label": "Test BirdLife Schweiz",
-        "url": "https://www.birdlife.ch/"
+        "label": "James, H. F. (2004). The osteology and phylogeny of the Hawaiian finch radiation (Fringillidae: Drepanidini), including extinct taxa. Zoological Journal of the Linnean Society 141, 207–255. DOI: 10.1111/j.1096-3642.2004.00117.x.",
+        "url": "https://repository.si.edu/items/49df0bdb-da96-4ede-8def-3472c3414f6b"
+         },
+      {
+        "label": "James, H. F., Stafford, T. W. Jr., Steadman, D. W., Olson, S. L., Martin, P. S., Jull, A. J. T. & McCoy, P. C. (1987). Radiocarbon dates on bones of extinct birds from Hawaii. Proceedings of the National Academy of Sciences 84, 2350–2354. DOI: 10.1073/pnas.84.8.2350.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/3470800/"
       }
     ],
     "taxonomy": {
@@ -610,7 +614,7 @@
       "lat": "Aidemedia chascax",
       "en": "Aidemedia chascax"
     },
-    "last_seen": "1500",
+    "last_seen": "1200",
     "location": {
       "lat": 21.385259,
       "lng": -157.804119
@@ -621,18 +625,22 @@
       "panel": "https://cdn.prod.website-files.com/6a2856622c4f26c0e72a657b/6ab63e3fcc215b39a0263d47_Aidemedia%20chascax%20.jpg"
     },
     "panel": {
-      "description": "",
-      "habitat_text": "",
-      "extinction_text": ""
+      "description": "<p>Über die Art Aidemedia chascax ist kaum etwas bekannt, da nur begrenztes subfossiles Material vorliegt.</p><p>Charakteristisch war ein sehr langer, leicht gebogener und kräftiger Schnabel. Er ähnelte grundsätzlich demjenigen von Aidemedia lutetiae, war jedoch länger und graziler, und die Oberseite des Oberkiefers war weniger stark abgeflacht. Besonders ausgeprägt waren die langen Fortsätze hinter dem Kiefergelenk (Processus retroarticulares).</p><p>Diese spezielle Konstruktion des Kiefers deutet darauf hin, dass die Vögel ihren Schnabel bei der Nahrungssuche aktiv und mit relativ grosser Kraft auseinanderspreizen konnten. Wahrscheinlich steckten sie den geschlossenen Schnabel in Pflanzenmaterial, Rinde, Früchte, Blüten oder andere Substrate und öffneten ihn anschliessend, um darin verborgene Nahrung freizulegen. Ein vergleichbares «Gape-feeding» ist von verschiedenen heute lebenden Singvögeln bekannt, darunter von nordamerikanischen Stärlingen der Gattung Sturnella.</p><p>Auf Oahu existierte neben Aidemedia chascax mit Aidemedia zanclops eine weitere Art der Gattung Aidemedia, die wahrscheinlich ähnliche Habitate bewohnte. Obwohl sich die beiden Arten vermutlich stark ähnelten, unterschieden sie sich deutlich in ihrer Schnabelform. Theoretisch könnten diese Unterschiede auf einen ausgeprägten Geschlechtsdimorphismus innerhalb einer einzigen Art zurückgehen, wie er etwa beim ausgestorbenen Huia (Heteralocha acutirostris) aus Neuseeland bekannt ist. Ein derart extremer Geschlechtsdimorphismus ist bei Vögeln jedoch sehr selten. Daher wird davon ausgegangen, dass es sich um zwei eigenständige Arten handelte, die unterschiedliche ökologische Nischen besetzten.</p>",
+      "habitat_text": "<p>Sicher nachgewiesen ist Aidemedia chascax bislang nur von einem Fundort am Barbers Point im Südwesten von Oahu.</p><p>Fragmentarische Fossilien aus Ulupau Head im Osten Oahus könnten ebenfalls zu dieser Art gehören, ihre genaue Zuordnung ist jedoch unsicher.</p><p>Die fossilen Ablagerungen von Barbers Point befinden sich in mit Sediment gefüllten Karstsenken eines angehobenen Kalksteinriffs. Radiokarbondatierungen verschiedener Ablagerungen aus diesem Gebiet fallen überwiegend in die zweite Hälfte des Holozäns. Aus dem Fundort selbst lässt sich jedoch nicht zuverlässig ableiten, welchen Lebensraum Aidemedia chascax bevorzugte.</p>",
+      "extinction_text": "<p>Der genaue Zeitpunkt und die unmittelbaren Ursachen des Aussterbens sind nicht bekannt. Das Verschwinden der Art wird gewöhnlich mit der umfassenden Veränderung der hawaiischen Ökosysteme nach der polynesischen Besiedlung in Verbindung gebracht. Dazu gehörten die Umgestaltung und Rodung von Lebensräumen sowie die Einführung gebietsfremder Tiere, insbesondere der Pazifischen Ratte (Rattus exulans).</p><p>Die Art könnte jedoch auch bereits früher infolge natürlicher klimatischer oder ökologischer Veränderungen ausgestorben sein.</p>"
     },
-    "references": [
+     "references": [
       {
-        "label": "Test BirdLife Schweiz",
-        "url": "https://www.birdlife.ch/"
-      },
+        "label": "James, H. F. & Olson, S. L. (1991). Descriptions of Thirty-Two New Species of Birds from the Hawaiian Islands: Part II. Passeriformes. Ornithological Monographs, 46, 1–88.",
+        "url": "https://www.researchgate.net/publication/242013278_Descriptions_of_Thirty-Two_New_Species_of_Birds_from_the_Hawaiian_Islands_Part_II_Passeriformes"
+         },
       {
-        "label": "Test BirdLife Schweiz",
-        "url": "https://www.birdlife.ch/"
+        "label": "James, H. F. (2004). The osteology and phylogeny of the Hawaiian finch radiation (Fringillidae: Drepanidini), including extinct taxa. Zoological Journal of the Linnean Society 141, 207–255. DOI: 10.1111/j.1096-3642.2004.00117.x.",
+        "url": "https://repository.si.edu/items/49df0bdb-da96-4ede-8def-3472c3414f6b"
+         },
+      {
+        "label": "James, H. F., Stafford, T. W. Jr., Steadman, D. W., Olson, S. L., Martin, P. S., Jull, A. J. T. & McCoy, P. C. (1987). Radiocarbon dates on bones of extinct birds from Hawaii. Proceedings of the National Academy of Sciences 84, 2350–2354. DOI: 10.1073/pnas.84.8.2350.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/3470800/"
       }
     ],
     "taxonomy": {
@@ -658,7 +666,7 @@
       "lat": "Aidemedia lutetiae",
       "en": "Aidemedia lutetiae"
     },
-    "last_seen": "1500",
+    "last_seen": "1200",
     "location": {
       "lat": 20.831011,
       "lng": -156.191565
@@ -669,18 +677,30 @@
       "panel": "https://cdn.prod.website-files.com/6a2856622c4f26c0e72a657b/6ab63e4395fb1c7d0b4e3a68_Aidemedia%20lutetiae.jpg"
     },
     "panel": {
-      "description": "",
-      "habitat_text": "",
-      "extinction_text": ""
+     "description": "<p>Über die Art Aidemedia lutetiae ist kaum etwas bekannt, da nur begrenztes subfossiles Material vorliegt.</p><p>Besonders charakteristisch war der lange, gerade Schnabel. Im Vergleich zu den beiden anderen Arten der Gattung war er kürzer, und die Oberseite des Oberkiefers war auffällig abgeflacht. Der Unterkiefer besass ausgeprägte Fortsätze hinter dem Kiefergelenk (Processus retroarticulares). Solche Strukturen ermöglichten eine kräftige Öffnungsbewegung des Schnabels.</p><p>Diese spezielle Konstruktion des Kiefers deutet darauf hin, dass die Vögel ihren Schnabel bei der Nahrungssuche aktiv und mit relativ grosser Kraft auseinanderspreizen konnten. Wahrscheinlich steckten sie den geschlossenen Schnabel in Pflanzenmaterial, Rinde, Früchte, Blüten oder andere Substrate und öffneten ihn anschliessend, um darin verborgene Nahrung freizulegen. Ein vergleichbares «Gape-feeding» ist von verschiedenen heute lebenden Singvögeln bekannt, darunter von nordamerikanischen Stärlingen der Gattung Sturnella.</p>",
+    "habitat_text": "<p>Subfossile Überreste von Aidemedia lutetiae sind sowohl von Molokai als auch von Maui bekannt. Auf Molokai stammen sie aus den Mōʻomomi-Dünen; auf Maui wurden Knochen in Puʻu Naio Cave, Lua Lepo und Puʻu Makua Cave gefunden.</p><p>Da Aidemedia lutetiae sowohl auf Maui als auch auf Molokai nachgewiesen ist, dürfte die Art innerhalb des ehemaligen Inselkomplexes Maui Nui weiter verbreitet gewesen sein. Maui Nui verband während verschiedener pleistozäner Meeresspiegeltiefstände mehrere der heutigen Inseln zu grösseren zusammenhängenden Landmassen. Ob Aidemedia lutetiae tatsächlich auch auf Lanai oder Kahoolawe vorkam, ist jedoch nicht belegt. Ihr sicher nachgewiesenes Verbreitungsgebiet beschränkt sich bislang auf Maui und Molokai.</p><p>Der genaue Lebensraum lässt sich anhand der Fossilien nicht sicher bestimmen. Die Fundorte zeigen zwar, dass die Art zumindest in den heute trockeneren Bereichen von Maui und Molokai vorkam, doch Knochen aus Höhlen- und Dünenablagerungen müssen nicht unmittelbar den bevorzugten Lebensraum eines Vogels repräsentieren.</p>",
+    "extinction_text": "<p>Aidemedia lutetiae war bereits vor der europäischen Entdeckung Hawaiis im Jahr 1778 ausgestorben und ist aus historischen Beobachtungen nicht bekannt. Die Art gehört damit zu den zahlreichen hawaiischen Vögeln, die nur aus prähistorischen beziehungsweise frühhistorischen subfossilen Ablagerungen bekannt sind.</p><p>Der genaue Zeitpunkt und die unmittelbaren Ursachen ihres Aussterbens sind nicht bekannt. Ihr Verschwinden wird gewöhnlich mit der umfassenden Veränderung der hawaiischen Ökosysteme nach der polynesischen Besiedlung in Verbindung gebracht. Dazu gehörten die Umgestaltung und Rodung von Lebensräumen sowie die Einführung gebietsfremder Tiere, insbesondere der Pazifischen Ratte (Rattus exulans).</p><p>Ob natürliche klimatische oder ökologische Veränderungen ebenfalls zum Verschwinden von Aidemedia lutetiae beitrugen, ist nicht bekannt. Veränderungen des Meeresspiegels und die zunehmende Fragmentierung von Maui Nui veränderten die verfügbaren Lebensräume über lange Zeiträume hinweg erheblich. Ein direkter Zusammenhang zwischen diesen Veränderungen und dem Aussterben von Aidemedia lutetiae lässt sich anhand der bislang bekannten Fossilien jedoch nicht nachweisen.</p>"
     },
-    "references": [
+      "references": [
       {
-        "label": "Test BirdLife Schweiz",
-        "url": "https://www.birdlife.ch/"
-      },
+        "label": "James, H. F. & Olson, S. L. (1991). Descriptions of Thirty-Two New Species of Birds from the Hawaiian Islands: Part II. Passeriformes. Ornithological Monographs, 46, 1–88.",
+        "url": "https://www.researchgate.net/publication/242013278_Descriptions_of_Thirty-Two_New_Species_of_Birds_from_the_Hawaiian_Islands_Part_II_Passeriformes"
+         },
       {
-        "label": "Test BirdLife Schweiz",
-        "url": "https://www.birdlife.ch/"
+        "label": "James, H. F. (2004). The osteology and phylogeny of the Hawaiian finch radiation (Fringillidae: Drepanidini), including extinct taxa. Zoological Journal of the Linnean Society 141, 207–255. DOI: 10.1111/j.1096-3642.2004.00117.x.",
+        "url": "https://repository.si.edu/items/49df0bdb-da96-4ede-8def-3472c3414f6b"
+         },
+      {
+        "label": "James, H. F., Stafford, T. W. Jr., Steadman, D. W., Olson, S. L., Martin, P. S., Jull, A. J. T. & McCoy, P. C. (1987). Radiocarbon dates on bones of extinct birds from Hawaii. Proceedings of the National Academy of Sciences 84, 2350–2354. DOI: 10.1073/pnas.84.8.2350.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/3470800/"
+            },
+      {
+        "label": "Olson, S. L. & James, H. F. (1982). Fossil birds from the Hawaiian Islands: evidence for wholesale extinction by man before Western contact. Science 217, 633–635. DOI: 10.1126/science.217.4560.633.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/17817532/"
+            },
+      {
+        "label": "Grigg, R. W., Grossman, E. E., Earle, S. A., Gittings, S. R., Lott, D. & McDonough, J. (2002). Drowned reefs and antecedent karst topography, Auʻau Channel, S.E. Hawaiian Islands. Coral Reefs 21, 73–82. DOI: 10.1007/s00338-001-0203-8.",
+        "url": "https://www.usgs.gov/publications/drowned-reefs-and-antecedent-karst-topography-auau-channel-se-hawaiian-islands"
       }
     ],
     "taxonomy": {
