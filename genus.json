@@ -278,16 +278,28 @@
     },
     "extinction_date": "",
     "panel": {
-      "description": ""
+      "description": "<p>Über die ausgestorbene Gattung Aidemedia ist kaum etwas bekannt, da nur begrenztes subfossiles Material vorliegt. Die Gattung wurde nach Joan Aidem (1920–2016) benannt, einer US-amerikanischen Naturkundlerin und Pionierin der hawaiischen Vogelpalaeontologie, die ab 1971 bedeutende subfossile Vogelfunde auf Molokai machte. Der Gattungsname Aidemedia ist zudem ein Palindrom und lässt sich vorwärts wie rückwärts lesen.</p><p>Charakteristisch für Aidemedia waren die langen und relativ kräftigen Schnäbel, die je nach Art nahezu gerade oder leicht gebogen waren. Besonders auffällig waren stark verlängerte Fortsätze hinter dem Kiefergelenk des Unterkiefers, die sogenannten Processus retroarticulares. Diese waren bei Aidemedia stärker entwickelt als bei den meisten anderen bekannten Kleidervögeln. Auch der Oberkiefer war vergleichsweise schmal und über einen grossen Teil seiner Länge nahezu gleich breit.</p><p>Diese spezielle Konstruktion des Kiefers deutet darauf hin, dass die Vögel ihren Schnabel bei der Nahrungssuche aktiv und mit relativ grosser Kraft auseinanderspreizen konnten. Wahrscheinlich steckten sie den geschlossenen Schnabel in Pflanzenmaterial, Rinde, Früchte, Blüten oder andere Substrate und öffneten ihn anschliessend, um darin verborgene Nahrung wie Insekten und andere Wirbellose freizulegen. Ein vergleichbares «Gape-feeding» ist von verschiedenen heute lebenden Singvögeln bekannt.</p><p>Innerhalb der Kleidervögel zeigt Aidemedia eine ungewöhnliche Kombination morphologischer Merkmale. Die allgemeine Schnabelform erinnert teilweise an den ausgestorbenen Einsiedler-Grünkleidervogel (Viridonia sagittirostris), während einzelne Merkmale auch Ähnlichkeiten mit Xestospiza und Vangulifer aufweisen. Aufgrund des begrenzten subfossilen Materials lässt sich die genaue verwandtschaftliche Stellung innerhalb der Radiation der hawaiischen Kleidervögel nicht eindeutig bestimmen.</p><p>Wann und weshalb die Gattung ausgestorben ist, lässt sich heute kaum mehr rekonstruieren. Da die bekannten Knochenfragmente bislang nicht direkt radiokarbondatiert wurden, können sie keinem genaueren Zeitraum zugeordnet werden. Die Funde stammen jedoch überwiegend aus holozänen Ablagerungen, die meist jünger als etwa 7’000 Jahre sind. Ob die Gattung infolge der menschlichen Besiedlung Hawaiis ausstarb oder bereits zuvor aufgrund natürlicher klimatischer Veränderungen verschwand, lässt sich heute nicht mehr eindeutig klären.</p>"
     },
     "references": [
       {
-        "label": "Test BirdLife Schweiz",
-        "url": "https://www.birdlife.ch/"
-      },
+        "label": "James, H. F. & Olson, S. L. (1991). Descriptions of Thirty-Two New Species of Birds from the Hawaiian Islands: Part II. Passeriformes. Ornithological Monographs, 46, 1–88.",
+        "url": "https://www.researchgate.net/publication/242013278_Descriptions_of_Thirty-Two_New_Species_of_Birds_from_the_Hawaiian_Islands_Part_II_Passeriformes"
+          },
       {
-        "label": "Test BirdLife Schweiz",
-        "url": "https://www.birdlife.ch/"
+        "label": "James, H. F. (2004). The osteology and phylogeny of the Hawaiian finch radiation (Fringillidae: Drepanidini), including extinct taxa. Zoological Journal of the Linnean Society 141, 207–255.",
+        "url": "https://repository.si.edu/items/49df0bdb-da96-4ede-8def-3472c3414f6b"
+          },
+      {
+        "label": "James, H. F., Stafford, T. W. Jr., Steadman, D. W., Olson, S. L., Martin, P. S., Jull, A. J. T. & McCoy, P. C. (1987). Radiocarbon dates on bones of extinct birds from Hawaii. Proceedings of the National Academy of Sciences 84, 2350–2354.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/3470800/"
+          },
+      {
+        "label": "Olson, S. L. & James, H. F. (1982). Fossil birds from the Hawaiian Islands: evidence for wholesale extinction by man before Western contact. Science 217, 633–635.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/17817532/"
+          },
+      {
+        "label": "Olson, S. L. & James, H. F. (1984). The role of Polynesians in the extinction of the avifauna of the Hawaiian Islands. In: Martin, P. S. & Klein, R. G. (Hrsg.), Quaternary Extinctions: A Prehistoric Revolution, S. 768–780. University of Arizona Press.",
+        "url": "https://repository.si.edu/items/0a00757a-a0bd-42f1-aef4-aa918904aaa9"
       }
     ]
   },
