@@ -1,5 +1,53 @@
 [
   {
+    "id": "akialoa_upupirostris",
+    "name": {
+      "de": "Wiedehopf-Akialoa",
+      "lat": "Akialoa upupirostris",
+      "en": "Hoopoe-billed Akialoa"
+    },
+    "last_seen": "1500",
+    "location": {
+      "lat": 22.067963,
+      "lng": -159.641516
+    },
+    "habitat": "Kauai, Oahu (Hawaii)",
+    "images": {
+      "tooltip": "",
+      "panel": ""
+    },
+  "panel": {
+      "description": "",
+      "habitat_text": "",
+      "extinction_text": ""
+  },
+        "references": [
+      {
+        "label": "Test BirdLife Schweiz",
+        "url": "https://www.birdlife.ch/"
+      },
+      {
+        "label": "Test BirdLife Schweiz",
+        "url": "https://www.birdlife.ch/"
+      }
+    ],
+    "taxonomy": {
+       "family": "Kleidervögel (Drepanidini)",
+      "genus": "Akialoa",
+      "family_key": "drepanidini",
+      "genus_key": "akialoa"
+    },
+    "ranges": {
+      "range_native": null,
+      "breeding_native": null,
+      "range_hypothetical": null,
+      "passage": null,
+      "breeding_spots": null,
+      "find_spots": null,
+      "last_observation": null
+    }
+  },
+  {
     "id": "cf._chaetoptila_sp.",
     "name": {
       "de": "cf. Chaetoptila sp.",
