@@ -1421,7 +1421,7 @@
       "lat": "Grallistrix orion",
       "en": "Oahu-stilt-owl"
     },
-    "ai_reference_type": null,
+    "ai_reference_type": "fossil",
     "last_seen": "1500",
     "location": {
       "lat": 21.289,
@@ -1470,7 +1470,7 @@
       "lat": "Grallistrix geleches",
       "en": "Molokai-stilt-owl"
     },
-    "ai_reference_type": null,
+    "ai_reference_type": "fossil",
     "last_seen": "1500",
     "location": {
       "lat": 21.140332,
@@ -1535,7 +1535,7 @@
       "lat": "Grallistrix erdmani",
       "en": "Maui-stilt-owl"
     },
-    "ai_reference_type": null,
+    "ai_reference_type": "fossil",
     "last_seen": "1500",
     "location": {
       "lat": 20.820453,
@@ -1600,7 +1600,7 @@
       "lat": "Grallistrix auceps",
       "en": "Kauai stilt-owl"
     },
-    "ai_reference_type": null,
+    "ai_reference_type": "fossil",
     "last_seen": "1500",
     "location": {
       "lat": 21.936848,
@@ -1747,7 +1747,7 @@
       "lat": "Porzana severnsi",
       "en": "Large maui-rail"
     },
-    "ai_reference_type": null,
+    "ai_reference_type": "fossil",
     "last_seen": "1600",
     "location": {
       "lat": 20.637279,
@@ -1804,7 +1804,7 @@
       "lat": "Zapornia keplerorum",
       "en": "kepler-rail"
     },
-    "ai_reference_type": null,
+    "ai_reference_type": "fossil",
     "last_seen": "1500",
     "location": {
       "lat": 20.659511,
@@ -1861,7 +1861,7 @@
       "lat": "Porzana ralphorum",
       "en": "O'ahu-rail"
     },
-    "ai_reference_type": null,
+    "ai_reference_type": "fossil",
     "last_seen": "1300",
     "location": {
       "lat": 21.342573,
@@ -1918,7 +1918,7 @@
       "lat": "Zapornia ziegleri",
       "en": "ziegleri-rail"
     },
-    "ai_reference_type": null,
+    "ai_reference_type": "fossil",
     "last_seen": "1400",
     "location": {
       "lat": 21.32597,
@@ -1975,7 +1975,7 @@
       "lat": "Zapornia menehune",
       "en": "menehune-rail"
     },
-    "ai_reference_type": null,
+    "ai_reference_type": "fossil",
     "last_seen": "1400",
     "location": {
       "lat": 21.21853,
@@ -2032,7 +2032,7 @@
       "lat": "Ciridops tenax",
       "en": "Stout-legged finch"
     },
-    "ai_reference_type": null,
+    "ai_reference_type": "fossil",
     "last_seen": "1200",
     "location": {
       "lat": 21.998349,
@@ -2089,7 +2089,7 @@
       "lat": "Rhodacanthis litotes",
       "en": "Oahu koa finch"
     },
-    "ai_reference_type": null,
+    "ai_reference_type": "fossil",
     "last_seen": "1850",
     "location": {
       "lat": 21.625085,
@@ -2150,7 +2150,7 @@
       "lat": "Rhodacanthis forfex",
       "en": "Scissor-billed koa finch"
     },
-    "ai_reference_type": null,
+    "ai_reference_type": "fossil",
     "last_seen": "1850",
     "location": {
       "lat": 22.14853,
@@ -2211,7 +2211,7 @@
       "lat": "Circus dossenus",
       "en": "Wood harrier"
     },
-    "ai_reference_type": null,
+    "ai_reference_type": "fossil",
     "last_seen": "1300",
     "location": {
       "lat": 21.47837,
@@ -2260,7 +2260,7 @@
       "lat": "Apteribis brevis",
       "en": "Maui highland ibis"
     },
-    "ai_reference_type": null,
+    "ai_reference_type": "fossil",
     "last_seen": "1300",
     "location": {
       "lat": 20.6569,
@@ -2317,7 +2317,7 @@
       "lat": "Chloridops wahi",
       "en": "wahi Grosbeak"
     },
-    "ai_reference_type": null,
+    "ai_reference_type": "fossil",
     "last_seen": "1200",
     "location": {
       "lat": 21.50148,
@@ -2362,7 +2362,7 @@
       "lat": "Chloridops regiskongi",
       "en": "King Kong Grosbeak"
     },
-    "ai_reference_type": null,
+    "ai_reference_type": "fossil",
     "last_seen": "1500",
     "location": {
       "lat": 21.3277778,
@@ -2407,7 +2407,7 @@
       "lat": "Hemignathus vorpalis",
       "en": "Giant Nukuphu’u"
     },
-    "ai_reference_type": null,
+    "ai_reference_type": "fossil",
     "last_seen": "1200",
     "location": {
       "lat": 19.741667,
@@ -2452,7 +2452,7 @@
       "lat": "Branta hylobadistes",
       "en": "Hawaii wood-walking goose"
     },
-    "ai_reference_type": null,
+    "ai_reference_type": "fossil",
     "last_seen": "1300",
     "location": {
       "lat": 20.7416667,
@@ -2501,7 +2501,7 @@
       "lat": "Chelychelynechen quassus",
       "en": "Turtle-jawed moa-nalo"
     },
-    "ai_reference_type": null,
+    "ai_reference_type": "fossil",
     "last_seen": "1200",
     "location": {
       "lat": 22.16694,
@@ -2550,7 +2550,7 @@
       "lat": "Thambetochen chauliodous",
       "en": "Large-billed moa-nalo"
     },
-    "ai_reference_type": null,
+    "ai_reference_type": "fossil",
     "last_seen": "1200",
     "location": {
       "lat": 21.1770223,
@@ -2599,7 +2599,7 @@
       "lat": "Thambetochen xanion",
       "en": "O’ahu-moa-nalo"
     },
-    "ai_reference_type": null,
+    "ai_reference_type": "fossil",
     "last_seen": "1200",
     "location": {
       "lat": 21.3867,
@@ -2648,7 +2648,7 @@
       "lat": "Ptaiochen pau",
       "en": "Small-billed moa-nalo"
     },
-    "ai_reference_type": null,
+    "ai_reference_type": "fossil",
     "last_seen": "1200",
     "location": {
       "lat": 20.777943,
