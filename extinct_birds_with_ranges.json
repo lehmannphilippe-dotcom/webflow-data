@@ -4224,7 +4224,7 @@
       "lat": "Ciridops anna",
       "en": "Ula-Ai-Hawane"
     },
-    "ai_reference_type": null,
+    "ai_reference_type": "illustration",
     "last_seen": "1892",
     "location": {
       "lat": 19.17682,
@@ -7143,7 +7143,7 @@
       "lat": "Akialoa obscurus",
       "en": "Lesser Akialoa"
     },
-    "ai_reference_type": null,
+    "ai_reference_type": "illustration",
     "last_seen": "1940",
     "location": {
       "lat": 19.55201,
@@ -7192,7 +7192,7 @@
       "lat": "Zapornia millsi",
       "en": "Dark hawaiian Rail"
     },
-    "ai_reference_type": null,
+    "ai_reference_type": "illustration",
     "last_seen": "1884",
     "location": {
       "lat": 19.481548,
@@ -7261,7 +7261,7 @@
       "lat": "Zapornia sandwichensis",
       "en": "Light hawaiian Rail"
     },
-    "ai_reference_type": null,
+    "ai_reference_type": "illustration",
     "last_seen": "1884",
     "location": {
       "lat": 19.559187,
@@ -8118,7 +8118,7 @@
       "lat": "Hemignathus hanapepe",
       "en": "Kauai Nukupuu"
     },
-    "ai_reference_type": null,
+    "ai_reference_type": "illustration",
     "last_seen": "1906",
     "location": {
       "lat": 22.07881,
@@ -8330,7 +8330,7 @@
       "lat": "Chloridops kona",
       "en": "Kona Grosbeak"
     },
-    "ai_reference_type": null,
+    "ai_reference_type": "illustration",
     "last_seen": "1894",
     "location": {
       "lat": 19.704082,
@@ -8379,7 +8379,7 @@
       "lat": "Drepanis pacifica",
       "en": "Hawaii Mamo"
     },
-    "ai_reference_type": null,
+    "ai_reference_type": "illustration",
     "last_seen": "1898",
     "location": {
       "lat": 19.582159,
@@ -8526,7 +8526,7 @@
       "lat": "Moho apicalis",
       "en": "Oahu ‚O’o"
     },
-    "ai_reference_type": null,
+    "ai_reference_type": "illustration",
     "last_seen": "1837",
     "location": {
       "lat": 21.51838,
@@ -8832,7 +8832,7 @@
       "lat": "Akialoa lanaiensis",
       "en": "Maui-Nui Akialoa"
     },
-    "ai_reference_type": null,
+    "ai_reference_type": "illustration",
     "last_seen": "1892",
     "location": {
       "lat": 20.82731,
@@ -12015,7 +12015,7 @@
       "lat": "Akialoa ellisianus",
       "en": "Greater Akialoa"
     },
-    "ai_reference_type": null,
+    "ai_reference_type": "illustration",
     "last_seen": "1940",
     "location": {
       "lat": 21.4799,
@@ -12121,7 +12121,7 @@
       "lat": "Hemignathus lucidus",
       "en": "Oahu Nukupuu"
     },
-    "ai_reference_type": null,
+    "ai_reference_type": "illustration",
     "last_seen": "1880",
     "location": {
       "lat": 21.44087,
@@ -12231,7 +12231,7 @@
       "lat": "Moho bishopi",
       "en": "Bishop’s ‚O’o"
     },
-    "ai_reference_type": null,
+    "ai_reference_type": "illustration",
     "last_seen": "1904",
     "location": {
       "lat": 21.15292,
@@ -12337,7 +12337,7 @@
       "lat": "Rhodacanthis palmeri",
       "en": "Greater Koa Finch"
     },
-    "ai_reference_type": null,
+    "ai_reference_type": "illustration",
     "last_seen": "1896",
     "location": {
       "lat": 19.56739,
@@ -12590,7 +12590,7 @@
       "lat": "Moho nobilis",
       "en": "Hawaii ‚O’o"
     },
-    "ai_reference_type": null,
+    "ai_reference_type": "illustration",
     "last_seen": "1915",
     "location": {
       "lat": 19.784801,
@@ -16444,7 +16444,7 @@
       "lat": "Drepanis funerea",
       "en": "Black Mamo"
     },
-    "ai_reference_type": null,
+    "ai_reference_type": "illustration",
     "last_seen": "1907",
     "location": {
       "lat": 21.13,
@@ -17179,7 +17179,7 @@
       "lat": "Chaetoptila angustipluma",
       "en": "Kioea"
     },
-    "ai_reference_type": null,
+    "ai_reference_type": "illustration",
     "last_seen": "1860",
     "location": {
       "lat": 19.414679,
