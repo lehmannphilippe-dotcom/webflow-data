@@ -6392,7 +6392,7 @@
       "lat": "Psittirostra psittacea",
       "en": "ʻŌʻū"
     },
-    "ai_reference_type": null,
+    "ai_reference_type": "photo_video",
     "last_seen": "2000",
     "location": {
       "lat": 19.635018,
@@ -9089,7 +9089,7 @@
       "lat": "Himatione fraithii",
       "en": "Laysan Honeycreeper"
     },
-    "ai_reference_type": null,
+    "ai_reference_type": "photo_video",
     "last_seen": "1923",
     "location": {
       "lat": 25.775242,
@@ -9162,7 +9162,7 @@
       "lat": "Zapornia palmeri",
       "en": "Laysan Rail"
     },
-    "ai_reference_type": null,
+    "ai_reference_type": "photo_video",
     "last_seen": "1944",
     "location": {
       "lat": 25.768516,
@@ -9223,7 +9223,7 @@
       "lat": "Acrocephalus familiaris familiaris",
       "en": "Laysan Millerbird"
     },
-    "ai_reference_type": null,
+    "ai_reference_type": "photo_video",
     "last_seen": "1915",
     "location": {
       "lat": 25.761947,
@@ -14366,7 +14366,7 @@
       "lat": "Melamprosops phaeosoma",
       "en": "Black-faced Honeycreeper"
     },
-    "ai_reference_type": null,
+    "ai_reference_type": "photo_video",
     "last_seen": "2004",
     "location": {
       "lat": 20.746201,
@@ -17342,7 +17342,7 @@
       "lat": "Moho braccatus",
       "en": "Kauai ‚O’o"
     },
-    "ai_reference_type": null,
+    "ai_reference_type": "photo_video",
     "last_seen": "1987",
     "location": {
       "lat": 22.06183,
