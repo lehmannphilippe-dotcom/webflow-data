@@ -324,7 +324,7 @@
       "lat": "Orthiospiza howarthi",
       "en": "Maui Highland finch"
     },
-    "ai_reference_type": null,
+    "ai_reference_type": "fossil",
     "last_seen": "1500",
     "location": {
       "lat": 20.741195,
@@ -426,7 +426,7 @@
       "lat": "Xestospiza fastigialis",
       "en": "Ridge-billed finch"
     },
-    "ai_reference_type": null,
+    "ai_reference_type": "fossil",
     "last_seen": "1500",
     "location": {
       "lat": 21.14601,
@@ -471,7 +471,7 @@
       "lat": "Xestospiza conica",
       "en": "Cone-billed finch"
     },
-    "ai_reference_type": null,
+    "ai_reference_type": "fossil",
     "last_seen": "1500",
     "location": {
       "lat": 21.990481,
@@ -516,7 +516,7 @@
       "lat": "Vangulifer neophasis",
       "en": "Vangulifer neophasis"
     },
-    "ai_reference_type": null,
+    "ai_reference_type": "fossil",
     "last_seen": "1500",
     "location": {
       "lat": 20.981429,
@@ -569,7 +569,7 @@
       "lat": "Vangulifer mirandus",
       "en": "Vangulifer mirandus"
     },
-    "ai_reference_type": null,
+    "ai_reference_type": "fossil",
     "last_seen": "1500",
     "location": {
       "lat": 20.786478,
@@ -622,7 +622,7 @@
       "lat": "Aidemedia zanclops",
       "en": "Aidemedia zanclops"
     },
-    "ai_reference_type": null,
+    "ai_reference_type": "fossil",
     "last_seen": "1200",
     "location": {
       "lat": 21.302271,
@@ -675,7 +675,7 @@
       "lat": "Aidemedia chascax",
       "en": "Aidemedia chascax"
     },
-    "ai_reference_type": null,
+    "ai_reference_type": "fossil",
     "last_seen": "1200",
     "location": {
       "lat": 21.385259,
@@ -728,7 +728,7 @@
       "lat": "Aidemedia lutetiae",
       "en": "Aidemedia lutetiae"
     },
-    "ai_reference_type": null,
+    "ai_reference_type": "fossil",
     "last_seen": "1200",
     "location": {
       "lat": 20.831011,
@@ -789,7 +789,7 @@
       "lat": "Telespiza ypsilon",
       "en": "Maui Nui finch"
     },
-    "ai_reference_type": null,
+    "ai_reference_type": "fossil",
     "last_seen": "1650",
     "location": {
       "lat": 21.176309,
@@ -838,7 +838,7 @@
       "lat": "Telespiza persecutrix",
       "en": "Kauai finch"
     },
-    "ai_reference_type": null,
+    "ai_reference_type": "fossil",
     "last_seen": "1650",
     "location": {
       "lat": 21.930194,
@@ -887,7 +887,7 @@
       "lat": "Pterodroma jugabilis",
       "en": "Oahu Petrel"
     },
-    "ai_reference_type": null,
+    "ai_reference_type": "fossil",
     "last_seen": "1500",
     "location": {
       "lat": 21.334117,
@@ -936,7 +936,7 @@
       "lat": "Apteribis glenos",
       "en": "Molokai Ibis"
     },
-    "ai_reference_type": null,
+    "ai_reference_type": "fossil",
     "last_seen": "1300",
     "location": {
       "lat": 21.171733,
@@ -1649,7 +1649,7 @@
       "lat": "Corvus viriosus",
       "en": "slender-billed crow"
     },
-    "ai_reference_type": null,
+    "ai_reference_type": "fossil",
     "last_seen": "1500",
     "location": {
       "lat": 21.117003,
@@ -1698,7 +1698,7 @@
       "lat": "Corvus impluviatus",
       "en": "high-billed crow"
     },
-    "ai_reference_type": null,
+    "ai_reference_type": "fossil",
     "last_seen": "1500",
     "location": {
       "lat": 21.423971,
@@ -8065,7 +8065,7 @@
       "lat": "Loxioides kikuchi",
       "en": "Kauai Palila"
     },
-    "ai_reference_type": null,
+    "ai_reference_type": "fossil",
     "last_seen": "1820",
     "location": {
       "lat": 22.02452,
