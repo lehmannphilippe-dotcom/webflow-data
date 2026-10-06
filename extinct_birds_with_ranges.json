@@ -6,7 +6,7 @@
       "lat": "Akialoa upupirostris",
       "en": "Hoopoe-billed Akialoa"
     },
-    "ai_reference_type": null,
+    "ai_reference_type": "fossil",
     "last_seen": "1500",
     "location": {
       "lat": 22.067963,
@@ -15,7 +15,7 @@
     "habitat": "Kauai, Oahu (Hawaii)",
     "images": {
       "tooltip": "https://cdn.prod.website-files.com/6a2856622c4f26c0e72a657b/6abf43159bb9d1e8ee208be4_Akialoa-upupirostris_profile.jpg",
-      "panel": "https://cdn.prod.website-files.com/6a2856622c4f26c0e72a657b/6abb525d77faa54c36ab00ee_Akialoa%20upupirostris%20.jpg"
+      "panel": "https://cdn.prod.website-files.com/6a2856622c4f26c0e72a657b/6ac48a63030703da997356cd_Akialoa%20upupirostris%20.jpg"
     },
     "panel": {
       "description": "",
