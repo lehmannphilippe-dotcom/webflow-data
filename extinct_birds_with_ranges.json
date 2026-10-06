@@ -1103,55 +1103,6 @@
   {
     "id": "akialoa_sp.",
     "name": {
-      "de": "Maui-Akialoa",
-      "lat": "Akialoa sp.",
-      "en": "Maui Akialoa"
-    },
-    "ai_reference_type": null,
-    "last_seen": "1300",
-    "location": {
-      "lat": 20.720712,
-      "lng": -156.157356
-    },
-    "habitat": "Maui",
-    "images": {
-      "tooltip": "",
-      "panel": "https://cdn.prod.website-files.com/69a2957c566333eb83d17d8c/69bc3a10eaf76c90abe989be_Akialoa_default.jpg"
-    },
-    "panel": {
-      "description": "<p>Von der Maui-Form der Gattung Akialoa sind bislang nur sehr wenige und stark fragmentarische subfossile Überreste bekannt. Das vorhandene Material besteht lediglich aus einzelnen Knochenfragmenten, die keine vollständige morphologische Analyse erlauben. Aus diesem Grund wurde diese Form bisher nicht als eigenständige Art beschrieben und wird in der wissenschaftlichen Literatur meist nur provisorisch als Akialoa sp. geführt.</p>",
-      "habitat_text": "<p>Diese Form war vermutlich auf der Insel Maui endemisch und bewohnte wahrscheinlich ähnliche Lebensräume wie andere Arten der Gattung Akialoa im hawaiischen Archipel. Dazu zählen vor allem feuchte Wälder der tieferen und mittleren Höhenlagen. Da die bekannten Fossilien nur aus wenigen Fundstellen stammen und keine direkten Hinweise auf den ursprünglichen Lebensraum liefern, lassen sich über das genaue Habitat dieser Form jedoch kaum sichere Aussagen treffen.</p>",
-      "extinction_text": "<p>Die bisher bekannten Fossilreste werden in das Holozän datiert. Sollte es sich tatsächlich um eine eigenständige Akialoa-Art handeln, ist unklar, wann sie ausgestorben ist. Möglich ist sowohl ein Aussterben bereits vor der Ankunft des Menschen auf Maui infolge natürlicher Umweltveränderungen als auch ein Verschwinden nach der Besiedlung der Insel durch polynesische Siedler, deren Aktivitäten nachweislich zum Rückgang vieler endemischer Vogelarten im hawaiischen Archipel führten.</p>"
-    },
-    "references": [
-      {
-        "label": "Test BirdLife Schweiz",
-        "url": "https://www.birdlife.ch/"
-      },
-      {
-        "label": "Test BirdLife Schweiz",
-        "url": "https://www.birdlife.ch/"
-      }
-    ],
-    "taxonomy": {
-      "family": "Kleidervögel (Drepanidini)",
-      "genus": "Akialoa",
-      "family_key": "drepanidini",
-      "genus_key": "akialoa"
-    },
-    "ranges": {
-      "range_native": null,
-      "breeding_native": null,
-      "range_hypothetical": null,
-      "passage": null,
-      "breeding_spots": null,
-      "find_spots": null,
-      "last_observation": null
-    }
-  },
-  {
-    "id": "akialoa_sp.",
-    "name": {
       "de": "Riesen-Akialoa",
       "lat": "Akialoa sp.",
       "en": "Giant Akialoa"
