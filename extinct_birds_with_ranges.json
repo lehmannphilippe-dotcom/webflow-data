@@ -18,18 +18,18 @@
       "panel": "https://cdn.prod.website-files.com/6a2856622c4f26c0e72a657b/6ac48a63030703da997356cd_Akialoa%20upupirostris%20.jpg"
     },
     "panel": {
-      "description": "",
-      "habitat_text": "",
-      "extinction_text": ""
+       "description": "<p>Der Wiedehopf-Akialoa (Akialoa upupirostris) ist ausschliesslich durch holozäne subfossile Überreste bekannt. Der Name bezieht sich auf die konvergente Ähnlichkeit seines Unterkiefers mit jenem des Wiedehopfs (Upupa epops).</p><p>Charakteristisch war, wie bei allen Akialoa-Arten, der lange, schlanke und nach unten gebogene Schnabel, der wahrscheinlich eine vielseitige Nahrungssuche ermöglichte. Mit ihm konnte der Vogel vermutlich in tiefen, schmalen Spalten von Baumrinde und anderen Pflanzenstrukturen nach Wirbellosen suchen sowie Nektar aus tiefkelchigen hawaiischen Lobelien aufnehmen.</p><p>Von allen anderen bekannten hawaiischen Kleidervögeln unterschied sich der Wiedehopf-Akialoa durch die stark reduzierte Zungenrinne des Unterschnabels. Diese war äusserst flach und auf die hinteren drei Achtel des Unterkiefers beschränkt. Der vordere Abschnitt war dagegen nicht tief ausgehöhlt, sondern wies im Querschnitt eine weitgehend flache Oberfläche auf. Daraus lässt sich schliessen, dass die Art vermutlich keine so lange, röhrenförmige Zunge besass wie andere Akialoa-Arten. Welche Bedeutung diese besondere Schnabel- und Zungenmorphologie für die Nahrungssuche hatte und ob der Wiedehopf-Akialoa dadurch eine spezifische ökologische Nische besetzte, lässt sich anhand der bekannten Überreste jedoch nicht sicher bestimmen.</p><p>Ein Oberkiefer des Wiedehopf-Akialoas konnte bislang nicht eindeutig identifiziert werden. Entweder unterschied er sich morphologisch kaum vom Oberkiefer des Kauai-Akialoas (Akialoa stejnegeri), oder entsprechende Überreste wurden bislang noch nicht gefunden.</p><p>Über Gefieder, Körpergrösse und andere äussere Merkmale ist nichts direkt bekannt. Aufgrund der erhaltenen Unterkieferreste und seiner Verwandtschaft wird angenommen, dass der Wiedehopf-Akialoa im allgemeinen Körperbau und insbesondere in der langgestreckten, gebogenen Schnabelform den anderen Akialoas ähnelte.</p>",
+       "habitat_text": "<p>Im Gegensatz zu den anderen Akialoa-Arten war die Art wahrscheinlich nicht auf eine einzige Insel beschränkt. Subfossile Überreste sind von Kauai und Oahu belegt. Die Erstbeschreibung nennt als Fundorte die Makawehi-Dünen auf Kauai und Barbers Point auf Oahu. Diese Fundorte zeigen, dass die Art zumindest in tieferen Lagen oder in deren Umgebung vorkam; das genaue Habitat lässt sich aus den Knochenfunden jedoch nicht sicher rekonstruieren.</p><p>Da kleine Singvogelknochen in solchen Ablagerungen häufig durch Eulengewölle oder sekundäre Umlagerung in Fossildepots gelangten, muss zwischen Fundort und tatsächlichem Lebensraum unterschieden werden. Wahrscheinlich nutzte der Wiedehopf-Akialoa Wald- oder Gehölzlebensräume in den Tieflagen von Kauai und Oahu. Eine genaue Zuordnung zu trockenem Wald, mesischem Wald oder Buschland bleibt jedoch unsicher.</p>",
+       "extinction_text": "<p>Da der Wiedehopf-Akialoa historisch nie nachgewiesen wurde, war die Art wahrscheinlich bereits vor der Ankunft der ersten europäischen Siedler ausgestorben. Die bekannten subfossilen Überreste stammen aus dem Holozän. Eine genaue zeitliche Einordnung ist schwierig; viele vergleichbare Singvogelfossilien aus den Dünen- und Sinklochablagerungen Hawaiis sind wahrscheinlich jünger als 7'000 Jahre, die meisten sogar jünger als 5'000 Jahre.</p><p>Die genaue Ursache des Aussterbens ist nicht bekannt. Für viele prähistorisch ausgestorbene hawaiische Singvögel werden vor allem menschlich verursachte Veränderungen der Waldlebensräume nach der Besiedlung Hawaiis durch die ersten polynesischen Siedler als Hauptfaktor angenommen. Es ist jedoch auch möglich, dass die Art infolge natürlicher ökologischer oder klimatischer Veränderungen bereits vor dem Eintreffen der ersten Menschen auf Hawaii ausgestorben war.</p>"
     },
     "references": [
       {
-        "label": "Test BirdLife Schweiz",
-        "url": "https://www.birdlife.ch/"
-      },
+        "label": "James, H. F. & Olson, S. L. (1991). Descriptions of Thirty-Two New Species of Birds from the Hawaiian Islands: Part II. Passeriformes. Ornithological Monographs, 46, 1–88.",
+        "url": "https://www.researchgate.net/publication/242013278_Descriptions_of_Thirty-Two_New_Species_of_Birds_from_the_Hawaiian_Islands_Part_II_Passeriformes"
+         },
       {
-        "label": "Test BirdLife Schweiz",
-        "url": "https://www.birdlife.ch/"
+        "label": "Olson, S. L. & James, H. F. (1993). Revision der Akialoa-Nomenklatur und Neukombination Akialoa upupirostris.",
+        "url": "https://repository.si.edu/server/api/core/bitstreams/2991d7c8-a09e-4655-82d0-5ca00ab7bc3f/content"
       }
     ],
     "taxonomy": {
