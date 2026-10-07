@@ -1113,7 +1113,7 @@
       "lat": 19.414961,
       "lng": -155.237017
     },
-    "habitat": "Hawaii",
+    "habitat": "Hawaii (Hawaii)",
     "images": {
       "tooltip": "",
       "panel": "https://cdn.prod.website-files.com/69a2957c566333eb83d17d8c/69bc3a10eaf76c90abe989be_Akialoa_default.jpg"
@@ -1125,12 +1125,12 @@
     },
     "references": [
       {
-        "label": "Test BirdLife Schweiz",
-        "url": "https://www.birdlife.ch/"
+        "label": "James, H. F. (2004). The osteology and phylogeny of the Hawaiian finch radiation (Fringillidae: Drepanidini), including extinct taxa. Zoological Journal of the Linnean Society 141(2): 207–255.",
+        "url": "https://repository.si.edu/items/49df0bdb-da96-4ede-8def-3472c3414f6b"
       },
       {
-        "label": "Test BirdLife Schweiz",
-        "url": "https://www.birdlife.ch/"
+        "label": "James, H. F. & Olson, S. L. (2003). A Giant New Species of Nukupuu (Fringillidae: Drepanidini: Hemignathus) From the Island of Hawaii. The Auk 120(4): 970–981.",
+        "url": "https://academic.oup.com/auk/article/120/4/970/5561904"
       }
     ],
     "taxonomy": {
