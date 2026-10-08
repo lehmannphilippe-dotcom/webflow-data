@@ -10406,7 +10406,7 @@
       "lat": "Loxops ochraceus",
       "en": "Maui Akepa"
     },
-    "ai_reference_type": null,
+    "ai_reference_type": "illustration",
     "last_seen": "1988",
     "location": {
       "lat": 20.76604,
@@ -18435,7 +18435,7 @@
       "lat": "Loxops wolstenholmei",
       "en": "Oahu akepa"
     },
-    "ai_reference_type": null,
+    "ai_reference_type": "illustrtration",
     "last_seen": "1916",
     "location": {
       "lat": 21.60317,
