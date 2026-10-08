@@ -646,12 +646,24 @@
     },
     "references": [
       {
-        "label": "Test BirdLife Schweiz",
-        "url": "https://www.birdlife.ch/"
+        "label": "Campana, M. G. et al. (2026). Reticulated adaptive radiation and phylogenomic diversity loss in the Hawaiian honeycreepers. Proceedings of the National Academy of Sciences, 123(32), e2536533123.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42546202/"
       },
       {
-        "label": "Test BirdLife Schweiz",
-        "url": "https://www.birdlife.ch/"
+        "label": "Lerner, H. R. L., Meyer, M., James, H. F., Hofreiter, M. & Fleischer, R. C. (2011). Multilocus resolution of phylogeny and timescale in the extant adaptive radiation of Hawaiian honeycreepers. Current Biology, 21(21), 1838–1844.",
+        "url": "https://www.sciencedirect.com/science/article/pii/S0960982211010785"
+      },
+      {
+        "label": "James, H. F. (2004). The osteology and phylogeny of the Hawaiian finch radiation (Fringillidae: Drepanidini), including extinct taxa. Zoological Journal of the Linnean Society, 141(2), 207–255.",
+        "url": "https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1096-3642.2004.00117.x"
+      },
+      {
+        "label": "Olson, S. L. & James, H. F. (1995). Nomenclature of the Hawaiian akialoas and Nukupuus (Aves: Drepanidini). Proceedings of the Biological Society of Washington, 108(3), 373–387.",
+        "url": "https://repository.si.edu/items/2e8d567c-49ce-4b7e-a86c-83efc356977e"
+      },
+      {
+        "label": "James, H. F. & Olson, S. L. (1991). Descriptions of Thirty-Two New Species of Birds from the Hawaiian Islands: Part II. Passeriformes. Ornithological Monographs, 46, 1–88.",
+        "url": "https://www.researchgate.net/publication/242013278_Descriptions_of_Thirty-Two_New_Species_of_Birds_from_the_Hawaiian_Islands_Part_II_Passeriformes"
       }
     ]
   },
