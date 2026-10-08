@@ -8150,7 +8150,7 @@
       "lat": "Myadestes myadestinus",
       "en": "Large Kauai Thrush"
     },
-    "ai_reference_type": null,
+    "ai_reference_type": "illustration",
     "last_seen": "1999",
     "location": {
       "lat": 22.08182,
@@ -8929,7 +8929,7 @@
       "lat": "Myadestes lanaiensis",
       "en": "Lānaʻi thrush"
     },
-    "ai_reference_type": null,
+    "ai_reference_type": "illustration",
     "last_seen": "1995",
     "location": {
       "lat": 20.798875,
@@ -12185,7 +12185,7 @@
       "lat": "Myadestes woahensis",
       "en": "Oahu Thrush"
     },
-    "ai_reference_type": null,
+    "ai_reference_type": "illustration",
     "last_seen": "1830",
     "location": {
       "lat": 21.45101,
