@@ -1606,24 +1606,28 @@
       "lat": 21.117003,
       "lng": -156.918933
     },
-    "habitat": "Molokai",
+    "habitat": "Oahu, Molokai (Hawaii)",
     "images": {
       "tooltip": "",
       "panel": "https://cdn.prod.website-files.com/69a2957c566333eb83d17d8c/69ba4301f93fdcf183a1564f_corvus_viriosus.jpg"
     },
     "panel": {
-      "description": "",
-      "habitat_text": "",
-      "extinction_text": ""
+     "description": "<p>Die Schlankschnablekrähe war eine grosse, kräftig gebaute Krähe mit einem langen, relativ geraden und vergleichsweise schmalen Schnabel. Obwohl von der Art mehrere subfossile und fossile Überreste, darunter ein erhaltenes Teilskelett, gefunden wurden, ist über die Art kaum etwas bekannt.</p><p>Die deutlich unterschiedlichen Schnabelformen der hawaiischen Krähen sprechen dafür, dass die Arten verschiedene ökologische Nischen und Nahrungsressourcen nutzten. Welche Nahrung die Schlankschnabelkrähe tatsächlich bevorzugte, ist jedoch unbekannt. Eine teilweise fruchtbasierte Ernährung wurde aufgrund der Lebensweise anderer pazifischer Krähen vorgeschlagen, lässt sich anhand der fossilen Überreste aber nicht direkt nachweisen. Auch über Gefiederfärbung, Sozial- und Brutverhalten ist nichts bekannt.</p>",
+      "habitat_text": "<p>Die Art ist sicher von Oahu und Molokai belegt. Ob das Verbreitungsgebiet einst sogar weiter reichte, kann heute nicht mehr sicher rekonstruiert werden. Fragmentierte fossile Krähenüberreste aus höher gelegenen Gebieten von Maui und Hawaii lassen sich nicht eindeutig dieser Art zuordnen.</p><p>Alle eindeutig dieser Art zugeordneten Fundstellen liegen in trockenen Tieflandgebieten. Angenommen wird, dass die Schlankschnabelkrähe vor allem die trockenen Tiefländer der Inseln bewohnte. Die Art könnte damit zu jener ehemals vielfältigen hawaiischen Vogelfauna gehört haben, die besonders stark an heute grossflächig veränderte Tieflandökosysteme gebunden.</p>",
+      "extinction_text": "<p>Das Aussterben wird wahrscheinlich mit den tiefgreifenden ökologischen Veränderungen nach der polynesischen Besiedlung Hawaiis in Verbindung gebracht. Besonders die trockenen Tiefländer wurden durch Rodung, Feuer und die Anlage landwirtschaftlicher Flächen stark verändert.</p><p>Zusätzlich könnten eingeschleppte Säugetiere, insbesondere die Pazifische Ratte (Rattus exulans), durch Prädation an Eiern oder Jungvögeln zum Rückgang beigetragen haben. Für die Art selbst lässt sich der Einfluss einzelner Faktoren jedoch nicht direkt nachweisen. Wahrscheinlich wirkte eine Kombination aus Lebensraumverlust und eingeführten Arten, wobei die starke Bindung an Tieflandhabitate die Schlankschnabelkrähe besonders anfällig gemacht haben dürfte.</p><p>Die bekannten Fossilien werden allgemein in das späte Quartär gestellt. Für die Fundstelle in Oahu ist sogar ein spätpleistozänes Alter möglich; andere hawaiische Tieflandfundstellen mit fossilen Sperlingsvögeln sind überwiegend jünger als etwa 5'000–7'000 Jahre. Ein genauer Zeitraum für das Vorkommen und das Aussterben der Schlankschnabelkrähe lässt sich daraus jedoch nicht genau bestimmen.</p>"
     },
     "references": [
       {
-        "label": "Test BirdLife Schweiz",
-        "url": "https://www.birdlife.ch/"
+        "label": "James, H. F. & Olson, S. L. (1991). Descriptions of Thirty-Two New Species of Birds from the Hawaiian Islands: Part II. Passeriformes. Ornithological Monographs, 46, 1–88.",
+        "url": "https://www.researchgate.net/publication/242013278_Descriptions_of_Thirty-Two_New_Species_of_Birds_from_the_Hawaiian_Islands_Part_II_Passeriformes"
+         },
+      {
+        "label": "Olson, S. L. & James, H. F. (1982). Prodromus of the Fossil Avifauna of the Hawaiian Islands. Smithsonian Contributions to Zoology, 365, 1–59.",
+        "url": "https://repository.si.edu/server/api/core/bitstreams/2f2816a2-71a1-41fb-9c73-11c5ccec301d/content"
       },
       {
-        "label": "Test BirdLife Schweiz",
-        "url": "https://www.birdlife.ch/"
+        "label": "Olson, S. L. & James, H. F. (1984). The Role of Polynesians in the Extinction of the Avifauna of the Hawaiian Islands. In P. S. Martin & R. G. Klein (Hrsg.), Quaternary Extinctions: A Prehistoric Revolution, S. 768–780. University of Arizona Press.",
+        "url": "https://repository.si.edu/server/api/core/bitstreams/61392219-1cb5-4347-a902-66eb31179907/content"
       }
     ],
     "taxonomy": {
@@ -1655,24 +1659,28 @@
       "lat": 21.423971,
       "lng": -157.925615
     },
-    "habitat": "Oahu",
+    "habitat": "Oahu (Hawaii)",
     "images": {
       "tooltip": "",
       "panel": "https://cdn.prod.website-files.com/69a2957c566333eb83d17d8c/69ba42aa917ae8a21641158e_Corvus%20impluviatus.jpg"
     },
     "panel": {
-      "description": "",
-      "habitat_text": "",
-      "extinction_text": ""
+     "description": "<p>Das auffälligste Merkmal der Hochschnabelkrähe war ihr ungewöhnlich hoher, breiter und stark gewölbter Schnabel. Der Oberschnabel war verhältnismässig kurz, jedoch deutlich höher und stärker gebogen als bei den anderen hawaiischen Krähenarten. Auch die knöchernen Strukturen im Bereich der Nasenhöhle und des Schnabels waren aussergewöhnlich kräftig ausgebildet und teilweise verknöchert.</p><p>Da von der Art bislang nur wenige subfossile Überreste bekannt sind, lassen sich ihr Erscheinungsbild und ihre Lebensweise nur sehr eingeschränkt rekonstruieren.</p><p>Die ausgeprägten Unterschiede in der Schnabelform der hawaiischen Krähen deuten darauf hin, dass die einzelnen Arten unterschiedliche ökologische Nischen besetzten und verschiedene Nahrungsressourcen nutzten. Welche Nahrung die Hochschnabelkrähe tatsächlich bevorzugte, bleibt jedoch unbekannt. Aufgrund der Ernährungsgewohnheiten anderer pazifischer Krähen wurde eine zumindest teilweise fruchtbasierte Ernährung vermutet, die sich anhand der fossilen Überreste allerdings nicht direkt nachweisen lässt. Auch über die Gefiederfärbung sowie das Sozial- und Brutverhalten der Art ist nichts bekannt.</p>",
+    "habitat_text": "<p>Gesicherte Funde stammen ausschliesslich von Oahu, insbesondere aus der Region von Barbers Point an der Südwestküste der Insel. Die überwiegend flache Ebene um Barbers Point war vor ihrer weitgehenden Umgestaltung vermutlich von einem trockenen, gemischten Hartlaubwald beziehungsweise Trockenwald geprägt. Für die Region werden ursprüngliche Pflanzengesellschaften angenommen, die den ehemaligen Trockenwäldern West-Molokais ähnelten. Die Hochschnabelkrähe dürfte daher zumindest trockene Tieflandwälder und offene Waldlandschaften besiedelt haben. Ob die Art auch feuchtere oder höher gelegene Lebensräume nutzte oder einst sogar auf weiteren Inseln vorkam, lässt sich anhand des bisher bekannten Fossilmaterials nicht rekonstruieren.</p><p>Die Typusfundstelle selbst ist eine heute wassergefüllte Kalksteinhöhle. Die Skelette gelangten vermutlich in die Höhle, als diese während einer Phase niedrigeren Meeresspiegels noch trocken lag. Die Fundumstände geben daher vor allem Hinweise auf die damalige Landschaft der Umgebung und nicht darauf, dass die Krähen Höhlen als regulären Lebensraum nutzten.</p>",
+    "extinction_text": "<p>Der genaue Zeitpunkt und die Ursache des Aussterbens sind ungeklärt. Die Fossilien aus der heute überfluteten Höhle von Barbers Point lassen sich nicht so präzise datieren wie viele holozäne Funde anderer hawaiischer Fundstellen. Sie werden allgemein dem späten Quartär, möglicherweise auch der letzten Kaltzeit vor etwa 115’000 bis 11’700 Jahren, zugeordnet.</p><p>Sollte die Hochschnabelkrähe bis zur polynesischen Besiedlung Oahus überlebt haben, könnten verschiedene Faktoren wie die rasche Umwandlung und Zerstörung der trockenen Tieflandwälder sowie die Einführung von Säugetieren wie der Polynesischen Ratte (Rattus exulans) zu ihrem Aussterben beigetragen haben.</p><p>Es ist jedoch ebenso möglich, dass die Art bereits im Zuge der klimatischen und ökologischen Veränderungen am Ende der letzten Kaltzeit verschwand. Mit der zunehmenden Erwärmung und dem Anstieg des Meeresspiegels wurden grosse Teile der zuvor trockenliegenden Küstenflächen Oahus überflutet. Gleichzeitig veränderten sich die Vegetation und die Lebensräume im Inselinneren. Diese Entwicklungen könnten die verfügbaren Lebensräume und Nahrungsressourcen erheblich eingeschränkt und zum Aussterben der Art beigetragen haben. Ob diese Veränderungen tatsächlich für ihr Verschwinden verantwortlich waren, lässt sich anhand der bisherigen Fossilfunde jedoch nicht nachweisen.</p>"
     },
     "references": [
       {
-        "label": "Test BirdLife Schweiz",
-        "url": "https://www.birdlife.ch/"
+        "label": "James, H. F. & Olson, S. L. (1991). Descriptions of Thirty-Two New Species of Birds from the Hawaiian Islands: Part II. Passeriformes. Ornithological Monographs, 46, 1–88.",
+        "url": "https://www.researchgate.net/publication/242013278_Descriptions_of_Thirty-Two_New_Species_of_Birds_from_the_Hawaiian_Islands_Part_II_Passeriformes"
+         },
+      {
+        "label": "Olson, S. L. & James, H. F. (1982). Prodromus of the Fossil Avifauna of the Hawaiian Islands. Smithsonian Contributions to Zoology, 365, 1–59.",
+        "url": "https://repository.si.edu/server/api/core/bitstreams/2f2816a2-71a1-41fb-9c73-11c5ccec301d/content"
       },
       {
-        "label": "Test BirdLife Schweiz",
-        "url": "https://www.birdlife.ch/"
+        "label": "Slikas, B. (2003). Hawaiian Birds: Lessons From a Rediscovered Avifauna. The Auk, 120(4), 953–960.",
+        "url": "https://academic.oup.com/auk/article/120/4/953/5562270"
       }
     ],
     "taxonomy": {
