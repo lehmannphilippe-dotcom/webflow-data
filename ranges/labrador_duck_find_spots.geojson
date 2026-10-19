@@ -4,11 +4,8 @@
     {
       "type": "Feature",
       "properties": {
-        "place": "XXXXX",
-        "description": "XXXX",
-        "references": [
-          "XXXX"
-        ]
+        "title": "XXXXX",
+        "description": "XXXX"
       },
       "geometry": {
         "type": "Point",
@@ -21,11 +18,8 @@
     {
       "type": "Feature",
       "properties": {
-        "place": "XXXXX",
-        "description": "XXXX",
-        "references": [
-          "XXXX"
-        ]
+        "title": "XXXXX",
+        "description": "XXXX"
       },
       "geometry": {
         "type": "Point",
