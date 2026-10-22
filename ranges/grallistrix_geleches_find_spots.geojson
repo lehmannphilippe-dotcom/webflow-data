@@ -4,8 +4,8 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Skelettfund (Moomomi)",
-        "description": "In einer Sandmulde wurde 1976 ein Teilskelett mit nahezu vollständigem Schädel entdeckt. Es bildete die Grundlage für die wissenschaftliche Erstbeschreibung der Art im Jahr 1991."
+        "title": "Fossile Fundgebiete in Moomomi",
+        "description": "In verschiedenen Sandmulden und Dünenablagerungen wurden subfossile Knochen mehrerer Individuen entdeckt. Darunter befand sich ein Teilskelett mit nahezu vollständig erhaltenem Schädel, das 1991 als Grundlage für die wissenschaftliche Erstbeschreibung der Art diente. Zudem wurden Fossile Gewölle gefunden die darauf hinweisen, dass sich die Eulen hauptsächlich von kleine Singvögeln und flugunfähigen Rallen ernährten."
       },
       "geometry": {
         "type": "Point",
@@ -18,70 +18,14 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Knochenfunde (Moomomi)",
-        "description": "In mehreren Sandmulden der Küsten- und Hinterdünen wurden fossile Knochen zusammen mit Überresten anderer ausgestorbener Vogelarten gefunden. Der Punkt bezeichnet ein Fundgebiet"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -157.152,
-          21.1986
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Gewölle (Moomomi)",
-        "description": "In den Sanddünen wurden fossile Eulenknochen und ein erhaltenes Gewölle mit Überresten eines ausgestorbenen hawaiischen Kleidervogels entdeckt. Der Fund liefert klare Hinweise auf die Ernährung der Langbeineulen von Hawaii."
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -157.1565,
-          21.2033
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Gewölle (ʻĪlio Point)",
-        "description": "In den Sanddünen wurden fossile Eulenknochen und ein erhaltenes Gewölle mit Knochen kleiner hawaiischer Kleidervögel entdeckt. Es zeigt, dass die Langbeineulen von Hawaii andere Vögel jagten."
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -157.252,
-          21.2222
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Knochenfunde (ʻĪlio Point)",
-        "description": "In einer Sandmulde wurden mehrere zusammenliegende fossile Einzelknochen gefunden."
+        "title": "Fossile Fundgebiete in ʻĪlio Point",
+        "description": "In verschiedenen Dünenablagerungen wurden subfossile Knochen mehrerer Individuen sowie Gewöllreste mit Knochen Tausender kleiner Vögel entdeckt. Forschende vermuten, dass die Stelle den Eulen als Ruheplatz oder möglicherweise sogar als Nistplatz am Boden diente."
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           -157.2484,
           21.2204
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Eulenruheplatz  (ʻĪlio Point)",
-        "description": "In einer Dünenmulde wurden fossile Eulenknochen und Tausende Knochen kleiner Vögel entdeckt. Die Forschenden vermuten, dass die Stelle früher als Ruheplatz oder gar als Nest diente."
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -157.2457,
-          21.2187
         ]
       }
     }
