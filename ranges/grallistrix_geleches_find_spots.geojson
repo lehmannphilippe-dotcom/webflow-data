@@ -10,22 +10,22 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -157.1589,
-          21.1992
+          -157.1607,
+          21.1979
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "title": " Knochenfunde (Moomomi)",
+        "title": "Knochenfunde (Moomomi)",
         "description": "In mehreren Sandmulden der Küsten- und Hinterdünen wurden fossile Knochen zusammen mit Überresten anderer ausgestorbener Vogelarten gefunden. Der Punkt bezeichnet ein Fundgebiet"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -157.1548,
-          21.1997
+          -157.152,
+          21.1986
         ]
       }
     },
@@ -38,8 +38,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -157.1569,
-          21.2014
+          -157.1565,
+          21.2033
         ]
       }
     },
@@ -52,36 +52,36 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -157.2495,
-          21.2212
+          -157.252,
+          21.2222
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "title": "ʻKnochenfunde (ʻĪlio Point)",
+        "title": "Knochenfunde (ʻĪlio Point)",
         "description": "In einer Sandmulde wurden mehrere zusammenliegende fossile Einzelknochen gefunden."
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -157.2488,
-          21.2208
+          -157.2484,
+          21.2204
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "title": "ʻEulenruheplatz  (ʻĪlio Point)",
+        "title": "Eulenruheplatz  (ʻĪlio Point)",
         "description": "In einer Dünenmulde wurden fossile Eulenknochen und Tausende Knochen kleiner Vögel entdeckt. Die Forschenden vermuten, dass die Stelle früher als Ruheplatz oder gar als Nest diente."
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -157.2481,
-          21.2201
+          -157.2457,
+          21.2187
         ]
       }
     }
