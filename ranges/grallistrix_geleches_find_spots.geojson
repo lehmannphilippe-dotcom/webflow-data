@@ -4,28 +4,84 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Moʻomomi dunes (Molokaʻi) – vicinity of sites 5 & 10 (type locality)",
-        "description": "Typuslokalität von Grallistrix geleches: Knochen (u.a. assoziiertes Teilskelett/Holotyp) aus lockeren Dünen-Sanden der Moʻomomi-Dünen, explizit als „vicinity of sites 5 and 10“ angegeben."
+        "title": "Skelettfund (Moomomi)",
+        "description": "In einer Sandmulde wurde 1976 ein Teilskelett mit nahezu vollständigem Schädel entdeckt. Es bildete die Grundlage für die wissenschaftliche Erstbeschreibung der Art im Jahr 1991."
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -157.146699,
-          21.198562
+          -157.1589,
+          21.1992
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "title": "ʻĪlio Point dunes (west Molokaʻi)",
-        "description": "Weitere Nachweise von Grallistrix geleches aus Dünenablagerungen am nordwestlichsten Ende Molokaʻis (ʻĪlio Point); im Artaccount als Verbreitung „Moʻomomi and Ilio Point dunes“ genannt."
+        "title": " Knochenfunde (Moomomi)",
+        "description": "In mehreren Sandmulden der Küsten- und Hinterdünen wurden fossile Knochen zusammen mit Überresten anderer ausgestorbener Vogelarten gefunden. Der Punkt bezeichnet ein Fundgebiet"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -157.256946,
-          21.217501
+          -157.1548,
+          21.1997
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Gewölle (Moomomi)",
+        "description": "In den Sanddünen wurden fossile Eulenknochen und ein erhaltenes Gewölle mit Überresten eines ausgestorbenen hawaiischen Kleidervogels entdeckt. Der Fund liefert klare Hinweise auf die Ernährung der Langbeineulen von Hawaii."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -157.1569,
+          21.2014
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Gewölle (ʻĪlio Point)",
+        "description": "In den Sanddünen wurden fossile Eulenknochen und ein erhaltenes Gewölle mit Knochen kleiner hawaiischer Kleidervögel entdeckt. Es zeigt, dass die Langbeineulen von Hawaii andere Vögel jagten."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -157.2495,
+          21.2212
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "ʻKnochenfunde (ʻĪlio Point)",
+        "description": "In einer Sandmulde wurden mehrere zusammenliegende fossile Einzelknochen gefunden."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -157.2488,
+          21.2208
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "ʻEulenruheplatz  (ʻĪlio Point)",
+        "description": "In einer Dünenmulde wurden fossile Eulenknochen und Tausende Knochen kleiner Vögel entdeckt. Die Forschenden vermuten, dass die Stelle früher als Ruheplatz oder gar als Nest diente."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -157.2481,
+          21.2201
         ]
       }
     }
