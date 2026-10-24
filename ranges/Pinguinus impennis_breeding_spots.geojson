@@ -1,0 +1,145 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Brutplatz - Funk Island",
+        "description": "Auf Funk Island befand sich die grösste bekannte Brutkolonie des Riesenalks. Ihre Grösse wird unterschiedlich eingeschätzt: Vermutlich brüteten hier Zehntausende Paare; eine wissenschaftliche Modellrechnung nennt bis zu 250’000 Paare als theoretische Obergrenze. Die Vögel wurden über Jahrhunderte intensiv bejagt. Umfangreiche Knochenablagerungen zeugen noch heute von der ehemaligen Kolonie."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -53.182222,
+          49.75
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Brutplatz - Bird Rocks",
+        "description": "Auf den Bird Rocks brüteten Riesenalke in historischer Zeit. Bereits 1534 berichtete Jacques Cartier von zahlreichen grossen Alken in der Region. Die Kolonie verschwand infolge intensiver Bejagung."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.14583,
+          47.83833
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Brutplatz - Penguin Islands",
+        "description": "Auf den Penguin Islands bei Cape La Hune brüteten Riesenalke noch zu Beginn des 18. Jahrhunderts. Ein Bericht aus den Jahren 1713–1714 erwähnt zahlreiche Vögel und die regelmässige Entnahme ihrer Eier."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.999205,
+          47.383322
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Brutplatz - North und South Penguin Islands",
+        "description": "Unsicherer Brutplatz: Historische Autoren nannten diese Inseln vor Fogo Island als mögliches Brutgebiet des Riesenalks. Ein eindeutiger Nachweis durch Nester, Eier oder Jungvögel ist nicht bekannt."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -53.793611,
+          49.435278
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Brutplatz - Geirfuglasker",
+        "description": "Auf dem Geirfuglasker vor Reykjanes befand sich eine historisch belegte Brutkolonie des Riesenalks. Der Felsen versank um 1830 infolge geologischer Veränderungen. Danach brüteten Riesenalke auch auf der nahe gelegenen Insel Eldey."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -23.206228,
+          63.695885
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Brutplatz - Eldey",
+        "description": "Eldey war der letzte sicher dokumentierte Brutplatz des Riesenalks. Am 3. Juli 1844 wurden hier die letzten beiden gesichert nachgewiesenen Altvögel getötet und ihr Ei zerstört."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -22.957386,
+          63.741125
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Brutplatz - Geirfuglasker",
+        "description": "Auf dem Geirfuglasker bei den Westmännerinseln befand sich eine weitere historisch belegte Brutkolonie des Riesenalks. Sie verschwand vermutlich um 1800."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -20.49787,
+          63.31766
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Brutplatz - St Kilda",
+        "description": "Auf der Inselgruppe St Kilda brüteten Riesenalke in historischer Zeit. Bereits im 17. Jahrhundert wurde die Entnahme ihrer Eier beschrieben. Die genaue Brutinsel ist nicht sicher bekannt; der Kartenpunkt liegt stellvertretend auf Hirta."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.56995,
+          57.81285
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Brutplatz - Papa Westray",
+        "description": "Unsicherer Brutplatz: Einer historischen Überlieferung zufolge brütete 1812 bei Fowl Craig auf Papa Westray ein Riesenalkpaar. Der Bericht wird in der Fachliteratur unterschiedlich beurteilt; ein zweifelsfrei gesicherter Brutnachweis fehlt."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.865,
+          59.37333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Brutplatz - Inseln bei Paamiut",
+        "description": "Unsicher lokalisierter Brutplatz: Historische Beobachtungen junger Riesenalke sprechen für eine Brut in der Region Paamiut. Die genaue Insel ist unbekannt. Der Kartenpunkt zeigt nur die Region und keinen nachgewiesenen Neststandort."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.66776,
+          61.99402
+        ]
+      }
+    }
+  ]
+}
