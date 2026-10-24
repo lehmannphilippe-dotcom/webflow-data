@@ -4460,7 +4460,7 @@
       "breeding_native": null,
       "range_hypothetical": null,
       "passage": null,
-      "breeding_spots": null,
+      "breeding_spots": "https://raw.githubusercontent.com/lehmannphilippe-dotcom/webflow-data/refs/heads/main/ranges/Pinguinus%20impennis_breeding_spots.geojson",
       "find_spots": null,
       "last_observation": null
     },
