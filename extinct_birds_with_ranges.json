@@ -4456,8 +4456,8 @@
       "genus_key": "pinguinus"
     },
     "ranges": {
-      "range_native": null,
-      "breeding_native": "https://raw.githubusercontent.com/lehmannphilippe-dotcom/webflow-data/refs/heads/main/ranges/Pinguinus_impennis_native.geojson",
+      "range_native": "https://raw.githubusercontent.com/lehmannphilippe-dotcom/webflow-data/refs/heads/main/ranges/Pinguinus_impennis_native.geojson",
+      "breeding_native": null,
       "range_hypothetical": null,
       "passage": null,
       "breeding_spots": "https://raw.githubusercontent.com/lehmannphilippe-dotcom/webflow-data/refs/heads/main/ranges/Pinguinus%20impennis_breeding_spots.geojson",
