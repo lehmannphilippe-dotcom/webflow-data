@@ -4458,7 +4458,6 @@
     "ranges": {
        "range_native": {
         "fill": "https://raw.githubusercontent.com/lehmannphilippe-dotcom/webflow-data/refs/heads/main/ranges/Pinguinus_impennis_ocean_fixed.geojson",
-        "outline": "https://raw.githubusercontent.com/lehmannphilippe-dotcom/webflow-data/refs/heads/main/ranges/Pinguinus_impennis_ocean_coastline.geojson"
          },
       "breeding_native": null,
       "range_hypothetical": null,
