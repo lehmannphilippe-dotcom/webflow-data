@@ -3211,13 +3211,16 @@
     "name": {
       "de": "Nordinsel-Waldschlüpfer",
       "lat": "Xenicus longipes stokesi",
-      "en": "North Island Bush Wren"
+      "en": "North Island Bush Wren",
+      "lat_alternatives": [
+        "Xenicus longipes stokesii"
+      ]
     },
     "ai_reference_type": null,
     "last_seen": "1955",
     "location": {
-      "lat": -40.97327,
-      "lng": 173.97984
+      "lat": -41.185,
+      "lng": 175.086
     },
     "habitat": "Neuseeland (Nordinsel)",
     "images": {
@@ -3229,16 +3232,7 @@
       "habitat_text": "",
       "extinction_text": ""
     },
-    "references": [
-      {
-        "label": "Test BirdLife Schweiz",
-        "url": "https://www.birdlife.ch/"
-      },
-      {
-        "label": "Test BirdLife Schweiz",
-        "url": "https://www.birdlife.ch/"
-      }
-    ],
+    "references": [],
     "taxonomy": {
       "family": "",
       "genus": "",
@@ -3271,8 +3265,8 @@
     "ai_reference_type": null,
     "last_seen": "1968",
     "location": {
-      "lat": -41.05236,
-      "lng": 173.95921
+      "lat": -42.704,
+      "lng": 171.422
     },
     "habitat": "Neuseeland (Südinsel)",
     "images": {
@@ -3284,16 +3278,7 @@
       "habitat_text": "",
       "extinction_text": ""
     },
-    "references": [
-      {
-        "label": "Test BirdLife Schweiz",
-        "url": "https://www.birdlife.ch/"
-      },
-      {
-        "label": "Test BirdLife Schweiz",
-        "url": "https://www.birdlife.ch/"
-      }
-    ],
+    "references": [],
     "taxonomy": {
       "family": "",
       "genus": "",
@@ -3326,8 +3311,8 @@
     "ai_reference_type": null,
     "last_seen": "1972",
     "location": {
-      "lat": -46.9066,
-      "lng": 168.02887
+      "lat": -46.986,
+      "lng": 167.887
     },
     "habitat": "Stewart Island",
     "images": {
@@ -3339,16 +3324,7 @@
       "habitat_text": "",
       "extinction_text": ""
     },
-    "references": [
-      {
-        "label": "Test BirdLife Schweiz",
-        "url": "https://www.birdlife.ch/"
-      },
-      {
-        "label": "Test BirdLife Schweiz",
-        "url": "https://www.birdlife.ch/"
-      }
-    ],
+    "references": [],
     "taxonomy": {
       "family": "",
       "genus": "",
@@ -3486,13 +3462,16 @@
     "name": {
       "de": "Nordinsel-Stummelschwanz",
       "lat": "Pachyplichas jagmi",
-      "en": "North Island Stoutlegged Wren"
+      "en": "North Island Stoutlegged Wren",
+      "lat_alternatives": [
+        "Xenicus jagmi"
+      ]
     },
     "ai_reference_type": null,
     "last_seen": "1400",
     "location": {
-      "lat": -41.00266,
-      "lng": 173.98216
+      "lat": -38.272,
+      "lng": 175.085
     },
     "habitat": "Neuseeland (Nordinsel)",
     "images": {
@@ -3504,16 +3483,7 @@
       "habitat_text": "",
       "extinction_text": ""
     },
-    "references": [
-      {
-        "label": "Test BirdLife Schweiz",
-        "url": "https://www.birdlife.ch/"
-      },
-      {
-        "label": "Test BirdLife Schweiz",
-        "url": "https://www.birdlife.ch/"
-      }
-    ],
+    "references": [],
     "taxonomy": {
       "family": "",
       "genus": "",
@@ -3540,14 +3510,17 @@
     "id": "pachyplichas_yaldwini",
     "name": {
       "de": "Südinsel-Stummelschwanz",
-      "lat": "Pachyplichas yaldwini",
-      "en": "South Island Stoutlegged Wren"
+      "lat": "Pachyplichas yaldwyni",
+      "en": "South Island Stoutlegged Wren",
+      "lat_alternatives": [
+        "Xenicus yaldwyni"
+      ]
     },
     "ai_reference_type": null,
     "last_seen": "1400",
     "location": {
-      "lat": -40.88628,
-      "lng": 174.07577
+      "lat": -41.133,
+      "lng": 172.155
     },
     "habitat": "Neuseeland (Südinsel)",
     "images": {
@@ -3559,16 +3532,7 @@
       "habitat_text": "",
       "extinction_text": ""
     },
-    "references": [
-      {
-        "label": "Test BirdLife Schweiz",
-        "url": "https://www.birdlife.ch/"
-      },
-      {
-        "label": "Test BirdLife Schweiz",
-        "url": "https://www.birdlife.ch/"
-      }
-    ],
+    "references": [],
     "taxonomy": {
       "family": "",
       "genus": "",
@@ -3766,8 +3730,8 @@
     "ai_reference_type": null,
     "last_seen": "14. oder 15. Jhrdt.",
     "location": {
-      "lat": -40.92556,
-      "lng": 174.00536
+      "lat": -38.137,
+      "lng": 176.25
     },
     "habitat": "Neuseeland (Nordinsel)",
     "images": {
@@ -3779,16 +3743,7 @@
       "habitat_text": "",
       "extinction_text": ""
     },
-    "references": [
-      {
-        "label": "Test BirdLife Schweiz",
-        "url": "https://www.birdlife.ch/"
-      },
-      {
-        "label": "Test BirdLife Schweiz",
-        "url": "https://www.birdlife.ch/"
-      }
-    ],
+    "references": [],
     "taxonomy": {
       "family": "",
       "genus": "",
@@ -3876,8 +3831,8 @@
     "ai_reference_type": null,
     "last_seen": "14. oder 15. Jhrdt.",
     "location": {
-      "lat": -41.00555,
-      "lng": 173.93854
+      "lat": -43.515,
+      "lng": 172.205
     },
     "habitat": "Neuseeland (Südinsel)",
     "images": {
@@ -3889,16 +3844,7 @@
       "habitat_text": "",
       "extinction_text": ""
     },
-    "references": [
-      {
-        "label": "Test BirdLife Schweiz",
-        "url": "https://www.birdlife.ch/"
-      },
-      {
-        "label": "Test BirdLife Schweiz",
-        "url": "https://www.birdlife.ch/"
-      }
-    ],
+    "references": [],
     "taxonomy": {
       "family": "",
       "genus": "",
@@ -3931,8 +3877,8 @@
     "ai_reference_type": null,
     "last_seen": "14. oder 15. Jhrdt.",
     "location": {
-      "lat": -41.05379,
-      "lng": 173.94478
+      "lat": -38.802,
+      "lng": 175.891
     },
     "habitat": "Neuseeland",
     "images": {
@@ -3944,16 +3890,7 @@
       "habitat_text": "",
       "extinction_text": ""
     },
-    "references": [
-      {
-        "label": "Test BirdLife Schweiz",
-        "url": "https://www.birdlife.ch/"
-      },
-      {
-        "label": "Test BirdLife Schweiz",
-        "url": "https://www.birdlife.ch/"
-      }
-    ],
+    "references": [],
     "taxonomy": {
       "family": "",
       "genus": "",
@@ -3986,8 +3923,8 @@
     "ai_reference_type": null,
     "last_seen": "14. oder 15. Jhrdt.",
     "location": {
-      "lat": -41.04247,
-      "lng": 173.98089
+      "lat": -39.558,
+      "lng": 176.732
     },
     "habitat": "Neuseeland (Nordinsel)",
     "images": {
@@ -3999,16 +3936,7 @@
       "habitat_text": "",
       "extinction_text": ""
     },
-    "references": [
-      {
-        "label": "Test BirdLife Schweiz",
-        "url": "https://www.birdlife.ch/"
-      },
-      {
-        "label": "Test BirdLife Schweiz",
-        "url": "https://www.birdlife.ch/"
-      }
-    ],
+    "references": [],
     "taxonomy": {
       "family": "",
       "genus": "",
@@ -4151,8 +4079,8 @@
     "ai_reference_type": null,
     "last_seen": "14. oder 15. Jhrdt.",
     "location": {
-      "lat": -41.00779,
-      "lng": 174.07238
+      "lat": -43.585,
+      "lng": 171.79
     },
     "habitat": "Neuseeland",
     "images": {
@@ -4164,16 +4092,7 @@
       "habitat_text": "",
       "extinction_text": ""
     },
-    "references": [
-      {
-        "label": "Test BirdLife Schweiz",
-        "url": "https://www.birdlife.ch/"
-      },
-      {
-        "label": "Test BirdLife Schweiz",
-        "url": "https://www.birdlife.ch/"
-      }
-    ],
+    "references": [],
     "taxonomy": {
       "family": "",
       "genus": "",
@@ -4261,8 +4180,8 @@
     "ai_reference_type": null,
     "last_seen": "1400",
     "location": {
-      "lat": -40.97301,
-      "lng": 173.92986
+      "lat": -45.146,
+      "lng": 170.541
     },
     "habitat": "Neuseeland (Südinsel)",
     "images": {
@@ -4274,16 +4193,7 @@
       "habitat_text": "",
       "extinction_text": ""
     },
-    "references": [
-      {
-        "label": "Test BirdLife Schweiz",
-        "url": "https://www.birdlife.ch/"
-      },
-      {
-        "label": "Test BirdLife Schweiz",
-        "url": "https://www.birdlife.ch/"
-      }
-    ],
+    "references": [],
     "taxonomy": {
       "family": "",
       "genus": "",
@@ -5207,8 +5117,8 @@
     "ai_reference_type": null,
     "last_seen": "1902",
     "location": {
-      "lat": -50.79792,
-      "lng": 166.11158
+      "lat": -50.744,
+      "lng": 166.11
     },
     "habitat": "Aucklandinseln",
     "images": {
@@ -5220,16 +5130,7 @@
       "habitat_text": "",
       "extinction_text": ""
     },
-    "references": [
-      {
-        "label": "Test BirdLife Schweiz",
-        "url": "https://www.birdlife.ch/"
-      },
-      {
-        "label": "Test BirdLife Schweiz",
-        "url": "https://www.birdlife.ch/"
-      }
-    ],
+    "references": [],
     "taxonomy": {
       "family": "",
       "genus": "",
@@ -6197,8 +6098,8 @@
     "ai_reference_type": null,
     "last_seen": "1906",
     "location": {
-      "lat": -43.95713,
-      "lng": -176.62551
+      "lat": -43.94,
+      "lng": -176.585
     },
     "habitat": "Chathaminseln",
     "images": {
@@ -6210,16 +6111,7 @@
       "habitat_text": "",
       "extinction_text": ""
     },
-    "references": [
-      {
-        "label": "Test BirdLife Schweiz",
-        "url": "https://www.birdlife.ch/"
-      },
-      {
-        "label": "Test BirdLife Schweiz",
-        "url": "https://www.birdlife.ch/"
-      }
-    ],
+    "references": [],
     "taxonomy": {
       "family": "",
       "genus": "",
@@ -6247,13 +6139,16 @@
     "name": {
       "de": "Chathamfarnsänger",
       "lat": "Megalurus rufescens",
-      "en": "Chatham Fernbird"
+      "en": "Chatham Fernbird",
+      "lat_alternatives": [
+        "Poodytes rufescens"
+      ]
     },
     "ai_reference_type": null,
     "last_seen": "1900",
     "location": {
-      "lat": -43.86426,
-      "lng": -176.58209
+      "lat": -43.902,
+      "lng": -176.66
     },
     "habitat": "Chathaminseln",
     "images": {
@@ -6265,16 +6160,7 @@
       "habitat_text": "",
       "extinction_text": ""
     },
-    "references": [
-      {
-        "label": "Test BirdLife Schweiz",
-        "url": "https://www.birdlife.ch/"
-      },
-      {
-        "label": "Test BirdLife Schweiz",
-        "url": "https://www.birdlife.ch/"
-      }
-    ],
+    "references": [],
     "taxonomy": {
       "family": "",
       "genus": "",
@@ -6302,13 +6188,16 @@
     "name": {
       "de": "Chathamralle",
       "lat": "Gallirallus modestus",
-      "en": "Chatham Rail"
+      "en": "Chatham Rail",
+      "lat_alternatives": [
+        "Cabalus modestus"
+      ]
     },
     "ai_reference_type": null,
     "last_seen": "1900",
     "location": {
-      "lat": -43.98182,
-      "lng": -176.53379
+      "lat": -43.925,
+      "lng": -176.552
     },
     "habitat": "Chathaminseln",
     "images": {
@@ -6320,16 +6209,7 @@
       "habitat_text": "",
       "extinction_text": ""
     },
-    "references": [
-      {
-        "label": "Test BirdLife Schweiz",
-        "url": "https://www.birdlife.ch/"
-      },
-      {
-        "label": "Test BirdLife Schweiz",
-        "url": "https://www.birdlife.ch/"
-      }
-    ],
+    "references": [],
     "taxonomy": {
       "family": "",
       "genus": "",
@@ -6632,13 +6512,16 @@
     "name": {
       "de": "Dieffenbach-Ralle",
       "lat": "Hypotaenidia dieffenbachii",
-      "en": "Dieffenbach’s Rail"
+      "en": "Dieffenbach’s Rail",
+      "lat_alternatives": [
+        "Gallirallus dieffenbachii"
+      ]
     },
     "ai_reference_type": null,
     "last_seen": "1840",
     "location": {
-      "lat": -43.87046,
-      "lng": -176.54455
+      "lat": -43.908,
+      "lng": -176.512
     },
     "habitat": "Chathaminseln",
     "images": {
@@ -6650,16 +6533,7 @@
       "habitat_text": "",
       "extinction_text": ""
     },
-    "references": [
-      {
-        "label": "Test BirdLife Schweiz",
-        "url": "https://www.birdlife.ch/"
-      },
-      {
-        "label": "Test BirdLife Schweiz",
-        "url": "https://www.birdlife.ch/"
-      }
-    ],
+    "references": [],
     "taxonomy": {
       "family": "",
       "genus": "",
@@ -7084,8 +6958,8 @@
     "ai_reference_type": null,
     "last_seen": "1870 ?",
     "location": {
-      "lat": -41.07725,
-      "lng": 174.02824
+      "lat": -44.45,
+      "lng": 169.238
     },
     "habitat": "Neuseeland",
     "images": {
@@ -7097,16 +6971,7 @@
       "habitat_text": "",
       "extinction_text": ""
     },
-    "references": [
-      {
-        "label": "Test BirdLife Schweiz",
-        "url": "https://www.birdlife.ch/"
-      },
-      {
-        "label": "Test BirdLife Schweiz",
-        "url": "https://www.birdlife.ch/"
-      }
-    ],
+    "references": [],
     "taxonomy": {
       "family": "",
       "genus": "",
@@ -8005,7 +7870,7 @@
         "url": "https://hbs.bpbmwebdata.org/birds/rlp-monograph/pdfs/08-DREP/LEAK.pdf"
       },
       {
-        "label": "Hawaii Division of Forestry and Wildlife (DLNR): Lesser ʻakialoa ",
+        "label": "Hawaii Division of Forestry and Wildlife (DLNR): Lesser ʻakialoa ",
         "url": "https://dlnr.hawaii.gov/wildlife/birds/lesser-akialoa/"
       },
       {
@@ -8212,8 +8077,8 @@
     "ai_reference_type": null,
     "last_seen": "19. Jhrdt.",
     "location": {
-      "lat": -44.0053,
-      "lng": -176.62903
+      "lat": -43.965,
+      "lng": -176.59
     },
     "habitat": "Chathaminseln",
     "images": {
@@ -8225,16 +8090,7 @@
       "habitat_text": "",
       "extinction_text": ""
     },
-    "references": [
-      {
-        "label": "Test BirdLife Schweiz",
-        "url": "https://www.birdlife.ch/"
-      },
-      {
-        "label": "Test BirdLife Schweiz",
-        "url": "https://www.birdlife.ch/"
-      }
-    ],
+    "references": [],
     "taxonomy": {
       "family": "",
       "genus": "",
@@ -8487,8 +8343,8 @@
     "ai_reference_type": null,
     "last_seen": "20. Jhrdt.",
     "location": {
-      "lat": -40.97992,
-      "lng": 173.99167
+      "lat": -39.662,
+      "lng": 175.821
     },
     "habitat": "Neuseeland (Nordinsel)",
     "images": {
@@ -8500,16 +8356,7 @@
       "habitat_text": "",
       "extinction_text": ""
     },
-    "references": [
-      {
-        "label": "Test BirdLife Schweiz",
-        "url": "https://www.birdlife.ch/"
-      },
-      {
-        "label": "Test BirdLife Schweiz",
-        "url": "https://www.birdlife.ch/"
-      }
-    ],
+    "references": [],
     "taxonomy": {
       "family": "",
       "genus": "",
@@ -8542,8 +8389,8 @@
     "ai_reference_type": null,
     "last_seen": "13. Jhrdt. ?",
     "location": {
-      "lat": -41.0151,
-      "lng": 174.01108
+      "lat": -39.096,
+      "lng": 175.506
     },
     "habitat": "Neuseeland",
     "images": {
@@ -8555,16 +8402,7 @@
       "habitat_text": "",
       "extinction_text": ""
     },
-    "references": [
-      {
-        "label": "Test BirdLife Schweiz",
-        "url": "https://www.birdlife.ch/"
-      },
-      {
-        "label": "Test BirdLife Schweiz",
-        "url": "https://www.birdlife.ch/"
-      }
-    ],
+    "references": [],
     "taxonomy": {
       "family": "",
       "genus": "",
@@ -8597,8 +8435,8 @@
     "ai_reference_type": null,
     "last_seen": "19. Jhrdt.",
     "location": {
-      "lat": -43.97507,
-      "lng": -176.62272
+      "lat": -43.987,
+      "lng": -176.645
     },
     "habitat": "Chathaminseln",
     "images": {
@@ -8610,16 +8448,7 @@
       "habitat_text": "",
       "extinction_text": ""
     },
-    "references": [
-      {
-        "label": "Test BirdLife Schweiz",
-        "url": "https://www.birdlife.ch/"
-      },
-      {
-        "label": "Test BirdLife Schweiz",
-        "url": "https://www.birdlife.ch/"
-      }
-    ],
+    "references": [],
     "taxonomy": {
       "family": "",
       "genus": "",
@@ -9292,8 +9121,8 @@
     "ai_reference_type": null,
     "last_seen": "um 1500",
     "location": {
-      "lat": -40.90213,
-      "lng": 174.00167
+      "lat": -43.68,
+      "lng": 172.302
     },
     "habitat": "Neuseeland (Südinsel)",
     "images": {
@@ -9305,16 +9134,7 @@
       "habitat_text": "",
       "extinction_text": ""
     },
-    "references": [
-      {
-        "label": "Test BirdLife Schweiz",
-        "url": "https://www.birdlife.ch/"
-      },
-      {
-        "label": "Test BirdLife Schweiz",
-        "url": "https://www.birdlife.ch/"
-      }
-    ],
+    "references": [],
     "taxonomy": {
       "family": "",
       "genus": "",
@@ -9949,7 +9769,7 @@
         "url": "https://hbs.bishopmuseum.org/birds/rlp-monograph/pdfs/08-drep/mnak.pdf"
       },
       {
-        "label": "Hawaii Division of Forestry and Wildlife (DLNR): Maui Nui ʻakialoa ",
+        "label": "Hawaii Division of Forestry and Wildlife (DLNR): Maui Nui ʻakialoa ",
         "url": "https://dlnr.hawaii.gov/wildlife/birds/maui-nui-akialoa/"
       },
       {
@@ -10132,8 +9952,8 @@
     "ai_reference_type": null,
     "last_seen": "?",
     "location": {
-      "lat": -41.00803,
-      "lng": 174.01025
+      "lat": -44.236,
+      "lng": 169.182
     },
     "habitat": "Neuseeland",
     "images": {
@@ -10145,16 +9965,7 @@
       "habitat_text": "",
       "extinction_text": ""
     },
-    "references": [
-      {
-        "label": "Test BirdLife Schweiz",
-        "url": "https://www.birdlife.ch/"
-      },
-      {
-        "label": "Test BirdLife Schweiz",
-        "url": "https://www.birdlife.ch/"
-      }
-    ],
+    "references": [],
     "taxonomy": {
       "family": "",
       "genus": "",
@@ -12813,8 +12624,8 @@
     "ai_reference_type": null,
     "last_seen": "1875",
     "location": {
-      "lat": -41.00862,
-      "lng": 174.03146
+      "lat": -37.781,
+      "lng": 175.29
     },
     "habitat": "Neuseeland",
     "images": {
@@ -12826,16 +12637,7 @@
       "habitat_text": "",
       "extinction_text": ""
     },
-    "references": [
-      {
-        "label": "Test BirdLife Schweiz",
-        "url": "https://www.birdlife.ch/"
-      },
-      {
-        "label": "Test BirdLife Schweiz",
-        "url": "https://www.birdlife.ch/"
-      }
-    ],
+    "references": [],
     "taxonomy": {
       "family": "",
       "genus": "",
@@ -12863,13 +12665,16 @@
     "name": {
       "de": "Neuseeländisches Pfuhlhuhn",
       "lat": "Gallinula hodgenorum",
-      "en": "Hodgens‘ Waterhen"
+      "en": "Hodgens‘ Waterhen",
+      "lat_alternatives": [
+        "Tribonyx hodgenorum"
+      ]
     },
     "ai_reference_type": null,
     "last_seen": "18. Jhrdt.",
     "location": {
-      "lat": -41.00429,
-      "lng": 174.10743
+      "lat": -42.405,
+      "lng": 172.151
     },
     "habitat": "Neuseeland",
     "images": {
@@ -12881,16 +12686,7 @@
       "habitat_text": "",
       "extinction_text": ""
     },
-    "references": [
-      {
-        "label": "Test BirdLife Schweiz",
-        "url": "https://www.birdlife.ch/"
-      },
-      {
-        "label": "Test BirdLife Schweiz",
-        "url": "https://www.birdlife.ch/"
-      }
-    ],
+    "references": [],
     "taxonomy": {
       "family": "",
       "genus": "",
@@ -12923,8 +12719,8 @@
     "ai_reference_type": null,
     "last_seen": "1955 ?",
     "location": {
-      "lat": -41.00981,
-      "lng": 173.98777
+      "lat": -37.065,
+      "lng": 175.425
     },
     "habitat": "Neuseeland (Nordinsel)",
     "images": {
@@ -12936,16 +12732,7 @@
       "habitat_text": "",
       "extinction_text": ""
     },
-    "references": [
-      {
-        "label": "Test BirdLife Schweiz",
-        "url": "https://www.birdlife.ch/"
-      },
-      {
-        "label": "Test BirdLife Schweiz",
-        "url": "https://www.birdlife.ch/"
-      }
-    ],
+    "references": [],
     "taxonomy": {
       "family": "",
       "genus": "",
@@ -12978,8 +12765,8 @@
     "ai_reference_type": null,
     "last_seen": "1400 ?",
     "location": {
-      "lat": -41.01241,
-      "lng": 173.9342
+      "lat": -38.692,
+      "lng": 176.071
     },
     "habitat": "Neuseeland (Nordinsel)",
     "images": {
@@ -12991,16 +12778,7 @@
       "habitat_text": "",
       "extinction_text": ""
     },
-    "references": [
-      {
-        "label": "Test BirdLife Schweiz",
-        "url": "https://www.birdlife.ch/"
-      },
-      {
-        "label": "Test BirdLife Schweiz",
-        "url": "https://www.birdlife.ch/"
-      }
-    ],
+    "references": [],
     "taxonomy": {
       "family": "",
       "genus": "",
@@ -13033,8 +12811,8 @@
     "ai_reference_type": null,
     "last_seen": "1870er-Jahre",
     "location": {
-      "lat": -40.93819,
-      "lng": 174.07231
+      "lat": -36.1972,
+      "lng": 175.0788
     },
     "habitat": "Neuseeland (Nordinsel)",
     "images": {
@@ -13046,16 +12824,7 @@
       "habitat_text": "",
       "extinction_text": ""
     },
-    "references": [
-      {
-        "label": "Test BirdLife Schweiz",
-        "url": "https://www.birdlife.ch/"
-      },
-      {
-        "label": "Test BirdLife Schweiz",
-        "url": "https://www.birdlife.ch/"
-      }
-    ],
+    "references": [],
     "taxonomy": {
       "family": "",
       "genus": "",
@@ -13088,8 +12857,8 @@
     "ai_reference_type": null,
     "last_seen": "1894",
     "location": {
-      "lat": -40.97641,
-      "lng": 174.05206
+      "lat": -39.94,
+      "lng": 175.65
     },
     "habitat": "Neuseeland (Nordinsel)",
     "images": {
@@ -13101,16 +12870,7 @@
       "habitat_text": "",
       "extinction_text": ""
     },
-    "references": [
-      {
-        "label": "Test BirdLife Schweiz",
-        "url": "https://www.birdlife.ch/"
-      },
-      {
-        "label": "Test BirdLife Schweiz",
-        "url": "https://www.birdlife.ch/"
-      }
-    ],
+    "references": [],
     "taxonomy": {
       "family": "",
       "genus": "",
@@ -14428,8 +14188,8 @@
     "ai_reference_type": null,
     "last_seen": "1876",
     "location": {
-      "lat": -29.23642,
-      "lng": -177.89773
+      "lat": -29.251,
+      "lng": -177.922
     },
     "habitat": "Raoul Island",
     "images": {
@@ -14441,16 +14201,7 @@
       "habitat_text": "",
       "extinction_text": ""
     },
-    "references": [
-      {
-        "label": "Test BirdLife Schweiz",
-        "url": "https://www.birdlife.ch/"
-      },
-      {
-        "label": "Test BirdLife Schweiz",
-        "url": "https://www.birdlife.ch/"
-      }
-    ],
+    "references": [],
     "taxonomy": {
       "family": "",
       "genus": "",
@@ -14868,8 +14619,8 @@
     "ai_reference_type": null,
     "last_seen": "1895",
     "location": {
-      "lat": -40.57152,
-      "lng": 174.065
+      "lat": -40.6707,
+      "lng": 173.9963
     },
     "habitat": "Stephens Island",
     "images": {
@@ -14881,16 +14632,7 @@
       "habitat_text": "",
       "extinction_text": ""
     },
-    "references": [
-      {
-        "label": "Test BirdLife Schweiz",
-        "url": "https://www.birdlife.ch/"
-      },
-      {
-        "label": "Test BirdLife Schweiz",
-        "url": "https://www.birdlife.ch/"
-      }
-    ],
+    "references": [],
     "taxonomy": {
       "family": "",
       "genus": "",
@@ -14923,8 +14665,8 @@
     "ai_reference_type": null,
     "last_seen": "2007 ?",
     "location": {
-      "lat": -40.9247,
-      "lng": 173.92862
+      "lat": -42.935,
+      "lng": 171.574
     },
     "habitat": "Neuseeland (Südinsel)",
     "images": {
@@ -14936,16 +14678,7 @@
       "habitat_text": "",
       "extinction_text": ""
     },
-    "references": [
-      {
-        "label": "Test BirdLife Schweiz",
-        "url": "https://www.birdlife.ch/"
-      },
-      {
-        "label": "Test BirdLife Schweiz",
-        "url": "https://www.birdlife.ch/"
-      }
-    ],
+    "references": [],
     "taxonomy": {
       "family": "",
       "genus": "",
@@ -14978,8 +14711,8 @@
     "ai_reference_type": null,
     "last_seen": "1960er-Jahre ?",
     "location": {
-      "lat": -41.06183,
-      "lng": 174.04474
+      "lat": -44.04,
+      "lng": 170.475
     },
     "habitat": "Neuseeland (Südinsel)",
     "images": {
@@ -14991,16 +14724,7 @@
       "habitat_text": "",
       "extinction_text": ""
     },
-    "references": [
-      {
-        "label": "Test BirdLife Schweiz",
-        "url": "https://www.birdlife.ch/"
-      },
-      {
-        "label": "Test BirdLife Schweiz",
-        "url": "https://www.birdlife.ch/"
-      }
-    ],
+    "references": [],
     "taxonomy": {
       "family": "",
       "genus": "",
@@ -15033,8 +14757,8 @@
     "ai_reference_type": null,
     "last_seen": "1964",
     "location": {
-      "lat": -44.12804,
-      "lng": 169.93715
+      "lat": -47.2398,
+      "lng": 167.4006
     },
     "habitat": "Neuseeland (Südinsel), Stewart Island",
     "images": {
@@ -15046,16 +14770,7 @@
       "habitat_text": "",
       "extinction_text": ""
     },
-    "references": [
-      {
-        "label": "Test BirdLife Schweiz",
-        "url": "https://www.birdlife.ch/"
-      },
-      {
-        "label": "Test BirdLife Schweiz",
-        "url": "https://www.birdlife.ch/"
-      }
-    ],
+    "references": [],
     "taxonomy": {
       "family": "",
       "genus": "",
@@ -15908,13 +15623,16 @@
     "name": {
       "de": "Waitaha-Pinguin",
       "lat": "Megadyptes waitaha",
-      "en": "Waitaha Penguin"
+      "en": "Waitaha Penguin",
+      "lat_alternatives": [
+        "Megadyptes antipodes waitaha"
+      ]
     },
     "ai_reference_type": null,
     "last_seen": "1500 bis 1550",
     "location": {
-      "lat": -40.9166,
-      "lng": 173.97899
+      "lat": -45.873,
+      "lng": 170.516
     },
     "habitat": "Neuseeland (Südinsel)",
     "images": {
@@ -15926,16 +15644,7 @@
       "habitat_text": "",
       "extinction_text": ""
     },
-    "references": [
-      {
-        "label": "Test BirdLife Schweiz",
-        "url": "https://www.birdlife.ch/"
-      },
-      {
-        "label": "Test BirdLife Schweiz",
-        "url": "https://www.birdlife.ch/"
-      }
-    ],
+    "references": [],
     "taxonomy": {
       "family": "",
       "genus": "",
@@ -16023,8 +15732,8 @@
     "ai_reference_type": null,
     "last_seen": "1500",
     "location": {
-      "lat": -40.99466,
-      "lng": 174.03846
+      "lat": -44.882,
+      "lng": 168.502
     },
     "habitat": "Neuseeland (Südinsel)",
     "images": {
@@ -16036,16 +15745,7 @@
       "habitat_text": "",
       "extinction_text": ""
     },
-    "references": [
-      {
-        "label": "Test BirdLife Schweiz",
-        "url": "https://www.birdlife.ch/"
-      },
-      {
-        "label": "Test BirdLife Schweiz",
-        "url": "https://www.birdlife.ch/"
-      }
-    ],
+    "references": [],
     "taxonomy": {
       "family": "",
       "genus": "",
@@ -16078,8 +15778,8 @@
     "ai_reference_type": null,
     "last_seen": "1972",
     "location": {
-      "lat": -40.99644,
-      "lng": 174.01525
+      "lat": -46.875,
+      "lng": 168.115
     },
     "habitat": "Neuseeland",
     "images": {
@@ -16091,16 +15791,7 @@
       "habitat_text": "",
       "extinction_text": ""
     },
-    "references": [
-      {
-        "label": "Test BirdLife Schweiz",
-        "url": "https://www.birdlife.ch/"
-      },
-      {
-        "label": "Test BirdLife Schweiz",
-        "url": "https://www.birdlife.ch/"
-      }
-    ],
+    "references": [],
     "taxonomy": {
       "family": "",
       "genus": "",
@@ -16261,13 +15952,16 @@
     "name": {
       "de": "Weißwangenkauz",
       "lat": "Sceloglaux albifacies",
-      "en": "Laughing Owl"
+      "en": "Laughing Owl",
+      "lat_alternatives": [
+        "Ninox albifacies"
+      ]
     },
     "ai_reference_type": null,
     "last_seen": "1914 ?",
     "location": {
-      "lat": -43.96764,
-      "lng": 170.0678
+      "lat": -44.722,
+      "lng": 169.142
     },
     "habitat": "Stewart Island, Neuseeland (Südinsel)",
     "images": {
@@ -16279,16 +15973,7 @@
       "habitat_text": "",
       "extinction_text": ""
     },
-    "references": [
-      {
-        "label": "Test BirdLife Schweiz",
-        "url": "https://www.birdlife.ch/"
-      },
-      {
-        "label": "Test BirdLife Schweiz",
-        "url": "https://www.birdlife.ch/"
-      }
-    ],
+    "references": [],
     "taxonomy": {
       "family": "",
       "genus": "",
@@ -16371,13 +16056,16 @@
     "name": {
       "de": "Chatham-Ente",
       "lat": "Pachyanas chathamica",
-      "en": "Chatham Duck"
+      "en": "Chatham Duck",
+      "lat_alternatives": [
+        "Anas chathamica"
+      ]
     },
     "ai_reference_type": null,
     "last_seen": "1350 bis 1791",
     "location": {
-      "lat": -43.90004,
-      "lng": -176.51483
+      "lat": -43.927,
+      "lng": -176.614
     },
     "habitat": "Chathaminseln",
     "images": {
@@ -16389,16 +16077,7 @@
       "habitat_text": "",
       "extinction_text": ""
     },
-    "references": [
-      {
-        "label": "Test BirdLife Schweiz",
-        "url": "https://www.birdlife.ch/"
-      },
-      {
-        "label": "Test BirdLife Schweiz",
-        "url": "https://www.birdlife.ch/"
-      }
-    ],
+    "references": [],
     "taxonomy": {
       "family": "",
       "genus": "",
@@ -16431,8 +16110,8 @@
     "ai_reference_type": null,
     "last_seen": "19. Jhrdt. ?",
     "location": {
-      "lat": -43.92471,
-      "lng": -176.47452
+      "lat": -43.866,
+      "lng": -176.634
     },
     "habitat": "Chathaminseln",
     "images": {
@@ -16444,16 +16123,7 @@
       "habitat_text": "",
       "extinction_text": ""
     },
-    "references": [
-      {
-        "label": "Test BirdLife Schweiz",
-        "url": "https://www.birdlife.ch/"
-      },
-      {
-        "label": "Test BirdLife Schweiz",
-        "url": "https://www.birdlife.ch/"
-      }
-    ],
+    "references": [],
     "taxonomy": {
       "family": "",
       "genus": "",
@@ -16486,8 +16156,8 @@
     "ai_reference_type": null,
     "last_seen": "1550",
     "location": {
-      "lat": -44.01553,
-      "lng": -176.57106
+      "lat": -43.951,
+      "lng": -176.56
     },
     "habitat": "Chathaminseln",
     "images": {
@@ -16499,16 +16169,7 @@
       "habitat_text": "",
       "extinction_text": ""
     },
-    "references": [
-      {
-        "label": "Test BirdLife Schweiz",
-        "url": "https://www.birdlife.ch/"
-      },
-      {
-        "label": "Test BirdLife Schweiz",
-        "url": "https://www.birdlife.ch/"
-      }
-    ],
+    "references": [],
     "taxonomy": {
       "family": "",
       "genus": "",
@@ -18461,13 +18122,16 @@
     "name": {
       "de": "Rotwangenkauz",
       "lat": "Sceloglaux albifacies rufifacies",
-      "en": "Rufous-faced Owl"
+      "en": "Rufous-faced Owl",
+      "lat_alternatives": [
+        "Ninox albifacies rufifacies"
+      ]
     },
     "ai_reference_type": null,
     "last_seen": "1870er-Jahre ?",
     "location": {
-      "lat": -40.97182,
-      "lng": 173.96695
+      "lat": -38.28,
+      "lng": 175.529
     },
     "habitat": "Neuseeland (Nordinsel)",
     "images": {
@@ -18479,16 +18143,7 @@
       "habitat_text": "",
       "extinction_text": ""
     },
-    "references": [
-      {
-        "label": "Test BirdLife Schweiz",
-        "url": "https://www.birdlife.ch/"
-      },
-      {
-        "label": "Test BirdLife Schweiz",
-        "url": "https://www.birdlife.ch/"
-      }
-    ],
+    "references": [],
     "taxonomy": {
       "family": "",
       "genus": "",
@@ -19478,8 +19133,8 @@
     "ai_reference_type": null,
     "last_seen": "1396 bis 1442",
     "location": {
-      "lat": -40.92498,
-      "lng": 173.92064
+      "lat": -42.756,
+      "lng": 171.594
     },
     "habitat": "Neuseeland",
     "images": {
@@ -19491,16 +19146,7 @@
       "habitat_text": "",
       "extinction_text": ""
     },
-    "references": [
-      {
-        "label": "Test BirdLife Schweiz",
-        "url": "https://www.birdlife.ch/"
-      },
-      {
-        "label": "Test BirdLife Schweiz",
-        "url": "https://www.birdlife.ch/"
-      }
-    ],
+    "references": [],
     "taxonomy": {
       "family": "",
       "genus": "",
@@ -19713,8 +19359,8 @@
     "ai_reference_type": null,
     "last_seen": "19. Jhrdt.",
     "location": {
-      "lat": -40.92535,
-      "lng": 174.10011
+      "lat": -40.357,
+      "lng": 175.607
     },
     "habitat": "Neuseeland, Chathaminseln",
     "images": {
@@ -19726,16 +19372,7 @@
       "habitat_text": "",
       "extinction_text": ""
     },
-    "references": [
-      {
-        "label": "Test BirdLife Schweiz",
-        "url": "https://www.birdlife.ch/"
-      },
-      {
-        "label": "Test BirdLife Schweiz",
-        "url": "https://www.birdlife.ch/"
-      }
-    ],
+    "references": [],
     "taxonomy": {
       "family": "",
       "genus": "",
@@ -20153,8 +19790,8 @@
     "ai_reference_type": null,
     "last_seen": "zw. 1400 und 1500 ?",
     "location": {
-      "lat": -43.8925,
-      "lng": -176.61086
+      "lat": -43.883,
+      "lng": -176.608
     },
     "habitat": "Chathaminseln",
     "images": {
@@ -20166,16 +19803,7 @@
       "habitat_text": "",
       "extinction_text": ""
     },
-    "references": [
-      {
-        "label": "Test BirdLife Schweiz",
-        "url": "https://www.birdlife.ch/"
-      },
-      {
-        "label": "Test BirdLife Schweiz",
-        "url": "https://www.birdlife.ch/"
-      }
-    ],
+    "references": [],
     "taxonomy": {
       "family": "",
       "genus": "",
@@ -21210,8 +20838,8 @@
     "ai_reference_type": null,
     "last_seen": "1897",
     "location": {
-      "lat": -40.98736,
-      "lng": 174.01155
+      "lat": -40.6722,
+      "lng": 173.9981
     },
     "habitat": "Neuseeland, Stephens Island",
     "images": {
@@ -21223,16 +20851,7 @@
       "habitat_text": "",
       "extinction_text": ""
     },
-    "references": [
-      {
-        "label": "Test BirdLife Schweiz",
-        "url": "https://www.birdlife.ch/"
-      },
-      {
-        "label": "Test BirdLife Schweiz",
-        "url": "https://www.birdlife.ch/"
-      }
-    ],
+    "references": [],
     "taxonomy": {
       "family": "",
       "genus": "",
@@ -21265,8 +20884,8 @@
     "ai_reference_type": null,
     "last_seen": "14. oder 15. Jhrdt. ?",
     "location": {
-      "lat": -40.9489,
-      "lng": 173.99655
+      "lat": -45.563,
+      "lng": 169.315
     },
     "habitat": "Neuseeland (Südinsel)",
     "images": {
@@ -21278,16 +20897,7 @@
       "habitat_text": "",
       "extinction_text": ""
     },
-    "references": [
-      {
-        "label": "Test BirdLife Schweiz",
-        "url": "https://www.birdlife.ch/"
-      },
-      {
-        "label": "Test BirdLife Schweiz",
-        "url": "https://www.birdlife.ch/"
-      }
-    ],
+    "references": [],
     "taxonomy": {
       "family": "",
       "genus": "",
@@ -21320,8 +20930,8 @@
     "ai_reference_type": null,
     "last_seen": "15. Jhrdt.",
     "location": {
-      "lat": -40.95898,
-      "lng": 173.99605
+      "lat": -36.731,
+      "lng": 174.755
     },
     "habitat": "Neuseeland",
     "images": {
@@ -21333,16 +20943,7 @@
       "habitat_text": "",
       "extinction_text": ""
     },
-    "references": [
-      {
-        "label": "Test BirdLife Schweiz",
-        "url": "https://www.birdlife.ch/"
-      },
-      {
-        "label": "Test BirdLife Schweiz",
-        "url": "https://www.birdlife.ch/"
-      }
-    ],
+    "references": [],
     "taxonomy": {
       "family": "",
       "genus": "",
@@ -21540,8 +21141,8 @@
     "ai_reference_type": null,
     "last_seen": "1550 ?",
     "location": {
-      "lat": -43.91606,
-      "lng": -176.51017
+      "lat": -43.979,
+      "lng": -176.554
     },
     "habitat": "Chathaminseln",
     "images": {
@@ -21553,16 +21154,7 @@
       "habitat_text": "",
       "extinction_text": ""
     },
-    "references": [
-      {
-        "label": "Test BirdLife Schweiz",
-        "url": "https://www.birdlife.ch/"
-      },
-      {
-        "label": "Test BirdLife Schweiz",
-        "url": "https://www.birdlife.ch/"
-      }
-    ],
+    "references": [],
     "taxonomy": {
       "family": "",
       "genus": "",
@@ -21595,8 +21187,8 @@
     "ai_reference_type": null,
     "last_seen": "1590",
     "location": {
-      "lat": -44.0027,
-      "lng": -176.51456
+      "lat": -43.947,
+      "lng": -176.628
     },
     "habitat": "Chathaminseln",
     "images": {
@@ -21608,16 +21200,7 @@
       "habitat_text": "",
       "extinction_text": ""
     },
-    "references": [
-      {
-        "label": "Test BirdLife Schweiz",
-        "url": "https://www.birdlife.ch/"
-      },
-      {
-        "label": "Test BirdLife Schweiz",
-        "url": "https://www.birdlife.ch/"
-      }
-    ],
+    "references": [],
     "taxonomy": {
       "family": "",
       "genus": "",
@@ -23124,6 +22707,655 @@
       "range_hypothetical": null,
       "passage": null
     }
+  },
+  {
+    "id": "biziura_delautouri",
+    "name": {
+      "de": "Neuseeland-Moschusente",
+      "lat": "Biziura delautouri",
+      "en": "New Zealand musk duck"
+    },
+    "ai_reference_type": null,
+    "last_seen": "1300–1500",
+    "location": {
+      "lat": -38.38,
+      "lng": 175.98
+    },
+    "habitat": "Neuseeland (Nord- und Südinsel)",
+    "images": {
+      "tooltip": "",
+      "panel": ""
+    },
+    "panel": {
+      "description": "",
+      "habitat_text": "",
+      "extinction_text": ""
+    },
+    "references": [],
+    "taxonomy": {
+      "family": "Entenvögel (Anatidae)",
+      "genus": "Biziura",
+      "family_key": "anatidae",
+      "genus_key": "biziura"
+    },
+    "ranges": {
+      "range_native": null,
+      "breeding_native": null,
+      "range_hypothetical": null,
+      "passage": null,
+      "breeding_spots": null,
+      "find_spots": null,
+      "last_observation": null
+    },
+    "range_popups": {
+      "range_native": null,
+      "breeding_native": null,
+      "range_hypothetical": null,
+      "passage": null
+    }
+  },
+  {
+    "id": "malacorhynchus_scarletti",
+    "name": {
+      "de": "Scarlettente",
+      "lat": "Malacorhynchus scarletti",
+      "en": "Scarlett's duck"
+    },
+    "ai_reference_type": null,
+    "last_seen": "1300–1600",
+    "location": {
+      "lat": -44.022,
+      "lng": 170.328
+    },
+    "habitat": "Neuseeland (Nord- und Südinsel)",
+    "images": {
+      "tooltip": "",
+      "panel": ""
+    },
+    "panel": {
+      "description": "",
+      "habitat_text": "",
+      "extinction_text": ""
+    },
+    "references": [],
+    "taxonomy": {
+      "family": "Entenvögel (Anatidae)",
+      "genus": "Malacorhynchus",
+      "family_key": "anatidae",
+      "genus_key": "malacorhynchus"
+    },
+    "ranges": {
+      "range_native": null,
+      "breeding_native": null,
+      "range_hypothetical": null,
+      "passage": null,
+      "breeding_spots": null,
+      "find_spots": null,
+      "last_observation": null
+    },
+    "range_popups": {
+      "range_native": null,
+      "breeding_native": null,
+      "range_hypothetical": null,
+      "passage": null
+    }
+  },
+  {
+    "id": "oxyura_vantetsi",
+    "name": {
+      "de": "Neuseeland-Ruderente",
+      "lat": "Oxyura vantetsi",
+      "en": "New Zealand blue-billed duck"
+    },
+    "ai_reference_type": null,
+    "last_seen": "1300–1500",
+    "location": {
+      "lat": -38.034,
+      "lng": 175.471
+    },
+    "habitat": "Neuseeland (Nord- und Südinsel)",
+    "images": {
+      "tooltip": "",
+      "panel": ""
+    },
+    "panel": {
+      "description": "",
+      "habitat_text": "",
+      "extinction_text": ""
+    },
+    "references": [],
+    "taxonomy": {
+      "family": "Entenvögel (Anatidae)",
+      "genus": "Oxyura",
+      "family_key": "anatidae",
+      "genus_key": "oxyura"
+    },
+    "ranges": {
+      "range_native": null,
+      "breeding_native": null,
+      "range_hypothetical": null,
+      "passage": null,
+      "breeding_spots": null,
+      "find_spots": null,
+      "last_observation": null
+    },
+    "range_popups": {
+      "range_native": null,
+      "breeding_native": null,
+      "range_hypothetical": null,
+      "passage": null
+    }
+  },
+  {
+    "id": "aptornis_defossor",
+    "name": {
+      "de": "Südinsel-Adzebill",
+      "lat": "Aptornis defossor",
+      "en": "South Island adzebill"
+    },
+    "ai_reference_type": null,
+    "last_seen": "1300–1500",
+    "location": {
+      "lat": -44.195,
+      "lng": 170.002
+    },
+    "habitat": "Neuseeland (Südinsel)",
+    "images": {
+      "tooltip": "",
+      "panel": ""
+    },
+    "panel": {
+      "description": "",
+      "habitat_text": "",
+      "extinction_text": ""
+    },
+    "references": [],
+    "taxonomy": {
+      "family": "Adzebills (Aptornithidae)",
+      "genus": "Aptornis",
+      "family_key": "aptornithidae",
+      "genus_key": "aptornis"
+    },
+    "ranges": {
+      "range_native": null,
+      "breeding_native": null,
+      "range_hypothetical": null,
+      "passage": null,
+      "breeding_spots": null,
+      "find_spots": null,
+      "last_observation": null
+    },
+    "range_popups": {
+      "range_native": null,
+      "breeding_native": null,
+      "range_hypothetical": null,
+      "passage": null
+    }
+  },
+  {
+    "id": "aptornis_otidiformis",
+    "name": {
+      "de": "Nordinsel-Adzebill",
+      "lat": "Aptornis otidiformis",
+      "en": "North Island adzebill"
+    },
+    "ai_reference_type": null,
+    "last_seen": "1300–1500",
+    "location": {
+      "lat": -39.71,
+      "lng": 175.05
+    },
+    "habitat": "Neuseeland (Nordinsel)",
+    "images": {
+      "tooltip": "",
+      "panel": ""
+    },
+    "panel": {
+      "description": "",
+      "habitat_text": "",
+      "extinction_text": ""
+    },
+    "references": [],
+    "taxonomy": {
+      "family": "Adzebills (Aptornithidae)",
+      "genus": "Aptornis",
+      "family_key": "aptornithidae",
+      "genus_key": "aptornis"
+    },
+    "ranges": {
+      "range_native": null,
+      "breeding_native": null,
+      "range_hypothetical": null,
+      "passage": null,
+      "breeding_spots": null,
+      "find_spots": null,
+      "last_observation": null
+    },
+    "range_popups": {
+      "range_native": null,
+      "breeding_native": null,
+      "range_hypothetical": null,
+      "passage": null
+    }
+  },
+  {
+    "id": "capellirallus_karamu",
+    "name": {
+      "de": "Schnepfenralle",
+      "lat": "Capellirallus karamu",
+      "en": "Snipe-rail"
+    },
+    "ai_reference_type": null,
+    "last_seen": "1300–1500",
+    "location": {
+      "lat": -38.256,
+      "lng": 175.121
+    },
+    "habitat": "Neuseeland (Nordinsel)",
+    "images": {
+      "tooltip": "",
+      "panel": ""
+    },
+    "panel": {
+      "description": "",
+      "habitat_text": "",
+      "extinction_text": ""
+    },
+    "references": [],
+    "taxonomy": {
+      "family": "Rallen (Rallidae)",
+      "genus": "Capellirallus",
+      "family_key": "rallidae",
+      "genus_key": "capellirallus"
+    },
+    "ranges": {
+      "range_native": null,
+      "breeding_native": null,
+      "range_hypothetical": null,
+      "passage": null,
+      "breeding_spots": null,
+      "find_spots": null,
+      "last_observation": null
+    },
+    "range_popups": {
+      "range_native": null,
+      "breeding_native": null,
+      "range_hypothetical": null,
+      "passage": null
+    }
+  },
+  {
+    "id": "fulica_chathamensis",
+    "name": {
+      "de": "Chatham-Blässhuhn",
+      "lat": "Fulica chathamensis",
+      "en": "Chatham Island coot"
+    },
+    "ai_reference_type": null,
+    "last_seen": "1500–1700",
+    "location": {
+      "lat": -43.947,
+      "lng": -176.536
+    },
+    "habitat": "Chathaminseln",
+    "images": {
+      "tooltip": "",
+      "panel": ""
+    },
+    "panel": {
+      "description": "",
+      "habitat_text": "",
+      "extinction_text": ""
+    },
+    "references": [],
+    "taxonomy": {
+      "family": "Rallen (Rallidae)",
+      "genus": "Fulica",
+      "family_key": "rallidae",
+      "genus_key": "fulica"
+    },
+    "ranges": {
+      "range_native": null,
+      "breeding_native": null,
+      "range_hypothetical": null,
+      "passage": null,
+      "breeding_spots": null,
+      "find_spots": null,
+      "last_observation": null
+    },
+    "range_popups": {
+      "range_native": null,
+      "breeding_native": null,
+      "range_hypothetical": null,
+      "passage": null
+    }
+  },
+  {
+    "id": "fulica_prisca",
+    "name": {
+      "de": "Neuseeland-Blässhuhn",
+      "lat": "Fulica prisca",
+      "en": "New Zealand coot"
+    },
+    "ai_reference_type": null,
+    "last_seen": "1300–1500",
+    "location": {
+      "lat": -43.294,
+      "lng": 172.355
+    },
+    "habitat": "Neuseeland (Nord- und Südinsel)",
+    "images": {
+      "tooltip": "",
+      "panel": ""
+    },
+    "panel": {
+      "description": "",
+      "habitat_text": "",
+      "extinction_text": ""
+    },
+    "references": [],
+    "taxonomy": {
+      "family": "Rallen (Rallidae)",
+      "genus": "Fulica",
+      "family_key": "rallidae",
+      "genus_key": "fulica"
+    },
+    "ranges": {
+      "range_native": null,
+      "breeding_native": null,
+      "range_hypothetical": null,
+      "passage": null,
+      "breeding_spots": null,
+      "find_spots": null,
+      "last_observation": null
+    },
+    "range_popups": {
+      "range_native": null,
+      "breeding_native": null,
+      "range_hypothetical": null,
+      "passage": null
+    }
+  },
+  {
+    "id": "aegotheles_novaezealandiae",
+    "name": {
+      "de": "Neuseeland-Eulenschwalm",
+      "lat": "Aegotheles novaezealandiae",
+      "en": "New Zealand owlet-nightjar"
+    },
+    "ai_reference_type": null,
+    "last_seen": "1300–1500",
+    "location": {
+      "lat": -38.443,
+      "lng": 175.088
+    },
+    "habitat": "Neuseeland (Nord- und Südinsel)",
+    "images": {
+      "tooltip": "",
+      "panel": ""
+    },
+    "panel": {
+      "description": "",
+      "habitat_text": "",
+      "extinction_text": ""
+    },
+    "references": [],
+    "taxonomy": {
+      "family": "Eulenschwalme (Aegothelidae)",
+      "genus": "Aegotheles",
+      "family_key": "aegothelidae",
+      "genus_key": "aegotheles"
+    },
+    "ranges": {
+      "range_native": null,
+      "breeding_native": null,
+      "range_hypothetical": null,
+      "passage": null,
+      "breeding_spots": null,
+      "find_spots": null,
+      "last_observation": null
+    },
+    "range_popups": {
+      "range_native": null,
+      "breeding_native": null,
+      "range_hypothetical": null,
+      "passage": null
+    }
+  },
+  {
+    "id": "eudyptes_warhami",
+    "name": {
+      "de": "Chatham-Schopfpinguin",
+      "lat": "Eudyptes warhami",
+      "en": "Chatham Island crested penguin"
+    },
+    "ai_reference_type": null,
+    "last_seen": "1500–1800",
+    "location": {
+      "lat": -43.959,
+      "lng": -176.66
+    },
+    "habitat": "Chathaminseln",
+    "images": {
+      "tooltip": "",
+      "panel": ""
+    },
+    "panel": {
+      "description": "",
+      "habitat_text": "",
+      "extinction_text": ""
+    },
+    "references": [],
+    "taxonomy": {
+      "family": "Pinguine (Spheniscidae)",
+      "genus": "Eudyptes",
+      "family_key": "spheniscidae",
+      "genus_key": "eudyptes"
+    },
+    "ranges": {
+      "range_native": null,
+      "breeding_native": null,
+      "range_hypothetical": null,
+      "passage": null,
+      "breeding_spots": null,
+      "find_spots": null,
+      "last_observation": null
+    },
+    "range_popups": {
+      "range_native": null,
+      "breeding_native": null,
+      "range_hypothetical": null,
+      "passage": null
+    }
+  },
+  {
+    "id": "leucocarbo_septentrionalis",
+    "name": {
+      "de": "Kōhatu-Scharbe",
+      "lat": "Leucocarbo septentrionalis",
+      "en": "Kōhatu shag"
+    },
+    "ai_reference_type": null,
+    "last_seen": "1300–1700",
+    "location": {
+      "lat": -34.969,
+      "lng": 173.354
+    },
+    "habitat": "Neuseeland (Nordinsel)",
+    "images": {
+      "tooltip": "",
+      "panel": ""
+    },
+    "panel": {
+      "description": "",
+      "habitat_text": "",
+      "extinction_text": ""
+    },
+    "references": [],
+    "taxonomy": {
+      "family": "Kormorane (Phalacrocoracidae)",
+      "genus": "Leucocarbo",
+      "family_key": "phalacrocoracidae",
+      "genus_key": "leucocarbo"
+    },
+    "ranges": {
+      "range_native": null,
+      "breeding_native": null,
+      "range_hypothetical": null,
+      "passage": null,
+      "breeding_spots": null,
+      "find_spots": null,
+      "last_observation": null
+    },
+    "range_popups": {
+      "range_native": null,
+      "breeding_native": null,
+      "range_hypothetical": null,
+      "passage": null
+    }
+  },
+  {
+    "id": "puffinus_spelaeus",
+    "name": {
+      "de": "Scarlett-Sturmtaucher",
+      "lat": "Puffinus spelaeus",
+      "en": "Scarlett's shearwater"
+    },
+    "ai_reference_type": null,
+    "last_seen": "1300–1600",
+    "location": {
+      "lat": -42.676,
+      "lng": 171.324
+    },
+    "habitat": "Neuseeland (Südinsel)",
+    "images": {
+      "tooltip": "",
+      "panel": ""
+    },
+    "panel": {
+      "description": "",
+      "habitat_text": "",
+      "extinction_text": ""
+    },
+    "references": [],
+    "taxonomy": {
+      "family": "Sturmvögel (Procellariidae)",
+      "genus": "Puffinus",
+      "family_key": "procellariidae",
+      "genus_key": "puffinus"
+    },
+    "ranges": {
+      "range_native": null,
+      "breeding_native": null,
+      "range_hypothetical": null,
+      "passage": null,
+      "breeding_spots": null,
+      "find_spots": null,
+      "last_observation": null
+    },
+    "range_popups": {
+      "range_native": null,
+      "breeding_native": null,
+      "range_hypothetical": null,
+      "passage": null
+    }
+  },
+  {
+    "id": "corvus_moriorum",
+    "name": {
+      "de": "Neuseeland-Rabe",
+      "lat": "Corvus moriorum",
+      "en": "New Zealand raven",
+      "lat_alternatives": [
+        "Corvus antipodum"
+      ]
+    },
+    "ai_reference_type": null,
+    "last_seen": "1400–1700",
+    "location": {
+      "lat": -41.7,
+      "lng": 173.848
+    },
+    "habitat": "Neuseeland (Nord- und Südinsel)",
+    "images": {
+      "tooltip": "",
+      "panel": ""
+    },
+    "panel": {
+      "description": "",
+      "habitat_text": "",
+      "extinction_text": ""
+    },
+    "references": [],
+    "taxonomy": {
+      "family": "Rabenvögel (Corvidae)",
+      "genus": "Corvus",
+      "family_key": "corvidae",
+      "genus_key": "corvus"
+    },
+    "ranges": {
+      "range_native": null,
+      "breeding_native": null,
+      "range_hypothetical": null,
+      "passage": null,
+      "breeding_spots": null,
+      "find_spots": null,
+      "last_observation": null
+    },
+    "range_popups": {
+      "range_native": null,
+      "breeding_native": null,
+      "range_hypothetical": null,
+      "passage": null
+    }
+  },
+  {
+    "id": "cygnus_sumnerensis_sumnerensis",
+    "name": {
+      "de": "Neuseeland-Schwan (Festlandform)",
+      "lat": "Cygnus sumnerensis sumnerensis",
+      "en": "New Zealand swan (mainland subspecies)",
+      "lat_alternatives": [
+        "Cygnus sumnerensis"
+      ]
+    },
+    "ai_reference_type": null,
+    "last_seen": "1300–1500",
+    "location": {
+      "lat": -43.212,
+      "lng": 171.868
+    },
+    "habitat": "Neuseeland (Nord- und Südinsel)",
+    "images": {
+      "tooltip": "",
+      "panel": ""
+    },
+    "panel": {
+      "description": "",
+      "habitat_text": "",
+      "extinction_text": ""
+    },
+    "references": [],
+    "taxonomy": {
+      "family": "Entenvögel (Anatidae)",
+      "genus": "Cygnus",
+      "family_key": "anatidae",
+      "genus_key": "cygnus"
+    },
+    "ranges": {
+      "range_native": null,
+      "breeding_native": null,
+      "range_hypothetical": null,
+      "passage": null,
+      "breeding_spots": null,
+      "find_spots": null,
+      "last_observation": null
+    },
+    "range_popups": {
+      "range_native": null,
+      "breeding_native": null,
+      "range_hypothetical": null,
+      "passage": null
+    }
   }
 ]
-
