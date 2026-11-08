@@ -7111,7 +7111,7 @@
       "genus_key": "rhodacanthis"
     },
     "ranges": {
-      "range_native": null,
+      "range_native": "https://raw.githubusercontent.com/lehmannphilippe-dotcom/webflow-data/refs/heads/main/ranges/Rhoda%C2%ADcanthis%20flavi%C2%ADceps_native.geojson",
       "breeding_native": null,
       "range_hypothetical": null,
       "passage": null,
@@ -13708,7 +13708,7 @@
       "genus_key": "rhodacanthis"
     },
     "ranges": {
-      "range_native": null,
+      "range_native": "https://raw.githubusercontent.com/lehmannphilippe-dotcom/webflow-data/refs/heads/main/ranges/Rhoda%C2%ADcanthis%20palmeri.geojson",
       "breeding_native": null,
       "range_hypothetical": null,
       "passage": null,
