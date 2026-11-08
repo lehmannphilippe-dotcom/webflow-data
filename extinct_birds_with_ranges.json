@@ -7113,7 +7113,7 @@
     "ranges": {
       "range_native": "https://raw.githubusercontent.com/lehmannphilippe-dotcom/webflow-data/refs/heads/main/ranges/Rhoda%C2%ADcanthis%20flavi%C2%ADceps_native.geojson",
       "breeding_native": null,
-      "range_hypothetical": null,
+      "range_hypothetical": "https://raw.githubusercontent.com/lehmannphilippe-dotcom/webflow-data/refs/heads/main/ranges/Rhoda%C2%ADcanthis%20flavi%C2%ADceps_hypo.geojson",
       "passage": null,
       "breeding_spots": null,
       "find_spots": null,
@@ -13710,7 +13710,7 @@
     "ranges": {
       "range_native": "https://raw.githubusercontent.com/lehmannphilippe-dotcom/webflow-data/refs/heads/main/ranges/Rhoda%C2%ADcanthis%20palmeri.geojson",
       "breeding_native": null,
-      "range_hypothetical": null,
+      "range_hypothetical": "https://raw.githubusercontent.com/lehmannphilippe-dotcom/webflow-data/refs/heads/main/ranges/Rhoda%C2%ADcanthis%20palmeri_hypo.geojson",
       "passage": null,
       "breeding_spots": null,
       "find_spots": null,
