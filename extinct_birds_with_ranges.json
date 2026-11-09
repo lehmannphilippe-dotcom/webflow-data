@@ -1282,61 +1282,6 @@
     }
   },
   {
-    "id": "branta_sp.",
-    "name": {
-      "de": "Riesen-Hawaiigans",
-      "lat": "Branta sp.",
-      "en": "Giant Hawaiian Goose"
-    },
-    "ai_reference_type": null,
-    "last_seen": "1200",
-    "location": {
-      "lat": 19.634633,
-      "lng": -155.986193
-    },
-    "habitat": "Hawaii (Hawaii)",
-    "images": {
-      "tooltip": "",
-      "panel": "https://cdn.prod.website-files.com/69a2957c566333eb83d17d8c/69bc3996f66cb5fc00a96a76_Gans_default.jpg"
-    },
-    "panel": {
-      "description": "",
-      "habitat_text": "",
-      "extinction_text": ""
-    },
-    "references": [
-      {
-        "label": "Test BirdLife Schweiz",
-        "url": "https://www.birdlife.ch/"
-      },
-      {
-        "label": "Test BirdLife Schweiz",
-        "url": "https://www.birdlife.ch/"
-      }
-    ],
-    "taxonomy": {
-      "family": "Gänse (Anserinae)",
-      "genus": "Meergänse (Branta) ",
-      "family_key": "anserinae",
-      "genus_key": "branta"
-    },
-    "ranges": {
-      "range_native": null,
-      "breeding_native": null,
-      "range_hypothetical": null,
-      "passage": null,
-      "breeding_spots": null,
-      "find_spots": null,
-      "last_observation": null
-    },
-    "range_popups": {
-      "range_native": null,
-      "breeding_native": null,
-      "range_hypothetical": null,
-      "passage": null
-    }
-  },
-  {
     "id": "haliaeetus_sp.",
     "name": {
       "de": "Hawaii-Seeadler",
