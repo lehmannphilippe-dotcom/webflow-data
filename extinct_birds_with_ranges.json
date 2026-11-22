@@ -9335,8 +9335,8 @@
     },
     "habitat": "Oahu (Hawaii)",
     "images": {
-      "tooltip": "",
-      "panel": "https://cdn.prod.website-files.com/6a2856622c4f26c0e72a657b/6b02db979280ca592944ed67_Moho%20apicalis.jpg"
+      "tooltip": "https://cdn.prod.website-files.com/6a2856622c4f26c0e72a657b/6b03017dcaece10156528d8d_moho-apicalis_profile.jpg",
+      "panel": "https://cdn.prod.website-files.com/6a2856622c4f26c0e72a657b/6b030160e41ee4005d713aae_Moho%20apicalis.jpg"
     },
     "panel": {
       "description": "<p>Der Krausschwanzmoho (Moho apicalis), auch Oahu-ʻŌʻō genannt, war mit einer Körperlänge von bis zu etwa 30,5 cm eine vergleichsweise grosse Art der Gattung Moho.</p><p>Die Geschlechter unterschieden sich vor allem in der Grösse. Männchen waren ungefähr 20 % grösser als Weibchen. Besonders charakteristisch waren die markanten weissen Spitzen der Schwanzfedern, die in dieser Form bei keiner anderen Art der Gattung Moho vorkamen. Die beiden mittleren Schwanzfedern waren zudem stark verengt und liefen in verlängerte, drahtartig wirkende Spitzen aus.</p><p>Einzelne Exemplare zeigten auffällige gelbe, unbefiederte Augenringe. Da dieses Merkmal nur vereinzelt nachgewiesen wurde, könnte seine Ausprägung unter anderem mit dem Alter, dem Geschlecht oder dem Fortpflanzungszustand zusammengehangen haben.</p><p>Über das Verhalten und die Ernährung des Krausschwanzmohos ist nur sehr wenig bekannt. Direkte Beobachtungen zur Nahrungsaufnahme sind kaum überliefert. Aufgrund seiner engen Verwandtschaft mit den übrigen Mohoarten wird angenommen, dass er sich vor allem von Nektar sowie Insekten und anderen Gliederfüssern ernährte.</p>",
@@ -13489,10 +13489,10 @@
       "lat": 21.15292,
       "lng": -156.96692
     },
-    "habitat": "Molokai (Hawaii)",
+    "habitat": "Molokai, Maui (Hawaii)",
     "images": {
-      "tooltip": "",
-      "panel": "https://cdn.prod.website-files.com/6a2856622c4f26c0e72a657b/6b02dbaa36304ec2568e9ef1_Moho%20bishopi.jpg"
+      "tooltip": "https://cdn.prod.website-files.com/6a2856622c4f26c0e72a657b/6b03017f3612a27851d4a871_moho-bsihopi_profile.jpg",
+      "panel": "https://cdn.prod.website-files.com/6a2856622c4f26c0e72a657b/6b03015ec713096336cf1451_Moho%20bishopi.jpg"
     },
     "panel": {
       "description": "<p>Mit einer Körperlänge von ungefähr 29–31 cm gehörte der Ohrbüschelmoho (Moho bishopi) zu den grösseren Arten der Gattung Moho. Das Gefieder war überwiegend glänzend schwarz. Besonders auffällig waren die leuchtend gelben Federbüschel an den Ohrdecken, unter den Flügeln sowie die gelben Unterschwanzdecken. Ein ausgeprägter Geschlechtsdimorphismus war nicht erkennbar; Männchen und Weibchen ähnelten sich im äusseren Erscheinungsbild weitgehend.</p><p>Die Art ernährte sich hauptsächlich von Nektar und bevorzugte insbesondere die Blüten hawaiischer Lobeliengewächse (Lobelioideae). Untersuchungen von Mageninhalten zeigen, dass die Nahrung je nach Verfügbarkeit durch Insekten und Früchte ergänzt wurde. Da der Ohrbüschelmoho erst 1892 wissenschaftlich entdeckt wurde und bereits wenige Jahre später verschwand, ist über seine Lebensweise nur wenig bekannt.</p>",
@@ -13895,7 +13895,7 @@
     },
     "habitat": "Hawaii (Hawaii)",
     "images": {
-      "tooltip": "https://cdn.prod.website-files.com/6a2856622c4f26c0e72a657b/6a51efff14daeec613b9f05a_moho-nobilis_profile.jpg",
+      "tooltip": "https://cdn.prod.website-files.com/6a2856622c4f26c0e72a657b/6b030184a55295355d59866f_moho-nobilis_profile.jpg",
       "panel": "https://cdn.prod.website-files.com/6a2856622c4f26c0e72a657b/6b01d96de41ee4005d58e0f9_Moho%20nobilis%20.jpg"
     },
     "panel": {
